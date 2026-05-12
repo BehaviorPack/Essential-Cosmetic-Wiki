@@ -1,0 +1,50 @@
+{
+  "id": "IMPLING_PET",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Impling"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 30,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ab07f07f0d706fb472709ce4939ab1891c1170f502a09bf9076136323126dff7",
+      "checksum": "ab07f07f0d706fb472709ce4939ab1891c1170f502a09bf9076136323126dff7"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/df5c91e3f48787f80dc2dbb93a836c1558e9aac4a0aab845e318600541053c72",
+      "checksum": "df5c91e3f48787f80dc2dbb93a836c1558e9aac4a0aab845e318600541053c72"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b1179f1a75742892251558055d5b092dd6bff0b329caf3b43442c7e9a59fd8b1",
+      "checksum": "b1179f1a75742892251558055d5b092dd6bff0b329caf3b43442c7e9a59fd8b1"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/93b075fc7fc4c930b9d51bb06cc92477512365dc04fb6f5cdd08317a6cdd414d",
+      "checksum": "93b075fc7fc4c930b9d51bb06cc92477512365dc04fb6f5cdd08317a6cdd414d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/61e0ae0dc6c003b7908e12dd0e651feed8def266c105567d213f5a8b1f4d1afb",
+      "checksum": "61e0ae0dc6c003b7908e12dd0e651feed8def266c105567d213f5a8b1f4d1afb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/11f7a15d7d05c66300aa26408f5636614be1d7fa68fcdd49650a8de59a8e6070",
+      "checksum": "11f7a15d7d05c66300aa26408f5636614be1d7fa68fcdd49650a8de59a8e6070"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/da59246def5a7e93979f2c0447a6469134e43c4d3223a488376d0f58852e800e",
+      "checksum": "da59246def5a7e93979f2c0447a6469134e43c4d3223a488376d0f58852e800e"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0ff6dfbb0d6346bb4a41c15447af56b5510737cb6a0a661fa4536b37e113096d",
+      "checksum": "0ff6dfbb0d6346bb4a41c15447af56b5510737cb6a0a661fa4536b37e113096d"
+    }
+  }
+}

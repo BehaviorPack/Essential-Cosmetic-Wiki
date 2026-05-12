@@ -1,0 +1,47 @@
+{
+  "id": "BLADE_CHALLENGE",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Blade Challenge"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_GOTHIC",
+    "COLLECTION_MAY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 0
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/em_blade_challenge.ogg": {
+      "url": "https://cdn.essential.gg/assets/d65625cd54cff226b332f7722aee6181a433372c4e01a92cc5ff51a053871f7c",
+      "checksum": "d65625cd54cff226b332f7722aee6181a433372c4e01a92cc5ff51a053871f7c"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/911c4c362af68276e7efac58a9d13ae39254bb116bb1671e4ef4165532eae8a9",
+      "checksum": "911c4c362af68276e7efac58a9d13ae39254bb116bb1671e4ef4165532eae8a9"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7665056a4a74eddd795c26d40a7ebbff6bec64de1afea8794af00f72310d97a4",
+      "checksum": "7665056a4a74eddd795c26d40a7ebbff6bec64de1afea8794af00f72310d97a4"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/2c884c36f2b2e49f50fbe54bfe6181789b9dc204c2d7617a71e1cbea67670137",
+      "checksum": "2c884c36f2b2e49f50fbe54bfe6181789b9dc204c2d7617a71e1cbea67670137"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/afba48f905b12c3e127ab6c7324e1b46a3018509c05b56ddf5eb1e0d9997850f",
+      "checksum": "afba48f905b12c3e127ab6c7324e1b46a3018509c05b56ddf5eb1e0d9997850f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b605672a2a5105858c57aff540c33b8a296761030da3251eade49b410c915e50",
+      "checksum": "b605672a2a5105858c57aff540c33b8a296761030da3251eade49b410c915e50"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "SCARY_CLOWN_SUIT",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Scary Clown Suit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 480,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f260c67f48f2f5bb9b0a1902bf8376612899e6292e4e74d0534e41c90bf97be1",
+      "checksum": "f260c67f48f2f5bb9b0a1902bf8376612899e6292e4e74d0534e41c90bf97be1"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/b0ecb8a93b37c07150891b4c8cc63d58ff64473f17b0f84a13843b13be37bd3b",
+      "checksum": "b0ecb8a93b37c07150891b4c8cc63d58ff64473f17b0f84a13843b13be37bd3b"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/bf05a493e531b9a8134865fd16109ae4da2dee767d286a212f47fe384cd40ec8",
+      "checksum": "bf05a493e531b9a8134865fd16109ae4da2dee767d286a212f47fe384cd40ec8"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/5d811c3490962afb641e35036ea060a733c81f5058876cffc5c34b65ee79b1c8",
+      "checksum": "5d811c3490962afb641e35036ea060a733c81f5058876cffc5c34b65ee79b1c8"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/bfe568dd2d55f237c5a70dfd6edb34201035d12a93ee411ba70d8281019a1b7f",
+      "checksum": "bfe568dd2d55f237c5a70dfd6edb34201035d12a93ee411ba70d8281019a1b7f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/500d33334f4593861853b2d57c7eca65a9d63ef90202442c03a544de2baba3eb",
+      "checksum": "500d33334f4593861853b2d57c7eca65a9d63ef90202442c03a544de2baba3eb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a998f1d8c33d293accc2e6066c16acc9ac5cd3a5ed2ec63a41dc8af91397e47f",
+      "checksum": "a998f1d8c33d293accc2e6066c16acc9ac5cd3a5ed2ec63a41dc8af91397e47f"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/05924e761d4667c079f746e7ecde145374b5449e08999ef93aaae92e56edbf4c",
+      "checksum": "05924e761d4667c079f746e7ecde145374b5449e08999ef93aaae92e56edbf4c"
+    }
+  }
+}

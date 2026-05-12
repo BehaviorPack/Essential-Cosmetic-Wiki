@@ -1,0 +1,37 @@
+{
+  "id": "COMPUTERHEAD",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Computerhead"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/838739bd0d38f46991fd81997ca321e213c8cb613467ec75bef03ff4b2bf6c85",
+      "checksum": "838739bd0d38f46991fd81997ca321e213c8cb613467ec75bef03ff4b2bf6c85"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/87920396c6d7624627437fb89aa50368d953b8fc1f936a6aed3a4d65ccd41ca4",
+      "checksum": "87920396c6d7624627437fb89aa50368d953b8fc1f936a6aed3a4d65ccd41ca4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/82c6760a36339c108e576d80e8a18470b92e7eb1883fdbaa39a0f973973e5edc",
+      "checksum": "82c6760a36339c108e576d80e8a18470b92e7eb1883fdbaa39a0f973973e5edc"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

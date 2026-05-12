@@ -1,0 +1,35 @@
+{
+  "id": "HAPICO_FROG_ON_HEAD_LEGACY",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Hapico Frog On Head"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 104,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f1360e7852ae4ccb3be12c5285baeafcdd238b276de45455c83747ec9c58cc07",
+      "checksum": "f1360e7852ae4ccb3be12c5285baeafcdd238b276de45455c83747ec9c58cc07"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b24ed3be2801eb7f5c65ad3ed3d66c3c52b1145d272893cbaaab828d6d9a27f2",
+      "checksum": "b24ed3be2801eb7f5c65ad3ed3d66c3c52b1145d272893cbaaab828d6d9a27f2"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/37782b499c2d3ac47654ce65f747c91566d3f1a6f6dbc1b1238281a8cb0f148b",
+      "checksum": "37782b499c2d3ac47654ce65f747c91566d3f1a6f6dbc1b1238281a8cb0f148b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/266686cae39e9155f5763f6cb446a69f667bca027b048c8eccf1cd5f9d038aea",
+      "checksum": "266686cae39e9155f5763f6cb446a69f667bca027b048c8eccf1cd5f9d038aea"
+    }
+  }
+}

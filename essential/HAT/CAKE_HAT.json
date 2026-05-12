@@ -1,0 +1,48 @@
+{
+  "id": "CAKE_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Cake Hat"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 21,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/486eefb3870059a4f2f6b65930acc19adba60a50662018a544fc6f158980662e",
+      "checksum": "486eefb3870059a4f2f6b65930acc19adba60a50662018a544fc6f158980662e"
+    },
+    "particles/candle_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/737c841c25c4ab448a29cd91b63083f0d7d69d39b32a1213f2216f33b7f9dbf4",
+      "checksum": "737c841c25c4ab448a29cd91b63083f0d7d69d39b32a1213f2216f33b7f9dbf4"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/8bb36500399b14aef1a1687a3916690c96984df0d476c957f12d46299973a485",
+      "checksum": "8bb36500399b14aef1a1687a3916690c96984df0d476c957f12d46299973a485"
+    },
+    "particles/candle_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/b3f132b16ce169b2fb9c29ae97783e6c0e0270f0a8c771fa6c2f0aafa8258b9d",
+      "checksum": "b3f132b16ce169b2fb9c29ae97783e6c0e0270f0a8c771fa6c2f0aafa8258b9d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/7a8f9f008bb0fa72ecc88897893748313d25cbf9eb3e2e1ca894a835e7f09ef3",
+      "checksum": "7a8f9f008bb0fa72ecc88897893748313d25cbf9eb3e2e1ca894a835e7f09ef3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ab93966a1162aa49b74bd41952e398a5cfb2b607a0346cbaa07dfe89feb7e3ce",
+      "checksum": "ab93966a1162aa49b74bd41952e398a5cfb2b607a0346cbaa07dfe89feb7e3ce"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761",
+      "checksum": "0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761"
+    }
+  }
+}

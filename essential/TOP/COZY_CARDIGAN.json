@@ -1,0 +1,61 @@
+{
+  "id": "COZY_CARDIGAN",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Cozy Cardigan"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_VALENTINES",
+    "THEME_COZY",
+    "COLLECTION_FEBRUARY2026",
+    "THEME_CUTE",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3e571bf7d9549df85d6916e2de86213814b9ddeea05b8a693f642b3203aec790",
+      "checksum": "3e571bf7d9549df85d6916e2de86213814b9ddeea05b8a693f642b3203aec790"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7b88ac60d01b851cb176b5b91755f1dc5619d8e619c808102a2548dcdd8979c4",
+      "checksum": "7b88ac60d01b851cb176b5b91755f1dc5619d8e619c808102a2548dcdd8979c4"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/084352bc42a94bdc1123068d982a8a6925ce7c52682404ee137e1d50e7fbb2e8",
+      "checksum": "084352bc42a94bdc1123068d982a8a6925ce7c52682404ee137e1d50e7fbb2e8"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/f69414d3095456fb4817935d03460cb1fca31f450f5a154fa022b0e87fe5f0cd",
+      "checksum": "f69414d3095456fb4817935d03460cb1fca31f450f5a154fa022b0e87fe5f0cd"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/db3df625d6fc6c3b3dcf8a3acec408a83a3cc10f5122ace1bf59b99baaa3a282",
+      "checksum": "db3df625d6fc6c3b3dcf8a3acec408a83a3cc10f5122ace1bf59b99baaa3a282"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4059fbfef0b200f581087a235d3cfa7a1b5040c4b35a8c517e8adbfdf67f2735",
+      "checksum": "4059fbfef0b200f581087a235d3cfa7a1b5040c4b35a8c517e8adbfdf67f2735"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6533790a180f687847a6025b879ad1c509278435578ed762ca43ca902e212d3d",
+      "checksum": "6533790a180f687847a6025b879ad1c509278435578ed762ca43ca902e212d3d"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/a51c29704e5359ee051cbba50a444a1a855b5920d5ce2449d7e8c8583458e35d",
+      "checksum": "a51c29704e5359ee051cbba50a444a1a855b5920d5ce2449d7e8c8583458e35d"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0f3437a9601859c8234752f1fc6d5dfc7956c4f5e927d25d3357cc6a3e0d3c2f",
+      "checksum": "0f3437a9601859c8234752f1fc6d5dfc7956c4f5e927d25d3357cc6a3e0d3c2f"
+    }
+  }
+}

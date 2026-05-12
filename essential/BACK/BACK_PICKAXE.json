@@ -1,0 +1,47 @@
+{
+  "id": "BACK_PICKAXE",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Pickaxe"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MINECRAFT",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/diamond/texture.png": {
+      "url": "https://cdn.essential.gg/assets/776d611f717c60b89a9fd15fdfd94bf984a65d26adda367564106f96cc3406df",
+      "checksum": "776d611f717c60b89a9fd15fdfd94bf984a65d26adda367564106f96cc3406df"
+    },
+    "variants/iron/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6f3633f237f143248c116f48a8b6ee2339436b7aee211f2b5a4c60fc8d00f17a",
+      "checksum": "6f3633f237f143248c116f48a8b6ee2339436b7aee211f2b5a4c60fc8d00f17a"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b3c716d34e18f13a3db2ed4b14b357a9d435eb3e8e7539c42abdf4b583e0d7ab",
+      "checksum": "b3c716d34e18f13a3db2ed4b14b357a9d435eb3e8e7539c42abdf4b583e0d7ab"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7a9798c3643482640a26506655b2d394bd875f4949b035b863ecf5b01b608d0a",
+      "checksum": "7a9798c3643482640a26506655b2d394bd875f4949b035b863ecf5b01b608d0a"
+    },
+    "variants/netherite/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0054ff0d9cc4aaa6b51c309890be393111aa479dfce5e2769237b5684a0ba6de",
+      "checksum": "0054ff0d9cc4aaa6b51c309890be393111aa479dfce5e2769237b5684a0ba6de"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5d39da4e5580d648649b2d2508a5cceb66fb14bbd59ba5ecbb59f9a21395c55a",
+      "checksum": "5d39da4e5580d648649b2d2508a5cceb66fb14bbd59ba5ecbb59f9a21395c55a"
+    }
+  }
+}

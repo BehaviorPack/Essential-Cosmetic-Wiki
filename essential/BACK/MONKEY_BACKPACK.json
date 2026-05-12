@@ -1,0 +1,38 @@
+{
+  "id": "MONKEY_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Monkey Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 113,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3e057b4b80bae1673c1bedfdf5e40454c5cce1325896d5680c3e2d99d070de18",
+      "checksum": "3e057b4b80bae1673c1bedfdf5e40454c5cce1325896d5680c3e2d99d070de18"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/12142e10159fd6de019e1e58ac1163fc21b56753b2774c50ddb17e78f48166f5",
+      "checksum": "12142e10159fd6de019e1e58ac1163fc21b56753b2774c50ddb17e78f48166f5"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/86d0e958b97b8c318b9b14e4c142dd83c8bb5913e0b3f57daec26276ed418c55",
+      "checksum": "86d0e958b97b8c318b9b14e4c142dd83c8bb5913e0b3f57daec26276ed418c55"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e8d7dccc1ebb12260ab46cdbe3c024c5aa2797d75ca491d0f13b8eb6962d0768",
+      "checksum": "e8d7dccc1ebb12260ab46cdbe3c024c5aa2797d75ca491d0f13b8eb6962d0768"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af161de5c97fc777807119f7296ef2a683804120cb7d143262b13e3d09c94afc",
+      "checksum": "af161de5c97fc777807119f7296ef2a683804120cb7d143262b13e3d09c94afc"
+    }
+  }
+}

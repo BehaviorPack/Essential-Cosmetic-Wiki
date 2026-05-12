@@ -1,0 +1,46 @@
+{
+  "id": "ICE_HANDS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Ice Hands"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "event:WINTER",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 9,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c7e529f54b4aaf9916a5d9964a111f3772c0cefdd9b71ddfc423a1ef7a0793e6",
+      "checksum": "c7e529f54b4aaf9916a5d9964a111f3772c0cefdd9b71ddfc423a1ef7a0793e6"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/db55e56eaa46e23468abf17c36b24d7ac98fa41f64b8f6c6fcabdfe980a4be25",
+      "checksum": "db55e56eaa46e23468abf17c36b24d7ac98fa41f64b8f6c6fcabdfe980a4be25"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/ba43c77805b1c843da0c30b52fd846c1c8727490451085a8193de18cc2f6d0e9",
+      "checksum": "ba43c77805b1c843da0c30b52fd846c1c8727490451085a8193de18cc2f6d0e9"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/c5c8c35a6c944fe463bec233cad234cc50ea7e47a318cc99f77492e3ba763be3",
+      "checksum": "c5c8c35a6c944fe463bec233cad234cc50ea7e47a318cc99f77492e3ba763be3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0ca95c4ab6188abe5316d4eeb078ec51367b97c625a05b1ed13d34c2425127da",
+      "checksum": "0ca95c4ab6188abe5316d4eeb078ec51367b97c625a05b1ed13d34c2425127da"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/6997b0878769681c288fa8b773ee94e8932b480a3e6f3376b8e4478f7af5ae1e",
+      "checksum": "6997b0878769681c288fa8b773ee94e8932b480a3e6f3376b8e4478f7af5ae1e"
+    }
+  }
+}

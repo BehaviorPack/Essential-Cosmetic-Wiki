@@ -1,0 +1,30 @@
+{
+  "id": "FROG_HAT_LEGACY",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Frog Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 110,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c3fcd97254e956469b0004b898a079e73f91294e5c9f6b14cd5c6989cd47fadf",
+      "checksum": "c3fcd97254e956469b0004b898a079e73f91294e5c9f6b14cd5c6989cd47fadf"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b912cacf72427f4843ff03ac694fcdabbd43056f4cb62bb7957d57975ff3e95f",
+      "checksum": "b912cacf72427f4843ff03ac694fcdabbd43056f4cb62bb7957d57975ff3e95f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1cfb56b9ad06cf641b4e438d7ce0380f3606bea83fc22afe61d52f3ffe5d0331",
+      "checksum": "1cfb56b9ad06cf641b4e438d7ce0380f3606bea83fc22afe61d52f3ffe5d0331"
+    }
+  }
+}

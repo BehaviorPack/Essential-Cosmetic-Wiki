@@ -1,0 +1,58 @@
+{
+  "id": "CYBORG_ARM",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Cyborg Arm"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "skin_mask.steve.right.png": {
+      "url": "https://cdn.essential.gg/assets/8a997d68d0b77bbd3ecb8af985522b376e64e286e3128100f77d408bdd16fc92",
+      "checksum": "8a997d68d0b77bbd3ecb8af985522b376e64e286e3128100f77d408bdd16fc92"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b7df079f65a1e0b621951f31bb242c790ca07f1c2be22c868f19cb4897add215",
+      "checksum": "b7df079f65a1e0b621951f31bb242c790ca07f1c2be22c868f19cb4897add215"
+    },
+    "skin_mask.steve.left.png": {
+      "url": "https://cdn.essential.gg/assets/233be574152cc819492bf025a0bda1979dbd984d28d37d5952cf00e9740e4e8e",
+      "checksum": "233be574152cc819492bf025a0bda1979dbd984d28d37d5952cf00e9740e4e8e"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/62eb1e7a552ff7f8c1724dfc15b43033b186a905cd9900dc253d3475d8c96201",
+      "checksum": "62eb1e7a552ff7f8c1724dfc15b43033b186a905cd9900dc253d3475d8c96201"
+    },
+    "skin_mask.alex.left.png": {
+      "url": "https://cdn.essential.gg/assets/576942220a37c6706e5934aabd7ba127bd159a3c9728a6acf4ffa7ce0e71c7ba",
+      "checksum": "576942220a37c6706e5934aabd7ba127bd159a3c9728a6acf4ffa7ce0e71c7ba"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/34c3f475c038edcd4e745857d348ae4abd4f2c32870a2fa856015ab1e6a6f872",
+      "checksum": "34c3f475c038edcd4e745857d348ae4abd4f2c32870a2fa856015ab1e6a6f872"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/613709a750f6e01f6c1f6e87fbb5b2842a3d1f4acc267a9a52083e985c7daf86",
+      "checksum": "613709a750f6e01f6c1f6e87fbb5b2842a3d1f4acc267a9a52083e985c7daf86"
+    },
+    "skin_mask.alex.right.png": {
+      "url": "https://cdn.essential.gg/assets/cff29a28890b4c9d6a2d68184510dbaa6de7c7086fcdf37c0341983ee9b92775",
+      "checksum": "cff29a28890b4c9d6a2d68184510dbaa6de7c7086fcdf37c0341983ee9b92775"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/12c1d84a21c2d8f5b92482cf153e618423bc549e1d6ee193ddcac7361c3046dd",
+      "checksum": "12c1d84a21c2d8f5b92482cf153e618423bc549e1d6ee193ddcac7361c3046dd"
+    }
+  }
+}

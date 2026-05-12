@@ -1,0 +1,36 @@
+{
+  "id": "TIKI_MASK",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Tiki Mask"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 45,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/196caeb7022c59e13a34943f2cbdf516d2e4b719918d889d413173389c982fcd",
+      "checksum": "196caeb7022c59e13a34943f2cbdf516d2e4b719918d889d413173389c982fcd"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/be646539a9162d8a684a2767deae73607603446b540bcd69fa5d78c120595704",
+      "checksum": "be646539a9162d8a684a2767deae73607603446b540bcd69fa5d78c120595704"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b1285c16b804b3013fd2ab909e434e374df77a39804e9c58f1929747e98f04ca",
+      "checksum": "b1285c16b804b3013fd2ab909e434e374df77a39804e9c58f1929747e98f04ca"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

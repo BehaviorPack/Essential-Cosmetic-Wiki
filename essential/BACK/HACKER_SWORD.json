@@ -1,0 +1,40 @@
+{
+  "id": "HACKER_SWORD",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Hacker Sword"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "event:HACKER",
+    "FEATURED",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 10,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/34eb02a169597a9db2a886d418faaaf555f0c09ecc315464bb2598efaaf66366",
+      "checksum": "34eb02a169597a9db2a886d418faaaf555f0c09ecc315464bb2598efaaf66366"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b02621db4b8f7bf38768415a66d26a2cead60293b90f4d57d4f7e06f429b9adb",
+      "checksum": "b02621db4b8f7bf38768415a66d26a2cead60293b90f4d57d4f7e06f429b9adb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f65c03d0f615cd8bf81933ae5e99791af48b3376464ce3c4566a958810cd59bd",
+      "checksum": "f65c03d0f615cd8bf81933ae5e99791af48b3376464ce3c4566a958810cd59bd"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c2b04049beeca3548ee410d8414fa1226e4ca49f9b5eff498aa8233b34f2070e",
+      "checksum": "c2b04049beeca3548ee410d8414fa1226e4ca49f9b5eff498aa8233b34f2070e"
+    }
+  }
+}

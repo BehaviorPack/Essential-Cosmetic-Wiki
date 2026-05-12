@@ -1,0 +1,54 @@
+{
+  "id": "VENOM_TAKEOVER",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Venom Takeover"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 370,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "skin_mask.steve.right.png": {
+      "url": "https://cdn.essential.gg/assets/80dc437adfbe383668e4097ca378f9e9ccaf6e3a3448904029a181eed1804ae5",
+      "checksum": "80dc437adfbe383668e4097ca378f9e9ccaf6e3a3448904029a181eed1804ae5"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b4deea7e41fcf692724f502d1791b958a95096fd513bb8e9131f76acd6ed19ad",
+      "checksum": "b4deea7e41fcf692724f502d1791b958a95096fd513bb8e9131f76acd6ed19ad"
+    },
+    "skin_mask.steve.left.png": {
+      "url": "https://cdn.essential.gg/assets/eb4f3921929b04d81b950c5e83c618459b783fdf2476e86227be47e74600f6e3",
+      "checksum": "eb4f3921929b04d81b950c5e83c618459b783fdf2476e86227be47e74600f6e3"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/f5c2023baffaf8f70f04472093c5b66ed3cb85a7ebf57e2f2152aaa3cc8be2ba",
+      "checksum": "f5c2023baffaf8f70f04472093c5b66ed3cb85a7ebf57e2f2152aaa3cc8be2ba"
+    },
+    "skin_mask.alex.left.png": {
+      "url": "https://cdn.essential.gg/assets/ac0ea6b5d079daee7713e05bd5c3cce64ee49e2b6795bf60399abfd9f2a45bce",
+      "checksum": "ac0ea6b5d079daee7713e05bd5c3cce64ee49e2b6795bf60399abfd9f2a45bce"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/53b49fdf3f7ab8b17e6993999abd52a90c7edba5ac5567db74760f0e774da91c",
+      "checksum": "53b49fdf3f7ab8b17e6993999abd52a90c7edba5ac5567db74760f0e774da91c"
+    },
+    "skin_mask.alex.right.png": {
+      "url": "https://cdn.essential.gg/assets/8979b57e43f397957238091f529d14d00650a0b51cfc8ade7493a467ad7e6dcd",
+      "checksum": "8979b57e43f397957238091f529d14d00650a0b51cfc8ade7493a467ad7e6dcd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ace088177596deda44f17a2b13c788ff5d1216b50aa7b3b72880d2d51cfdab70",
+      "checksum": "ace088177596deda44f17a2b13c788ff5d1216b50aa7b3b72880d2d51cfdab70"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a54541c0404668dea0ec48cdcd3e4f0815f605ee29d1325e8cf58537eb6362d8",
+      "checksum": "a54541c0404668dea0ec48cdcd3e4f0815f605ee29d1325e8cf58537eb6362d8"
+    }
+  }
+}

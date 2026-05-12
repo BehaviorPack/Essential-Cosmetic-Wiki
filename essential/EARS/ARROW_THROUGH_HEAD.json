@@ -1,0 +1,33 @@
+{
+  "id": "ARROW_THROUGH_HEAD",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Arrow Through Head"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 8,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a52a3aee40b5f5834ffb840f67d4e09949350fd9b7f6c6fb55e1702e7d9d98fe",
+      "checksum": "a52a3aee40b5f5834ffb840f67d4e09949350fd9b7f6c6fb55e1702e7d9d98fe"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/1a1a2fe2a3224b23982dcd2a9d5ecb1cae123bbe87abaf8fe6ffa27dda355ac9",
+      "checksum": "1a1a2fe2a3224b23982dcd2a9d5ecb1cae123bbe87abaf8fe6ffa27dda355ac9"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c9a31d22fc71d23f7d2eb17a3fe5ec08e2e9f69474336f82e0d74c703850f7dd",
+      "checksum": "c9a31d22fc71d23f7d2eb17a3fe5ec08e2e9f69474336f82e0d74c703850f7dd"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "CAT_BEANIE",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Cat Beanie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY",
+    "COLLECTION_JUNE2025",
+    "THEME_Y2K",
+    "THEME_CUTE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/10f7d9aacde669f0c0b7065ebcef76e00800e049c0b9a27ff87a4b82a3dadb8e",
+      "checksum": "10f7d9aacde669f0c0b7065ebcef76e00800e049c0b9a27ff87a4b82a3dadb8e"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a910185f1d0d29887aebc9598d17e230858dec158246c3a0bb3bd005b2f013f8",
+      "checksum": "a910185f1d0d29887aebc9598d17e230858dec158246c3a0bb3bd005b2f013f8"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1158965c81b448845c5c54e906ecae63df331b316516a4daaada63a3fbfde9d6",
+      "checksum": "1158965c81b448845c5c54e906ecae63df331b316516a4daaada63a3fbfde9d6"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c3d6aed86e007afbcf20b9a4aac8478f306d7ee1951737d408376d396e4d994b",
+      "checksum": "c3d6aed86e007afbcf20b9a4aac8478f306d7ee1951737d408376d396e4d994b"
+    },
+    "variants/cream/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f80fc6cc571baf5e04903e5c1c2fb852c20eccfedc8940c9dee168594627f296",
+      "checksum": "f80fc6cc571baf5e04903e5c1c2fb852c20eccfedc8940c9dee168594627f296"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/442838db22315a2cb27898cff249878b637f23255033bc816074c2d484c451d0",
+      "checksum": "442838db22315a2cb27898cff249878b637f23255033bc816074c2d484c451d0"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3faf3f2baa3170329a903cc18e679c359c3f3623fa1a9fe8fca7576fe6c56dee",
+      "checksum": "3faf3f2baa3170329a903cc18e679c359c3f3623fa1a9fe8fca7576fe6c56dee"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/13ab9cf955b90e73106de65221ddb56b2025af4f3da0479b259d8294aa4f8800",
+      "checksum": "13ab9cf955b90e73106de65221ddb56b2025af4f3da0479b259d8294aa4f8800"
+    }
+  }
+}

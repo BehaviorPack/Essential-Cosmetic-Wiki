@@ -1,0 +1,59 @@
+{
+  "id": "KNIGHT_ARMOUR",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Knight Armor"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 160,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d04adb4256c0b7a74b5d8fd117c1a25fb1ed486f8566eb722f2292d9b81080ea",
+      "checksum": "d04adb4256c0b7a74b5d8fd117c1a25fb1ed486f8566eb722f2292d9b81080ea"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1ae9c147d904169303dbdb61e889f500457e20825e7486c377bc14f0bb8907e7",
+      "checksum": "1ae9c147d904169303dbdb61e889f500457e20825e7486c377bc14f0bb8907e7"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2e21b1ed01b8d3c2e16e3056c1fe53b745e4b91b06bd6102bcbcb630d61f9ed5",
+      "checksum": "2e21b1ed01b8d3c2e16e3056c1fe53b745e4b91b06bd6102bcbcb630d61f9ed5"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/7d51a0cac4c2fcaaec1f08c8145ac59ef828c0a408f57b03a0025ff4592abc82",
+      "checksum": "7d51a0cac4c2fcaaec1f08c8145ac59ef828c0a408f57b03a0025ff4592abc82"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6",
+      "checksum": "e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/479123cac7e67bc3ecbf61d379966e48e59fb9915f2c15e2670e62015f179a99",
+      "checksum": "479123cac7e67bc3ecbf61d379966e48e59fb9915f2c15e2670e62015f179a99"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b6376390b6c152cfda6b49058390e38fc80fb8408b8c12593afd25599c3b2118",
+      "checksum": "b6376390b6c152cfda6b49058390e38fc80fb8408b8c12593afd25599c3b2118"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9",
+      "checksum": "f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/712a7e267649ede8fef5f9010e00902982cba1288cd62c185af65b9c74fda6ec",
+      "checksum": "712a7e267649ede8fef5f9010e00902982cba1288cd62c185af65b9c74fda6ec"
+    }
+  }
+}

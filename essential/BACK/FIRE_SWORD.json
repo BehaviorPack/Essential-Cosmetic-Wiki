@@ -1,0 +1,63 @@
+{
+  "id": "FIRE_SWORD",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Fire Sword"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR",
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 7,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/fa28a57468a18b0dd453f295902e04ada5137911ac9613c456849f409ff3121e",
+      "checksum": "fa28a57468a18b0dd453f295902e04ada5137911ac9613c456849f409ff3121e"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/707a0501296c03b80ee3fa538fbfebf270a53d8a59ac875b10f58802ea2e0a05",
+      "checksum": "707a0501296c03b80ee3fa538fbfebf270a53d8a59ac875b10f58802ea2e0a05"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/145118a452e66a56aaaf7ca0109f7628cfea051e1a469941aee3d1ad03d068af",
+      "checksum": "145118a452e66a56aaaf7ca0109f7628cfea051e1a469941aee3d1ad03d068af"
+    },
+    "variants/fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/36e38cb3f3b157e30b0479ce206b1b609b7a01f3432d4346cc1a2de6ef67e62a",
+      "checksum": "36e38cb3f3b157e30b0479ce206b1b609b7a01f3432d4346cc1a2de6ef67e62a"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f97c279dfd21d8db44acf88e9588287aced978725d75ac47510b4bf1df19f0e6",
+      "checksum": "f97c279dfd21d8db44acf88e9588287aced978725d75ac47510b4bf1df19f0e6"
+    },
+    "variants/fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/abab7703beb901e4d9b3b8cb2dcfaea3ed7bfcfe49e7d23993255de712bb8c5f",
+      "checksum": "abab7703beb901e4d9b3b8cb2dcfaea3ed7bfcfe49e7d23993255de712bb8c5f"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/afce9e738cea032d120aa7d37e805dea47442a9eb27a853341ce9e99f323fbdd",
+      "checksum": "afce9e738cea032d120aa7d37e805dea47442a9eb27a853341ce9e99f323fbdd"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/808d64e1c1379e59283f90857810ec9b28923a51f08915a840efa7180720312f",
+      "checksum": "808d64e1c1379e59283f90857810ec9b28923a51f08915a840efa7180720312f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e96ebf34f13717e2d9f565dff04fe94157d9d5429ea69a173c222afb1d2ccc51",
+      "checksum": "e96ebf34f13717e2d9f565dff04fe94157d9d5429ea69a173c222afb1d2ccc51"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2067b5b86c1db25c80193c826e1e2fed2d287a4e53e821d293fd32d88fffc8cb",
+      "checksum": "2067b5b86c1db25c80193c826e1e2fed2d287a4e53e821d293fd32d88fffc8cb"
+    }
+  }
+}

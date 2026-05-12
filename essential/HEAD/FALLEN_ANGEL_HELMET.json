@@ -1,0 +1,43 @@
+{
+  "id": "FALLEN_ANGEL_HELMET",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Fallen Angel Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANGEL",
+    "THEME_GOLDEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5617946b5c29859ec559b21b830622930d81e2989f091bc8f5a9c4eca46ebe59",
+      "checksum": "5617946b5c29859ec559b21b830622930d81e2989f091bc8f5a9c4eca46ebe59"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3662689864ee4d4fcbd74f5679c876721ce47dbaa72b62a29c9345f936f7c29b",
+      "checksum": "3662689864ee4d4fcbd74f5679c876721ce47dbaa72b62a29c9345f936f7c29b"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/188ee787f7d852e5fd414b93b87e959ce898ed39c0c80f38a934670bee711cca",
+      "checksum": "188ee787f7d852e5fd414b93b87e959ce898ed39c0c80f38a934670bee711cca"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/283faab66c374e2b4d7767956fc40df370be427cc7931e8f81d252bbc0c9c372",
+      "checksum": "283faab66c374e2b4d7767956fc40df370be427cc7931e8f81d252bbc0c9c372"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

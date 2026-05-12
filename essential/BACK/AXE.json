@@ -1,0 +1,35 @@
+{
+  "id": "AXE",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Axe"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 9,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/21858a3bbcb45a5ad3804052f6632a5dc44b3af0d11ae11df71ef1485e4667c2",
+      "checksum": "21858a3bbcb45a5ad3804052f6632a5dc44b3af0d11ae11df71ef1485e4667c2"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/52918ed5820e545b5c8c2d48811e5c232a077b1ba5ba38c8a94be4efdc0b2d83",
+      "checksum": "52918ed5820e545b5c8c2d48811e5c232a077b1ba5ba38c8a94be4efdc0b2d83"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/58a00e24dee1eef0bfddba2c051ebd8cd35a075bfcb4ee7ebe6a279077cd4bdc",
+      "checksum": "58a00e24dee1eef0bfddba2c051ebd8cd35a075bfcb4ee7ebe6a279077cd4bdc"
+    }
+  }
+}

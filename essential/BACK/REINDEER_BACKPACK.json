@@ -1,0 +1,39 @@
+{
+  "id": "REINDEER_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Reindeer Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "event:WINTER",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3cd2a0a573059d2a6f3406cdb1fb6166f3a45773cf5a1c6d244f3839655f4cb2",
+      "checksum": "3cd2a0a573059d2a6f3406cdb1fb6166f3a45773cf5a1c6d244f3839655f4cb2"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/d6b473fd211a4eb5f4212f4bf8aea4ab505a955bd913e52d2f24c607807009df",
+      "checksum": "d6b473fd211a4eb5f4212f4bf8aea4ab505a955bd913e52d2f24c607807009df"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/35fe40b2494013ac50f7d2d51a9f3117643a96106f28aeef04552a98183fa19f",
+      "checksum": "35fe40b2494013ac50f7d2d51a9f3117643a96106f28aeef04552a98183fa19f"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af161de5c97fc777807119f7296ef2a683804120cb7d143262b13e3d09c94afc",
+      "checksum": "af161de5c97fc777807119f7296ef2a683804120cb7d143262b13e3d09c94afc"
+    }
+  }
+}

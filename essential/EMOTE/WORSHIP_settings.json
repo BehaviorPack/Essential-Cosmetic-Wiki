@@ -1,0 +1,10 @@
+[
+  {
+    "type": "INTERRUPTS_EMOTE",
+    "id": "WORSHIPPING",
+    "enabled": true,
+    "data": {
+      "MOVEMENT": true
+    }
+  }
+]

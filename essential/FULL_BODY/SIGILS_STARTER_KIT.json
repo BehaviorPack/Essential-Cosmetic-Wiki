@@ -1,0 +1,36 @@
+{
+  "id": "SIGILS_STARTER_KIT",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Sigils\u0027 Starter Kit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY",
+    "event:INSANE"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 430,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f051ac53a56eef3ed4f03b3bb9bdeb97a714ba26ae20b53bf8f983f763be7176",
+      "checksum": "f051ac53a56eef3ed4f03b3bb9bdeb97a714ba26ae20b53bf8f983f763be7176"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/a3401f560a693a5f5c89a9d6dd0dabd52a77a019e78808539d559e3d2bd8ad56",
+      "checksum": "a3401f560a693a5f5c89a9d6dd0dabd52a77a019e78808539d559e3d2bd8ad56"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/eb7efb0795f41d50230f3baa450fa60095932442c7164bbf8d3f1967ec72dbf6",
+      "checksum": "eb7efb0795f41d50230f3baa450fa60095932442c7164bbf8d3f1967ec72dbf6"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/c0ef6a373e72946f03a10c89fa1832c3e5fbd2be28e8bcbc503ae342ef310256",
+      "checksum": "c0ef6a373e72946f03a10c89fa1832c3e5fbd2be28e8bcbc503ae342ef310256"
+    }
+  }
+}

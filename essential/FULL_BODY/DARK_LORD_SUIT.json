@@ -1,0 +1,48 @@
+{
+  "id": "DARK_LORD_SUIT",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Dark Lord Suit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 400,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/80512d663da7d81baa4ccf3a9f8f8532ed4f91ac8190d72efa3e62ddd4434369",
+      "checksum": "80512d663da7d81baa4ccf3a9f8f8532ed4f91ac8190d72efa3e62ddd4434369"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/f2099f5ff735a5fd4f324a1f054b892622bd708b834c448c692a1ee4581cb3c2",
+      "checksum": "f2099f5ff735a5fd4f324a1f054b892622bd708b834c448c692a1ee4581cb3c2"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/31d5b5aeca9b9bab695e046c73c57cd213df4c0890ebac53063d85f4c976dcde",
+      "checksum": "31d5b5aeca9b9bab695e046c73c57cd213df4c0890ebac53063d85f4c976dcde"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/5274680e49275e40fd8e9d58df0f3825fd8f76c08d084cdca7bc0da418339c3e",
+      "checksum": "5274680e49275e40fd8e9d58df0f3825fd8f76c08d084cdca7bc0da418339c3e"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/0cc50bba9d5c82f618000e81056ada165a5a549ab4fb0905428a192e7d508ef6",
+      "checksum": "0cc50bba9d5c82f618000e81056ada165a5a549ab4fb0905428a192e7d508ef6"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/fabc11c350b5f3a0182092f834cb4078755982e0ef57fcbc630cd1f59ba43dc5",
+      "checksum": "fabc11c350b5f3a0182092f834cb4078755982e0ef57fcbc630cd1f59ba43dc5"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/05ff7793c96cb3e81e4030e3f8c146aab4fa4eccdeb13715a392a0a0fdb63e7f",
+      "checksum": "05ff7793c96cb3e81e4030e3f8c146aab4fa4eccdeb13715a392a0a0fdb63e7f"
+    }
+  }
+}

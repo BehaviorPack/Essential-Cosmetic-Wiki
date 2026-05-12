@@ -1,0 +1,55 @@
+{
+  "id": "BRACELET",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Bracelet"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 7,
+  "priceCoins": 300,
+  "assetsMap": {
+    "skin_mask.steve.right.png": {
+      "url": "https://cdn.essential.gg/assets/d9fb1e17f8fa942ab02092cf67686ae294f0d30474c128b35141892ebcf72f12",
+      "checksum": "d9fb1e17f8fa942ab02092cf67686ae294f0d30474c128b35141892ebcf72f12"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ef1ae914ce5e03830484ac2eb6ce33eda551510bfae1935c1c5d5d1664cd6735",
+      "checksum": "ef1ae914ce5e03830484ac2eb6ce33eda551510bfae1935c1c5d5d1664cd6735"
+    },
+    "skin_mask.steve.left.png": {
+      "url": "https://cdn.essential.gg/assets/f009cdd4e44cc44310a20a1e27060b9ecf82ceeb58e665bf601b35c0021806de",
+      "checksum": "f009cdd4e44cc44310a20a1e27060b9ecf82ceeb58e665bf601b35c0021806de"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/2c589363b7b702961ff75e11e276b675856b605024e28c3f9ad2a23c389aa443",
+      "checksum": "2c589363b7b702961ff75e11e276b675856b605024e28c3f9ad2a23c389aa443"
+    },
+    "skin_mask.alex.left.png": {
+      "url": "https://cdn.essential.gg/assets/ee7542669d39f0ee6c031e32b41e2ec2a228b23355a3a5a3db23599a079cb877",
+      "checksum": "ee7542669d39f0ee6c031e32b41e2ec2a228b23355a3a5a3db23599a079cb877"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/31a4d7ba60112eb451fd5c7348921295a026ddce3aef45df52663908068c48c9",
+      "checksum": "31a4d7ba60112eb451fd5c7348921295a026ddce3aef45df52663908068c48c9"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8737dcd2e02f7ac463b919748c536b3e51f8471c12523e43865dffdf641cfff6",
+      "checksum": "8737dcd2e02f7ac463b919748c536b3e51f8471c12523e43865dffdf641cfff6"
+    },
+    "skin_mask.alex.right.png": {
+      "url": "https://cdn.essential.gg/assets/e83d49d955ac7f2a893a139ce0123e5fab6dd287d7ca4741eefa151b1de69048",
+      "checksum": "e83d49d955ac7f2a893a139ce0123e5fab6dd287d7ca4741eefa151b1de69048"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b8f93d34289afbde7145b1738d68477930eafd3811d0428c9aae2695e51f7430",
+      "checksum": "b8f93d34289afbde7145b1738d68477930eafd3811d0428c9aae2695e51f7430"
+    }
+  }
+}

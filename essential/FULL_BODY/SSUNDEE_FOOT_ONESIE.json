@@ -1,0 +1,36 @@
+{
+  "id": "SSUNDEE_FOOT_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "SSundee\u0027s Foot Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY",
+    "event:INSANE"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 550,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3d0165355a3163481fbbf6fc2c6e64c7c7064f280e6b2ad575ed904c79672a9d",
+      "checksum": "3d0165355a3163481fbbf6fc2c6e64c7c7064f280e6b2ad575ed904c79672a9d"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/8e9fc4898f7e04b0afc0f066a6be872e3b7f2b65568f2b8c00f906c4d076cc49",
+      "checksum": "8e9fc4898f7e04b0afc0f066a6be872e3b7f2b65568f2b8c00f906c4d076cc49"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5eb58f938640a9b177aab2ea7432b225bdea2cc251841633c64fc07fa761f6c9",
+      "checksum": "5eb58f938640a9b177aab2ea7432b225bdea2cc251841633c64fc07fa761f6c9"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/10d05fb26cb0e8daf8c99525d538c84482080181accef4bde6faca360abfe57d",
+      "checksum": "10d05fb26cb0e8daf8c99525d538c84482080181accef4bde6faca360abfe57d"
+    }
+  }
+}

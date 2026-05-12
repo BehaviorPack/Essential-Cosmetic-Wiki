@@ -1,0 +1,63 @@
+{
+  "id": "MAGMA_HAMMER",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Magma Hammer"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR",
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/crying_obsidian/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1a3798da4ef6a405dff545d45a235ffd26717bbf403f2367d6351e3cbc9592ce",
+      "checksum": "1a3798da4ef6a405dff545d45a235ffd26717bbf403f2367d6351e3cbc9592ce"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ec0b5a06bc8fd1377dc83e924af20ed1e99e3e813f20ccb0154d0614d6f84755",
+      "checksum": "ec0b5a06bc8fd1377dc83e924af20ed1e99e3e813f20ccb0154d0614d6f84755"
+    },
+    "particles/lava_drip_weapon.particle.json": {
+      "url": "https://cdn.essential.gg/assets/93eb17da67ff062ac31a27bfba51fac14229ed29e46cd636bb41cbe981205714",
+      "checksum": "93eb17da67ff062ac31a27bfba51fac14229ed29e46cd636bb41cbe981205714"
+    },
+    "variants/magma/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/57a011d4ec027f925e71815a7b9f2aa3bc52b89b0bc1c28ac81da405f219730c",
+      "checksum": "57a011d4ec027f925e71815a7b9f2aa3bc52b89b0bc1c28ac81da405f219730c"
+    },
+    "particles/smoke_weapon.particle.json": {
+      "url": "https://cdn.essential.gg/assets/8621020bea4c7c2a3b62369e0eece9526ee16c4092664ddfcc766207f2b52aa5",
+      "checksum": "8621020bea4c7c2a3b62369e0eece9526ee16c4092664ddfcc766207f2b52aa5"
+    },
+    "variants/crying_obsidian/texture.png": {
+      "url": "https://cdn.essential.gg/assets/25910f9cfdce83b2e4e40e50d2acc76a7cc4b7f3d3c92fe04727d22e0567f795",
+      "checksum": "25910f9cfdce83b2e4e40e50d2acc76a7cc4b7f3d3c92fe04727d22e0567f795"
+    },
+    "variants/magma/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5afd6a5f2d66ba5a7c87ba72aaaf53b0e33b988e1d37ed1a3f18eca2cb968d15",
+      "checksum": "5afd6a5f2d66ba5a7c87ba72aaaf53b0e33b988e1d37ed1a3f18eca2cb968d15"
+    },
+    "particles/smoke_puff_weapon.particle.json": {
+      "url": "https://cdn.essential.gg/assets/82a99e43cd58c3968f19b7987e171b2b84bd92b3897e64b1ad1218538c18729a",
+      "checksum": "82a99e43cd58c3968f19b7987e171b2b84bd92b3897e64b1ad1218538c18729a"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/8e1ab2ae66235d7e1d395aac9a746e5d90534106f233c5861ace49b3cfae465b",
+      "checksum": "8e1ab2ae66235d7e1d395aac9a746e5d90534106f233c5861ace49b3cfae465b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bdc752a013ca6992c6fe5a0db3b44be87d625a9b6355285f62eef823918992a7",
+      "checksum": "bdc752a013ca6992c6fe5a0db3b44be87d625a9b6355285f62eef823918992a7"
+    }
+  }
+}

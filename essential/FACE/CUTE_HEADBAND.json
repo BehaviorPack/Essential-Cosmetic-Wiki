@@ -1,0 +1,43 @@
+{
+  "id": "CUTE_HEADBAND",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Cute Headband"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 23,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5ebc62b7e57903b4253a2832188e5a56b45373bfe0b0fd5ddadbb36916e84a02",
+      "checksum": "5ebc62b7e57903b4253a2832188e5a56b45373bfe0b0fd5ddadbb36916e84a02"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2bad0c8e03af5e6fd69c280ac5e890ecd4c2af3b5ea784683f3402aa609cee79",
+      "checksum": "2bad0c8e03af5e6fd69c280ac5e890ecd4c2af3b5ea784683f3402aa609cee79"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/83e47017de099d1d792c403dd5031252f53db3e033eabb01dd5edfeebccbf43f",
+      "checksum": "83e47017de099d1d792c403dd5031252f53db3e033eabb01dd5edfeebccbf43f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3022287b04fa61fa8f7de34cfe31ca67f0ca5226ac48609dc48443788e6b2f9a",
+      "checksum": "3022287b04fa61fa8f7de34cfe31ca67f0ca5226ac48609dc48443788e6b2f9a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/550e6b9983fcfe623aeaea5237d64bc44a503bd96587a464793f4282b0fded5b",
+      "checksum": "550e6b9983fcfe623aeaea5237d64bc44a503bd96587a464793f4282b0fded5b"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/45b4648517876e4eb12b85579c20397c94677747456bbce665d4991102d2beef",
+      "checksum": "45b4648517876e4eb12b85579c20397c94677747456bbce665d4991102d2beef"
+    }
+  }
+}

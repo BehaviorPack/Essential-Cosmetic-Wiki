@@ -1,0 +1,46 @@
+{
+  "id": "KING_CROWN",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Big Crown"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d9fddbe0665e89c3515cb22a14bc2b89769797aef29654d74257278100630f73",
+      "checksum": "d9fddbe0665e89c3515cb22a14bc2b89769797aef29654d74257278100630f73"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c2dc6a3884db494ab53f86ea787faf611bc9cf51bb62bc334ccd90b231e8546b",
+      "checksum": "c2dc6a3884db494ab53f86ea787faf611bc9cf51bb62bc334ccd90b231e8546b"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2f8a06d278e3241fc56357e33a10e7e65e5f5ef4b18b257e363d98500fc252d7",
+      "checksum": "2f8a06d278e3241fc56357e33a10e7e65e5f5ef4b18b257e363d98500fc252d7"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4ec8a63fea56b92b385ebf695431e2cf8d1c2e7451971de394d076444a1acb59",
+      "checksum": "4ec8a63fea56b92b385ebf695431e2cf8d1c2e7451971de394d076444a1acb59"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4817147ff4656431573d642ed9b48ea6b13de9d3a37ad6ef5a38b126385d15da",
+      "checksum": "4817147ff4656431573d642ed9b48ea6b13de9d3a37ad6ef5a38b126385d15da"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761",
+      "checksum": "0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761"
+    }
+  }
+}

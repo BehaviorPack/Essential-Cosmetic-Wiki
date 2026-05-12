@@ -1,0 +1,38 @@
+{
+  "id": "PIRATE_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Pirate Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 30,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/09cdd0971a120b5b52c60ab1bfb5c7994bc4e60e05bfb86d8e02db1207c35fe5",
+      "checksum": "09cdd0971a120b5b52c60ab1bfb5c7994bc4e60e05bfb86d8e02db1207c35fe5"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f7c2205bac0fd30823c5312e6fd202f4ebe68157b21253fd1a6af8f6efa50658",
+      "checksum": "f7c2205bac0fd30823c5312e6fd202f4ebe68157b21253fd1a6af8f6efa50658"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cde94804cde7807e56b25e27f209bb7fc59b2091211a7659fb15545d440fe1a4",
+      "checksum": "cde94804cde7807e56b25e27f209bb7fc59b2091211a7659fb15545d440fe1a4"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/44fd784e2882501607d13839d2a681b33f13f28bd7dddeaeb83e81b22f62891f",
+      "checksum": "44fd784e2882501607d13839d2a681b33f13f28bd7dddeaeb83e81b22f62891f"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "BATHROBE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Bathrobe"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 140,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b4ba0a4f792b7897f15fa09edae3c5e54cf0a78c87f9a507343160d84b24c1ce",
+      "checksum": "b4ba0a4f792b7897f15fa09edae3c5e54cf0a78c87f9a507343160d84b24c1ce"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/6bdcef429c5677319b12ca1e1f51e0d4ba7fcf3ff06bb65569f0144f7c734179",
+      "checksum": "6bdcef429c5677319b12ca1e1f51e0d4ba7fcf3ff06bb65569f0144f7c734179"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/cda400283958b064ef18f9a23beba233791c9a2ff51a9a28d3acf1512333eb97",
+      "checksum": "cda400283958b064ef18f9a23beba233791c9a2ff51a9a28d3acf1512333eb97"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/739e7059ca0460d5cc124d74571d6a6361d8801d715d0ba87cd1287ee304542c",
+      "checksum": "739e7059ca0460d5cc124d74571d6a6361d8801d715d0ba87cd1287ee304542c"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5477441ff7219f3918f0ba04f7d0374b3d56cb75d5b53772020c7d76d1042154",
+      "checksum": "5477441ff7219f3918f0ba04f7d0374b3d56cb75d5b53772020c7d76d1042154"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8fbedfa5e7e327082aae2ced8ae4fe95622ed97f92fb8da7ea794f20d7b8ef21",
+      "checksum": "8fbedfa5e7e327082aae2ced8ae4fe95622ed97f92fb8da7ea794f20d7b8ef21"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/ef60c58858d32d42796b7c108bc9ef1a1dcca4ad586d2d8545baf25aa80c6d1f",
+      "checksum": "ef60c58858d32d42796b7c108bc9ef1a1dcca4ad586d2d8545baf25aa80c6d1f"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/482210eaef18502616ea591f4ccf3850accf24ad11530795a8e1c5d5d8b543e6",
+      "checksum": "482210eaef18502616ea591f4ccf3850accf24ad11530795a8e1c5d5d8b543e6"
+    }
+  }
+}

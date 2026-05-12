@@ -1,0 +1,32 @@
+{
+  "id": "RED_BACK_SWORD",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "(RED) Sword Back"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 105,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1038c7e9c31421e80179de53e4ae64efd221e907819b7056bbf2ae5152551c7f",
+      "checksum": "1038c7e9c31421e80179de53e4ae64efd221e907819b7056bbf2ae5152551c7f"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/3bc6740a5479739df5235e8a5622c372ad3eb5e610ec8d0deebd247954c4c576",
+      "checksum": "3bc6740a5479739df5235e8a5622c372ad3eb5e610ec8d0deebd247954c4c576"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ac70f0806b20747a6e45bf39d0c190fe23b587b5c670947ea32766ec50de3eab",
+      "checksum": "ac70f0806b20747a6e45bf39d0c190fe23b587b5c670947ea32766ec50de3eab"
+    }
+  }
+}

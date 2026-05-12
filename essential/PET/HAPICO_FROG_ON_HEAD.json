@@ -1,0 +1,53 @@
+{
+  "id": "HAPICO_FROG_ON_HEAD",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Frog"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC",
+    "THEME_ANIMAL",
+    "THEME_BUG",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a7a5df9d7425d26e7aabac1a57b9a80f07fd72879607c804da94a5ee780a578c",
+      "checksum": "a7a5df9d7425d26e7aabac1a57b9a80f07fd72879607c804da94a5ee780a578c"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3ad3e4e4f8c63953fadcbe9e6cad4e2eb33e7847131dc255b5a700e0a4d9ad1a",
+      "checksum": "3ad3e4e4f8c63953fadcbe9e6cad4e2eb33e7847131dc255b5a700e0a4d9ad1a"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b737e315c20082baad80c64ab3a0eea60acad487721dc5d069bd2cfab064b48c",
+      "checksum": "b737e315c20082baad80c64ab3a0eea60acad487721dc5d069bd2cfab064b48c"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/176b82ee9d1c393441896c2b403a4cf7b42a118d8790c7acb22bef1bf9fda334",
+      "checksum": "176b82ee9d1c393441896c2b403a4cf7b42a118d8790c7acb22bef1bf9fda334"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/37782b499c2d3ac47654ce65f747c91566d3f1a6f6dbc1b1238281a8cb0f148b",
+      "checksum": "37782b499c2d3ac47654ce65f747c91566d3f1a6f6dbc1b1238281a8cb0f148b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0cb02bfd84914ebb413baa8c58f1cd93092745955356508330ee36ded5ad662c",
+      "checksum": "0cb02bfd84914ebb413baa8c58f1cd93092745955356508330ee36ded5ad662c"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a3e7a4f7adf553e2cd1893a704b5c7c716de887e6a9c0e1ef1990bc9657dc500",
+      "checksum": "a3e7a4f7adf553e2cd1893a704b5c7c716de887e6a9c0e1ef1990bc9657dc500"
+    }
+  }
+}

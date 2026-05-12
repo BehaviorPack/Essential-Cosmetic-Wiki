@@ -1,0 +1,48 @@
+{
+  "id": "BABY_MOA",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Baby Moa"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_AETHER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/80e111cefe2d1105ec741ddb619bb81f16c61ca43bf17e79e491dc17c4b25d33",
+      "checksum": "80e111cefe2d1105ec741ddb619bb81f16c61ca43bf17e79e491dc17c4b25d33"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/84ac265ec33bb5e38e79c6494328ddeaeb71af4c9e6e8eb693100129033bffaa",
+      "checksum": "84ac265ec33bb5e38e79c6494328ddeaeb71af4c9e6e8eb693100129033bffaa"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a590943ad7aec81c7cda929c93ec616b3b48126404b8dca10dbb6ec51171c85a",
+      "checksum": "a590943ad7aec81c7cda929c93ec616b3b48126404b8dca10dbb6ec51171c85a"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/69e7af1451e8037125d212fe50a829a0a3ddde95f3042e71388ab55b67fe595e",
+      "checksum": "69e7af1451e8037125d212fe50a829a0a3ddde95f3042e71388ab55b67fe595e"
+    },
+    "variants/cream/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bb9f9c1c5915023872f6f635514dc68dc280c83481fadaf7b27058fc99ab7311",
+      "checksum": "bb9f9c1c5915023872f6f635514dc68dc280c83481fadaf7b27058fc99ab7311"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/af2d3fc7f8b231c482a4c5ab0d70661b66252b169d76536c3edc23b8c2063fc2",
+      "checksum": "af2d3fc7f8b231c482a4c5ab0d70661b66252b169d76536c3edc23b8c2063fc2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c4715ab5cdbd63a16f4c48b6acc44b247d8b9ed0c51f63295607093b0c67b58e",
+      "checksum": "c4715ab5cdbd63a16f4c48b6acc44b247d8b9ed0c51f63295607093b0c67b58e"
+    }
+  }
+}

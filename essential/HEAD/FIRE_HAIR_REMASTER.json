@@ -1,0 +1,70 @@
+{
+  "id": "FIRE_HAIR_REMASTER",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Fire Mohawk"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAIR": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/17e3e16750ebc4366840dd0b5604e6027c7a543c389c24aee521da4bb9bdd16c",
+      "checksum": "17e3e16750ebc4366840dd0b5604e6027c7a543c389c24aee521da4bb9bdd16c"
+    },
+    "variants/soulfire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5e701ce5c85145515901bb6519901f85843bb93a6c897a9da9225116ab8431c4",
+      "checksum": "5e701ce5c85145515901bb6519901f85843bb93a6c897a9da9225116ab8431c4"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/4910eeca3cce99128c7c38776d473ccc97940e31f06d1c098ae0c1f72ebddacc",
+      "checksum": "4910eeca3cce99128c7c38776d473ccc97940e31f06d1c098ae0c1f72ebddacc"
+    },
+    "variants/soulfire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/0040e02a7f11524deb4300739c816781a2112c67cd8379dde108d53df38bdc49",
+      "checksum": "0040e02a7f11524deb4300739c816781a2112c67cd8379dde108d53df38bdc49"
+    },
+    "variants/fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6ac06a39243c8b7053b65151588fb8319b0b4e7533fdf4bdaa7ee0fbb0d92418",
+      "checksum": "6ac06a39243c8b7053b65151588fb8319b0b4e7533fdf4bdaa7ee0fbb0d92418"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/84035417b3d118a397dfd0b6fa64cd5f23f93fd3d70629261774ce981be35d65",
+      "checksum": "84035417b3d118a397dfd0b6fa64cd5f23f93fd3d70629261774ce981be35d65"
+    },
+    "variants/fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/bd4d85fe6ca6ef15dbba67e1b28243e08b38f1fcc335e65c7d1ce8d8611722b6",
+      "checksum": "bd4d85fe6ca6ef15dbba67e1b28243e08b38f1fcc335e65c7d1ce8d8611722b6"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/2769f82002270df6000e54f4560b94d8ff1ee7ae0d66949896cb42f99afdf74a",
+      "checksum": "2769f82002270df6000e54f4560b94d8ff1ee7ae0d66949896cb42f99afdf74a"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/7b23db3ac0901b9b37340cd5a6677489685a90dd33fe51648b2f1f22f70e8d3a",
+      "checksum": "7b23db3ac0901b9b37340cd5a6677489685a90dd33fe51648b2f1f22f70e8d3a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/31e36c7af6267658624c6bbb2e9c80044de11d54b1674d10c979d5ce5fdcc42f",
+      "checksum": "31e36c7af6267658624c6bbb2e9c80044de11d54b1674d10c979d5ce5fdcc42f"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5e7ebafa7b3c28a6284c29c656ba5673ce2fcab3b8c555f78e8d4534e8a77016",
+      "checksum": "5e7ebafa7b3c28a6284c29c656ba5673ce2fcab3b8c555f78e8d4534e8a77016"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ebf620352b5a592108b4b19815a015ab8cd720a386edc41bda19b6486d7a4025",
+      "checksum": "ebf620352b5a592108b4b19815a015ab8cd720a386edc41bda19b6486d7a4025"
+    }
+  }
+}

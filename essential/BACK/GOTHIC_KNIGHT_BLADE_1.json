@@ -1,0 +1,52 @@
+{
+  "id": "GOTHIC_KNIGHT_BLADE_1",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Gothic Blade"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_BLACK",
+    "THEME_GOTHIC",
+    "COLLECTION_MAY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/iron/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2f72135692449f8f6790ec4bd00184fa725caa3d626ccebd2f1dcc1622f15bd4",
+      "checksum": "2f72135692449f8f6790ec4bd00184fa725caa3d626ccebd2f1dcc1622f15bd4"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/740add2f3e6c6fb3841046c517f3e804ea8b9606d3cdbd39fee86573adab8fef",
+      "checksum": "740add2f3e6c6fb3841046c517f3e804ea8b9606d3cdbd39fee86573adab8fef"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3c89f9185b317ad1ec6b7be46ad545af1d7d7da752c449c014d7e83c4493c16b",
+      "checksum": "3c89f9185b317ad1ec6b7be46ad545af1d7d7da752c449c014d7e83c4493c16b"
+    },
+    "variants/dark_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3f715be0cf4309cfd00ab546bdb6b8ec881697461fe206eccc35e342bdb9a7c7",
+      "checksum": "3f715be0cf4309cfd00ab546bdb6b8ec881697461fe206eccc35e342bdb9a7c7"
+    },
+    "variants/dark_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5c338f85f31e556588ca022a5a6631c3286e2708b6e9a6ab6b0cdec2c60426a4",
+      "checksum": "5c338f85f31e556588ca022a5a6631c3286e2708b6e9a6ab6b0cdec2c60426a4"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9a09c25097e3eb802734d34693ea7a6c5b7fbba36d2ca37942e6b859f8d7762f",
+      "checksum": "9a09c25097e3eb802734d34693ea7a6c5b7fbba36d2ca37942e6b859f8d7762f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0ccb02e010d3ac0c3bf78eb41ddfb0908e4af0cc7347dba8dac2799ad74a422d",
+      "checksum": "0ccb02e010d3ac0c3bf78eb41ddfb0908e4af0cc7347dba8dac2799ad74a422d"
+    }
+  }
+}

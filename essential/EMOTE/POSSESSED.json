@@ -1,0 +1,35 @@
+{
+  "id": "POSSESSED",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Possessed"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_APRIL2026",
+    "THEME_HORROR",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/58146d5c6312137988e36ee820cf4a328ae20c809428a646fe270327ddd79238",
+      "checksum": "58146d5c6312137988e36ee820cf4a328ae20c809428a646fe270327ddd79238"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/9a13a9cb9f1e7011df88f29429313c5c343630c4075749d02515846d56218b67",
+      "checksum": "9a13a9cb9f1e7011df88f29429313c5c343630c4075749d02515846d56218b67"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/609b3d88f467dfcfc8b1269d59ab3ddaf1fa6b8e3201a9742978ecfc1ed56fc0",
+      "checksum": "609b3d88f467dfcfc8b1269d59ab3ddaf1fa6b8e3201a9742978ecfc1ed56fc0"
+    }
+  }
+}

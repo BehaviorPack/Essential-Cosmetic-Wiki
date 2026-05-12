@@ -1,0 +1,38 @@
+{
+  "id": "FUTURISTIC_SNEAKERS_OLD",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Futuristic Sneakers"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 40,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/428481f34c31199a9831ef662528f62f8679027fae3c96f24c702d77a7275702",
+      "checksum": "428481f34c31199a9831ef662528f62f8679027fae3c96f24c702d77a7275702"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/84adaf81dcf9b0080bda73d79cba9d24040075759cd62f95bfd2dfce6f302fe7",
+      "checksum": "84adaf81dcf9b0080bda73d79cba9d24040075759cd62f95bfd2dfce6f302fe7"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/2399bbdb3b8bb03607129faa7d4063a8a100e6e055a5f552abbcd13cde91d6ef",
+      "checksum": "2399bbdb3b8bb03607129faa7d4063a8a100e6e055a5f552abbcd13cde91d6ef"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/20af186ebffc8bcad265ad48f045f7f3f46347cfc92a2753dc5a8e2eded77c61",
+      "checksum": "20af186ebffc8bcad265ad48f045f7f3f46347cfc92a2753dc5a8e2eded77c61"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/2fd8f49fbb253b82a02558e77c6cf2a38e3fc9b268f7d896e8513e5ce7606e15",
+      "checksum": "2fd8f49fbb253b82a02558e77c6cf2a38e3fc9b268f7d896e8513e5ce7606e15"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "RGB_FLAME_HALO",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "RGB Flame Halo"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/340ea2979aad102c37054b815f18ae612e5b3efe946e79fc4b0d4a0de580967f",
+      "checksum": "340ea2979aad102c37054b815f18ae612e5b3efe946e79fc4b0d4a0de580967f"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/d976fe039fbf0d5cc0d9aefcccd9b7395d314d2929c960c1fa9e57282cf99311",
+      "checksum": "d976fe039fbf0d5cc0d9aefcccd9b7395d314d2929c960c1fa9e57282cf99311"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/0ea214050df778c1d700d8a4e75e9f21e730ad369e4dcd83bbf75fb68d30fcfa",
+      "checksum": "0ea214050df778c1d700d8a4e75e9f21e730ad369e4dcd83bbf75fb68d30fcfa"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a1a9b5e59267193f76d788ef1cf24a1a3bac94820a4f2f7aad3057fe6e22751c",
+      "checksum": "a1a9b5e59267193f76d788ef1cf24a1a3bac94820a4f2f7aad3057fe6e22751c"
+    }
+  }
+}

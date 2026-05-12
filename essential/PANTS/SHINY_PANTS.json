@@ -1,0 +1,50 @@
+{
+  "id": "SHINY_PANTS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Shiny Pants"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_GOLDEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/amethyst/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1844891edaf6adb0454bdf8afdc893edf9ef35411a5d5b83db0d6f9e179cf6e8",
+      "checksum": "1844891edaf6adb0454bdf8afdc893edf9ef35411a5d5b83db0d6f9e179cf6e8"
+    },
+    "variants/diamond/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8a4c5410da67e01d7949756162f8c77077d34756edc517b13a5cae70845788f3",
+      "checksum": "8a4c5410da67e01d7949756162f8c77077d34756edc517b13a5cae70845788f3"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/185a06a013c5734bd917a60d3a1491aae6fdf9e48c110988f352862f3c040ded",
+      "checksum": "185a06a013c5734bd917a60d3a1491aae6fdf9e48c110988f352862f3c040ded"
+    },
+    "variants/emerald/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ecc0dbc3975d5c30fa5027787c60996a57ff49394be65a7aa239942b4b82c28f",
+      "checksum": "ecc0dbc3975d5c30fa5027787c60996a57ff49394be65a7aa239942b4b82c28f"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/35141ee1cdf85a290ce9bd370b256cc7751d878981321ac68a615d575c422d1b",
+      "checksum": "35141ee1cdf85a290ce9bd370b256cc7751d878981321ac68a615d575c422d1b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2c53a686abb920a3b6139755f10f012294dbbfc05ce0a85f59225a64449e2c6a",
+      "checksum": "2c53a686abb920a3b6139755f10f012294dbbfc05ce0a85f59225a64449e2c6a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f",
+      "checksum": "503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f"
+    }
+  }
+}

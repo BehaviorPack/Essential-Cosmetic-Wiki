@@ -1,0 +1,33 @@
+{
+  "id": "ANTLERS",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Antlers"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "EARS": 20
+  },
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0bf94ae100f2c980ff59764bf044df4935f285f242ae577c0d817f20c066cd58",
+      "checksum": "0bf94ae100f2c980ff59764bf044df4935f285f242ae577c0d817f20c066cd58"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f350b26966cfd62a42c2488d8a392a6a3af6a31a802dde61c90e41afc2e41dfb",
+      "checksum": "f350b26966cfd62a42c2488d8a392a6a3af6a31a802dde61c90e41afc2e41dfb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6cd59fc49450f0c3255ddf704dfdb8547ae6cb3722d8b7252e2655d572d2615d",
+      "checksum": "6cd59fc49450f0c3255ddf704dfdb8547ae6cb3722d8b7252e2655d572d2615d"
+    }
+  }
+}

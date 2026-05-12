@@ -1,0 +1,63 @@
+{
+  "id": "MAGMA_ARMOR_HELMET",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Magma Head"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR",
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/crying_obsidian/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1e03a5799c93c5653ee79546e37a66f82af3b78206c04d66ec50f9044d629f32",
+      "checksum": "1e03a5799c93c5653ee79546e37a66f82af3b78206c04d66ec50f9044d629f32"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5b4181ab84cfb50ee9c3c53b17bfd820db0494f61a560d689f9d49277a41e643",
+      "checksum": "5b4181ab84cfb50ee9c3c53b17bfd820db0494f61a560d689f9d49277a41e643"
+    },
+    "particles/smoke_helmet.particle.json": {
+      "url": "https://cdn.essential.gg/assets/1c672dedece32c6474898d81ef9a391c2daf66eaba29f09e18f6f9581e817384",
+      "checksum": "1c672dedece32c6474898d81ef9a391c2daf66eaba29f09e18f6f9581e817384"
+    },
+    "particles/ember_helmet.particle.json": {
+      "url": "https://cdn.essential.gg/assets/5b1f82aac7d1602e2873bf5a97695f68af44095330d6add188bf09b7579b2cb5",
+      "checksum": "5b1f82aac7d1602e2873bf5a97695f68af44095330d6add188bf09b7579b2cb5"
+    },
+    "variants/magma/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/704890aaf71229a7b2f9a39a3796c31d2798b2351219d79942aeee536008a925",
+      "checksum": "704890aaf71229a7b2f9a39a3796c31d2798b2351219d79942aeee536008a925"
+    },
+    "variants/crying_obsidian/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2e5c79fff6361bd0fc54c0be4f2e6e53c3b32b8f25be6c39af6138a7eee3ae3d",
+      "checksum": "2e5c79fff6361bd0fc54c0be4f2e6e53c3b32b8f25be6c39af6138a7eee3ae3d"
+    },
+    "variants/magma/texture.png": {
+      "url": "https://cdn.essential.gg/assets/87e7ee936c4c7e860f3f6f986650a4b179ade7688b1cb60bcf61f5cfb0bca36c",
+      "checksum": "87e7ee936c4c7e860f3f6f986650a4b179ade7688b1cb60bcf61f5cfb0bca36c"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/03365c526358df1bf4062ed5e162c1d7555e86f9b685a6d45d1c19af2c8b87c8",
+      "checksum": "03365c526358df1bf4062ed5e162c1d7555e86f9b685a6d45d1c19af2c8b87c8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/df6d5c32d50b4b51928da1682392a92a59632a04e7ddd97638d315715de254cb",
+      "checksum": "df6d5c32d50b4b51928da1682392a92a59632a04e7ddd97638d315715de254cb"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

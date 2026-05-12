@@ -1,0 +1,40 @@
+{
+  "id": "BABY_ARMADILLO",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Baby Armadillo"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "COLLECTION_JANUARY2026",
+    "THEME_CUTE",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/59c2a3598292a25b52671d45525f11cd76b07bd629559a1e327c89deef762ed2",
+      "checksum": "59c2a3598292a25b52671d45525f11cd76b07bd629559a1e327c89deef762ed2"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/3573dcef56ad43c9bf1db97f6046fe56206c1e504172e64e66b647e611e91c2f",
+      "checksum": "3573dcef56ad43c9bf1db97f6046fe56206c1e504172e64e66b647e611e91c2f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e145c5463c978408c89d23c98d7439fcd0dde1559fca915b12e253dc9b8ef8e6",
+      "checksum": "e145c5463c978408c89d23c98d7439fcd0dde1559fca915b12e253dc9b8ef8e6"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/630ac3f2bdf60a1a52f87b2579fe37fdb41bd8ebd37271ac98010135ef1f1e66",
+      "checksum": "630ac3f2bdf60a1a52f87b2579fe37fdb41bd8ebd37271ac98010135ef1f1e66"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "RAIN_JACKET",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Rain Jacket"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_FEBRUARY2026",
+    "THEME_CUTE",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2c4b940ba30eeb4d01adf8f96ac25a893126085abaad53d0ceaabd8540869c25",
+      "checksum": "2c4b940ba30eeb4d01adf8f96ac25a893126085abaad53d0ceaabd8540869c25"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0c1ace19936cd5b374509f2797af820d9e74fa39ceb93e9cb723ab757e0a6353",
+      "checksum": "0c1ace19936cd5b374509f2797af820d9e74fa39ceb93e9cb723ab757e0a6353"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/bfea1be3eace903beb8e8d9266a2cb49bae7febbbc4dbaf10f9dad8390e5c30a",
+      "checksum": "bfea1be3eace903beb8e8d9266a2cb49bae7febbbc4dbaf10f9dad8390e5c30a"
+    },
+    "variants/lilac/texture.png": {
+      "url": "https://cdn.essential.gg/assets/035893ebfbd5efdbd4c6423aa89877e888e6483d49561b6b1608bb21146d4df8",
+      "checksum": "035893ebfbd5efdbd4c6423aa89877e888e6483d49561b6b1608bb21146d4df8"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/eb40afc0178e95e0173fc912bbd0c7acb11a9186a5610c315474e8061878440d",
+      "checksum": "eb40afc0178e95e0173fc912bbd0c7acb11a9186a5610c315474e8061878440d"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e6ece17c077a0df7edd68f2f69bd03ddcd969d1c518ae8db86583e7848e591a7",
+      "checksum": "e6ece17c077a0df7edd68f2f69bd03ddcd969d1c518ae8db86583e7848e591a7"
+    },
+    "variants/rain_jacket.png": {
+      "url": "https://cdn.essential.gg/assets/7153e54fb6382e703b10a6bb5d5f168bf89adf0e5f9330baa2372a596e0d47da",
+      "checksum": "7153e54fb6382e703b10a6bb5d5f168bf89adf0e5f9330baa2372a596e0d47da"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/891581242aeaeac2983b19eeb8bbacc49970260b8513ba1d36c71a7b1e59479a",
+      "checksum": "891581242aeaeac2983b19eeb8bbacc49970260b8513ba1d36c71a7b1e59479a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/de9e6fc5965cdff8dfe3d20a4dfe00c16c856eb0cc4f53ef2eab29b06e9e2a3e",
+      "checksum": "de9e6fc5965cdff8dfe3d20a4dfe00c16c856eb0cc4f53ef2eab29b06e9e2a3e"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1d5d7e8e692e910a241807a8a1c4f48437caed7d0990a3a1294282945448f486",
+      "checksum": "1d5d7e8e692e910a241807a8a1c4f48437caed7d0990a3a1294282945448f486"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1ce5900d3ae1a4de42c12466f0901859a0811d51ebf0750521ff5d04759b7356",
+      "checksum": "1ce5900d3ae1a4de42c12466f0901859a0811d51ebf0750521ff5d04759b7356"
+    }
+  }
+}

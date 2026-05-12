@@ -1,0 +1,63 @@
+{
+  "id": "WAR_EMBERS",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Battle Blasts"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/laser_impact.particle.json": {
+      "url": "https://cdn.essential.gg/assets/babe8bad97b873f7b0d31c8f0093ed031126dbd14c167f0258df912fc3e28ff3",
+      "checksum": "babe8bad97b873f7b0d31c8f0093ed031126dbd14c167f0258df912fc3e28ff3"
+    },
+    "particles/lasers_main.particle.json": {
+      "url": "https://cdn.essential.gg/assets/c5295cbd9f8d712d6e528d52f1c21cfeca8d528399f6bddfd60a1dd41f89766b",
+      "checksum": "c5295cbd9f8d712d6e528d52f1c21cfeca8d528399f6bddfd60a1dd41f89766b"
+    },
+    "particles/war_fireflies.particle.json": {
+      "url": "https://cdn.essential.gg/assets/fca4442bb22d2710368e92d9561548641e69145996158d4ad82e163b36161865",
+      "checksum": "fca4442bb22d2710368e92d9561548641e69145996158d4ad82e163b36161865"
+    },
+    "particles/war_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/4a89700f55a74ef3fe7be5b66b48cd5ab6c16b1655d1db901cd3b6b694312c3b",
+      "checksum": "4a89700f55a74ef3fe7be5b66b48cd5ab6c16b1655d1db901cd3b6b694312c3b"
+    },
+    "particles/war_sparks.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d72d496f65285f48e4cf126a1583e6f55758f8af65b728a39e0bf1183e65364e",
+      "checksum": "d72d496f65285f48e4cf126a1583e6f55758f8af65b728a39e0bf1183e65364e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/9cfaba103ddabecce7f2c7d0b959be10cdd207399c7aaa5b1f41d2b9b77dcf44",
+      "checksum": "9cfaba103ddabecce7f2c7d0b959be10cdd207399c7aaa5b1f41d2b9b77dcf44"
+    },
+    "particles/war_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/ce98728b72421d00746659d7a9fb6de72f6aaf424fb27c2eba82b52c54c08bb3",
+      "checksum": "ce98728b72421d00746659d7a9fb6de72f6aaf424fb27c2eba82b52c54c08bb3"
+    },
+    "particles/cross_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/8b2b856d0fd89a58cf62a696b7e91fcab6f751fee9aca715aaf1fb97fd0d655c",
+      "checksum": "8b2b856d0fd89a58cf62a696b7e91fcab6f751fee9aca715aaf1fb97fd0d655c"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/dab2b68090c1b206877e246b10f1a0e939f7e779743fc48984dc3ae2f1a1703a",
+      "checksum": "dab2b68090c1b206877e246b10f1a0e939f7e779743fc48984dc3ae2f1a1703a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/19ba9712cfac5ed9b48b135638dea86be85244ff9a3cf1d459462bd915a0f7ad",
+      "checksum": "19ba9712cfac5ed9b48b135638dea86be85244ff9a3cf1d459462bd915a0f7ad"
+    }
+  }
+}

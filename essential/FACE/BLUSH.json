@@ -1,0 +1,33 @@
+{
+  "id": "BLUSH",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Blush"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9d363e25c6d5985be6ea6d93756f0faa3e69a12e3d67376b5133ff19cb8c283a",
+      "checksum": "9d363e25c6d5985be6ea6d93756f0faa3e69a12e3d67376b5133ff19cb8c283a"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/aa29fe9fa598410c145a9e4fd723e00ba84da4998c049f8ff93a6571e39a03ed",
+      "checksum": "aa29fe9fa598410c145a9e4fd723e00ba84da4998c049f8ff93a6571e39a03ed"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/124e4caa7d8ab875aed85939ea84f8c8a0fea6f36e64e0bb5b02b57e9c73e869",
+      "checksum": "124e4caa7d8ab875aed85939ea84f8c8a0fea6f36e64e0bb5b02b57e9c73e869"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646",
+      "checksum": "3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646"
+    }
+  }
+}

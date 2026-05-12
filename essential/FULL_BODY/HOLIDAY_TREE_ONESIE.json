@@ -1,0 +1,49 @@
+{
+  "id": "HOLIDAY_TREE_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Holiday Tree Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/95b32c358cc35b7fc83ad983f2d2eb65c4a0f06f1e0c46295cfb611081f0c086",
+      "checksum": "95b32c358cc35b7fc83ad983f2d2eb65c4a0f06f1e0c46295cfb611081f0c086"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/6a0babb4d3beda7df2791cfed81d653e7fd7df12c615be627b231d8f53dd886b",
+      "checksum": "6a0babb4d3beda7df2791cfed81d653e7fd7df12c615be627b231d8f53dd886b"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/343c22352f007d42b168392fbc96ffabc8ffa34346bc9d0e6bf44a3cc101bffa",
+      "checksum": "343c22352f007d42b168392fbc96ffabc8ffa34346bc9d0e6bf44a3cc101bffa"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/8fd7169c67cf1fb18c4944054896d05cc61b3666d5fb4cd678cd9726b2e96b75",
+      "checksum": "8fd7169c67cf1fb18c4944054896d05cc61b3666d5fb4cd678cd9726b2e96b75"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/e1443841c7d85aee57b421eb8a331eb8bb3af179d1afbbc7f02acbff669313ef",
+      "checksum": "e1443841c7d85aee57b421eb8a331eb8bb3af179d1afbbc7f02acbff669313ef"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f1be237a91532d0ec10c633f370093a248614bf55346e89ebe012a16525320e6",
+      "checksum": "f1be237a91532d0ec10c633f370093a248614bf55346e89ebe012a16525320e6"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/9430a7d50babaca00a4c4d97c94533c7d9dc7365d142960f1a860c00fd0b2234",
+      "checksum": "9430a7d50babaca00a4c4d97c94533c7d9dc7365d142960f1a860c00fd0b2234"
+    }
+  }
+}

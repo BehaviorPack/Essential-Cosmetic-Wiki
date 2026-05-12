@@ -1,0 +1,57 @@
+{
+  "id": "FLOWER_IN_HAIR",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Flower In Hair"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 21,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8ce862e0828bac39594186b40727c8c7b325afb5aab4e2729d72c80fa46083c1",
+      "checksum": "8ce862e0828bac39594186b40727c8c7b325afb5aab4e2729d72c80fa46083c1"
+    },
+    "skin_mask.steve.right.png": {
+      "url": "https://cdn.essential.gg/assets/024996e47caf65159258fe1acb6a1ae3f24ffe0fbe51dce639069714622ddd7c",
+      "checksum": "024996e47caf65159258fe1acb6a1ae3f24ffe0fbe51dce639069714622ddd7c"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/578262059a89583653a0e2d3689bd1f17d2a7b6d941ae69c3bf014fab28b1458",
+      "checksum": "578262059a89583653a0e2d3689bd1f17d2a7b6d941ae69c3bf014fab28b1458"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/64c348a6569ae9b963a04b1057fc27641b0fc47255c029587825dcaf350ea04c",
+      "checksum": "64c348a6569ae9b963a04b1057fc27641b0fc47255c029587825dcaf350ea04c"
+    },
+    "skin_mask.steve.left.png": {
+      "url": "https://cdn.essential.gg/assets/113b52192a06b93b2a7ab98431b8b95d6061d7e051d3cd1ae607971c0199acb9",
+      "checksum": "113b52192a06b93b2a7ab98431b8b95d6061d7e051d3cd1ae607971c0199acb9"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/401f51e417c58c4dfd4dc777ac6c8f042a9734cec885da3b38b730de916fe3a8",
+      "checksum": "401f51e417c58c4dfd4dc777ac6c8f042a9734cec885da3b38b730de916fe3a8"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ef0dce55d16f477178fdbfb8ed093777702686a29619b5fed5b485cd2ff796e7",
+      "checksum": "ef0dce55d16f477178fdbfb8ed093777702686a29619b5fed5b485cd2ff796e7"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1052452cd7ffe3d14bae027706c8e8a1d44d2972b2049a3a7b64e2f378b1a09f",
+      "checksum": "1052452cd7ffe3d14bae027706c8e8a1d44d2972b2049a3a7b64e2f378b1a09f"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/dc7a853a6a79a985af631d8a937a0cd18fe20532a19d15554ad9bd0c6ba232ba",
+      "checksum": "dc7a853a6a79a985af631d8a937a0cd18fe20532a19d15554ad9bd0c6ba232ba"
+    }
+  }
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "DEFAULT_FEB2026_COSMICDRAGON",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "The Ender Abomination",
+    "tier": "LEGENDARY",
+    "discount": 65.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@42047573",
+    "cosmetics": {
+      "FULL_BODY": "MAGMA_ARMOR",
+      "EFFECT": "ENDERMAN",
+      "BACK": "ENDER_EXCALIBUR",
+      "HEAD": "ANIMATRONIC_HEAD",
+      "WINGS": "ENDER_ARMS",
+      "EMOTE": "ENDER_ASCENSION"
+    },
+    "settings": {
+      "MAGMA_ARMOR": [
+        {
+          "id": "MAGMA_ARMOR",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "crying_obsidian"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "GOTHIC_KNIGHT_RED",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "Lord Crimson",
+    "tier": "LEGENDARY",
+    "discount": 65.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@7dd32128",
+    "cosmetics": {
+      "FULL_BODY": "GOTHIC_KNIGHT_ARMOR_SET_2",
+      "EFFECT": "SOUL_VOID",
+      "BACK": "MEGA_BLADE",
+      "HEAD": "GOTHIC_KNIGHT_HELMET_1",
+      "WINGS": "DOUBLE_DEMONIC_OVERLORD_WINGS",
+      "EMOTE": "FLIGHT"
+    },
+    "settings": {
+      "DOUBLE_DEMONIC_OVERLORD_WINGS": [
+        {
+          "id": "DOUBLE_DEMONIC_OVERLORD_WINGS",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "black"
+          }
+        }
+      ],
+      "GOTHIC_KNIGHT_ARMOR_SET_2": [
+        {
+          "id": "GOTHIC_KNIGHT_ARMOR_SET_2",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "dark_red"
+          }
+        }
+      ],
+      "GOTHIC_KNIGHT_HELMET_1": [
+        {
+          "id": "GOTHIC_KNIGHT_HELMET_1",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "dark_red"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "SPIDER_SAM",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "Spider Sam",
+    "tier": "UNCOMMON",
+    "discount": 65.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@5bd62c0e",
+    "cosmetics": {
+      "EMOTE": "TAKE_A_KNEE",
+      "TOP": "Y2K_TRENDS_TOP",
+      "PET": "BABY_TARANTULA",
+      "HEAD": "FLUFFY_ANIME_HAIR",
+      "PANTS": "GOTHIC_SHORTS",
+      "BACK": "EVERYDAY_BACKPACK"
+    },
+    "settings": {
+      "BABY_TARANTULA": [
+        {
+          "id": "BABY_TARANTULA",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "brown"
+          }
+        }
+      ],
+      "FLUFFY_ANIME_HAIR": [
+        {
+          "id": "FLUFFY_ANIME_HAIR",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "black"
+          }
+        }
+      ],
+      "EVERYDAY_BACKPACK": [
+        {
+          "id": "EVERYDAY_BACKPACK",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "black"
+          }
+        }
+      ]
+    }
+  }
+]

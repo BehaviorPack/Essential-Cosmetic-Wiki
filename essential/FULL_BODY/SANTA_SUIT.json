@@ -1,0 +1,45 @@
+{
+  "id": "SANTA_SUIT",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Santa Suit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 2000,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/09bce6611454bfa1a2661c133816b5116350af158430249c6358ebe31342124d",
+      "checksum": "09bce6611454bfa1a2661c133816b5116350af158430249c6358ebe31342124d"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/199fd13af5fa500269ce67cb7021c7a63f3911a52074084fb6ddce6062048f69",
+      "checksum": "199fd13af5fa500269ce67cb7021c7a63f3911a52074084fb6ddce6062048f69"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/80dcb80ca9e34e7ab2964aa501b5c66983cf9870d4851b63ac9c72b78fa23838",
+      "checksum": "80dcb80ca9e34e7ab2964aa501b5c66983cf9870d4851b63ac9c72b78fa23838"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/f4cf749229f08622ba1a13bd2134c249dd72f2860a38f723caed4cb005f3c191",
+      "checksum": "f4cf749229f08622ba1a13bd2134c249dd72f2860a38f723caed4cb005f3c191"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/fb74f32255b6c137c3b79aa2a3837041d8b30c0f174a7145674da3aeb6ae20c3",
+      "checksum": "fb74f32255b6c137c3b79aa2a3837041d8b30c0f174a7145674da3aeb6ae20c3"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/fca83d2cbfe5f3abd79d249788728157cfe1c33d3188f74d76aefb53e42f8836",
+      "checksum": "fca83d2cbfe5f3abd79d249788728157cfe1c33d3188f74d76aefb53e42f8836"
+    }
+  }
+}

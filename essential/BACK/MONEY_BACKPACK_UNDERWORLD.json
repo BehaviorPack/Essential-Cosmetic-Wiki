@@ -1,0 +1,34 @@
+{
+  "id": "MONEY_BACKPACK_UNDERWORLD",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Underworld Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 118,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/79c7d628104ab4d2b651468da98ab40671b37b77d6b76fac7a054575ee58aebd",
+      "checksum": "79c7d628104ab4d2b651468da98ab40671b37b77d6b76fac7a054575ee58aebd"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/a9d872e94b10e809363b9db59424495a6141d103dd24eacfd0bc8acbaf6a9888",
+      "checksum": "a9d872e94b10e809363b9db59424495a6141d103dd24eacfd0bc8acbaf6a9888"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/9da30e455a9cfdf7323cee3f1d80e32b42fc7d1e4019c418f16c968749f203c2",
+      "checksum": "9da30e455a9cfdf7323cee3f1d80e32b42fc7d1e4019c418f16c968749f203c2"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/fc2ec702a8b74273c2897998db055d081ffefcdccea3419e7bb72f7bd303f094",
+      "checksum": "fc2ec702a8b74273c2897998db055d081ffefcdccea3419e7bb72f7bd303f094"
+    }
+  }
+}

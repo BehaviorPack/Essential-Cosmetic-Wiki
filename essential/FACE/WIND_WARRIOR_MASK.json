@@ -1,0 +1,38 @@
+{
+  "id": "WIND_WARRIOR_MASK",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Wind Warrior Mask"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ce9c74c2671bff604b1633137fca36f0b78b1d4855792cf219226527d939e7c8",
+      "checksum": "ce9c74c2671bff604b1633137fca36f0b78b1d4855792cf219226527d939e7c8"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/2c5e4f0562f7a6b9b3e90ed2f061798361f786a2619bc7fcf3f5be5d37c1b36e",
+      "checksum": "2c5e4f0562f7a6b9b3e90ed2f061798361f786a2619bc7fcf3f5be5d37c1b36e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f3e9a6a8e814764d99fd0fbdaa0babec4b612b99fb46bddb5b39b71d7811a52d",
+      "checksum": "f3e9a6a8e814764d99fd0fbdaa0babec4b612b99fb46bddb5b39b71d7811a52d"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/4ab2db7c8418a5a13ebe277b4091c02da75ca24be46c213b081ad353eebcf786",
+      "checksum": "4ab2db7c8418a5a13ebe277b4091c02da75ca24be46c213b081ad353eebcf786"
+    }
+  }
+}

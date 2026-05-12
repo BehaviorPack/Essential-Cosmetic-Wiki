@@ -1,0 +1,59 @@
+{
+  "id": "UGLY_SWEATER",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Ugly Sweater"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY",
+    "THEME_AUTUMN",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red_white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d3e85b48c7bb216331782339e76f73ad5aa774108ec9c7d9415e43b42f294821",
+      "checksum": "d3e85b48c7bb216331782339e76f73ad5aa774108ec9c7d9415e43b42f294821"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3d75f25b5e117bf200401526a8d51408104f33eae285666f35ad40090ab61630",
+      "checksum": "3d75f25b5e117bf200401526a8d51408104f33eae285666f35ad40090ab61630"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/aac10332d8fd3cc036cdc26302b46dc197f46007d2749d0a26a35c5cda4c84fd",
+      "checksum": "aac10332d8fd3cc036cdc26302b46dc197f46007d2749d0a26a35c5cda4c84fd"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/a8f6ea551205348d79ab65d4307f91c8041fee1a6d7c217bd088a968e327b8da",
+      "checksum": "a8f6ea551205348d79ab65d4307f91c8041fee1a6d7c217bd088a968e327b8da"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/7d412b67cbba79bb820de9f5e2a366da06bc03ff34bcc194fb23e6af1970a5fd",
+      "checksum": "7d412b67cbba79bb820de9f5e2a366da06bc03ff34bcc194fb23e6af1970a5fd"
+    },
+    "variants/traditional/texture.png": {
+      "url": "https://cdn.essential.gg/assets/67c38d5115adf841a0b685bc910380a3c94b72998f89a79c8a95cb15290c74c3",
+      "checksum": "67c38d5115adf841a0b685bc910380a3c94b72998f89a79c8a95cb15290c74c3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a13904cbe2d709fc9cf12a84edfb3ab560fe254eb306388ebbc210ea7474eba2",
+      "checksum": "a13904cbe2d709fc9cf12a84edfb3ab560fe254eb306388ebbc210ea7474eba2"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/777499f0339227ab42be3ddc87bc3ef81dbc136e5b9559d007ca9ee008276644",
+      "checksum": "777499f0339227ab42be3ddc87bc3ef81dbc136e5b9559d007ca9ee008276644"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d0b3daf74f887037a33cce5dfa1d2c96b848603eb19337aab2e08b1ec875c60b",
+      "checksum": "d0b3daf74f887037a33cce5dfa1d2c96b848603eb19337aab2e08b1ec875c60b"
+    }
+  }
+}

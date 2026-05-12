@@ -1,0 +1,46 @@
+{
+  "id": "SCI_FI_MINING_SUIT",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Sci-Fi Mining Suit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 560,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f40e72bb764a13139dcd8a90990d3d4ab283b5a049b1d301aba1556247b23d3e",
+      "checksum": "f40e72bb764a13139dcd8a90990d3d4ab283b5a049b1d301aba1556247b23d3e"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/41f74d882e87588094ee7f39f12e6c89aa4d4198ad344bb55d5cb495f7316739",
+      "checksum": "41f74d882e87588094ee7f39f12e6c89aa4d4198ad344bb55d5cb495f7316739"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f721fe3adb17c95c801f532ac15b386bb90298bb482d10c98d0db7950a68c787",
+      "checksum": "f721fe3adb17c95c801f532ac15b386bb90298bb482d10c98d0db7950a68c787"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/6bc1ef8688ce3ff64e6b09debc822e396bc4aad0d1d85c2f0c860e50dd06df3f",
+      "checksum": "6bc1ef8688ce3ff64e6b09debc822e396bc4aad0d1d85c2f0c860e50dd06df3f"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/bfe568dd2d55f237c5a70dfd6edb34201035d12a93ee411ba70d8281019a1b7f",
+      "checksum": "bfe568dd2d55f237c5a70dfd6edb34201035d12a93ee411ba70d8281019a1b7f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/37475882474f4e100a8998263ab713407b5d62fa1e626d72fad6d00797a4ea7a",
+      "checksum": "37475882474f4e100a8998263ab713407b5d62fa1e626d72fad6d00797a4ea7a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/05924e761d4667c079f746e7ecde145374b5449e08999ef93aaae92e56edbf4c",
+      "checksum": "05924e761d4667c079f746e7ecde145374b5449e08999ef93aaae92e56edbf4c"
+    }
+  }
+}

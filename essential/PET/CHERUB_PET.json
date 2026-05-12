@@ -1,0 +1,42 @@
+{
+  "id": "CHERUB_PET",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Cherub"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 30,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8d26a73b1aff36c62b3880579f1ed298ab3d380062611d84dbbcea50a7810331",
+      "checksum": "8d26a73b1aff36c62b3880579f1ed298ab3d380062611d84dbbcea50a7810331"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/de0142f101b43156abe5fdef2d9e18f4db8434e54fae854c505a3e10e60d9656",
+      "checksum": "de0142f101b43156abe5fdef2d9e18f4db8434e54fae854c505a3e10e60d9656"
+    },
+    "variants/classic/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9429c2bcd35e396a9aea9d8ca9104e7aa2f3edfac46471a295943898ee1c554f",
+      "checksum": "9429c2bcd35e396a9aea9d8ca9104e7aa2f3edfac46471a295943898ee1c554f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/12ed335a24773903e57a56e72e5dffa893fbd4502bfd1ab4f9600d50e0758904",
+      "checksum": "12ed335a24773903e57a56e72e5dffa893fbd4502bfd1ab4f9600d50e0758904"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6e63ed7e0c048dbbe3e356c7326063d4edead43d47e66988588f7f9e20891445",
+      "checksum": "6e63ed7e0c048dbbe3e356c7326063d4edead43d47e66988588f7f9e20891445"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d3cc51173da412ba784ea95ca823d9251247e05add3c82aff3a1be99b98e9c82",
+      "checksum": "d3cc51173da412ba784ea95ca823d9251247e05add3c82aff3a1be99b98e9c82"
+    }
+  }
+}

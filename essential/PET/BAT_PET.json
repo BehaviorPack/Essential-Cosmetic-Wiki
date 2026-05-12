@@ -1,0 +1,53 @@
+{
+  "id": "BAT_PET",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Squeak The Bat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_ANIMAL",
+    "THEME_CUTE",
+    "COLLECTION_MAY2026",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/63e2b3b0ec35eadf2ce044d1467740b6aad56122163f5b134c5b0611e85e341d",
+      "checksum": "63e2b3b0ec35eadf2ce044d1467740b6aad56122163f5b134c5b0611e85e341d"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/cb306173e11109e70009a1331c021b1b4c233f942568148a8ae21988ab7398e9",
+      "checksum": "cb306173e11109e70009a1331c021b1b4c233f942568148a8ae21988ab7398e9"
+    },
+    "variants/black_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d2f49eb531080b2dd7d2c7c645426536491fc11e3419c7dd9cb8a46b6e4a91a4",
+      "checksum": "d2f49eb531080b2dd7d2c7c645426536491fc11e3419c7dd9cb8a46b6e4a91a4"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/04e882825873e478f8b5c7af4e4b59c0c3bab66eda47c8dbb69989c102b5e503",
+      "checksum": "04e882825873e478f8b5c7af4e4b59c0c3bab66eda47c8dbb69989c102b5e503"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a0947f0376dcac6dbf609a6e928d47c4ba4717618e2e2edf3b6b8f9417478715",
+      "checksum": "a0947f0376dcac6dbf609a6e928d47c4ba4717618e2e2edf3b6b8f9417478715"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/712e0b094f7809ac16357f652c8140a41e2f90b9ebe083eee3036da1ca47af21",
+      "checksum": "712e0b094f7809ac16357f652c8140a41e2f90b9ebe083eee3036da1ca47af21"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/9efc443b28075e0165646c04e3c9f5aa3af1bc836ff705dba03ba87672210782",
+      "checksum": "9efc443b28075e0165646c04e3c9f5aa3af1bc836ff705dba03ba87672210782"
+    }
+  }
+}

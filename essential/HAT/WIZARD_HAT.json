@@ -1,0 +1,49 @@
+{
+  "id": "WIZARD_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Wizard Hat"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 444,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c11e0a455daf274428731fe760cb086e657656faef0631d3b5743d4f9477eb25",
+      "checksum": "c11e0a455daf274428731fe760cb086e657656faef0631d3b5743d4f9477eb25"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a1ac2366ff258edeca29832d7821c1233e404990b69fc942a298bb0b4eb84443",
+      "checksum": "a1ac2366ff258edeca29832d7821c1233e404990b69fc942a298bb0b4eb84443"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0eaa19a0e827e818f2e4999e6e00c9a897e82968cbb71b905d07d0fab0686d37",
+      "checksum": "0eaa19a0e827e818f2e4999e6e00c9a897e82968cbb71b905d07d0fab0686d37"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/343ece3d5ee4c3a2e2fea7e402cae2e37ccc8da3f222c3bd25144dc6180bd4dd",
+      "checksum": "343ece3d5ee4c3a2e2fea7e402cae2e37ccc8da3f222c3bd25144dc6180bd4dd"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/db0788def95ea22a701fd71ce4e72249811195091a4818067ba9a4a53e3caa5b",
+      "checksum": "db0788def95ea22a701fd71ce4e72249811195091a4818067ba9a4a53e3caa5b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b5f783fb6e27730a355617987d2d2622f8b0552a661d0cc74953a24be831ddab",
+      "checksum": "b5f783fb6e27730a355617987d2d2622f8b0552a661d0cc74953a24be831ddab"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/b3e21bf99c04a2330115b444086f3f3f721df98908fe952a82850df4eb53b63c",
+      "checksum": "b3e21bf99c04a2330115b444086f3f3f721df98908fe952a82850df4eb53b63c"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/68b1931786bf87d1c7407015b4df5244603500af3ebaa0190c284f07f256e357",
+      "checksum": "68b1931786bf87d1c7407015b4df5244603500af3ebaa0190c284f07f256e357"
+    }
+  }
+}

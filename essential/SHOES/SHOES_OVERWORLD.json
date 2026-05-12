@@ -1,0 +1,35 @@
+{
+  "id": "SHOES_OVERWORLD",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Holy Shoes"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 41,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1c9cd79bbadac440d0005631e259a6704e718a37fe0dda2dfd6c6124a15c28f5",
+      "checksum": "1c9cd79bbadac440d0005631e259a6704e718a37fe0dda2dfd6c6124a15c28f5"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/90af500676b0d9d3caa08a14ecbeeb7572ac8701ca9034492472f16f78891189",
+      "checksum": "90af500676b0d9d3caa08a14ecbeeb7572ac8701ca9034492472f16f78891189"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3a03da40d14090b83a7ec62d68b48c3cef4fc334760f01828f570dbda65b6e53",
+      "checksum": "3a03da40d14090b83a7ec62d68b48c3cef4fc334760f01828f570dbda65b6e53"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/db31b2133cc3f129b1ff9c6ae41e053f0ae6ca4f55210daa5637bf26eac92148",
+      "checksum": "db31b2133cc3f129b1ff9c6ae41e053f0ae6ca4f55210daa5637bf26eac92148"
+    }
+  }
+}

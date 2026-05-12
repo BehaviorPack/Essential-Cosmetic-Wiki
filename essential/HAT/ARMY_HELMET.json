@@ -1,0 +1,36 @@
+{
+  "id": "ARMY_HELMET",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Army Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 112,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/40b80d76802ca65b53b602073582d1aa8aa3bb190bcfef8870326059c1d3ca9f",
+      "checksum": "40b80d76802ca65b53b602073582d1aa8aa3bb190bcfef8870326059c1d3ca9f"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/a4569575c772bf508648b25fcf496bc76a9198645ec639891acd0a84d0425f79",
+      "checksum": "a4569575c772bf508648b25fcf496bc76a9198645ec639891acd0a84d0425f79"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3f0df93db30f7251a1d481df859e649e34f3f98e368c6ef36f3a7471d2a0b880",
+      "checksum": "3f0df93db30f7251a1d481df859e649e34f3f98e368c6ef36f3a7471d2a0b880"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/ac9c0767068928a157c1f73abf9ac2aeb3ccadabe3ccbeae4f3587b47c00787f",
+      "checksum": "ac9c0767068928a157c1f73abf9ac2aeb3ccadabe3ccbeae4f3587b47c00787f"
+    }
+  }
+}

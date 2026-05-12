@@ -1,0 +1,62 @@
+{
+  "id": "PICNIC_DRESS",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Picnic Dress"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_AUTUMN",
+    "THEME_COZY",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d658694cfb2e495fc7b7aecc6690477c7ebd6e308a395d0efcb60007bf0225ef",
+      "checksum": "d658694cfb2e495fc7b7aecc6690477c7ebd6e308a395d0efcb60007bf0225ef"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/30090534a0cd5de57ad24ba4615e629362b724165ae63055d71fd6ca2fc88cf1",
+      "checksum": "30090534a0cd5de57ad24ba4615e629362b724165ae63055d71fd6ca2fc88cf1"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9ff0f643b5e89b726d25a256f542ccf184a528501d95846ad4ca71893028dccf",
+      "checksum": "9ff0f643b5e89b726d25a256f542ccf184a528501d95846ad4ca71893028dccf"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/72378e5911309eb722e08ebc5eaf3f62520d46e3add85b5d790e4e25494c7a97",
+      "checksum": "72378e5911309eb722e08ebc5eaf3f62520d46e3add85b5d790e4e25494c7a97"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/62b507175491c63198f2e962dadec8fab247ee508c456b8288c4e3867c3d1db2",
+      "checksum": "62b507175491c63198f2e962dadec8fab247ee508c456b8288c4e3867c3d1db2"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/152a1302bd54fee73b9aabf9626674fe5d318809038c1d55a4d7186fe985f65a",
+      "checksum": "152a1302bd54fee73b9aabf9626674fe5d318809038c1d55a4d7186fe985f65a"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9eb38bb83896fa5b9467aaa44f252c305ec17ed45977deca25cb95abd1767a3e",
+      "checksum": "9eb38bb83896fa5b9467aaa44f252c305ec17ed45977deca25cb95abd1767a3e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/96ebca624b203a01daff75c563369c84baff8bc0cd850d25658472a752a499fd",
+      "checksum": "96ebca624b203a01daff75c563369c84baff8bc0cd850d25658472a752a499fd"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/4550c67fec9e75d0500c372e06d34a706a8907856f0bff4425ce00a889db4864",
+      "checksum": "4550c67fec9e75d0500c372e06d34a706a8907856f0bff4425ce00a889db4864"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e4f9a1987f3a0047b6f5c38334cb046e4d2b3955bfd5978a9efb7b0029e7faab",
+      "checksum": "e4f9a1987f3a0047b6f5c38334cb046e4d2b3955bfd5978a9efb7b0029e7faab"
+    }
+  }
+}

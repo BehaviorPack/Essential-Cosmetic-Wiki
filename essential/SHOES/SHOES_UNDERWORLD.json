@@ -1,0 +1,34 @@
+{
+  "id": "SHOES_UNDERWORLD",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Skull Shoes"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 42,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ef8a6fcb6bbd697da0038757e055b2aab57b55634d0771a819b240173b24e9b5",
+      "checksum": "ef8a6fcb6bbd697da0038757e055b2aab57b55634d0771a819b240173b24e9b5"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f2e350d366406683d97ff452053e989bab7ccff9be6192f9ddc3fe5224811d0f",
+      "checksum": "f2e350d366406683d97ff452053e989bab7ccff9be6192f9ddc3fe5224811d0f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d5f0438d7957e24d479deda1dde92679815eafa9591e6f4bd2f928d6b8c5b495",
+      "checksum": "d5f0438d7957e24d479deda1dde92679815eafa9591e6f4bd2f928d6b8c5b495"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/db31b2133cc3f129b1ff9c6ae41e053f0ae6ca4f55210daa5637bf26eac92148",
+      "checksum": "db31b2133cc3f129b1ff9c6ae41e053f0ae6ca4f55210daa5637bf26eac92148"
+    }
+  }
+}

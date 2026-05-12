@@ -1,0 +1,47 @@
+{
+  "id": "LITTLE_DEMON_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Little Demon Wings"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/859d1cfdb8fbdc1511893a02f4c95896501bf5350794095720b88b47a460b6c1",
+      "checksum": "859d1cfdb8fbdc1511893a02f4c95896501bf5350794095720b88b47a460b6c1"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e6b5ce8c49c1d8f14cb0a2ea33bfd706a3701ee17c61b9086b7d2f45b44ab2ba",
+      "checksum": "e6b5ce8c49c1d8f14cb0a2ea33bfd706a3701ee17c61b9086b7d2f45b44ab2ba"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8f28f348601e978108e153cf25e68b0effb03eb156c8cec814b21a3855371212",
+      "checksum": "8f28f348601e978108e153cf25e68b0effb03eb156c8cec814b21a3855371212"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7b526846749d59ee73d829906dbcba5de2a4deba18baf7c6931c8534ec099324",
+      "checksum": "7b526846749d59ee73d829906dbcba5de2a4deba18baf7c6931c8534ec099324"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/6ac45b23074bd9f119cbf4b8e730270be26a8657d0c98606f9d54ed147b311cf",
+      "checksum": "6ac45b23074bd9f119cbf4b8e730270be26a8657d0c98606f9d54ed147b311cf"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/334b6c4abf54c035d441f697eb2b8eff2eb72741625ef4ccd82c7528777baa41",
+      "checksum": "334b6c4abf54c035d441f697eb2b8eff2eb72741625ef4ccd82c7528777baa41"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ff715126dda75bf7f7a4e3745b2a9d41850a7776f20c99cb7c0c0dac5d3d847b",
+      "checksum": "ff715126dda75bf7f7a4e3745b2a9d41850a7776f20c99cb7c0c0dac5d3d847b"
+    }
+  }
+}

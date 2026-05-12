@@ -1,0 +1,51 @@
+{
+  "id": "TIGHTS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Fishnet Tights"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK",
+    "COLLECTION_APRIL2026",
+    "THEME_Y2K",
+    "THEME_GOTHIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/black_tights/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d6833d75b9aa6849342ad08862da5b71b2a1559bd90c86ea345d98026af87470",
+      "checksum": "d6833d75b9aa6849342ad08862da5b71b2a1559bd90c86ea345d98026af87470"
+    },
+    "variants/white_tights/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b9582d26a298ee33d6a1e9491b49614afc64de8bae8353a0261cafabc667a703",
+      "checksum": "b9582d26a298ee33d6a1e9491b49614afc64de8bae8353a0261cafabc667a703"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1f6796f85a2e3a38120104de3bf40784251fe55c8deb3e66383658c7bef4eb71",
+      "checksum": "1f6796f85a2e3a38120104de3bf40784251fe55c8deb3e66383658c7bef4eb71"
+    },
+    "variants/white_fishnets/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4cd44dfc44ea94c98e664aede043dc6f0fb54548f5c380cb24a6df8fe3246911",
+      "checksum": "4cd44dfc44ea94c98e664aede043dc6f0fb54548f5c380cb24a6df8fe3246911"
+    },
+    "variants/black_fishnets/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4946446883ea76d1b6956bb0cd50f901eb93cfee52cbddaf30121ef70cd1c4fc",
+      "checksum": "4946446883ea76d1b6956bb0cd50f901eb93cfee52cbddaf30121ef70cd1c4fc"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e81b79cee45e68ee6eba96983eafd41248caae5e331a9cc88b3d19cd5f5a248e",
+      "checksum": "e81b79cee45e68ee6eba96983eafd41248caae5e331a9cc88b3d19cd5f5a248e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d133dbc431ce2b86c7afacc091ce6f08fdcf95537d3ba1b6ce53e37d048ed27a",
+      "checksum": "d133dbc431ce2b86c7afacc091ce6f08fdcf95537d3ba1b6ce53e37d048ed27a"
+    }
+  }
+}

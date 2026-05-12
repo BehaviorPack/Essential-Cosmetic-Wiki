@@ -1,0 +1,35 @@
+{
+  "id": "SNIFFER_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Sniffer Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 43,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/38cfe7bcfa9a8241bdbc6d05fe38319270a05ad35d01ff1753a1cefa961976bf",
+      "checksum": "38cfe7bcfa9a8241bdbc6d05fe38319270a05ad35d01ff1753a1cefa961976bf"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/df1a81647f48d8f4de7d5d5c2c2c52b6a6bb33b048cb25eccf829884d52334ef",
+      "checksum": "df1a81647f48d8f4de7d5d5c2c2c52b6a6bb33b048cb25eccf829884d52334ef"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5c553a6b8d15910560908cd80b0cac141d3edb1b8fc08cee58e2fcc35fedce66",
+      "checksum": "5c553a6b8d15910560908cd80b0cac141d3edb1b8fc08cee58e2fcc35fedce66"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f",
+      "checksum": "af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f"
+    }
+  }
+}

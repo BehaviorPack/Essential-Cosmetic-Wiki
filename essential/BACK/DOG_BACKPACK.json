@@ -1,0 +1,38 @@
+{
+  "id": "DOG_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Dog Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 107,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d822e13b5ce26e592ec37494ba11770b7fa86ffdbfd7c841e02f0ed939b7984d",
+      "checksum": "d822e13b5ce26e592ec37494ba11770b7fa86ffdbfd7c841e02f0ed939b7984d"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f4a6bf02611696a6dd2d2b3cdd6b2d17d12c70846c888a0af709016d6546585e",
+      "checksum": "f4a6bf02611696a6dd2d2b3cdd6b2d17d12c70846c888a0af709016d6546585e"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/f54ca7b6551c659f16076b754233621ae185b3e98c3003c2349e6af24dc693c5",
+      "checksum": "f54ca7b6551c659f16076b754233621ae185b3e98c3003c2349e6af24dc693c5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e3dd1eab4400e6771cff3f50f9d6dcf5ce6c04ee9f629644fbf7ab77d55972f",
+      "checksum": "7e3dd1eab4400e6771cff3f50f9d6dcf5ce6c04ee9f629644fbf7ab77d55972f"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/aa0b7c9ebb3a9ec4e5bb175a7d47fd596e94d79a41e4217ac7d6e8d0014fbf2d",
+      "checksum": "aa0b7c9ebb3a9ec4e5bb175a7d47fd596e94d79a41e4217ac7d6e8d0014fbf2d"
+    }
+  }
+}

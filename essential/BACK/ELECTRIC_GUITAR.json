@@ -1,0 +1,42 @@
+{
+  "id": "ELECTRIC_GUITAR",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Electric Guitar"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1b8212b08969a811dc4c16ec126c5b1d981113e336df74bf2422a60d2ac534de",
+      "checksum": "1b8212b08969a811dc4c16ec126c5b1d981113e336df74bf2422a60d2ac534de"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5551e352696845757524d10efeec0cad36ee3d5e14e69040384ca73f608a11e0",
+      "checksum": "5551e352696845757524d10efeec0cad36ee3d5e14e69040384ca73f608a11e0"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/547a773e178e4dcd8d0576e0a72f7612c3270f63d0cecaf83299a5b111e3bfba",
+      "checksum": "547a773e178e4dcd8d0576e0a72f7612c3270f63d0cecaf83299a5b111e3bfba"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8a4d944a792083d6e0ef398d79a60e19a819f476aa32644c9a9f1868694e4291",
+      "checksum": "8a4d944a792083d6e0ef398d79a60e19a819f476aa32644c9a9f1868694e4291"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b9b177dcbcd8f0e1ad873a2e5d68fd6378f6a925e39193cd038d1c1c63fa638b",
+      "checksum": "b9b177dcbcd8f0e1ad873a2e5d68fd6378f6a925e39193cd038d1c1c63fa638b"
+    }
+  }
+}

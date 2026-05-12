@@ -1,0 +1,41 @@
+{
+  "id": "HACKER_LASER_GUN",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Hacker Laser Gun"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:HACKER",
+    "FEATURED",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 112,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/93a53ec0c0d9b150d7d93746dae8bbf234535f644027f5ac020098186f7c18dc",
+      "checksum": "93a53ec0c0d9b150d7d93746dae8bbf234535f644027f5ac020098186f7c18dc"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/350e4929496c5ec1deed16188b4cc14d5f0e9317f79b4b628b3b644c1c28b99f",
+      "checksum": "350e4929496c5ec1deed16188b4cc14d5f0e9317f79b4b628b3b644c1c28b99f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/4497d26e071cb0cb3e8b408d127b1f444f9856d7126267a9f45420bbcf15b0d8",
+      "checksum": "4497d26e071cb0cb3e8b408d127b1f444f9856d7126267a9f45420bbcf15b0d8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d2af46150422435bc2ee6d246fe9c39af1b49404c4a135e39011a83139d8e632",
+      "checksum": "d2af46150422435bc2ee6d246fe9c39af1b49404c4a135e39011a83139d8e632"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0f09517ac96789924482c40a29bd200db94c154f50745adfc8e516c8271dac48",
+      "checksum": "0f09517ac96789924482c40a29bd200db94c154f50745adfc8e516c8271dac48"
+    }
+  }
+}

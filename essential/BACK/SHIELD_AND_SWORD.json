@@ -1,0 +1,44 @@
+{
+  "id": "SHIELD_AND_SWORD",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Sword \u0026 Shield"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 19,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/78bac89abef5c9082f3d24e9c52e5aa62208038a3cb4a25abf8b2183893ad597",
+      "checksum": "78bac89abef5c9082f3d24e9c52e5aa62208038a3cb4a25abf8b2183893ad597"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a85ac144eb2b3408c6ba5680023375d36e6418e6d33d4e3e8ded13bd10a94022",
+      "checksum": "a85ac144eb2b3408c6ba5680023375d36e6418e6d33d4e3e8ded13bd10a94022"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b68d6c52379c5dfa55dee9c597891de816d1bc149846aea7284e9f744bb9ab7e",
+      "checksum": "b68d6c52379c5dfa55dee9c597891de816d1bc149846aea7284e9f744bb9ab7e"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d28670a644d612690ad1721055a12a5fd0798d81cfbc6988c48c41ba139c2ba4",
+      "checksum": "d28670a644d612690ad1721055a12a5fd0798d81cfbc6988c48c41ba139c2ba4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f70f06d453f6ae530067d64d80fa6be3c293260d69aa17111b1aa905fc86956a",
+      "checksum": "f70f06d453f6ae530067d64d80fa6be3c293260d69aa17111b1aa905fc86956a"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fbeb807f60950c7258e958da81c9efebd2b51496e4ee92baf8070f20db5cf565",
+      "checksum": "fbeb807f60950c7258e958da81c9efebd2b51496e4ee92baf8070f20db5cf565"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "BASKETBALL_JERSEY",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Basketball Jersey"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCHOOL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5a9f8cb0e2db90c698681025e611ebb5f3fa971740e21cff2b2a2e2132b6dbbf",
+      "checksum": "5a9f8cb0e2db90c698681025e611ebb5f3fa971740e21cff2b2a2e2132b6dbbf"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5a7b434d30fa5a079c76f1b6603410d67a86bbac286ea5e613f2e586aa931037",
+      "checksum": "5a7b434d30fa5a079c76f1b6603410d67a86bbac286ea5e613f2e586aa931037"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/7a59560ee6ddb14e81ea676a6fb16feb27b03faedbd74383565c68ec9a47f4ec",
+      "checksum": "7a59560ee6ddb14e81ea676a6fb16feb27b03faedbd74383565c68ec9a47f4ec"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/53d01c03b5454fb94d8da3db5e04861c9739302a7761833ef76e3e1c39aee893",
+      "checksum": "53d01c03b5454fb94d8da3db5e04861c9739302a7761833ef76e3e1c39aee893"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/46eab90e408158eba21865305704abd14eb8f999967ac2703eb3fd1f7512ed9e",
+      "checksum": "46eab90e408158eba21865305704abd14eb8f999967ac2703eb3fd1f7512ed9e"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/263b9c18f76afa5646e6fc314f03b5ae17dea427615421097a8b63d3b1f52f12",
+      "checksum": "263b9c18f76afa5646e6fc314f03b5ae17dea427615421097a8b63d3b1f52f12"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7a59560ee6ddb14e81ea676a6fb16feb27b03faedbd74383565c68ec9a47f4ec",
+      "checksum": "7a59560ee6ddb14e81ea676a6fb16feb27b03faedbd74383565c68ec9a47f4ec"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/53d01c03b5454fb94d8da3db5e04861c9739302a7761833ef76e3e1c39aee893",
+      "checksum": "53d01c03b5454fb94d8da3db5e04861c9739302a7761833ef76e3e1c39aee893"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9e4b16ca7f0ee3a3898ad99ea6de4b5f7c6719ccbee1e7ed7b223d5176c3472c",
+      "checksum": "9e4b16ca7f0ee3a3898ad99ea6de4b5f7c6719ccbee1e7ed7b223d5176c3472c"
+    }
+  }
+}

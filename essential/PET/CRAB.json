@@ -1,0 +1,56 @@
+{
+  "id": "CRAB",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Crab"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_AQUATIC",
+    "THEME_SUMMER",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 0
+  },
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b7e0b6f3c1edd052383245cba4f6d84c9d693aa743711bbccd0f93f538efa2f2",
+      "checksum": "b7e0b6f3c1edd052383245cba4f6d84c9d693aa743711bbccd0f93f538efa2f2"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f7573239b3b487eab88acd9c39b0dd855a2245cec541aef4cd2e8f15aedf0d14",
+      "checksum": "f7573239b3b487eab88acd9c39b0dd855a2245cec541aef4cd2e8f15aedf0d14"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a9a00c74abdfc9ac78601613b52683753b086f567eaa5005dbebf6e8751f5e9b",
+      "checksum": "a9a00c74abdfc9ac78601613b52683753b086f567eaa5005dbebf6e8751f5e9b"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4e425e12ac565ce960b302e3df77be937bb56ba3bbc364c23b183dfc59e4514c",
+      "checksum": "4e425e12ac565ce960b302e3df77be937bb56ba3bbc364c23b183dfc59e4514c"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a7e3b50a8a573601802bab8848e14736f4a632db2afb6145dca3ad3f23f03669",
+      "checksum": "a7e3b50a8a573601802bab8848e14736f4a632db2afb6145dca3ad3f23f03669"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8d0bbcf933621ca3a2c3b33a1788a2622c0a2a9e50609e1978ac3ce8171978ea",
+      "checksum": "8d0bbcf933621ca3a2c3b33a1788a2622c0a2a9e50609e1978ac3ce8171978ea"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/772e2140ddc8dc6bc09e4b120d9cb5fce2743804b2d66b1bd3c5eb2aca9606c6",
+      "checksum": "772e2140ddc8dc6bc09e4b120d9cb5fce2743804b2d66b1bd3c5eb2aca9606c6"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/03f53f17dd4fef5805688c28c3b0f2b68b0528ead535f3cc533ef87dcdace994",
+      "checksum": "03f53f17dd4fef5805688c28c3b0f2b68b0528ead535f3cc533ef87dcdace994"
+    }
+  }
+}

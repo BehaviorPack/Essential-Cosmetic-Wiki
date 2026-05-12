@@ -1,0 +1,38 @@
+{
+  "id": "PILOT_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Pilot Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_CITY",
+    "THEME_ROLEPLAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 29,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5fe96ed899cde6601d0a741c7a66bd26100c3acb5c44760a34335d6d282107c0",
+      "checksum": "5fe96ed899cde6601d0a741c7a66bd26100c3acb5c44760a34335d6d282107c0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f24f0620eea7a97243b1b54b71ae53d860923a5ee2bada478e6ee5c4629bf314",
+      "checksum": "f24f0620eea7a97243b1b54b71ae53d860923a5ee2bada478e6ee5c4629bf314"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d1b1b99056fb4a73326986861d5028238f5d7341668465569ac9d5eee257c97d",
+      "checksum": "d1b1b99056fb4a73326986861d5028238f5d7341668465569ac9d5eee257c97d"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761",
+      "checksum": "0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761"
+    }
+  }
+}

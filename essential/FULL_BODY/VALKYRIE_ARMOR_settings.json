@@ -1,0 +1,43 @@
+[
+  {
+    "type": "VARIANTS",
+    "id": "UNUSED",
+    "enabled": true,
+    "data": {
+      "variants": [
+        {
+          "name": "silver_gold",
+          "color": 8912896
+        },
+        {
+          "name": "black_gold",
+          "color": 9371761
+        },
+        {
+          "name": "soul_aether_blue",
+          "color": 1973790
+        }
+      ]
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "COZY_CARDIGAN",
+    "enabled": true,
+    "data": {
+      "arms": true,
+      "body": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "RAIN_JACKET",
+    "enabled": true,
+    "data": {
+      "head": true,
+      "arms": true,
+      "body": true,
+      "legs": true
+    }
+  }
+]

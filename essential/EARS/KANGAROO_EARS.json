@@ -1,0 +1,35 @@
+{
+  "id": "KANGAROO_EARS",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Kangaroo Ears"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 11,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3823abaee85f33f357fc4024b72ba72a7cbb2bc13099ccfb6b81356fc94840ae",
+      "checksum": "3823abaee85f33f357fc4024b72ba72a7cbb2bc13099ccfb6b81356fc94840ae"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/2b0a4af59f3911ddb644006645150f66313e02f8304f658b71909c53acf244a5",
+      "checksum": "2b0a4af59f3911ddb644006645150f66313e02f8304f658b71909c53acf244a5"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/662c641cdbd77add6ab8f518fd4450b0d0e1464ebde0ad7631a39d0729d6c17c",
+      "checksum": "662c641cdbd77add6ab8f518fd4450b0d0e1464ebde0ad7631a39d0729d6c17c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f5dc97c830fd59581a4a41aeb41ba5cd688eb31f4a52e72c587d32d45e70e7ac",
+      "checksum": "f5dc97c830fd59581a4a41aeb41ba5cd688eb31f4a52e72c587d32d45e70e7ac"
+    }
+  }
+}

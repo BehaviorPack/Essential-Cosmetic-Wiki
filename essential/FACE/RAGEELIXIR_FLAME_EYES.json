@@ -1,0 +1,30 @@
+{
+  "id": "RAGEELIXIR_FLAME_EYES",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "RageElixir\u0027s Flame Eyes"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 110,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f64b8fdae54746ce1700a3de94f46999ed524b1bb6b7d9f896f7b31c438c978f",
+      "checksum": "f64b8fdae54746ce1700a3de94f46999ed524b1bb6b7d9f896f7b31c438c978f"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/59c2f0846b7c255377e241a780789695ade4551435281f3a88db75270a7bb2ef",
+      "checksum": "59c2f0846b7c255377e241a780789695ade4551435281f3a88db75270a7bb2ef"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/9d76fae555bab94083707394e87d33d33a0374d787df6eca0fe4dd2d3ab2096f",
+      "checksum": "9d76fae555bab94083707394e87d33d33a0374d787df6eca0fe4dd2d3ab2096f"
+    }
+  }
+}

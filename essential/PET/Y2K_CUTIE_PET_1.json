@@ -1,0 +1,39 @@
+{
+  "id": "Y2K_CUTIE_PET_1",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Kokoblitz Cat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JUNE2025",
+    "THEME_Y2K",
+    "SET_CUTIES",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f2b23bd05c312349e5aa9e29d62930ca10b97ee6272be13397e851a4e49f261e",
+      "checksum": "f2b23bd05c312349e5aa9e29d62930ca10b97ee6272be13397e851a4e49f261e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/8cb6c7ddccbafe6bb80f0964eba14ca3ed1d238b1dc10d4860ef84678726fe1d",
+      "checksum": "8cb6c7ddccbafe6bb80f0964eba14ca3ed1d238b1dc10d4860ef84678726fe1d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/0d364e9ae3a1978e2df555615733387ad4159963c1d69b41ff5fd66e4f118b43",
+      "checksum": "0d364e9ae3a1978e2df555615733387ad4159963c1d69b41ff5fd66e4f118b43"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/084e42e8362853df488ffcfd17be20bf36d26c1636d23d887768f164c08d4144",
+      "checksum": "084e42e8362853df488ffcfd17be20bf36d26c1636d23d887768f164c08d4144"
+    }
+  }
+}

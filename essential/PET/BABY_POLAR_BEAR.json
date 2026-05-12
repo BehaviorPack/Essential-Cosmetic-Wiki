@@ -1,0 +1,52 @@
+{
+  "id": "BABY_POLAR_BEAR",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Baby Bear"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "COLLECTION_JANUARY2026",
+    "THEME_CUTE",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9216a88f7c6b3fa87605a2762ad9cf0bb61b2635564038d29eb1a1ee721b15b5",
+      "checksum": "9216a88f7c6b3fa87605a2762ad9cf0bb61b2635564038d29eb1a1ee721b15b5"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8772a34c8a4a234e51f9b6f4c5d83bb1547d090046c8dbde94e0e010029a2a60",
+      "checksum": "8772a34c8a4a234e51f9b6f4c5d83bb1547d090046c8dbde94e0e010029a2a60"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8f8c4b1004ceccf80c073c5d4284087e7383f5930fc9559aa4af5e1ef046eeb1",
+      "checksum": "8f8c4b1004ceccf80c073c5d4284087e7383f5930fc9559aa4af5e1ef046eeb1"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/36692ce8fdbe9c9bf1467e31cb62cf0992224b4668b540f3d81c85828b6eb80f",
+      "checksum": "36692ce8fdbe9c9bf1467e31cb62cf0992224b4668b540f3d81c85828b6eb80f"
+    },
+    "variants/cream/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bbeab75059760705daff8ecbaa60691f2c892021a779797a10154ad1354f4bc0",
+      "checksum": "bbeab75059760705daff8ecbaa60691f2c892021a779797a10154ad1354f4bc0"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/81538abcc2e081e988b407d67140d96426b91213c635fbd00c16a3d7c9c837ce",
+      "checksum": "81538abcc2e081e988b407d67140d96426b91213c635fbd00c16a3d7c9c837ce"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/12d54c2fc40247c23c543f66df6fec8bf894bbcaab5d8ee749f80ea008cea20b",
+      "checksum": "12d54c2fc40247c23c543f66df6fec8bf894bbcaab5d8ee749f80ea008cea20b"
+    }
+  }
+}

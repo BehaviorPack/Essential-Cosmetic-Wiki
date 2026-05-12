@@ -1,0 +1,33 @@
+{
+  "id": "FRANKENSTEIN_BOLTS",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Frankenstein Bolts"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/6717ff43e541e34f6364b5a460d894b4e59a8274b0995448c265734539386469",
+      "checksum": "6717ff43e541e34f6364b5a460d894b4e59a8274b0995448c265734539386469"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/cdde6a0a85757fee5740a059a4eff75727d8df4f7ed30ab386197670ca57124b",
+      "checksum": "cdde6a0a85757fee5740a059a4eff75727d8df4f7ed30ab386197670ca57124b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0bf5652f5081004a26759996b1af0bbe33129bd48de0e8890abd7e253c45ca48",
+      "checksum": "0bf5652f5081004a26759996b1af0bbe33129bd48de0e8890abd7e253c45ca48"
+    }
+  }
+}

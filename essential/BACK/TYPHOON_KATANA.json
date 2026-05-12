@@ -1,0 +1,35 @@
+{
+  "id": "TYPHOON_KATANA",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Wind Katana"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_NINJA",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/16e7dd7246e754ae9c0da4119d422b6d99bd4ba25ecd7b2c2b62fd943d1b412b",
+      "checksum": "16e7dd7246e754ae9c0da4119d422b6d99bd4ba25ecd7b2c2b62fd943d1b412b"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b92b0bb0663c24bb72bf5c408988d40c61bef5e43ca40adcdb3d6f0cc340c3af",
+      "checksum": "b92b0bb0663c24bb72bf5c408988d40c61bef5e43ca40adcdb3d6f0cc340c3af"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/86ea831c9ad69e57f5008bdcb8612ae7100029e28717aacc27992684821c7b8f",
+      "checksum": "86ea831c9ad69e57f5008bdcb8612ae7100029e28717aacc27992684821c7b8f"
+    }
+  }
+}

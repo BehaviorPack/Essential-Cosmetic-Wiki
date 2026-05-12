@@ -1,0 +1,41 @@
+{
+  "id": "SANTA_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Santa Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f85b74a812373fd1f68b01593efd7bd9c717685bedc829dbe4a73c87fcc3572c",
+      "checksum": "f85b74a812373fd1f68b01593efd7bd9c717685bedc829dbe4a73c87fcc3572c"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/73c86b888a7ff2fb928e4a497c46bc0868ac2d65f13dbe5c5668dd78a30cb884",
+      "checksum": "73c86b888a7ff2fb928e4a497c46bc0868ac2d65f13dbe5c5668dd78a30cb884"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f1a83f66834bde69d3756e4299c57fcf87b2b737a8f84f98fc7d75e87a09bf08",
+      "checksum": "f1a83f66834bde69d3756e4299c57fcf87b2b737a8f84f98fc7d75e87a09bf08"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/27b5d55efda00f95d35ab81b50ff302e699307effb341077d2bb65db4b2388ba",
+      "checksum": "27b5d55efda00f95d35ab81b50ff302e699307effb341077d2bb65db4b2388ba"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7171a02185132ade6fa3265a333f5ebfbfe4fb3517c9e9390ff3ee04417b6be1",
+      "checksum": "7171a02185132ade6fa3265a333f5ebfbfe4fb3517c9e9390ff3ee04417b6be1"
+    }
+  }
+}

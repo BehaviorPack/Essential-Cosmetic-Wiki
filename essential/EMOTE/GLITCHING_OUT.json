@@ -1,0 +1,32 @@
+{
+  "id": "GLITCHING_OUT",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Malfunction Walk"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HORROR",
+    "THEME_HALLOWEEN",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e5dbfce14b0411a264fc0d4f0df41034ab1db29409068a30c2d94cff30d11213",
+      "checksum": "e5dbfce14b0411a264fc0d4f0df41034ab1db29409068a30c2d94cff30d11213"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

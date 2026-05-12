@@ -1,0 +1,40 @@
+{
+  "id": "CHICK",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Chick"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_EASTER",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/db8d0cc6707fdd58f15c4ee4a70bcb3c32c380cd2e30acced733ed9a604fdbb1",
+      "checksum": "db8d0cc6707fdd58f15c4ee4a70bcb3c32c380cd2e30acced733ed9a604fdbb1"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/d76ec1710a7ea2b57479a27be080b32c55ba7dac746bc0e15fc86146790e0713",
+      "checksum": "d76ec1710a7ea2b57479a27be080b32c55ba7dac746bc0e15fc86146790e0713"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/1c66031cdbfab555126277d7d0dc8f91e2850a695f917db8d7f112afe17e4136",
+      "checksum": "1c66031cdbfab555126277d7d0dc8f91e2850a695f917db8d7f112afe17e4136"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1c3a59428dd470e67ca5cac240d9e0589ef62d09ac39e447cd0a066642bc2da1",
+      "checksum": "1c3a59428dd470e67ca5cac240d9e0589ef62d09ac39e447cd0a066642bc2da1"
+    }
+  }
+}

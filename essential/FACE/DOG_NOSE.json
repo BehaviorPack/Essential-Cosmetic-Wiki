@@ -1,0 +1,30 @@
+{
+  "id": "DOG_NOSE",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Dog Nose"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 43,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8b6c0c1284546117a029ac26c5cb67130f9463ad964c4b2c2d7dab994374536b",
+      "checksum": "8b6c0c1284546117a029ac26c5cb67130f9463ad964c4b2c2d7dab994374536b"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/87643164c48b8bcd7a23296c3659507f4b9d623f8430b2318cb7eb5f073f1837",
+      "checksum": "87643164c48b8bcd7a23296c3659507f4b9d623f8430b2318cb7eb5f073f1837"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/838d47e273ceee2c69a95fc9019dc5c37569052f2d257af6cc7b231aba09ece8",
+      "checksum": "838d47e273ceee2c69a95fc9019dc5c37569052f2d257af6cc7b231aba09ece8"
+    }
+  }
+}

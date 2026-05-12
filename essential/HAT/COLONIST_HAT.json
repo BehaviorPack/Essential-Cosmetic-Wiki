@@ -1,0 +1,35 @@
+{
+  "id": "COLONIST_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Colonist Hat"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 33,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/28693e21fe955e5864f5dcfc3d9bc57f7ed57699d6b2bb6292293e357ac3bdfd",
+      "checksum": "28693e21fe955e5864f5dcfc3d9bc57f7ed57699d6b2bb6292293e357ac3bdfd"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/52cdc50df34126c2b11bfdf5bcd64697bbd82fe73c0b9ae5057662d9eb2ff734",
+      "checksum": "52cdc50df34126c2b11bfdf5bcd64697bbd82fe73c0b9ae5057662d9eb2ff734"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/38556cd8cc3f4d57b76d36ade05c39b227be858fd8f809baf4c2ec39db3351fd",
+      "checksum": "38556cd8cc3f4d57b76d36ade05c39b227be858fd8f809baf4c2ec39db3351fd"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761",
+      "checksum": "0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761"
+    }
+  }
+}

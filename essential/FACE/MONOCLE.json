@@ -1,0 +1,31 @@
+{
+  "id": "MONOCLE",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Monocle"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 16,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b993da785c16b0c09a241f4611e58722b057b889177c85eadc3eed60bd0b7da0",
+      "checksum": "b993da785c16b0c09a241f4611e58722b057b889177c85eadc3eed60bd0b7da0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/05bc0b608c4a13567182a59030f7ddbfbedcb0ff665d24b41135757643fe5f5d",
+      "checksum": "05bc0b608c4a13567182a59030f7ddbfbedcb0ff665d24b41135757643fe5f5d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/195eac35e784461d76a900dd4941c1edd1fbd890d9ba2c69dfeb304c5398ba93",
+      "checksum": "195eac35e784461d76a900dd4941c1edd1fbd890d9ba2c69dfeb304c5398ba93"
+    }
+  }
+}

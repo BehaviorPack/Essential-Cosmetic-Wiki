@@ -1,0 +1,35 @@
+{
+  "id": "SOMBRERO",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Sombrero"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 31,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/444750049d242a286e2902705830e9d4703cac326f7fe30c679c2d8f8b56ff2a",
+      "checksum": "444750049d242a286e2902705830e9d4703cac326f7fe30c679c2d8f8b56ff2a"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b5163df165750aa688c3acdbe6b72d131e4f6aa6fd26932b9e1b28b7e63bb479",
+      "checksum": "b5163df165750aa688c3acdbe6b72d131e4f6aa6fd26932b9e1b28b7e63bb479"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/67b570b73fe2adc35f9adac2374563b120618e823cbcfa27581de03852521d7c",
+      "checksum": "67b570b73fe2adc35f9adac2374563b120618e823cbcfa27581de03852521d7c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f",
+      "checksum": "af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f"
+    }
+  }
+}

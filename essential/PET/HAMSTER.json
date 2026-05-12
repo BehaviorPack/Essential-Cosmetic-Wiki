@@ -1,0 +1,47 @@
+{
+  "id": "HAMSTER",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Hamster"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 30,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8052106e2b30938f1f52c3909c939815206fc1d9997fbf2fced9400d62c43cd9",
+      "checksum": "8052106e2b30938f1f52c3909c939815206fc1d9997fbf2fced9400d62c43cd9"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/60e1c8261b8f5c7f544fc58ee232e79a9313b2382321e51c7a59a13e7d34ff42",
+      "checksum": "60e1c8261b8f5c7f544fc58ee232e79a9313b2382321e51c7a59a13e7d34ff42"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/31604366b1130ad87074fa079a4d8cfcadc42e9b9235c34b5100e7d39c2ebf0c",
+      "checksum": "31604366b1130ad87074fa079a4d8cfcadc42e9b9235c34b5100e7d39c2ebf0c"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fe9daeef2c2d35186424c159b6d2a7ae8bc547f9570f97d0eb362566a7af420a",
+      "checksum": "fe9daeef2c2d35186424c159b6d2a7ae8bc547f9570f97d0eb362566a7af420a"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d8a445c7f07536545bcae3cd6493a711d3de6663f60d229aae438927bf3f969b",
+      "checksum": "d8a445c7f07536545bcae3cd6493a711d3de6663f60d229aae438927bf3f969b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c96a338c5357c52d339f8fb83d4defe01c223a97fe6febea3e04bc101fd742fc",
+      "checksum": "c96a338c5357c52d339f8fb83d4defe01c223a97fe6febea3e04bc101fd742fc"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "DRAGON_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Dragon Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 106,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d15c3cbd303df911d3fccf3d7ffc4f612b70adab5146ff0b3ff404623dd415e1",
+      "checksum": "d15c3cbd303df911d3fccf3d7ffc4f612b70adab5146ff0b3ff404623dd415e1"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1eda5a0b1a3f5e7b26d5df84e70a6c6b730d4dcc49240e49d0cf187c61b8e861",
+      "checksum": "1eda5a0b1a3f5e7b26d5df84e70a6c6b730d4dcc49240e49d0cf187c61b8e861"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/a42832f1fabe55e0111843d3a5c8983a17694d059c212dd6a18a158f62a6faea",
+      "checksum": "a42832f1fabe55e0111843d3a5c8983a17694d059c212dd6a18a158f62a6faea"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/52de384a7face6b12b1cc5162d7ee9fa639980eba67f00cb585470b9fa27b8c8",
+      "checksum": "52de384a7face6b12b1cc5162d7ee9fa639980eba67f00cb585470b9fa27b8c8"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/aa0b7c9ebb3a9ec4e5bb175a7d47fd596e94d79a41e4217ac7d6e8d0014fbf2d",
+      "checksum": "aa0b7c9ebb3a9ec4e5bb175a7d47fd596e94d79a41e4217ac7d6e8d0014fbf2d"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8f2cfd4068496e8629ea2e2e63831b8718af0d6decadb076c46b98efaaa7f51e",
+      "checksum": "8f2cfd4068496e8629ea2e2e63831b8718af0d6decadb076c46b98efaaa7f51e"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/67d1876f2e978539caef57438fbb8bee7cf176d56d7d0c2c3833db27e9421f2f",
+      "checksum": "67d1876f2e978539caef57438fbb8bee7cf176d56d7d0c2c3833db27e9421f2f"
+    }
+  }
+}

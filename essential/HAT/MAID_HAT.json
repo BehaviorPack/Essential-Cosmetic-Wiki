@@ -1,0 +1,35 @@
+{
+  "id": "MAID_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Maid Hat"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 22,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/290f296911a39502dfe2d48dcdfa4998815440fcc1e10093834968380397ec44",
+      "checksum": "290f296911a39502dfe2d48dcdfa4998815440fcc1e10093834968380397ec44"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/0d8186d48c11f0316906f18e436a2c5c69b09c902b9e8df9cb36cbfc62317296",
+      "checksum": "0d8186d48c11f0316906f18e436a2c5c69b09c902b9e8df9cb36cbfc62317296"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c98f6aa030452ec91c538a92244a746041a500fd8a6f642df92deb5699281836",
+      "checksum": "c98f6aa030452ec91c538a92244a746041a500fd8a6f642df92deb5699281836"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/b7423231f1a2e9d72d86597cada80fff8b97793ad4665c5c2da9239a5fe93fc1",
+      "checksum": "b7423231f1a2e9d72d86597cada80fff8b97793ad4665c5c2da9239a5fe93fc1"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ANTVENOM_ANT_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "AntVenom\u0027s Ant Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY",
+    "FEATURED"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 420,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/882cef699f2a9225bb62c42c2c578a54a16944e5a5e72fd5d3c65777101f06c7",
+      "checksum": "882cef699f2a9225bb62c42c2c578a54a16944e5a5e72fd5d3c65777101f06c7"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/4fb6301caa35e973dcafb224c303cb337e7842234c3982f8548341ad461d253b",
+      "checksum": "4fb6301caa35e973dcafb224c303cb337e7842234c3982f8548341ad461d253b"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/0373a106baf215e9fa955ad682348406719033a4c82012c409167717eb16c146",
+      "checksum": "0373a106baf215e9fa955ad682348406719033a4c82012c409167717eb16c146"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/d6df8ccf58ce6b5fb6b21b41f5fdd85d049e219c329db1f718aa5de5bd4a6085",
+      "checksum": "d6df8ccf58ce6b5fb6b21b41f5fdd85d049e219c329db1f718aa5de5bd4a6085"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/9d0a26a291b0a2060d446cd4639d575a47c1343f8d7289a7bbdf31f12031edf9",
+      "checksum": "9d0a26a291b0a2060d446cd4639d575a47c1343f8d7289a7bbdf31f12031edf9"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d059a71b5ae647f0da78d209a96f5958f687a898f7bfe345e17c3e3716e61243",
+      "checksum": "d059a71b5ae647f0da78d209a96f5958f687a898f7bfe345e17c3e3716e61243"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/14da7da3cb4560c1da9c5aeaae0a24fb3ff84fb0404e56d0aa1c856303930d70",
+      "checksum": "14da7da3cb4560c1da9c5aeaae0a24fb3ff84fb0404e56d0aa1c856303930d70"
+    }
+  }
+}

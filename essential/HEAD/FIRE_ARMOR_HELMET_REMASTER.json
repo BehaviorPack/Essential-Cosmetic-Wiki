@@ -1,0 +1,66 @@
+{
+  "id": "FIRE_ARMOR_HELMET_REMASTER",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Fire Armor Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/soul_fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4badb2ce1237455a265bcab6471527818470d15ed4f629f7b34f09ea3fb118af",
+      "checksum": "4badb2ce1237455a265bcab6471527818470d15ed4f629f7b34f09ea3fb118af"
+    },
+    "particles/helmet_embers.particle.json": {
+      "url": "https://cdn.essential.gg/assets/4a7fc4974cd17c4bc9214c353255937a504a7eb5b6ba65ff233f4b618f6d3bec",
+      "checksum": "4a7fc4974cd17c4bc9214c353255937a504a7eb5b6ba65ff233f4b618f6d3bec"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d924b0e1e2cef8d9e1598080ebe485531f2b0b8521a93495f6a6bc4fc9db3f8f",
+      "checksum": "d924b0e1e2cef8d9e1598080ebe485531f2b0b8521a93495f6a6bc4fc9db3f8f"
+    },
+    "variants/soul_fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/0ada97ceda030ee90b1053083f90e98491172731c77d99225bd39ebc68000530",
+      "checksum": "0ada97ceda030ee90b1053083f90e98491172731c77d99225bd39ebc68000530"
+    },
+    "variants/fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e054343028b2c4b45ed124bf8fe09f8af11572df6133884df6c60091fc60208f",
+      "checksum": "e054343028b2c4b45ed124bf8fe09f8af11572df6133884df6c60091fc60208f"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/adb44544b99e3dcf545ab94e1721ab8b1015e560f32c6fa57802f0057662f393",
+      "checksum": "adb44544b99e3dcf545ab94e1721ab8b1015e560f32c6fa57802f0057662f393"
+    },
+    "variants/fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/2c8e08f137b8762d9bdc0ae9b8c3a2bb56102b9255515c8b659ded1831ae8d22",
+      "checksum": "2c8e08f137b8762d9bdc0ae9b8c3a2bb56102b9255515c8b659ded1831ae8d22"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f6e01a6a9f0d319bd4b7178f3607857bb12feaf161acd52883fbff63d6c445cd",
+      "checksum": "f6e01a6a9f0d319bd4b7178f3607857bb12feaf161acd52883fbff63d6c445cd"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/895cfda460c72edd619ac6ab6b18ed070f2f96bc9387462436c2d0c8f582951d",
+      "checksum": "895cfda460c72edd619ac6ab6b18ed070f2f96bc9387462436c2d0c8f582951d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b133f3224935502df76af209dbf5304b5c06ed1c16cb8190a4bfd10032e1e5c0",
+      "checksum": "b133f3224935502df76af209dbf5304b5c06ed1c16cb8190a4bfd10032e1e5c0"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/98486781e9075753ba264e9fae0eade6f5d8c3d8dd8e7f5205dbfc7c1844b906",
+      "checksum": "98486781e9075753ba264e9fae0eade6f5d8c3d8dd8e7f5205dbfc7c1844b906"
+    }
+  }
+}

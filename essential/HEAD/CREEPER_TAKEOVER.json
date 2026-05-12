@@ -1,0 +1,54 @@
+{
+  "id": "CREEPER_TAKEOVER",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Creeper Takeover"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "skin_mask.steve.right.png": {
+      "url": "https://cdn.essential.gg/assets/4207aad1e5b7a3f46dc4fd56ffc32c1858676532f8480a188b7a7d2988c5ffe4",
+      "checksum": "4207aad1e5b7a3f46dc4fd56ffc32c1858676532f8480a188b7a7d2988c5ffe4"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e3e4f6d99db50066b25a73397027d501bb5292232314f9433fb4d61fc9633559",
+      "checksum": "e3e4f6d99db50066b25a73397027d501bb5292232314f9433fb4d61fc9633559"
+    },
+    "skin_mask.steve.left.png": {
+      "url": "https://cdn.essential.gg/assets/ab6c8d7c24ff5bd2d39e05baacf3607546431ecb71df2d31d3a722758050a9c5",
+      "checksum": "ab6c8d7c24ff5bd2d39e05baacf3607546431ecb71df2d31d3a722758050a9c5"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/c53701f01055857c49d5e42a7c69eca6dcfd932b97a4a18ae67219bb1d40c277",
+      "checksum": "c53701f01055857c49d5e42a7c69eca6dcfd932b97a4a18ae67219bb1d40c277"
+    },
+    "skin_mask.alex.left.png": {
+      "url": "https://cdn.essential.gg/assets/e20a091d17ee65902af40d00aba9e6921fb291f39bff42cfb756ff8356ca1823",
+      "checksum": "e20a091d17ee65902af40d00aba9e6921fb291f39bff42cfb756ff8356ca1823"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/83059c297043169b2d86cece8e80504476ba1c208c70e80e655689b6404a9f34",
+      "checksum": "83059c297043169b2d86cece8e80504476ba1c208c70e80e655689b6404a9f34"
+    },
+    "skin_mask.alex.right.png": {
+      "url": "https://cdn.essential.gg/assets/eab0e8324f6b6f84420f2d8dedecec69a83a96bcdd43e9cef7fd0c1c7b360705",
+      "checksum": "eab0e8324f6b6f84420f2d8dedecec69a83a96bcdd43e9cef7fd0c1c7b360705"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f18684f80a986696f51d3c043938d5df6454307125f5855c136f6a5d74e639ae",
+      "checksum": "f18684f80a986696f51d3c043938d5df6454307125f5855c136f6a5d74e639ae"
+    }
+  }
+}

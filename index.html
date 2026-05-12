@@ -1,0 +1,2256 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Essential — Wardrobe</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      :root {
+        --bg: #1c1c1c;
+        --surface: #242424;
+        --sidebar-bg: #1e1e1e;
+        --card: #2a2a2a;
+        --card-hover: #313131;
+        --border: rgba(255, 255, 255, 0.07);
+        --border-h: rgba(255, 255, 255, 0.13);
+        --accent: #5b9bd5;
+        --accent-gold: #f5c842;
+        --accent-cyan: #00bcd4;
+        --featured: #5b9bd5;
+        --emotes: #f5c842;
+        --cosmetics: #f5a623;
+        --collections: #a78bfa;
+        --legacy: #e07b54;
+        --bundles: #34d399;
+        --text: #e8e8e8;
+        --text-2: #a0a0a0;
+        --text-3: #606060;
+        --legendary: #f5c842;
+        --epic: #c160f0;
+        --rare: #4d9ef5;
+        --uncommon: #3ecf7a;
+        --common: #8899bb;
+        --sidebar-w: 190px;
+        --header-h: 48px;
+        --top-bar-h: 52px;
+      }
+
+      body {
+        font-family: "Nunito", sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        min-height: 100vh;
+        overflow-x: hidden;
+        font-size: 14px;
+      }
+
+      ::-webkit-scrollbar {
+        width: 4px;
+        height: 4px;
+      }
+      ::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: rgba(255, 255, 255, 0.08);
+        border-radius: 4px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: rgba(255, 255, 255, 0.15);
+      }
+
+      /* ── TOP BAR ── */
+      .top-bar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 200;
+        height: var(--top-bar-h);
+        background: #1a1a1a;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        display: flex;
+        align-items: center;
+        padding: 0 16px;
+        gap: 0;
+      }
+
+      .tb-title {
+        font-size: 0.9rem;
+        font-weight: 700;
+        color: var(--text-2);
+        padding: 0 12px;
+        letter-spacing: 0.01em;
+      }
+
+      .tb-section-name {
+        font-size: 0.9rem;
+        font-weight: 700;
+        color: var(--text);
+        flex: 1;
+        padding-left: 16px;
+      }
+
+      .tb-right {
+        margin-left: auto;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .tb-filter-btn {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        background: rgba(255, 255, 255, 0.06);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        color: var(--text-2);
+        font-family: "Nunito", sans-serif;
+        font-size: 0.75rem;
+        font-weight: 700;
+        padding: 5px 12px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: all 0.12s;
+      }
+      .tb-filter-btn:hover {
+        background: rgba(255, 255, 255, 0.1);
+        color: var(--text);
+      }
+
+      .redeem-btn {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        background: rgba(255, 255, 255, 0.06);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        color: var(--text-2);
+        font-family: "Nunito", sans-serif;
+        font-size: 0.75rem;
+        font-weight: 700;
+        padding: 5px 12px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: all 0.12s;
+      }
+      .redeem-btn:hover {
+        background: rgba(255, 255, 255, 0.1);
+        color: var(--text);
+      }
+
+      .coins-btn {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        background: #3a6fa8;
+        border: none;
+        color: #fff;
+        font-family: "Nunito", sans-serif;
+        font-size: 0.8rem;
+        font-weight: 800;
+        padding: 6px 14px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background 0.12s;
+      }
+      .coins-btn:hover {
+        background: #4a80bb;
+      }
+      .coins-icon {
+        font-size: 0.9rem;
+      }
+
+      .tb-search-wrap {
+        position: relative;
+      }
+      .tb-search-wrap svg {
+        position: absolute;
+        left: 9px;
+        top: 50%;
+        transform: translateY(-50%);
+        color: var(--text-3);
+        pointer-events: none;
+      }
+      .tb-search {
+        background: rgba(255, 255, 255, 0.06);
+        border: 1px solid rgba(255, 255, 255, 0.09);
+        color: var(--text);
+        font-family: "Nunito", sans-serif;
+        font-size: 0.75rem;
+        font-weight: 600;
+        padding: 6px 10px 6px 30px;
+        border-radius: 4px;
+        outline: none;
+        width: 160px;
+        transition: border-color 0.15s;
+      }
+      .tb-search:focus {
+        border-color: rgba(91, 155, 213, 0.5);
+      }
+      .tb-search::placeholder {
+        color: var(--text-3);
+      }
+
+      /* ── LAYOUT ── */
+      .layout {
+        display: flex;
+        padding-top: var(--top-bar-h);
+        min-height: 100vh;
+      }
+
+      /* ── SIDEBAR ── */
+      .sidebar {
+        width: var(--sidebar-w);
+        min-width: var(--sidebar-w);
+        position: fixed;
+        top: var(--top-bar-h);
+        left: 0;
+        bottom: 0;
+        overflow-y: auto;
+        overflow-x: hidden;
+        background: var(--sidebar-bg);
+        border-right: 1px solid rgba(255, 255, 255, 0.05);
+        padding: 8px 0;
+      }
+
+      /* Top-level nav item */
+      .nav-item {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        width: 100%;
+        padding: 9px 14px;
+        background: none;
+        border: none;
+        cursor: pointer;
+        color: var(--text-2);
+        font-family: "Nunito", sans-serif;
+        font-size: 0.82rem;
+        font-weight: 700;
+        text-align: left;
+        transition:
+          background 0.12s,
+          color 0.12s;
+        position: relative;
+      }
+      .nav-item:hover {
+        background: rgba(255, 255, 255, 0.04);
+        color: var(--text);
+      }
+      .nav-item.active {
+        color: var(--text);
+      }
+      .nav-item.active::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 2px;
+        bottom: 2px;
+        width: 3px;
+        border-radius: 0 3px 3px 0;
+      }
+      .nav-featured.active::before {
+        background: var(--featured);
+      }
+      .nav-emotes.active::before {
+        background: var(--emotes);
+      }
+      .nav-cosmetics.active::before {
+        background: var(--cosmetics);
+      }
+      .nav-collections.active::before {
+        background: var(--collections);
+      }
+      .nav-legacy.active::before {
+        background: var(--legacy);
+      }
+      .nav-bundles.active::before {
+        background: var(--bundles);
+      }
+
+      .nav-icon {
+        font-size: 0.85rem;
+        flex-shrink: 0;
+      }
+      .nav-featured .nav-icon {
+        color: var(--featured);
+      }
+      .nav-emotes .nav-icon {
+        color: var(--emotes);
+      }
+      .nav-cosmetics .nav-icon {
+        color: var(--cosmetics);
+      }
+      .nav-collections .nav-icon {
+        color: var(--collections);
+      }
+      .nav-legacy .nav-icon {
+        color: var(--legacy);
+      }
+      .nav-bundles .nav-icon {
+        color: var(--bundles);
+      }
+
+      .nav-chevron {
+        margin-left: auto;
+        color: var(--text-3);
+        transition: transform 0.18s;
+        display: flex;
+        align-items: center;
+      }
+      .nav-item.open .nav-chevron {
+        transform: rotate(90deg);
+      }
+
+      /* Sub-category list */
+      .sub-list {
+        overflow: hidden;
+        max-height: 0;
+        transition: max-height 0.22s ease;
+      }
+      .sub-list.open {
+        max-height: 600px;
+      }
+
+      .sub-btn {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        background: none;
+        border: none;
+        cursor: pointer;
+        color: var(--text-3);
+        font-family: "Nunito", sans-serif;
+        font-size: 0.77rem;
+        font-weight: 600;
+        text-align: left;
+        padding: 6px 14px 6px 34px;
+        transition:
+          color 0.12s,
+          background 0.12s;
+      }
+      .sub-btn:hover {
+        color: var(--text-2);
+        background: rgba(255, 255, 255, 0.03);
+      }
+      .sub-btn.active {
+        color: var(--text);
+      }
+
+      /* ── MAIN ── */
+      .main {
+        margin-left: var(--sidebar-w);
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+      }
+
+      /* Section header above grid (category banner) */
+      .section-header {
+        padding: 18px 22px 10px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      }
+      .section-title {
+        font-size: 0.75rem;
+        font-weight: 700;
+        color: var(--text-2);
+        text-transform: none;
+        letter-spacing: 0;
+      }
+
+      /* GRID */
+      .content {
+        padding: 16px 22px;
+        flex: 1;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(148px, 1fr));
+        gap: 10px;
+      }
+
+      /* Grouped sections */
+      .section-group {
+        margin-bottom: 24px;
+      }
+      .group-label {
+        font-size: 0.7rem;
+        font-weight: 700;
+        color: var(--text-3);
+        text-align: center;
+        letter-spacing: 0.08em;
+        padding-bottom: 10px;
+        position: relative;
+      }
+      .group-label::before,
+      .group-label::after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        height: 1px;
+        background: rgba(255, 255, 255, 0.07);
+        width: calc(50% - 60px);
+      }
+      .group-label::before {
+        left: 0;
+      }
+      .group-label::after {
+        right: 0;
+      }
+
+      /* CARD — matches in-game square cards */
+      .card {
+        background: var(--card);
+        border: 2px solid transparent;
+        border-radius: 6px;
+        overflow: hidden;
+        cursor: pointer;
+        animation: pop 0.2s ease both;
+        position: relative;
+      }
+      @keyframes pop {
+        from {
+          opacity: 0;
+          transform: scale(0.92);
+        }
+        to {
+          opacity: 1;
+          transform: scale(1);
+        }
+      }
+      .card:hover {
+        background: var(--card-hover);
+        border-color: rgba(255, 255, 255, 0.18);
+      }
+      .card:hover .card-img {
+        background: #2e2e2e !important;
+      }
+      .card.owned {
+        /* slight glow */
+      }
+
+      .card-img {
+        aspect-ratio: 1 / 1;
+        background: #2e2e2e;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        overflow: hidden;
+      }
+      /* Card image background tinted by rarity */
+      .card.tier-LEGENDARY .card-img {
+        background: linear-gradient(160deg, #1e1500 0%, #2a1e05 100%);
+      }
+      .card.tier-EPIC .card-img {
+        background: linear-gradient(160deg, #160d1e 0%, #1f1028 100%);
+      }
+      .card.tier-RARE .card-img {
+        background: linear-gradient(160deg, #071525 0%, #0d1e35 100%);
+      }
+      .card.tier-UNCOMMON .card-img {
+        background: linear-gradient(160deg, #071510 0%, #0d1e16 100%);
+      }
+      .card.tier-COMMON .card-img {
+        background: linear-gradient(160deg, #111111 0%, #1a1a1a 100%);
+      }
+
+      .card-img img {
+        max-height: 100%;
+        object-fit: contain;
+        image-rendering: pixelated;
+      }
+      .fallback-icon {
+        font-size: 0.8rem;
+        color: var(--text-3);
+        opacity: 0.3;
+      }
+
+      /* Variant swatches — top-right corner of card image */
+      .variant-swatches {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        display: flex;
+        flex-direction: column;
+        gap: 3px;
+      }
+      .variant-swatch {
+        width: 12px;
+        height: 12px;
+        border-radius: 2px;
+        border: 1.5px solid rgba(255, 255, 255, 0.25);
+        cursor: pointer;
+        flex-shrink: 0;
+      }
+      .variant-swatch:hover {
+        border-color: rgba(255, 255, 255, 0.7);
+      }
+      .variant-swatch.active {
+        border-color: #fff;
+      }
+
+      /* New badge */
+      .new-badge {
+        position: absolute;
+        top: 6px;
+        left: 6px;
+        background: #4caf50;
+        color: #fff;
+        font-size: 0.55rem;
+        font-weight: 800;
+        padding: 2px 6px;
+        border-radius: 3px;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+
+      /* Free badge */
+      .free-badge {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(245, 200, 66, 0.15);
+        color: var(--accent-gold);
+        font-size: 0.6rem;
+        font-weight: 800;
+        text-align: center;
+        padding: 2px 0;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+
+      /* Unlock action badges — top-left corner of the whole card */
+      .unlock-badge-wrap {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 20;
+      }
+      .unlock-badge {
+        width: 20px;
+        height: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 0 0 4px 0;
+        cursor: default;
+      }
+      .unlock-badge-server {
+        background: #1a6fc4;
+      }
+      .unlock-badge-sps {
+        background: #c86a00;
+      }
+      .unlock-badge svg {
+        flex-shrink: 0;
+        display: block;
+      }
+
+      /* Tooltip shown on badge hover */
+      .unlock-badge-wrap .unlock-tooltip {
+        display: none;
+        position: absolute;
+        top: 24px;
+        left: 0;
+        background: #0e0e0e;
+        border: 1px solid rgba(255, 255, 255, 0.18);
+        color: #e8e8e8;
+        font-size: 0.63rem;
+        font-weight: 600;
+        padding: 5px 8px;
+        border-radius: 4px;
+        width: max-content;
+        max-width: 175px;
+        white-space: normal;
+        box-shadow: 0 4px 14px rgba(0, 0, 0, 0.7);
+        pointer-events: none;
+        line-height: 1.45;
+        z-index: 100;
+      }
+      .unlock-badge-wrap:hover .unlock-tooltip {
+        display: block;
+      }
+
+      .tier-badge-corner {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+      }
+      .tier-LEGENDARY .tier-badge-corner {
+        background: var(--legendary);
+        box-shadow: 0 0 6px rgba(245, 200, 66, 0.6);
+      }
+      .tier-EPIC .tier-badge-corner {
+        background: var(--epic);
+        box-shadow: 0 0 6px rgba(193, 96, 240, 0.6);
+      }
+      .tier-RARE .tier-badge-corner {
+        background: var(--rare);
+        box-shadow: 0 0 6px rgba(77, 158, 245, 0.6);
+      }
+      .tier-UNCOMMON .tier-badge-corner {
+        background: var(--uncommon);
+      }
+      .tier-COMMON .tier-badge-corner {
+        background: var(--common);
+      }
+
+      .card-info {
+        padding: 6px 8px 7px;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+      }
+      .card-name {
+        font-size: 0.72rem;
+        font-weight: 700;
+        color: var(--text);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        flex: 1;
+        min-width: 0;
+      }
+      .card-owned-check {
+        flex-shrink: 0;
+        font-size: 0.7rem;
+        line-height: 1;
+        margin-left: auto;
+      }
+      .card-owned-check.check-green {
+        color: #4caf50;
+      }
+      .card-owned-check.check-yellow {
+        color: #c8b400;
+      }
+
+      /* ── BUNDLE PANELS ───────────────────────────────────────────────── */
+
+      .grid.bundles-layout {
+        grid-template-columns: 1fr !important;
+        gap: 16px;
+      }
+
+      .bundle-panel {
+        background: var(--card);
+        border-radius: 6px;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        animation: pop 0.22s ease both;
+        border: 1px solid rgba(255,255,255,0.07);
+        max-width: 700px;
+      }
+      .bundle-panel.tier-LEGENDARY { border-color: rgba(245,200,66,0.18); }
+      .bundle-panel.tier-EPIC      { border-color: rgba(193,96,240,0.18); }
+      .bundle-panel.tier-RARE      { border-color: rgba(77,158,245,0.18); }
+      .bundle-panel.tier-UNCOMMON  { border-color: rgba(62,207,122,0.18); }
+
+      /* Centered title bar */
+      .bundle-panel-title-bar {
+        padding: 8px 14px;
+        font-size: 0.78rem;
+        font-weight: 700;
+        color: var(--text-2);
+        text-align: center;
+        letter-spacing: 0.01em;
+        border-bottom: 1px solid rgba(255,255,255,0.06);
+      }
+
+      /* Body row */
+      .bundle-panel-body {
+        display: flex;
+        align-items: stretch;
+      }
+
+      /* ── LEFT: 3-D viewer / preview ── */
+      .bundle-preview {
+        flex-shrink: 0;
+        width: 160px;
+        min-height: 0;
+        flex-shrink: 0;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        border-right: 1px solid rgba(255,255,255,0.06);
+      }
+      .bundle-viewer-wrap {
+        flex: 1;
+        position: relative;
+        overflow: hidden;
+        height: 160px;
+        min-height: 160px;
+      }
+      /* tier-tinted backgrounds */
+      .bundle-panel.tier-LEGENDARY .bundle-viewer-wrap { background: linear-gradient(170deg,#131000,#1c1602); }
+      .bundle-panel.tier-EPIC      .bundle-viewer-wrap { background: linear-gradient(170deg,#0e0917,#16091e); }
+      .bundle-panel.tier-RARE      .bundle-viewer-wrap { background: linear-gradient(170deg,#050d1a,#081322); }
+      .bundle-panel.tier-UNCOMMON  .bundle-viewer-wrap { background: linear-gradient(170deg,#061410,#091b14); }
+      .bundle-panel.tier-COMMON    .bundle-viewer-wrap { background: #0e0e0e; }
+
+      .bundle-viewer-placeholder {
+        width: 100%;
+        height: 100%;
+        height: 160px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: var(--text-3);
+        font-size: 0.7rem;
+        font-weight: 600;
+        flex-direction: column;
+        gap: 8px;
+        opacity: 0.45;
+      }
+      .bundle-viewer-placeholder svg { opacity: 0.5; }
+      .bundle-viewer-wrap img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+        image-rendering: pixelated;
+        display: block;
+      }
+
+      /* FREE + name footer */
+      .bundle-preview-footer {
+        padding: 6px 10px 7px;
+        border-top: 1px solid rgba(255,255,255,0.06);
+        background: rgba(0,0,0,0.35);
+      }
+      .bundle-preview-name {
+        font-size: 0.75rem;
+        font-weight: 700;
+        color: var(--text);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      /* ── RIGHT: cosmetic 2-col grid ── */
+      .bundle-cosmetics-grid {
+        flex: 1;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0;
+        border-left: none;
+        align-content: start;
+      }
+      .bundle-cosm-cell {
+        background: var(--card);
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        border-right: 1px solid rgba(255,255,255,0.05);
+        border-bottom: 1px solid rgba(255,255,255,0.05);
+      }
+      .bundle-cosm-cell:nth-child(2n) { border-right: none; }
+      .bundle-cosm-cell:hover { background: var(--card-hover); }
+
+      .bundle-cosm-img {
+        height: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        position: relative;
+        background: #222;
+      }
+      /* Subtle per-cosmetic tier tint — reuse card gradients */
+      .bundle-cosm-cell.slot-EMOTE   .bundle-cosm-img { background: linear-gradient(160deg,#1a1200,#221700); }
+      .bundle-cosm-cell.slot-EFFECT  .bundle-cosm-img { background: linear-gradient(160deg,#100819,#180b22); }
+      .bundle-cosm-cell.slot-PET     .bundle-cosm-img { background: linear-gradient(160deg,#130b1e,#1c1028); }
+      .bundle-cosm-cell.slot-WINGS   .bundle-cosm-img { background: linear-gradient(160deg,#0d1a0d,#0f2010); }
+      .bundle-cosm-cell.slot-BACK    .bundle-cosm-img { background: linear-gradient(160deg,#141414,#1c1c1c); }
+      .bundle-cosm-cell.slot-HEAD    .bundle-cosm-img { background: linear-gradient(160deg,#141414,#1c1c1c); }
+      .bundle-cosm-cell.slot-FULL_BODY .bundle-cosm-img { background: linear-gradient(160deg,#0a0f14,#111820); }
+
+      .bundle-cosm-img img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+        image-rendering: pixelated;
+        display: block;
+      }
+      .bundle-cosm-fallback {
+        font-size: 0.72rem;
+        color: var(--text-3);
+        opacity: 0.35;
+      }
+      /* NEW badge */
+      .bundle-cosm-new {
+        position: absolute;
+        top: 5px;
+        left: 5px;
+        background: #4caf50;
+        color: #fff;
+        font-size: 0.52rem;
+        font-weight: 800;
+        padding: 2px 6px;
+        border-radius: 2px;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+      .bundle-cosm-info {
+        padding: 4px 8px 5px;
+        border-top: 1px solid rgba(255,255,255,0.04);
+      }
+      .bundle-cosm-name {
+        font-size: 0.67rem;
+        font-weight: 700;
+        color: var(--text);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      /* BUNDLE MODAL */
+      .bundle-cosmetic-list {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        margin-bottom: 4px;
+      }
+      .bundle-cosmetic-row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        background: rgba(255,255,255,0.03);
+        border: 1px solid rgba(255,255,255,0.06);
+        border-radius: 4px;
+        padding: 6px 10px;
+      }
+      .bundle-cosmetic-slot {
+        font-size: 0.62rem;
+        font-weight: 700;
+        color: var(--text-3);
+        min-width: 72px;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+      .bundle-cosmetic-id {
+        font-size: 0.68rem;
+        font-weight: 700;
+        color: var(--text-2);
+      }
+
+            /* EMPTY */
+      .empty {
+        grid-column: 1/-1;
+        text-align: center;
+        padding: 80px 20px;
+        color: var(--text-3);
+      }
+      .empty p {
+        font-size: 0.82rem;
+        font-weight: 600;
+      }
+
+      /* LOADER */
+      #loaderArea {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 100px 20px;
+        gap: 10px;
+        color: var(--text-3);
+      }
+      .spinner {
+        width: 28px;
+        height: 28px;
+        border: 2px solid rgba(91, 155, 213, 0.2);
+        border-top-color: var(--accent);
+        border-radius: 50%;
+        animation: spin 0.7s linear infinite;
+      }
+      @keyframes spin {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+      #loaderArea p {
+        font-size: 0.78rem;
+        font-weight: 600;
+      }
+
+      /* RESULTS */
+      .results-bar {
+        font-size: 0.72rem;
+        color: var(--text-3);
+        margin-bottom: 14px;
+        font-weight: 600;
+      }
+      .results-bar em {
+        color: var(--text-2);
+        font-style: normal;
+      }
+
+      /* MODAL */
+      .overlay {
+        position: fixed;
+        inset: 0;
+        z-index: 500;
+        background: rgba(0, 0, 0, 0.75);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.18s;
+      }
+      .overlay.open {
+        opacity: 1;
+        pointer-events: all;
+      }
+
+      .modal {
+        background: #242424;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 10px;
+        width: 100%;
+        max-width: 500px;
+        max-height: 86vh;
+        overflow-y: auto;
+        transform: scale(0.97) translateY(10px);
+        transition: transform 0.2s;
+        box-shadow: 0 30px 70px rgba(0, 0, 0, 0.7);
+      }
+      .overlay.open .modal {
+        transform: scale(1) translateY(0);
+      }
+
+      .modal-hero {
+        background: linear-gradient(180deg, #1a1a2e 0%, #1e1e1e 100%);
+        min-height: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        border-radius: 10px 10px 0 0;
+        overflow: hidden;
+      }
+      .modal-hero img {
+        max-height: 170px;
+        max-width: 75%;
+        object-fit: contain;
+        image-rendering: pixelated;
+        filter: drop-shadow(0 6px 20px rgba(0, 0, 0, 0.5));
+      }
+      .hero-fallback {
+        font-size: 2rem;
+        color: var(--text-3);
+        opacity: 0.25;
+      }
+
+      .modal-tier {
+        position: absolute;
+        top: 12px;
+        left: 12px;
+        font-size: 0.6rem;
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        padding: 3px 9px;
+        border-radius: 3px;
+      }
+      .tier-LEGENDARY {
+        background: rgba(245, 200, 66, 0.18);
+        color: var(--legendary);
+        border: 1px solid rgba(245, 200, 66, 0.3);
+      }
+      .tier-EPIC {
+        background: rgba(193, 96, 240, 0.18);
+        color: var(--epic);
+        border: 1px solid rgba(193, 96, 240, 0.3);
+      }
+      .tier-RARE {
+        background: rgba(77, 158, 245, 0.18);
+        color: var(--rare);
+        border: 1px solid rgba(77, 158, 245, 0.3);
+      }
+      .tier-UNCOMMON {
+        background: rgba(62, 207, 122, 0.18);
+        color: var(--uncommon);
+        border: 1px solid rgba(62, 207, 122, 0.3);
+      }
+      .tier-COMMON {
+        background: rgba(136, 153, 187, 0.12);
+        color: var(--common);
+        border: 1px solid rgba(136, 153, 187, 0.2);
+      }
+
+      .modal-close {
+        position: absolute;
+        top: 12px;
+        right: 12px;
+        width: 28px;
+        height: 28px;
+        background: rgba(255, 255, 255, 0.08);
+        border: 1px solid rgba(255, 255, 255, 0.12);
+        border-radius: 5px;
+        color: var(--text-2);
+        font-size: 0.85rem;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.12s;
+      }
+      .modal-close:hover {
+        background: rgba(255, 255, 255, 0.14);
+        color: var(--text);
+      }
+
+      .modal-content {
+        padding: 18px 20px 24px;
+      }
+      .modal-name {
+        font-size: 1.2rem;
+        font-weight: 800;
+        color: var(--text);
+        margin-bottom: 3px;
+      }
+      .modal-sub {
+        font-size: 0.7rem;
+        font-weight: 600;
+        color: var(--text-3);
+        text-transform: uppercase;
+        letter-spacing: 0.09em;
+        margin-bottom: 16px;
+      }
+
+      .modal-section-title {
+        font-size: 0.6rem;
+        font-weight: 700;
+        color: var(--text-3);
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        margin-bottom: 7px;
+        margin-top: 16px;
+      }
+      .info-row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 7px;
+        margin-bottom: 4px;
+      }
+      .info-chip {
+        background: rgba(255, 255, 255, 0.04);
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        padding: 9px 12px;
+      }
+      .info-chip-label {
+        font-size: 0.57rem;
+        font-weight: 700;
+        color: var(--text-3);
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        margin-bottom: 3px;
+      }
+      .info-chip-val {
+        font-size: 0.78rem;
+        font-weight: 700;
+        color: var(--text);
+        word-break: break-all;
+      }
+
+      .asset-item {
+        background: rgba(255, 255, 255, 0.03);
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        padding: 9px 12px;
+        margin-bottom: 5px;
+        display: flex;
+        align-items: flex-start;
+        gap: 10px;
+      }
+      .asset-key {
+        font-size: 0.68rem;
+        font-weight: 700;
+        color: var(--accent);
+        min-width: 100px;
+        flex-shrink: 0;
+      }
+      .asset-val {
+        font-size: 0.62rem;
+        color: var(--text-3);
+        word-break: break-all;
+        line-height: 1.5;
+      }
+      .asset-val a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+      .asset-val a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- TOP BAR -->
+    <div class="top-bar">
+      <div class="tb-title">Wardrobe</div>
+      <div style="width: 1px; height: 22px; background: rgba(255, 255, 255, 0.07); margin: 0 6px"></div>
+      <div class="tb-section-name" id="tbSectionName">Featured</div>
+      <div class="tb-right">
+        <div class="tb-search-wrap">
+          <svg width="11" height="11" viewBox="0 0 13 13" fill="none">
+            <circle cx="5.5" cy="5.5" r="4.5" stroke="currentColor" stroke-width="1.5" />
+            <line x1="8.85" y1="9" x2="12" y2="12.15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+          </svg>
+          <input type="text" class="tb-search" id="searchInput" placeholder="Search…" />
+        </div>
+      </div>
+    </div>
+
+    <div class="layout">
+      <!-- SIDEBAR -->
+      <nav class="sidebar" id="sidebar">
+        <!-- Featured -->
+        <button class="nav-item nav-featured active" id="navFeatured" onclick="selectTopNav('featured')">
+          <span class="nav-icon">
+            <svg width="13" height="13" viewBox="0 0 14 14" fill="none">
+              <path
+                d="M7 1l1.545 3.13L12 4.635l-2.5 2.435.59 3.43L7 8.77l-3.09 1.73.59-3.43L2 4.635l3.455-.505L7 1z"
+                fill="currentColor"
+              />
+            </svg>
+          </span>
+          Featured
+        </button>
+
+        <!-- Emotes -->
+        <button class="nav-item nav-emotes" id="navEmotes" onclick="toggleSection('emotes')">
+          <span class="nav-icon">
+            <svg width="13" height="13" viewBox="0 0 14 14" fill="none">
+              <circle cx="7" cy="7" r="5.5" stroke="currentColor" stroke-width="1.4" />
+              <path
+                d="M4.5 8.5c.5.8 1.3 1.2 2.5 1.2s2-.4 2.5-1.2"
+                stroke="currentColor"
+                stroke-width="1.2"
+                stroke-linecap="round"
+              />
+              <circle cx="5" cy="6" r="0.8" fill="currentColor" />
+              <circle cx="9" cy="6" r="0.8" fill="currentColor" />
+            </svg>
+          </span>
+          Emotes
+          <span class="nav-chevron">
+            <svg width="8" height="8" viewBox="0 0 8 8" fill="none">
+              <path
+                d="M2.5 2L5 4.5 2.5 7"
+                stroke="currentColor"
+                stroke-width="1.4"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </span>
+        </button>
+        <div class="sub-list" id="subEmotes">
+          <button
+            class="sub-btn active"
+            data-section="emotes"
+            data-sub="ALL"
+            onclick="selectSub('emotes', 'ALL', this)"
+          >
+            All Emotes
+          </button>
+        </div>
+
+        <!-- Cosmetics -->
+        <button class="nav-item nav-cosmetics" id="navCosmetics" onclick="toggleSection('cosmetics')">
+          <span class="nav-icon">
+            <svg width="13" height="13" viewBox="0 0 14 14" fill="none">
+              <path
+                d="M7 1.5l1.2 3.6H12l-3 2.2 1.1 3.5L7 8.6l-3.1 2.2L5 7.3 2 5.1h3.8L7 1.5z"
+                stroke="currentColor"
+                stroke-width="1.2"
+                stroke-linejoin="round"
+                fill="none"
+              />
+            </svg>
+          </span>
+          Cosmetics
+          <span class="nav-chevron">
+            <svg width="8" height="8" viewBox="0 0 8 8" fill="none">
+              <path
+                d="M2.5 2L5 4.5 2.5 7"
+                stroke="currentColor"
+                stroke-width="1.4"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </span>
+        </button>
+        <div class="sub-list" id="subCosmetics">
+          <button class="sub-btn" data-section="cosmetics" data-sub="ALL" onclick="selectSub('cosmetics', 'ALL', this)">
+            All Cosmetics
+          </button>
+          <button
+            class="sub-btn"
+            data-section="cosmetics"
+            data-sub="CAPE"
+            onclick="selectSub('cosmetics', 'CAPE', this)"
+          >
+            Cape
+          </button>
+          <button
+            class="sub-btn"
+            data-section="cosmetics"
+            data-sub="WINGS"
+            onclick="selectSub('cosmetics', 'WINGS', this)"
+          >
+            Wings
+          </button>
+          <button
+            class="sub-btn"
+            data-section="cosmetics"
+            data-sub="EFFECT"
+            onclick="selectSub('cosmetics', 'EFFECT', this)"
+          >
+            Particles
+          </button>
+          <button class="sub-btn" data-section="cosmetics" data-sub="PET" onclick="selectSub('cosmetics', 'PET', this)">
+            Pets
+          </button>
+          <button
+            class="sub-btn"
+            data-section="cosmetics"
+            data-sub="HEAD"
+            onclick="selectSub('cosmetics', 'HEAD', this)"
+          >
+            Head
+          </button>
+          <button
+            class="sub-btn"
+            data-section="cosmetics"
+            data-sub="FULL_BODY"
+            onclick="selectSub('cosmetics', 'FULL_BODY', this)"
+          >
+            Outerwear
+          </button>
+          <button
+            class="sub-btn"
+            data-section="cosmetics"
+            data-sub="BACK"
+            onclick="selectSub('cosmetics', 'BACK', this)"
+          >
+            Back
+          </button>
+          <button
+            class="sub-btn"
+            data-section="cosmetics"
+            data-sub="ARMS"
+            onclick="selectSub('cosmetics', 'ARMS', this)"
+          >
+            Arms
+          </button>
+          <button
+            class="sub-btn"
+            data-section="cosmetics"
+            data-sub="SHOES"
+            onclick="selectSub('cosmetics', 'SHOES', this)"
+          >
+            Shoes
+          </button>
+          <button class="sub-btn" data-section="cosmetics" data-sub="HAT" onclick="selectSub('cosmetics', 'HAT', this)">
+            Hat
+          </button>
+          <button
+            class="sub-btn"
+            data-section="cosmetics"
+            data-sub="ACCESSORY"
+            onclick="selectSub('cosmetics', 'ACCESSORY', this)"
+          >
+            Hair
+          </button>
+          <button
+            class="sub-btn"
+            data-section="cosmetics"
+            data-sub="EARS"
+            onclick="selectSub('cosmetics', 'EARS', this)"
+          >
+            Ears
+          </button>
+          <button
+            class="sub-btn"
+            data-section="cosmetics"
+            data-sub="FACE"
+            onclick="selectSub('cosmetics', 'FACE', this)"
+          >
+            Face
+          </button>
+          <button class="sub-btn" data-section="cosmetics" data-sub="TOP" onclick="selectSub('cosmetics', 'TOP', this)">
+            Top
+          </button>
+          <button
+            class="sub-btn"
+            data-section="cosmetics"
+            data-sub="PANTS"
+            onclick="selectSub('cosmetics', 'PANTS', this)"
+          >
+            Pants
+          </button>
+          <button
+            class="sub-btn"
+            data-section="cosmetics"
+            data-sub="SHOULDERS"
+            onclick="selectSub('cosmetics', 'SHOULDERS', this)"
+          >
+            Shoulders
+          </button>
+        </div>
+
+        <!-- Collections -->
+        <button class="nav-item nav-collections" id="navCollections" onclick="toggleSection('collections')">
+          <span class="nav-icon">
+            <svg width="13" height="13" viewBox="0 0 14 14" fill="none">
+              <rect x="1.5" y="1.5" width="4.5" height="4.5" rx="1" stroke="currentColor" stroke-width="1.3" />
+              <rect x="8" y="1.5" width="4.5" height="4.5" rx="1" stroke="currentColor" stroke-width="1.3" />
+              <rect x="1.5" y="8" width="4.5" height="4.5" rx="1" stroke="currentColor" stroke-width="1.3" />
+              <rect x="8" y="8" width="4.5" height="4.5" rx="1" stroke="currentColor" stroke-width="1.3" />
+            </svg>
+          </span>
+          Collections
+          <span class="nav-chevron">
+            <svg width="8" height="8" viewBox="0 0 8 8" fill="none">
+              <path
+                d="M2.5 2L5 4.5 2.5 7"
+                stroke="currentColor"
+                stroke-width="1.4"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </span>
+        </button>
+        <div class="sub-list" id="subCollections">
+          <button
+            class="sub-btn active"
+            data-section="collections"
+            data-sub="ALL"
+            onclick="selectSub('collections', 'ALL', this)"
+          >
+            All Collections
+          </button>
+        </div>
+
+        <!-- Legacy -->
+        <button class="nav-item nav-legacy" id="navLegacy" onclick="selectTopNav('legacy')">
+          <span class="nav-icon">
+            <svg width="13" height="13" viewBox="0 0 14 14" fill="none">
+              <path
+                d="M7 1.5C4 1.5 1.5 4 1.5 7s2.5 5.5 5.5 5.5S12.5 10 12.5 7 10 1.5 7 1.5z"
+                stroke="currentColor"
+                stroke-width="1.3"
+                fill="none"
+              />
+              <path
+                d="M7 4v3.5l2 1.5"
+                stroke="currentColor"
+                stroke-width="1.3"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </span>
+          Legacy
+        </button>
+
+        <!-- Bundles -->
+        <button class="nav-item nav-bundles" id="navBundles" onclick="selectTopNav('bundles')">
+          <span class="nav-icon">
+            <svg width="13" height="13" viewBox="0 0 14 14" fill="none">
+              <rect x="1.5" y="5" width="11" height="7.5" rx="1.2" stroke="currentColor" stroke-width="1.3"/>
+              <path d="M4.5 5V3.5a2.5 2.5 0 0 1 5 0V5" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" fill="none"/>
+              <line x1="7" y1="7.5" x2="7" y2="10" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+              <line x1="5.5" y1="8.75" x2="8.5" y2="8.75" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+            </svg>
+          </span>
+          Bundles
+        </button>
+      </nav>
+
+      <!-- MAIN CONTENT -->
+      <div class="main" id="mainContent">
+        <div class="content">
+          <div id="loaderArea">
+            <div class="spinner"></div>
+            <p>Loading cosmetics…</p>
+          </div>
+          <div class="results-bar" id="resultsBar" style="display: none"></div>
+          <div class="grid" id="grid" style="display: none"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- MODAL -->
+    <div class="overlay" id="overlay">
+      <div class="modal">
+        <div class="modal-hero" id="modalHero">
+          <span class="hero-fallback" id="heroFallback"></span>
+          <span class="modal-tier" id="modalTierBadge"></span>
+          <button class="modal-close" id="modalClose">✕</button>
+        </div>
+        <div class="modal-content">
+          <div class="modal-name" id="modalName"></div>
+          <div class="modal-sub" id="modalSub"></div>
+          <div id="modalBody"></div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const TIER_ORDER = { LEGENDARY: 4, EPIC: 3, RARE: 2, UNCOMMON: 1, COMMON: 0 };
+
+      // Emote types from the data
+      const EMOTE_TYPES = ["EMOTE"];
+      // All cosmetic (non-emote) types
+      const COSMETIC_TYPES = [
+        "ACCESSORY",
+        "ARMS",
+        "BACK",
+        "CAPE",
+        "EARS",
+        "EFFECT",
+        "FACE",
+        "FULL_BODY",
+        "HAT",
+        "HEAD",
+        "ICON",
+        "PANTS",
+        "PET",
+        "SHOES",
+        "SHOULDERS",
+        "SKIRT",
+        "TOP",
+        "WINGS",
+      ];
+
+      const CATEGORIES = [...EMOTE_TYPES, ...COSMETIC_TYPES];
+
+      let allCosmetics = [],
+        allBundles = [],
+        filtered = [];
+      let currentTopNav = "featured"; // 'featured' | 'emotes' | 'cosmetics'
+      let currentSub = "ALL"; // sub-category within emotes/cosmetics
+      let searchQuery = "";
+
+      function formatName(id) {
+        return id
+          .replace(/_/g, " ")
+          .toLowerCase()
+          .replace(/\b\w/g, (c) => c.toUpperCase());
+      }
+
+      // ── NAV LOGIC ──────────────────────────────────────────────────────
+
+      function clearActiveNav() {
+        document.querySelectorAll(".nav-item").forEach((b) => b.classList.remove("active", "open"));
+      }
+
+      function selectTopNav(section) {
+        clearActiveNav();
+        currentTopNav = section;
+        currentSub = "ALL";
+
+        if (section === "legacy") {
+          document.getElementById("navLegacy").classList.add("active");
+          const _ib1 = document.getElementById("infoBanner"); if (_ib1) _ib1.style.display = "none";
+          document.getElementById("tbSectionName").textContent = "Legacy";
+        } else if (section === "bundles") {
+          document.getElementById("navBundles").classList.add("active");
+          const _ib2 = document.getElementById("infoBanner"); if (_ib2) _ib2.style.display = "none";
+          document.getElementById("tbSectionName").textContent = "Bundles";
+        } else {
+          document.getElementById("navFeatured").classList.add("active");
+          const _ib3 = document.getElementById("infoBanner"); if (_ib3) _ib3.style.display = "flex";
+          document.getElementById("tbSectionName").textContent = "Featured";
+        }
+        // close dropdowns
+        document.getElementById("subEmotes").classList.remove("open");
+        document.getElementById("subCosmetics").classList.remove("open");
+        document.getElementById("subCollections").classList.remove("open");
+        document.querySelectorAll(".sub-btn").forEach((b) => b.classList.remove("active"));
+        renderGrid();
+      }
+
+      function toggleSection(section) {
+        const navEl = document.getElementById("nav" + section.charAt(0).toUpperCase() + section.slice(1));
+        const subEl = document.getElementById("sub" + section.charAt(0).toUpperCase() + section.slice(1));
+        const isOpen = subEl.classList.contains("open");
+
+        // Close all
+        document.getElementById("subEmotes").classList.remove("open");
+        document.getElementById("subCosmetics").classList.remove("open");
+        document.getElementById("subCollections").classList.remove("open");
+        document.querySelectorAll(".nav-item").forEach((b) => b.classList.remove("open"));
+
+        if (!isOpen) {
+          subEl.classList.add("open");
+          navEl.classList.add("open", "active");
+          // clear featured active
+          document.getElementById("navFeatured").classList.remove("active");
+          currentTopNav = section;
+          currentSub = "ALL";
+          const _ib4 = document.getElementById("infoBanner"); if (_ib4) _ib4.style.display = "none";
+          document.getElementById("tbSectionName").textContent = section.charAt(0).toUpperCase() + section.slice(1);
+          // auto-select "All" sub
+          const firstSub = subEl.querySelector(".sub-btn");
+          if (firstSub) {
+            firstSub.classList.add("active");
+          }
+          renderGrid();
+        } else {
+          // collapsed → stay on featured feel, reset
+          selectTopNav("featured");
+        }
+      }
+
+      function selectSub(section, sub, btn) {
+        currentTopNav = section;
+        currentSub = sub;
+        document.querySelectorAll(".sub-btn").forEach((b) => b.classList.remove("active"));
+        btn.classList.add("active");
+        document.getElementById("tbSectionName").textContent = btn.textContent.trim();
+        renderGrid();
+      }
+
+      // ── EMOTE CATEGORY HELPERS ──────────────────────────────────────────
+      function emoteCategories(cosmetic) {
+        // categories is an object like { "DANCE": 20, "MOVEMENT": 0 }
+        if (cosmetic.categories && typeof cosmetic.categories === "object") {
+          return Object.keys(cosmetic.categories);
+        }
+        return [];
+      }
+
+      function buildEmoteSubList() {
+        const catSet = new Set();
+        allCosmetics.forEach((c) => {
+          if (EMOTE_TYPES.includes(c.type)) {
+            emoteCategories(c).forEach((cat) => catSet.add(cat));
+          }
+        });
+
+        // Sort alphabetically, with known order preference
+        const ORDER = ["DANCE", "ADVANCED", "MOVEMENT", "BASIC", "SIMPLE"];
+        const sorted = [...catSet].sort((a, b) => {
+          const ai = ORDER.indexOf(a),
+            bi = ORDER.indexOf(b);
+          if (ai !== -1 && bi !== -1) return ai - bi;
+          if (ai !== -1) return -1;
+          if (bi !== -1) return 1;
+          return a.localeCompare(b);
+        });
+
+        const container = document.getElementById("subEmotes");
+        // Keep the "All Emotes" button, rebuild the rest
+        container.innerHTML = `<button class="sub-btn active" data-section="emotes" data-sub="ALL" onclick="selectSub('emotes','ALL',this)">All Emotes</button>`;
+        sorted.forEach((cat) => {
+          const label = cat.charAt(0) + cat.slice(1).toLowerCase();
+          const btn = document.createElement("button");
+          btn.className = "sub-btn";
+          btn.dataset.section = "emotes";
+          btn.dataset.sub = cat;
+          btn.textContent = label;
+          btn.onclick = function () {
+            selectSub("emotes", cat, this);
+          };
+          container.appendChild(btn);
+        });
+      }
+
+      function numToHex(n) {
+        return "#" + n.toString(16).padStart(6, "0");
+      }
+
+      // ── COLLECTION HELPERS ──────────────────────────────────────────────
+      function cosmeticCollections(cosmetic) {
+        return (cosmetic.tags || []).filter((t) => t.startsWith("COLLECTION_"));
+      }
+
+      function collectionLabel(tag) {
+        // COLLECTION_MAY2026 → "May 2026",  COLLECTION_NOVEMBER2025 → "November 2025"
+        const raw = tag.replace("COLLECTION_", "");
+        // Try to split trailing digits (year) from leading letters (month name)
+        const m = raw.match(/^([A-Z]+?)(\d+)$/);
+        if (m) {
+          const month = m[1].charAt(0) + m[1].slice(1).toLowerCase();
+          return `${month} ${m[2]}`;
+        }
+        return raw.charAt(0) + raw.slice(1).toLowerCase();
+      }
+
+      function buildCollectionSubList() {
+        const colSet = new Set();
+        allCosmetics.forEach((c) => cosmeticCollections(c).forEach((t) => colSet.add(t)));
+
+        // Sort chronologically: parse year+month from tag
+        const monthOrder = {
+          JAN: 1,
+          FEB: 2,
+          MAR: 3,
+          APR: 4,
+          MAY: 5,
+          JUN: 6,
+          JUL: 7,
+          AUG: 8,
+          SEP: 9,
+          OCT: 10,
+          NOV: 11,
+          DEC: 12,
+          JANUARY: 1,
+          FEBRUARY: 2,
+          MARCH: 3,
+          APRIL: 4,
+          JUNE: 6,
+          JULY: 7,
+          AUGUST: 8,
+          SEPTEMBER: 9,
+          OCTOBER: 10,
+          NOVEMBER: 11,
+          DECEMBER: 12,
+        };
+        const parseColDate = (tag) => {
+          const raw = tag.replace("COLLECTION_", "");
+          const m = raw.match(/^([A-Z]+?)(\d+)$/);
+          if (!m) return 0;
+          const yr = parseInt(m[2]) || 0;
+          const mo = monthOrder[m[1]] || 0;
+          return yr * 100 + mo;
+        };
+        const sorted = [...colSet].sort((a, b) => parseColDate(b) - parseColDate(a)); // newest first
+
+        const container = document.getElementById("subCollections");
+        container.innerHTML = `<button class="sub-btn active" data-section="collections" data-sub="ALL" onclick="selectSub('collections','ALL',this)">All Collections</button>`;
+        sorted.forEach((tag) => {
+          const btn = document.createElement("button");
+          btn.className = "sub-btn";
+          btn.dataset.section = "collections";
+          btn.dataset.sub = tag;
+          btn.textContent = collectionLabel(tag);
+          btn.onclick = function () {
+            selectSub("collections", tag, this);
+          };
+          container.appendChild(btn);
+        });
+      }
+
+      function buildCard(cosmetic, idx) {
+        const name = cosmetic.displayNames?.en_us || formatName(cosmetic.id);
+        const tier = cosmetic.tier || "COMMON";
+        const variants = cosmetic._variants || [];
+
+        const defaultGif = `./essential/${cosmetic.type}/${cosmetic.id}.gif`;
+        const defaultPng = `./essential/${cosmetic.type}/${cosmetic.id}.png`;
+
+        const first = variants[0];
+        const initialSrc = first ? `./essential/${cosmetic.type}/${cosmetic.id}_${first.name}.gif` : defaultGif;
+        const initialFallback = first ? `./essential/${cosmetic.type}/${cosmetic.id}_${first.name}.png` : defaultPng;
+
+        const card = document.createElement("div");
+        card.className = `card tier-${tier}`;
+        card.style.animationDelay = `${(idx % 40) * 12}ms`;
+
+        const swatchesHtml = variants.length
+          ? `
+    <div class="variant-swatches">
+      ${variants.map((v, i) => `<div class="variant-swatch${i === 0 ? " active" : ""}" style="background:${numToHex(v.color)}" data-variant="${v.name}" title="${v.name}"></div>`).join("")}
+    </div>`
+          : "";
+
+        // Unlock action badge (top-left)
+        const unlockActions = cosmetic._unlockActions || [];
+        let unlockBadgeHtml = "";
+        if (unlockActions.length) {
+          const action = unlockActions[0];
+          const actionType = action.data?.ACTION_TYPE || "";
+          const tooltip = action.data?.ACTION_DESCRIPTION || "";
+
+          let badgeClass, icon;
+          if (actionType === "JOIN_SPS") {
+            badgeClass = "unlock-badge-sps";
+            icon = `<svg width="10" height="11" viewBox="0 0 10 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <rect x="1" y="5" width="8" height="6.5" rx="1.5" fill="white" fill-opacity="0.9"/>
+               <path d="M3 5V3.5a2 2 0 0 1 4 0V5" stroke="white" stroke-width="1.6" stroke-linecap="round" fill="none"/>
+               <circle cx="5" cy="8.2" r="1" fill="#c86a00"/>
+             </svg>`;
+          } else {
+            // JOIN_SERVER, OPEN_LINK, or anything else — blue arrow
+            badgeClass = "unlock-badge-server";
+            icon = `<svg width="11" height="11" viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <path d="M2 9L9 2M9 2H4.5M9 2V6.5" stroke="white" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+             </svg>`;
+          }
+
+          unlockBadgeHtml = `<div class="unlock-badge-wrap">
+      <div class="unlock-badge ${badgeClass}">${icon}</div>
+      ${tooltip ? `<div class="unlock-tooltip">${tooltip}</div>` : ""}
+    </div>`;
+        }
+
+        const isLegacy = (cosmetic.tags || []).includes("LEGACY");
+        const checkClass = isLegacy ? "check-yellow" : "check-green";
+
+        card.innerHTML = `
+    ${unlockBadgeHtml}
+    <div class="card-img">
+      <img class="card-main-img" src="${initialSrc}"
+        onerror="if(this.src.endsWith('.gif')){this.src='${initialFallback}'}else{this.outerHTML='<span class=\\'fallback-icon\\'>?</span>'}"
+        alt="${name}">
+      ${swatchesHtml}
+    </div>
+    <div class="card-info">
+      <div class="card-name" title="${name}">${name}</div>
+      <span class="card-owned-check ${checkClass}">✔</span>
+    </div>`;
+
+        // Swatch click — swap image, stop propagation so modal doesn't open
+        card.querySelectorAll(".variant-swatch").forEach((swatch) => {
+          swatch.addEventListener("click", (e) => {
+            e.stopPropagation();
+            const vName = swatch.dataset.variant;
+            const imgEl = card.querySelector(".card-main-img");
+            if (!imgEl) return;
+            const variantGif = `./essential/${cosmetic.type}/${cosmetic.id}_${vName}.gif`;
+            const variantPng = `./essential/${cosmetic.type}/${cosmetic.id}_${vName}.png`;
+            imgEl.onerror = function () {
+              if (this.src.endsWith(".gif")) {
+                this.src = variantPng;
+              } else {
+                this.onerror = null;
+                this.src = defaultPng;
+              }
+            };
+            imgEl.src = variantGif;
+            card.querySelectorAll(".variant-swatch").forEach((s) => s.classList.remove("active"));
+            swatch.classList.add("active");
+          });
+        });
+
+        card.addEventListener("click", () => openModal(cosmetic));
+        return card;
+      }
+
+      // ── BUNDLE CARD & MODAL ─────────────────────────────────────────────
+
+      const SLOT_LABELS = {
+        FULL_BODY: "Outfit",
+        EFFECT: "Particles",
+        BACK: "Back",
+        HEAD: "Head",
+        WINGS: "Wings",
+        EMOTE: "Emote",
+        CAPE: "Cape",
+        PET: "Pet",
+        HAT: "Hat",
+        ARMS: "Arms",
+        SHOES: "Shoes",
+        FACE: "Face",
+        EARS: "Ears",
+        TOP: "Top",
+        PANTS: "Pants",
+        SHOULDERS: "Shoulders",
+        ACCESSORY: "Hair",
+        ICON: "Icon",
+      };
+
+      function buildBundleCard(bundle, idx) {
+        const tier = bundle.tier || "COMMON";
+        const bundleId = bundle.id;
+        const pngSrc = `./bundles/${bundleId}.png`;
+
+        const panel = document.createElement("div");
+        panel.className = `bundle-panel tier-${tier}`;
+        panel.style.animationDelay = `${(idx % 20) * 18}ms`;
+
+        // Title bar
+        const titleBar = document.createElement("div");
+        titleBar.className = "bundle-panel-title-bar";
+        titleBar.textContent = `${bundle.name} Bundle`;
+        panel.appendChild(titleBar);
+
+        // Body
+        const body = document.createElement("div");
+        body.className = "bundle-panel-body";
+        panel.appendChild(body);
+
+        // ── Left: preview ──
+        const preview = document.createElement("div");
+        preview.className = "bundle-preview";
+        body.appendChild(preview);
+
+        const viewerWrap = document.createElement("div");
+        viewerWrap.className = "bundle-viewer-wrap";
+        preview.appendChild(viewerWrap);
+
+        const previewImg = document.createElement("img");
+        previewImg.alt = bundle.name;
+        previewImg.style.cssText = "width:100%;height:100%;object-fit:contain;image-rendering:pixelated;display:block;";
+        previewImg.onerror = function() { this.style.display = "none"; };
+        previewImg.src = pngSrc;
+        viewerWrap.appendChild(previewImg);
+
+        const footer = document.createElement("div");
+        footer.className = "bundle-preview-footer";
+        footer.innerHTML = `<div class="bundle-preview-name">${bundle.name}</div>`;
+        preview.appendChild(footer);
+
+        // ── Right: cosmetic cells ──
+        const grid = document.createElement("div");
+        grid.className = "bundle-cosmetics-grid";
+        body.appendChild(grid);
+
+        const settingsKeys = Object.keys(bundle.settings || {});
+        const cosmetics = Object.entries(bundle.cosmetics || {}).filter(([slot, cosmeticId]) =>
+          slot === "EMOTE" || settingsKeys.includes(cosmeticId)
+        );
+
+        cosmetics.forEach(([slot, cosmeticId]) => {
+          const variantSettings = (bundle.settings?.[cosmeticId] || []).find(s => s.type === "VARIANT");
+          const variant = variantSettings?.data?.variant;
+          const base = `./essential/${slot}/${cosmeticId}`;
+          const vBase = variant ? `${base}_${variant}` : base;
+          const _cosm = allCosmetics.find(c => c.id === cosmeticId);
+          const cosmeticName = _cosm?.displayNames?.en_us || formatName(cosmeticId);
+
+          const cell = document.createElement("div");
+          cell.className = `bundle-cosm-cell slot-${slot}`;
+
+          const imgWrap = document.createElement("div");
+          imgWrap.className = "bundle-cosm-img";
+
+          const img = document.createElement("img");
+          img.alt = cosmeticName;
+          img.onerror = function() {
+            if (this.src.endsWith(".gif")) {
+              this.src = `${vBase}.png`;
+            } else {
+              this.style.display = "none";
+            }
+          };
+          img.src = `${vBase}.gif`;
+          imgWrap.appendChild(img);
+
+          const info = document.createElement("div");
+          info.className = "bundle-cosm-info";
+          const nameEl = document.createElement("div");
+          nameEl.className = "bundle-cosm-name";
+          nameEl.title = cosmeticName;
+          nameEl.textContent = cosmeticName;
+          info.appendChild(nameEl);
+
+          cell.appendChild(imgWrap);
+          cell.appendChild(info);
+          grid.appendChild(cell);
+        });
+
+        return panel;
+      }
+
+            function openBundleModal(bundle) {
+        const tier = bundle.tier || "COMMON";
+        const hero = document.getElementById("modalHero");
+        hero.querySelectorAll("img").forEach((i) => i.remove());
+        document.getElementById("heroFallback").textContent = "🎁";
+
+        const badge = document.getElementById("modalTierBadge");
+        badge.textContent = tier.charAt(0) + tier.slice(1).toLowerCase();
+        badge.className = `modal-tier tier-${tier}`;
+
+        document.getElementById("modalName").textContent = bundle.name;
+        document.getElementById("modalSub").textContent = `Bundle · ${bundle.id}`;
+
+        const cosmeticsRows = Object.entries(bundle.cosmetics || {})
+          .map(
+            ([slot, id]) => `
+            <div class="bundle-cosmetic-row">
+              <div class="bundle-cosmetic-slot">${SLOT_LABELS[slot] || slot}</div>
+              <div class="bundle-cosmetic-id">${id}</div>
+            </div>`,
+          )
+          .join("");
+
+        let html = `
+          <div class="modal-section-title">Details</div>
+          <div class="info-row">
+            <div class="info-chip"><div class="info-chip-label">Tier</div><div class="info-chip-val">${tier}</div></div>
+            <div class="info-chip"><div class="info-chip-label">Discount</div><div class="info-chip-val">${bundle.discount ? `-${Math.round(bundle.discount)}%` : "—"}</div></div>
+            <div class="info-chip"><div class="info-chip-label">ID</div><div class="info-chip-val">${bundle.id}</div></div>
+          </div>
+          <div class="modal-section-title">Included Cosmetics</div>
+          <div class="bundle-cosmetic-list">${cosmeticsRows}</div>`;
+
+        // Show per-cosmetic variant overrides if present
+        if (bundle.settings && Object.keys(bundle.settings).length) {
+          html += `<div class="modal-section-title">Variant Overrides</div>
+            <div style="display:flex;flex-wrap:wrap;gap:5px;margin-bottom:4px">`;
+          for (const [cosmeticId, settingsArr] of Object.entries(bundle.settings)) {
+            settingsArr.forEach((s) => {
+              if (s.type === "VARIANT" && s.data?.variant) {
+                html += `<span style="background:rgba(52,211,153,0.1);border:1px solid rgba(52,211,153,0.22);color:#34d399;font-size:0.67rem;font-weight:700;padding:2px 9px;border-radius:3px">${cosmeticId}: ${s.data.variant}</span>`;
+              }
+            });
+          }
+          html += `</div>`;
+        }
+
+        document.getElementById("modalBody").innerHTML = html;
+        document.getElementById("overlay").classList.add("open");
+      }
+
+      // ── FILTER / RENDER ─────────────────────────────────────────────────
+      function applyFilters() {
+        filtered = allCosmetics.filter((c) => {
+          const isEmote = EMOTE_TYPES.includes(c.type);
+          const isCosm = COSMETIC_TYPES.includes(c.type);
+
+          if (currentTopNav === "featured") {
+            // show everything (featured = all owned), same as original
+          } else if (currentTopNav === "emotes") {
+            if (!isEmote) return false;
+            if (currentSub !== "ALL") {
+              const cats = emoteCategories(c);
+              if (!cats.includes(currentSub)) return false;
+            }
+          } else if (currentTopNav === "cosmetics") {
+            if (!isCosm) return false;
+            if (currentSub !== "ALL" && c.type !== currentSub) return false;
+          } else if (currentTopNav === "collections") {
+            const cols = cosmeticCollections(c);
+            if (!cols.length) return false; // must belong to at least one collection
+            if (currentSub !== "ALL" && !cols.includes(currentSub)) return false;
+          } else if (currentTopNav === "legacy") {
+            if (!(c.tags || []).includes("LEGACY")) return false;
+          } else if (currentTopNav === "bundles") {
+            return false; // bundles are not cosmetics; renderGrid handles them separately
+          }
+
+          if (searchQuery) {
+            const nm = (c.displayNames?.en_us || formatName(c.id)).toLowerCase();
+            if (!nm.includes(searchQuery) && !c.id.toLowerCase().includes(searchQuery)) return false;
+          }
+          return true;
+        });
+
+        filtered.sort((a, b) => {
+          const na = (a.displayNames?.en_us || formatName(a.id)).toLowerCase();
+          const nb = (b.displayNames?.en_us || formatName(b.id)).toLowerCase();
+          return na.localeCompare(nb);
+        });
+      }
+
+      function renderGrid() {
+        applyFilters();
+        const grid = document.getElementById("grid");
+        grid.innerHTML = "";
+
+        // ── BUNDLES SECTION ─────────────────────────────────────────────────
+        if (currentTopNav === "bundles") {
+          grid.classList.add("bundles-layout");
+          const q = searchQuery;
+          const visibleBundles = allBundles.filter((b) => {
+            if (!q) return true;
+            return b.name.toLowerCase().includes(q) || b.id.toLowerCase().includes(q);
+          });
+          if (!visibleBundles.length) {
+            grid.innerHTML = `<div class="empty"><p>No bundles match your search.</p></div>`;
+          } else {
+            visibleBundles.forEach((b, i) => grid.appendChild(buildBundleCard(b, i)));
+          }
+          document.getElementById("resultsBar").innerHTML = `Showing <em>${visibleBundles.length}</em> bundle${visibleBundles.length !== 1 ? "s" : ""}`;
+          return;
+        }
+        grid.classList.remove("bundles-layout");
+
+        if (!filtered.length) {
+          grid.innerHTML = `<div class="empty"><p>No items match your search.</p></div>`;
+        } else if (currentTopNav === "collections" && currentSub === "ALL") {
+          // Group by collection tag, newest first (same order as sidebar)
+          const monthOrder = {
+            JAN: 1,
+            FEB: 2,
+            MAR: 3,
+            APR: 4,
+            MAY: 5,
+            JUN: 6,
+            JUL: 7,
+            AUG: 8,
+            SEP: 9,
+            OCT: 10,
+            NOV: 11,
+            DEC: 12,
+            JANUARY: 1,
+            FEBRUARY: 2,
+            MARCH: 3,
+            APRIL: 4,
+            JUNE: 6,
+            JULY: 7,
+            AUGUST: 8,
+            SEPTEMBER: 9,
+            OCTOBER: 10,
+            NOVEMBER: 11,
+            DECEMBER: 12,
+          };
+          const parseColDate = (tag) => {
+            const raw = tag.replace("COLLECTION_", "");
+            const m = raw.match(/^([A-Z]+?)(\d+)$/);
+            if (!m) return 0;
+            return (parseInt(m[2]) || 0) * 100 + (monthOrder[m[1]] || 0);
+          };
+          const colMap = {};
+          filtered.forEach((c) => {
+            cosmeticCollections(c).forEach((tag) => {
+              (colMap[tag] = colMap[tag] || []).push(c);
+            });
+          });
+          const colKeys = Object.keys(colMap).sort((a, b) => parseColDate(b) - parseColDate(a));
+          colKeys.forEach((tag) => {
+            const label = document.createElement("div");
+            label.className = "group-label";
+            label.style.gridColumn = "1/-1";
+            label.textContent = collectionLabel(tag);
+            grid.appendChild(label);
+            colMap[tag].forEach((c, i) => grid.appendChild(buildCard(c, i)));
+          });
+        } else {
+          // Group by type when showing "all" in featured/emotes/cosmetics
+          const grouped = {};
+          filtered.forEach((c) => {
+            (grouped[c.type] = grouped[c.type] || []).push(c);
+          });
+
+          const typeKeys = Object.keys(grouped);
+          if (typeKeys.length > 1 && currentSub === "ALL") {
+            typeKeys.forEach((type) => {
+              const label = document.createElement("div");
+              label.className = "group-label";
+              label.style.gridColumn = "1/-1";
+              label.textContent = type.replace(/_/g, " ");
+              grid.appendChild(label);
+              grouped[type].forEach((c, i) => grid.appendChild(buildCard(c, i)));
+            });
+          } else {
+            filtered.forEach((c, i) => grid.appendChild(buildCard(c, i)));
+          }
+        }
+
+        document.getElementById("resultsBar").innerHTML = `Showing <em>${filtered.length}</em> items`;
+      }
+
+      // ── MODAL ────────────────────────────────────────────────────────────
+      function openModal(cosmetic) {
+        const name = cosmetic.displayNames?.en_us || formatName(cosmetic.id);
+        const tier = cosmetic.tier || "COMMON";
+        const variants = cosmetic._variants || [];
+        const first = variants[0];
+
+        // If variants exist, always start on the first variant — never load the bare default
+        const gif = first
+          ? `./essential/${cosmetic.type}/${cosmetic.id}_${first.name}.gif`
+          : `./essential/${cosmetic.type}/${cosmetic.id}.gif`;
+        const png = first
+          ? `./essential/${cosmetic.type}/${cosmetic.id}_${first.name}.png`
+          : `./essential/${cosmetic.type}/${cosmetic.id}.png`;
+
+        const hero = document.getElementById("modalHero");
+        hero.querySelectorAll("img").forEach((i) => i.remove());
+        document.getElementById("heroFallback").textContent = "";
+
+        const img = document.createElement("img");
+        img.src = gif;
+        img.onerror = function () {
+          if (this.src.endsWith(".gif")) {
+            this.src = png;
+          } else {
+            this.remove();
+            document.getElementById("heroFallback").textContent = "?";
+          }
+        };
+        hero.insertBefore(img, hero.querySelector(".modal-tier"));
+
+        const badge = document.getElementById("modalTierBadge");
+        badge.textContent = tier.charAt(0) + tier.slice(1).toLowerCase();
+        badge.className = `modal-tier tier-${tier}`;
+
+        document.getElementById("modalName").textContent = name;
+        document.getElementById("modalSub").textContent = `${cosmetic.type.replace(/_/g, " ")} · ${cosmetic.id}`;
+
+        let html = `
+    <div class="modal-section-title">Details</div>
+    <div class="info-row">
+      <div class="info-chip"><div class="info-chip-label">Tier</div><div class="info-chip-val">${tier}</div></div>
+      <div class="info-chip"><div class="info-chip-label">Type</div><div class="info-chip-val">${cosmetic.type}</div></div>
+      <div class="info-chip"><div class="info-chip-label">Package ID</div><div class="info-chip-val">${cosmetic.storePackageId ?? "—"}</div></div>
+      <div class="info-chip"><div class="info-chip-label">Sort Weight</div><div class="info-chip-val">${cosmetic.defaultSortWeight ?? "—"}</div></div>
+    </div>`;
+
+        if (cosmetic._variants?.length) {
+          html += `<div class="modal-section-title">Variants</div>
+      <div id="modalVariantRow" style="display:flex;gap:7px;flex-wrap:wrap;margin-bottom:4px">
+        ${cosmetic._variants
+          .map(
+            (v, i) => `
+          <div data-modal-variant="${v.name}" style="display:flex;align-items:center;gap:5px;background:rgba(255,255,255,0.04);border:1px solid ${i === 0 ? "rgba(255,255,255,0.5)" : "rgba(255,255,255,0.08)"};border-radius:4px;padding:5px 9px;cursor:pointer"
+               onclick="switchModalVariant(event,'${cosmetic.type}','${cosmetic.id}','${v.name}')">
+            <div style="width:11px;height:11px;border-radius:2px;background:${numToHex(v.color)};border:1.5px solid rgba(255,255,255,0.25);flex-shrink:0"></div>
+            <span style="font-size:0.7rem;font-weight:700;color:var(--text-2)">${v.name}</span>
+          </div>`,
+          )
+          .join("")}
+      </div>`;
+        }
+
+        if (cosmetic.tags?.length) {
+          html += `<div class="modal-section-title">Tags</div>
+      <div style="display:flex;gap:5px;flex-wrap:wrap;margin-bottom:4px">
+        ${cosmetic.tags.map((t) => `<span style="background:rgba(91,155,213,0.12);border:1px solid rgba(91,155,213,0.25);color:var(--accent);font-size:0.67rem;font-weight:700;padding:2px 9px;border-radius:3px">${t}</span>`).join("")}
+      </div>`;
+        }
+
+        if (cosmetic.assetsMap && Object.keys(cosmetic.assetsMap).length) {
+          html += `<div class="modal-section-title">Assets</div>`;
+          for (const [key, val] of Object.entries(cosmetic.assetsMap)) {
+            html += `<div class="asset-item">
+        <div class="asset-key">${key}</div>
+        <div class="asset-val"><a href="${val.url}" target="_blank" rel="noopener">${val.url}</a></div>
+      </div>`;
+          }
+        }
+
+        document.getElementById("modalBody").innerHTML = html;
+        document.getElementById("overlay").classList.add("open");
+      }
+
+      document.getElementById("modalClose").onclick = () => document.getElementById("overlay").classList.remove("open");
+
+      function switchModalVariant(e, type, id, variantName) {
+        const imgEl = document.querySelector("#modalHero img");
+        if (!imgEl) return;
+        const variantGif = `./essential/${type}/${id}_${variantName}.gif`;
+        const variantPng = `./essential/${type}/${id}_${variantName}.png`;
+        imgEl.onerror = function () {
+          if (this.src.endsWith(".gif")) {
+            this.src = variantPng;
+          } else {
+            this.onerror = null;
+          }
+        };
+        imgEl.src = variantGif;
+        // highlight active swatch
+        e.currentTarget.parentElement.querySelectorAll("[data-modal-variant]").forEach((el) => {
+          el.style.borderColor = "rgba(255,255,255,0.08)";
+        });
+        e.currentTarget.style.borderColor = "rgba(255,255,255,0.5)";
+      }
+      document.getElementById("overlay").addEventListener("click", (e) => {
+        if (e.target === document.getElementById("overlay"))
+          document.getElementById("overlay").classList.remove("open");
+      });
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") document.getElementById("overlay").classList.remove("open");
+      });
+
+      document.getElementById("searchInput").addEventListener("input", (e) => {
+        searchQuery = e.target.value.trim().toLowerCase();
+        renderGrid();
+      });
+
+      // ── LOAD ─────────────────────────────────────────────────────────────
+      async function scanCategory(cat) {
+        try {
+          const r = await fetch(`./essential/${cat}/`);
+          if (!r.ok) return [];
+          const html = await r.text();
+          const doc = new DOMParser().parseFromString(html, "text/html");
+          return [...doc.querySelectorAll('a[href$=".json"]')]
+            .map((a) => a.getAttribute("href").replace(/.*\//, "").replace(".json", ""))
+            .filter(Boolean);
+        } catch {
+          return [];
+        }
+      }
+
+      async function loadAll() {
+        const listings = await Promise.all(CATEGORIES.map((cat) => scanCategory(cat)));
+        const fetches = [];
+        CATEGORIES.forEach((cat, i) => {
+          for (const id of listings[i]) {
+            fetches.push(
+              fetch(`./essential/${cat}/${id}.json`)
+                .then((r) => (r.ok ? r.json() : null))
+                .catch(() => null),
+            );
+          }
+        });
+        const results = await Promise.all(fetches);
+        const cosmetics = results.filter((r) => r && r.id && r.type);
+
+        // Fetch settings.json for each cosmetic in parallel, attach _variants
+        await Promise.all(
+          cosmetics.map(async (c) => {
+            try {
+              const r = await fetch(`./essential/${c.type}/${c.id}_settings.json`);
+              if (!r.ok) return;
+              const settings = await r.json();
+              const variantEntry = Array.isArray(settings) ? settings.find((s) => s.type === "VARIANTS") : null;
+              if (variantEntry?.data?.variants?.length) {
+                c._variants = variantEntry.data.variants;
+              }
+              // Attach unlock actions
+              if (Array.isArray(settings)) {
+                const unlockEntries = settings.filter((s) => s.type === "REQUIRES_UNLOCK_ACTION" && s.enabled);
+                if (unlockEntries.length) c._unlockActions = unlockEntries;
+              }
+            } catch {
+              /* no settings, fine */
+            }
+          }),
+        );
+
+        allCosmetics = cosmetics;
+
+        // ── Load bundles from server-bundles.json (separate from cosmetics loading) ──
+        try {
+          const br = await fetch("./server-bundles.json");
+          if (br.ok) {
+            const bundleData = await br.json();
+            if (Array.isArray(bundleData)) allBundles = bundleData;
+          }
+        } catch {
+          /* no bundles file, fine */
+        }
+
+        buildEmoteSubList();
+        buildCollectionSubList();
+        document.getElementById("loaderArea").style.display = "none";
+        document.getElementById("resultsBar").style.display = "block";
+        document.getElementById("grid").style.display = "grid";
+        renderGrid();
+      }
+
+      loadAll();
+    </script>
+  </body>
+</html>

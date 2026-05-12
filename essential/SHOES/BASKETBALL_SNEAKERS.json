@@ -1,0 +1,47 @@
+{
+  "id": "BASKETBALL_SNEAKERS",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Basketball Shoes"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 11,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/767cfa7704ff73d5ef2cd37da2a6128a0cf84c44c5586fb5e11af4067a1d1247",
+      "checksum": "767cfa7704ff73d5ef2cd37da2a6128a0cf84c44c5586fb5e11af4067a1d1247"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3acaa75195b3672e27fbe791b494a12084f7b5a46bb67057df164e7ed95b0c44",
+      "checksum": "3acaa75195b3672e27fbe791b494a12084f7b5a46bb67057df164e7ed95b0c44"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/29ec6a9a72920303735372e80825fbc53e0174acf8ad7c04c87d8d3b31be97ad",
+      "checksum": "29ec6a9a72920303735372e80825fbc53e0174acf8ad7c04c87d8d3b31be97ad"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/317ccfb682a595a052248a11d78b144cd6921476f0c635c1dd9ab6d4d961368b",
+      "checksum": "317ccfb682a595a052248a11d78b144cd6921476f0c635c1dd9ab6d4d961368b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2f780cc5e35fc70de48ae9579e721a24ed8fa6deb0a2235fe19abf9cb805853f",
+      "checksum": "2f780cc5e35fc70de48ae9579e721a24ed8fa6deb0a2235fe19abf9cb805853f"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/780c41d197199959a7279870d14cb2ebc6f4780d7bd31788f10672be56fe0d65",
+      "checksum": "780c41d197199959a7279870d14cb2ebc6f4780d7bd31788f10672be56fe0d65"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/53d90689db197233b956fc79cfaa13451dc0a889f5f3214f675b15b3ff8ff78f",
+      "checksum": "53d90689db197233b956fc79cfaa13451dc0a889f5f3214f675b15b3ff8ff78f"
+    }
+  }
+}

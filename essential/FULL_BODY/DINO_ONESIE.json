@@ -1,0 +1,58 @@
+{
+  "id": "DINO_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Dino Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/68299942a7d8b9285ef90c5b97ecd359062f7590758f46be835d35c3073ef1c2",
+      "checksum": "68299942a7d8b9285ef90c5b97ecd359062f7590758f46be835d35c3073ef1c2"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/beb1ec3266ca8c82ee44067a5decb9e7a7a7718ab41e72ccabaceae05828fad9",
+      "checksum": "beb1ec3266ca8c82ee44067a5decb9e7a7a7718ab41e72ccabaceae05828fad9"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/da3ae0ead48b1537d07b9a6c2dfd2fff8fd30f030d328b2987e1b5be16ac01e3",
+      "checksum": "da3ae0ead48b1537d07b9a6c2dfd2fff8fd30f030d328b2987e1b5be16ac01e3"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/fba804c37566ff90a375889b80ccbc90af98f4e5188d45b2503fb0cc5f8586e5",
+      "checksum": "fba804c37566ff90a375889b80ccbc90af98f4e5188d45b2503fb0cc5f8586e5"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0566b539cd0cca807b0cbf0049dbfe15555760fbba45f163626c9083643b874a",
+      "checksum": "0566b539cd0cca807b0cbf0049dbfe15555760fbba45f163626c9083643b874a"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/62e5007c7bed99b107dae2c97e59b67f9ffa4019b5557af73211a8cfacf169a8",
+      "checksum": "62e5007c7bed99b107dae2c97e59b67f9ffa4019b5557af73211a8cfacf169a8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a19139987212245a63dec6f4a6483b087ebabee156a448648a5015c271e3127e",
+      "checksum": "a19139987212245a63dec6f4a6483b087ebabee156a448648a5015c271e3127e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/5df9cff8f37fa66d04e39324eaa62a4945059eaee86e3be3c82a96811797dd62",
+      "checksum": "5df9cff8f37fa66d04e39324eaa62a4945059eaee86e3be3c82a96811797dd62"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/850bf7c155baeaa90c8326a439c15a9960f842b077c3cc89801d27a168d15b56",
+      "checksum": "850bf7c155baeaa90c8326a439c15a9960f842b077c3cc89801d27a168d15b56"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "NEON_RGB_PANTS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Neon Rgb Pants"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 50,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/63e62a882ff0481972fee772216edafacbda48cb03f71b501fc424238636d66d",
+      "checksum": "63e62a882ff0481972fee772216edafacbda48cb03f71b501fc424238636d66d"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/ec485f918956a2538c742fce0aa7ef4b47f1ec83864d3c3720222dc261fb4ef7",
+      "checksum": "ec485f918956a2538c742fce0aa7ef4b47f1ec83864d3c3720222dc261fb4ef7"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/71e6f695bb9b4ad38ec20c7cce65f45aa19fca23dd2b170b9639d7a254bb79a2",
+      "checksum": "71e6f695bb9b4ad38ec20c7cce65f45aa19fca23dd2b170b9639d7a254bb79a2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cc97bc8fb04fc62ad48821d95474ad47be77745d33c93f2be7dfac18c5ee942a",
+      "checksum": "cc97bc8fb04fc62ad48821d95474ad47be77745d33c93f2be7dfac18c5ee942a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f",
+      "checksum": "503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f"
+    }
+  }
+}

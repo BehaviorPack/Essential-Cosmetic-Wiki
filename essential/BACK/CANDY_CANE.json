@@ -1,0 +1,33 @@
+{
+  "id": "CANDY_CANE",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Candy Cane"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9a9e06bf3053924c1c3eb95652308676cf5ec3bc3054d368093d8c25196ef6e4",
+      "checksum": "9a9e06bf3053924c1c3eb95652308676cf5ec3bc3054d368093d8c25196ef6e4"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/5f8f419da251038b03ec3dee6008e724e9fc126ba7a3697838b1e4154be4a567",
+      "checksum": "5f8f419da251038b03ec3dee6008e724e9fc126ba7a3697838b1e4154be4a567"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d16b48f59c8ac18466f80edeca2a22b9f0cdf8c3ab4188574bb5a84e18a5c92a",
+      "checksum": "d16b48f59c8ac18466f80edeca2a22b9f0cdf8c3ab4188574bb5a84e18a5c92a"
+    }
+  }
+}

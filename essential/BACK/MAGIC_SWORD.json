@@ -1,0 +1,35 @@
+{
+  "id": "MAGIC_SWORD",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Holy Sword"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 10,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/6cf70545c264b1f7e9ac3465cbd96e93a3e2f881e9cccce082308bdc8c7b503b",
+      "checksum": "6cf70545c264b1f7e9ac3465cbd96e93a3e2f881e9cccce082308bdc8c7b503b"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/8271e9cc9f41dd16c3f35294a72e33e504ba19cfb496f17a2ef30f3660492145",
+      "checksum": "8271e9cc9f41dd16c3f35294a72e33e504ba19cfb496f17a2ef30f3660492145"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1919b42def8ab0924f178ff3a1c5224cfd7d409886470f7bd21bd802212aa01a",
+      "checksum": "1919b42def8ab0924f178ff3a1c5224cfd7d409886470f7bd21bd802212aa01a"
+    }
+  }
+}

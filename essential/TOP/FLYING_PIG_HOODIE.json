@@ -1,0 +1,42 @@
+{
+  "id": "FLYING_PIG_HOODIE",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Flying Pig Hoodie"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d281d8168f3e6236d4050138b723770c65ebbe57ef2185028f3c16524b53f159",
+      "checksum": "d281d8168f3e6236d4050138b723770c65ebbe57ef2185028f3c16524b53f159"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/24a03aca2c6204d0b67fe2ab2247aedfc3afffeebb0821356a57d6fbd1dc5ce7",
+      "checksum": "24a03aca2c6204d0b67fe2ab2247aedfc3afffeebb0821356a57d6fbd1dc5ce7"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/974d983ec3234575bd1ddb2ab75a946141378aec71123c4aca649b76f745085d",
+      "checksum": "974d983ec3234575bd1ddb2ab75a946141378aec71123c4aca649b76f745085d"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/7637a907e7cb5068614baf550c1a045ba1fcf67cbcd9c7bf4deec8e1c5e21490",
+      "checksum": "7637a907e7cb5068614baf550c1a045ba1fcf67cbcd9c7bf4deec8e1c5e21490"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/dd906f335809186d3dd639b63afec4816fe5e9b94c6f0cb15e8d2979badfd68c",
+      "checksum": "dd906f335809186d3dd639b63afec4816fe5e9b94c6f0cb15e8d2979badfd68c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/158bb6ea85a036992f9eaf7190ad37a581b3232a849bdf3adb0fd81c364b0e27",
+      "checksum": "158bb6ea85a036992f9eaf7190ad37a581b3232a849bdf3adb0fd81c364b0e27"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "MAGICAL_WRISTS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Magic Wrists"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "ARMS": 20,
+    "MAGIC": 0
+  },
+  "defaultSortWeight": 12,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/gold/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/eccaddd0e0c8b937def2d7af76104e12270bc4b7ab8557a7aa16d3ac08eee9fe",
+      "checksum": "eccaddd0e0c8b937def2d7af76104e12270bc4b7ab8557a7aa16d3ac08eee9fe"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c5237334545925e2eb589bf651354727cdf8f3327099081d6c426306d1ae803f",
+      "checksum": "c5237334545925e2eb589bf651354727cdf8f3327099081d6c426306d1ae803f"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/d4e515324eb1bea394cacabb49ef5c5dac85a4e8dffbbb34c254dd61a6eeeaa4",
+      "checksum": "d4e515324eb1bea394cacabb49ef5c5dac85a4e8dffbbb34c254dd61a6eeeaa4"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/ee8318016c2a7c847fe821f78b7f289daeba16fb7180a31d16ead45c10e7a37c",
+      "checksum": "ee8318016c2a7c847fe821f78b7f289daeba16fb7180a31d16ead45c10e7a37c"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ee8318016c2a7c847fe821f78b7f289daeba16fb7180a31d16ead45c10e7a37c",
+      "checksum": "ee8318016c2a7c847fe821f78b7f289daeba16fb7180a31d16ead45c10e7a37c"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4c9cdadad8f8704d8baa76113764249d51576886afe114818429901cbc842828",
+      "checksum": "4c9cdadad8f8704d8baa76113764249d51576886afe114818429901cbc842828"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/eccaddd0e0c8b937def2d7af76104e12270bc4b7ab8557a7aa16d3ac08eee9fe",
+      "checksum": "eccaddd0e0c8b937def2d7af76104e12270bc4b7ab8557a7aa16d3ac08eee9fe"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/4c9cdadad8f8704d8baa76113764249d51576886afe114818429901cbc842828",
+      "checksum": "4c9cdadad8f8704d8baa76113764249d51576886afe114818429901cbc842828"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/31a18afad9fe87d84cba94c5e3f57180d4766cd31231073d878bb3243c3b5700",
+      "checksum": "31a18afad9fe87d84cba94c5e3f57180d4766cd31231073d878bb3243c3b5700"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d69c8f95195cce4af351ce40d12d8fccc3ec31303dc4f88e77455ee5d45a3f85",
+      "checksum": "d69c8f95195cce4af351ce40d12d8fccc3ec31303dc4f88e77455ee5d45a3f85"
+    }
+  }
+}

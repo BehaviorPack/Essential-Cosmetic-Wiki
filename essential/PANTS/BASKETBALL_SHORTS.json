@@ -1,0 +1,47 @@
+{
+  "id": "BASKETBALL_SHORTS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Basketball Shorts"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/56837590fe66673127ce9b3a80315fc4e81a55c92310fa0df3d38aac91fec3e9",
+      "checksum": "56837590fe66673127ce9b3a80315fc4e81a55c92310fa0df3d38aac91fec3e9"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9214dc914f23f3d33353969e2404b09038a0ef84a8050d936fd5118b8ba1047c",
+      "checksum": "9214dc914f23f3d33353969e2404b09038a0ef84a8050d936fd5118b8ba1047c"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e476e9ad6d54f8f714a7236edaf6ed23a3b1c6df56296bbd32d4d9cbb5871ea6",
+      "checksum": "e476e9ad6d54f8f714a7236edaf6ed23a3b1c6df56296bbd32d4d9cbb5871ea6"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/857ec098db03a862cd03d3deb11f1282c948cb12a01c881f5fea2bbcf07d17ef",
+      "checksum": "857ec098db03a862cd03d3deb11f1282c948cb12a01c881f5fea2bbcf07d17ef"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3f0e168d582f32203b2916fef1471c6c139180ec39670fca48a9454c203b9abe",
+      "checksum": "3f0e168d582f32203b2916fef1471c6c139180ec39670fca48a9454c203b9abe"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f10d1e3ab6e6793dc5dd421787bcd76a8c0fcf2618569ba275d107c993c53b27",
+      "checksum": "f10d1e3ab6e6793dc5dd421787bcd76a8c0fcf2618569ba275d107c993c53b27"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ea67f2dfb7d3d434c6f105d324eaebad482e71742f96e4f86b29bfd4e33b010e",
+      "checksum": "ea67f2dfb7d3d434c6f105d324eaebad482e71742f96e4f86b29bfd4e33b010e"
+    }
+  }
+}

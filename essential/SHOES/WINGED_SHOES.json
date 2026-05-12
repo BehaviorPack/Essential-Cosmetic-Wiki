@@ -1,0 +1,43 @@
+{
+  "id": "WINGED_SHOES",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Winged Shoes"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 10,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b9ab946d5db938e34fef15b1f3903b09fa4ecbcc9db8f424807eeffa4cbdb1ef",
+      "checksum": "b9ab946d5db938e34fef15b1f3903b09fa4ecbcc9db8f424807eeffa4cbdb1ef"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/56575e1f88109581c61314450efb68c0c22ecbfcf64cb050b313bd6aaaa8f6d6",
+      "checksum": "56575e1f88109581c61314450efb68c0c22ecbfcf64cb050b313bd6aaaa8f6d6"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e832a6a14779dd6b2ac590f6d38377b6f71f206d3689be53904f1e44c1e34cc7",
+      "checksum": "e832a6a14779dd6b2ac590f6d38377b6f71f206d3689be53904f1e44c1e34cc7"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/5f8b03150a591a7e453215957bc610cb86484bca62e42dd93574b787969b055c",
+      "checksum": "5f8b03150a591a7e453215957bc610cb86484bca62e42dd93574b787969b055c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d13fb097441769229ac91c1278cc3642a5d49a90c139c051c01ac51b87fba9f6",
+      "checksum": "d13fb097441769229ac91c1278cc3642a5d49a90c139c051c01ac51b87fba9f6"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/304406ac1d71efff72d347d267c940710bfb90113abac2ff396ed7be705790a3",
+      "checksum": "304406ac1d71efff72d347d267c940710bfb90113abac2ff396ed7be705790a3"
+    }
+  }
+}

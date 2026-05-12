@@ -1,0 +1,83 @@
+{
+  "id": "NATURE_STAFF",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Nature Staff"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/9529c00545f6d2f5def2de063d6390b7adcac8aa2215c32f25237631a0f76fab",
+      "checksum": "9529c00545f6d2f5def2de063d6390b7adcac8aa2215c32f25237631a0f76fab"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/9e150a6368f5c41dae16ee9ab6634df0576270e332a7f2cbdfb88d95fa699dde",
+      "checksum": "9e150a6368f5c41dae16ee9ab6634df0576270e332a7f2cbdfb88d95fa699dde"
+    },
+    "particles/nature_staff_sparkles.particle.json": {
+      "url": "https://cdn.essential.gg/assets/57197afbb3eba47134ea8488d5c62efb661b065b10dcaf49cd4b1e77f1baf120",
+      "checksum": "57197afbb3eba47134ea8488d5c62efb661b065b10dcaf49cd4b1e77f1baf120"
+    },
+    "particles/nature_staff_trail.particle.json": {
+      "url": "https://cdn.essential.gg/assets/aa26989cf7fe0d4447eafda8cf05548f7eba7f322f97afdedab524bf37f6b97e",
+      "checksum": "aa26989cf7fe0d4447eafda8cf05548f7eba7f322f97afdedab524bf37f6b97e"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2d403cb3a1735b25179e0814932d6a1f3aab7e670d6bf12991f2f66c70db7c3b",
+      "checksum": "2d403cb3a1735b25179e0814932d6a1f3aab7e670d6bf12991f2f66c70db7c3b"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e71236728d4ff67d592ea29b8af83a2b9aaa17667080e3cc1d4aff54cd3fa851",
+      "checksum": "e71236728d4ff67d592ea29b8af83a2b9aaa17667080e3cc1d4aff54cd3fa851"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/ef5b071f0f985ce95d048c69e51d745dec69a35cbe195c6e3bf1f936235eecfb",
+      "checksum": "ef5b071f0f985ce95d048c69e51d745dec69a35cbe195c6e3bf1f936235eecfb"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f68175b0c86f98546b6d92a2fbb1a7fa039daca5bd2502553d6271a8954cdf63",
+      "checksum": "f68175b0c86f98546b6d92a2fbb1a7fa039daca5bd2502553d6271a8954cdf63"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5fe02ec99732670601636289e206cfd484f2588003f3803b345cf6cc7d782c23",
+      "checksum": "5fe02ec99732670601636289e206cfd484f2588003f3803b345cf6cc7d782c23"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5df2b91a63c36cad84ab62bd4295805747ae0be01fa3205ae489606753d4549c",
+      "checksum": "5df2b91a63c36cad84ab62bd4295805747ae0be01fa3205ae489606753d4549c"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/33806256a6ff0bf55b8a8b14127f65a9c8bb68639a261468ad4329001a9718b5",
+      "checksum": "33806256a6ff0bf55b8a8b14127f65a9c8bb68639a261468ad4329001a9718b5"
+    },
+    "variants/yellow/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f66ae755092de6d7642483744db1b2b96f29aa4274cbab91f95fafe15b80b053",
+      "checksum": "f66ae755092de6d7642483744db1b2b96f29aa4274cbab91f95fafe15b80b053"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/1ca108e0e3a8b98d3f09bd50c9b9f8279290f2d9f634a9b4c6b9f4a2d4f0d179",
+      "checksum": "1ca108e0e3a8b98d3f09bd50c9b9f8279290f2d9f634a9b4c6b9f4a2d4f0d179"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b4bd5bffae5fbc895695fe5fd265a58fe40c2b640163d42143256e0d49cb17ae",
+      "checksum": "b4bd5bffae5fbc895695fe5fd265a58fe40c2b640163d42143256e0d49cb17ae"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b753c486ea36d3fb54d3906fbdc769c52c0adcd4efd314235fcb5ccf80abae5a",
+      "checksum": "b753c486ea36d3fb54d3906fbdc769c52c0adcd4efd314235fcb5ccf80abae5a"
+    }
+  }
+}

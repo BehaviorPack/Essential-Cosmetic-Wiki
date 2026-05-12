@@ -1,0 +1,40 @@
+{
+  "id": "TURTLE",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Turtle"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_AQUATIC",
+    "THEME_MINECRAFT",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/59c2a3598292a25b52671d45525f11cd76b07bd629559a1e327c89deef762ed2",
+      "checksum": "59c2a3598292a25b52671d45525f11cd76b07bd629559a1e327c89deef762ed2"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/046db9fa967ae8834c6114d0771affd9e36b4847b6c3e7e861f52f848e8fb99c",
+      "checksum": "046db9fa967ae8834c6114d0771affd9e36b4847b6c3e7e861f52f848e8fb99c"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/c74d8641765a033df59e3073db4d43a9f15bc4a98131013acdf56993b7b2a01e",
+      "checksum": "c74d8641765a033df59e3073db4d43a9f15bc4a98131013acdf56993b7b2a01e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/059c74e835553b3a28c9de3b9dc17b0292183bf73e4c55fdda99a13e31e9a055",
+      "checksum": "059c74e835553b3a28c9de3b9dc17b0292183bf73e4c55fdda99a13e31e9a055"
+    }
+  }
+}

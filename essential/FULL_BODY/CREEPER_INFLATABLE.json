@@ -1,0 +1,35 @@
+{
+  "id": "CREEPER_INFLATABLE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Creeper Floaty"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "priceCoins": 0,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/45644db59b60db242554bd9d2d02fd7df52e066c4393ca13fd2f2c73496dbd69",
+      "checksum": "45644db59b60db242554bd9d2d02fd7df52e066c4393ca13fd2f2c73496dbd69"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/fa2d077597bf13979e50a099efdc420e5938ce75398d7fef9df66d913f0a5b0a",
+      "checksum": "fa2d077597bf13979e50a099efdc420e5938ce75398d7fef9df66d913f0a5b0a"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/cf78301bc3e8718b472ba3b5fd3a7fc0293d3362faa7073d2f7f2d8450be788a",
+      "checksum": "cf78301bc3e8718b472ba3b5fd3a7fc0293d3362faa7073d2f7f2d8450be788a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d6eb96f75a6399afff6285c6164f1d536f6969b11de3727d8e959b6211691082",
+      "checksum": "d6eb96f75a6399afff6285c6164f1d536f6969b11de3727d8e959b6211691082"
+    }
+  }
+}

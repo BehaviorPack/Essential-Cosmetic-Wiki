@@ -1,0 +1,63 @@
+{
+  "id": "Y2K_TRENDS_TOP",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Thrifted Top"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK",
+    "COLLECTION_JUNE2025",
+    "THEME_Y2K"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/grunge/texture.png": {
+      "url": "https://cdn.essential.gg/assets/37fdb29ca35579a02c81973d01f7d3b5f147cf09aa93ec01b3cb6c17e9307188",
+      "checksum": "37fdb29ca35579a02c81973d01f7d3b5f147cf09aa93ec01b3cb6c17e9307188"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b668aa345e65606560a01b5422d3179a5295bd74b69d6475e6ad460820232ba8",
+      "checksum": "b668aa345e65606560a01b5422d3179a5295bd74b69d6475e6ad460820232ba8"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/62abc45451457f6b2b4576cbf817ba9f7bbf440b1859f64b7469ee80e7ce365d",
+      "checksum": "62abc45451457f6b2b4576cbf817ba9f7bbf440b1859f64b7469ee80e7ce365d"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/bfe7dcb8a31ee84f8a66735e159b7bc3c82129782a0cd0f364bdc096ea3ceb8c",
+      "checksum": "bfe7dcb8a31ee84f8a66735e159b7bc3c82129782a0cd0f364bdc096ea3ceb8c"
+    },
+    "variants/lilac/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a15d3a8555d4535b861a752d50f98d54d47ec7b3aeb715f9f6cd124e26fe58f6",
+      "checksum": "a15d3a8555d4535b861a752d50f98d54d47ec7b3aeb715f9f6cd124e26fe58f6"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/7d412b67cbba79bb820de9f5e2a366da06bc03ff34bcc194fb23e6af1970a5fd",
+      "checksum": "7d412b67cbba79bb820de9f5e2a366da06bc03ff34bcc194fb23e6af1970a5fd"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3d9b903e1864a721805a68b0fefeb01ca9a07163496303b3220b828ba2389d04",
+      "checksum": "3d9b903e1864a721805a68b0fefeb01ca9a07163496303b3220b828ba2389d04"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b6a112de7b5226c62c5d4742abcef654ad6abe6b2f361cbb38a82a24584fbb69",
+      "checksum": "b6a112de7b5226c62c5d4742abcef654ad6abe6b2f361cbb38a82a24584fbb69"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/777499f0339227ab42be3ddc87bc3ef81dbc136e5b9559d007ca9ee008276644",
+      "checksum": "777499f0339227ab42be3ddc87bc3ef81dbc136e5b9559d007ca9ee008276644"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d1dfa9cccff76b4a6d8d3ffa96cec42e0fa0afca50c5710835d47f2fc58b5a54",
+      "checksum": "d1dfa9cccff76b4a6d8d3ffa96cec42e0fa0afca50c5710835d47f2fc58b5a54"
+    }
+  }
+}

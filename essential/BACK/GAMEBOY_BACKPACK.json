@@ -1,0 +1,77 @@
+{
+  "id": "GAMEBOY_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Gamer Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JUNE2025",
+    "THEME_Y2K",
+    "THEME_SCIFI",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b1e5982ea4f87908fa09999d6d515fee59f79ad0f8a2e7e141114f1cea36d57e",
+      "checksum": "b1e5982ea4f87908fa09999d6d515fee59f79ad0f8a2e7e141114f1cea36d57e"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b1e5982ea4f87908fa09999d6d515fee59f79ad0f8a2e7e141114f1cea36d57e",
+      "checksum": "b1e5982ea4f87908fa09999d6d515fee59f79ad0f8a2e7e141114f1cea36d57e"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b949172f6afd7e21899f45e8be92fdac0e8db00e22c428f4b4dcb415f390cec2",
+      "checksum": "b949172f6afd7e21899f45e8be92fdac0e8db00e22c428f4b4dcb415f390cec2"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/22a0b4966682ee16d3b9de1bb18b527401f3b9d46875bfe551dd6a8c0d6b0c58",
+      "checksum": "22a0b4966682ee16d3b9de1bb18b527401f3b9d46875bfe551dd6a8c0d6b0c58"
+    },
+    "variants/off_white/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b1e5982ea4f87908fa09999d6d515fee59f79ad0f8a2e7e141114f1cea36d57e",
+      "checksum": "b1e5982ea4f87908fa09999d6d515fee59f79ad0f8a2e7e141114f1cea36d57e"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b1e5982ea4f87908fa09999d6d515fee59f79ad0f8a2e7e141114f1cea36d57e",
+      "checksum": "b1e5982ea4f87908fa09999d6d515fee59f79ad0f8a2e7e141114f1cea36d57e"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0efb92178e812d86ebce5b911cf51b024af91fa4763326c82b8e503fe3831329",
+      "checksum": "0efb92178e812d86ebce5b911cf51b024af91fa4763326c82b8e503fe3831329"
+    },
+    "variants/off_white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/000f961d2cfe23d5d11dfd30880f0a61477f9c26b990bd67a2da03f9e5ae110c",
+      "checksum": "000f961d2cfe23d5d11dfd30880f0a61477f9c26b990bd67a2da03f9e5ae110c"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c7f646bafbefe70aee6b61ca5dc27802f721275fd4fdebbd545cd86731ca585a",
+      "checksum": "c7f646bafbefe70aee6b61ca5dc27802f721275fd4fdebbd545cd86731ca585a"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/65d3a648d571cb99aff9d2e495b86c8b052cf721095a534c21f394ca3e1364cc",
+      "checksum": "65d3a648d571cb99aff9d2e495b86c8b052cf721095a534c21f394ca3e1364cc"
+    },
+    "variants/yellow/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b1e5982ea4f87908fa09999d6d515fee59f79ad0f8a2e7e141114f1cea36d57e",
+      "checksum": "b1e5982ea4f87908fa09999d6d515fee59f79ad0f8a2e7e141114f1cea36d57e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1269fa22303839cf2404a41f414837908eee02892966844cfbf07d35d99931dc",
+      "checksum": "1269fa22303839cf2404a41f414837908eee02892966844cfbf07d35d99931dc"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/ad44530b4667882cc7ca23d7aa1f99d7f6e1068fc3f8a829f9a77f0c96655ef3",
+      "checksum": "ad44530b4667882cc7ca23d7aa1f99d7f6e1068fc3f8a829f9a77f0c96655ef3"
+    }
+  }
+}

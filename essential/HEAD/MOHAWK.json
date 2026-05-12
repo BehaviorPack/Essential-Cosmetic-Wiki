@@ -1,0 +1,51 @@
+{
+  "id": "MOHAWK",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Mohawk"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAIR": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b5f82cf46c8f8eb9c997c30509c9d83a4f01f2c58d2b43cddabbd80ab3b4d0e7",
+      "checksum": "b5f82cf46c8f8eb9c997c30509c9d83a4f01f2c58d2b43cddabbd80ab3b4d0e7"
+    },
+    "variants/brunette/texture.png": {
+      "url": "https://cdn.essential.gg/assets/83bed3eefe641864aee1ce77d1664988747fd7ad2bfaba21bbd10b469cbb2339",
+      "checksum": "83bed3eefe641864aee1ce77d1664988747fd7ad2bfaba21bbd10b469cbb2339"
+    },
+    "variants/blonde/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c117134f279c94ece0cc5f42850b119e7d77e8827496b18aacbe6f4e400c7228",
+      "checksum": "c117134f279c94ece0cc5f42850b119e7d77e8827496b18aacbe6f4e400c7228"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e120a2ba6465b7c7c89219ab94424d1ae842a605d1f5a689c3e06e04a1f2da25",
+      "checksum": "e120a2ba6465b7c7c89219ab94424d1ae842a605d1f5a689c3e06e04a1f2da25"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/45c680fca845352169a2bcefce7d42a5617f31a2aa89e5722993b55c97281b24",
+      "checksum": "45c680fca845352169a2bcefce7d42a5617f31a2aa89e5722993b55c97281b24"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f13b2ecb86713bd11838a3784ba91cbd8f1a1cc78e8aa1b170145e031698921c",
+      "checksum": "f13b2ecb86713bd11838a3784ba91cbd8f1a1cc78e8aa1b170145e031698921c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a93f09f80ede620d20f1d7c5dec51a10a8a5088277cd72e87e57701fa18a9dbf",
+      "checksum": "a93f09f80ede620d20f1d7c5dec51a10a8a5088277cd72e87e57701fa18a9dbf"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646",
+      "checksum": "3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646"
+    }
+  }
+}

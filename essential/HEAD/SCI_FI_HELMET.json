@@ -1,0 +1,43 @@
+{
+  "id": "SCI_FI_HELMET",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Sci-Fi Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 80,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/756ec2238ae3f5db6256f9d6f143ce5ed5a2a8370f9ed12d99e6e50d1171ec3e",
+      "checksum": "756ec2238ae3f5db6256f9d6f143ce5ed5a2a8370f9ed12d99e6e50d1171ec3e"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/80a561ee9e449ca0c9ac71f5cb0a41e4bfeba4f1122292b43ac1302c0ad6e7e6",
+      "checksum": "80a561ee9e449ca0c9ac71f5cb0a41e4bfeba4f1122292b43ac1302c0ad6e7e6"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f686cb2ee4e4fe3f98244f98b83ecb487227df22183b837b188540c9497b1088",
+      "checksum": "f686cb2ee4e4fe3f98244f98b83ecb487227df22183b837b188540c9497b1088"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6b82987e031cfe69d195bb5a80a3248212273ab3ad9ba4b4a460aa29877213cd",
+      "checksum": "6b82987e031cfe69d195bb5a80a3248212273ab3ad9ba4b4a460aa29877213cd"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "HOLY_MASK",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Holy Mask"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 40,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3e447722d85534155602a776a1b22c78f62b006c1fbf16e79dae2c28faa8f293",
+      "checksum": "3e447722d85534155602a776a1b22c78f62b006c1fbf16e79dae2c28faa8f293"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/5680c4bf9a0e55e0c1a082278e82cd0bde0cafe16c0eb494cdb78422db6beba7",
+      "checksum": "5680c4bf9a0e55e0c1a082278e82cd0bde0cafe16c0eb494cdb78422db6beba7"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/0024d61a95db6c5fca9f89da4bd4aa5649ec1632f291876cb093f41f31f70fdd",
+      "checksum": "0024d61a95db6c5fca9f89da4bd4aa5649ec1632f291876cb093f41f31f70fdd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e89d8a6ad26b78755e856fbb2c4d4bd16a3d3b38aef691b30fde8a6be77706c8",
+      "checksum": "e89d8a6ad26b78755e856fbb2c4d4bd16a3d3b38aef691b30fde8a6be77706c8"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/0024d61a95db6c5fca9f89da4bd4aa5649ec1632f291876cb093f41f31f70fdd",
+      "checksum": "0024d61a95db6c5fca9f89da4bd4aa5649ec1632f291876cb093f41f31f70fdd"
+    }
+  }
+}

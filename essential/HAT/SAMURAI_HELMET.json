@@ -1,0 +1,43 @@
+{
+  "id": "SAMURAI_HELMET",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Samurai Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_NINJA",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 26,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2747e9413965791b4e9f07e140ed022dc7d48c18924895bc143f76d907bf22a1",
+      "checksum": "2747e9413965791b4e9f07e140ed022dc7d48c18924895bc143f76d907bf22a1"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e2c6c5ad7baeb77029ad51821f06b2594bb39c2d08abbee1656433e70b804517",
+      "checksum": "e2c6c5ad7baeb77029ad51821f06b2594bb39c2d08abbee1656433e70b804517"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9f024a77021e340cd93ffd2b527af333534830358e4ee430e63258acccd3968d",
+      "checksum": "9f024a77021e340cd93ffd2b527af333534830358e4ee430e63258acccd3968d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b7ec7cae31a8da9a64971eedd82efb3d0e09daaf4e9cec69b4a63e05b602e8f6",
+      "checksum": "b7ec7cae31a8da9a64971eedd82efb3d0e09daaf4e9cec69b4a63e05b602e8f6"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1d83102a795320944a7957a63f69332977d88dac92c9fdeb8f14c07f73272a9b",
+      "checksum": "1d83102a795320944a7957a63f69332977d88dac92c9fdeb8f14c07f73272a9b"
+    }
+  }
+}

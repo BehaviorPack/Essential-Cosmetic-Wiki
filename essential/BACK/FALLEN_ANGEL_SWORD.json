@@ -1,0 +1,38 @@
+{
+  "id": "FALLEN_ANGEL_SWORD",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Fallen Angel Sword"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e3223daf51c3930c9833bcadf54e41246a990b5b25d2df6a79b97758371dfd4c",
+      "checksum": "e3223daf51c3930c9833bcadf54e41246a990b5b25d2df6a79b97758371dfd4c"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c70c3bf047f748d9d9c0e2f0e7ee55b635b4deea30f5a0d7a53a8bdcc9ce00de",
+      "checksum": "c70c3bf047f748d9d9c0e2f0e7ee55b635b4deea30f5a0d7a53a8bdcc9ce00de"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f1641d214f8ec33c2becfae712e4233934e5b6bc241c3d36ba1efff58ede9c7b",
+      "checksum": "f1641d214f8ec33c2becfae712e4233934e5b6bc241c3d36ba1efff58ede9c7b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f2f976b84232c042091c6ae49e15994f5c83071f8e05de8e91a470ce09de5407",
+      "checksum": "f2f976b84232c042091c6ae49e15994f5c83071f8e05de8e91a470ce09de5407"
+    }
+  }
+}

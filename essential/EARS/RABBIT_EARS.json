@@ -1,0 +1,35 @@
+{
+  "id": "RABBIT_EARS",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Rabbit Ears"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 11,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/57eb1119cc9cb844243d6a2fb4ec663a974556d16e4af134ac3fd063377ac1ae",
+      "checksum": "57eb1119cc9cb844243d6a2fb4ec663a974556d16e4af134ac3fd063377ac1ae"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/1a060f072b3a639b9131c5ee411966c2eec5fbfddbe4a9bf9500eb34789fdc6e",
+      "checksum": "1a060f072b3a639b9131c5ee411966c2eec5fbfddbe4a9bf9500eb34789fdc6e"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/aa1b9275ff76d5c1bf1ebdcb8b3d9ef969a684d8e38f160ce98d6d80108063c2",
+      "checksum": "aa1b9275ff76d5c1bf1ebdcb8b3d9ef969a684d8e38f160ce98d6d80108063c2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d04cae71d75309ca2fcd24e7f334b7c21ce3cd61c8769c044ecfb689927de7d3",
+      "checksum": "d04cae71d75309ca2fcd24e7f334b7c21ce3cd61c8769c044ecfb689927de7d3"
+    }
+  }
+}

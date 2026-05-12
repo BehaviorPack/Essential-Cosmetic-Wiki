@@ -1,0 +1,45 @@
+{
+  "id": "TEDDY_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Teddy Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_CUTE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2c12c1eb4ed6f5c2ead6680cb6302d2304f736a0d6092c9458801b010ad1bc9f",
+      "checksum": "2c12c1eb4ed6f5c2ead6680cb6302d2304f736a0d6092c9458801b010ad1bc9f"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/da10a7979465886d02d3f58361318ec640e4bc23f5b4068b295515223a5ead6f",
+      "checksum": "da10a7979465886d02d3f58361318ec640e4bc23f5b4068b295515223a5ead6f"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/38f30898d9553c5ecc732d1e72e007d5397e4b6c2b29af345ed475c8c8fdf3f6",
+      "checksum": "38f30898d9553c5ecc732d1e72e007d5397e4b6c2b29af345ed475c8c8fdf3f6"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cfe1702a8147687cbdb24adf2859ef7bfa90700e8fd1178c0e55304d75ce870a",
+      "checksum": "cfe1702a8147687cbdb24adf2859ef7bfa90700e8fd1178c0e55304d75ce870a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/60204e7d89fb9fa1b23a0ba768805efad9c37e3a3bfe8899ceca7d4b44a5f952",
+      "checksum": "60204e7d89fb9fa1b23a0ba768805efad9c37e3a3bfe8899ceca7d4b44a5f952"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9355ad41a87921b739bde3514a04ef287815189fe431cefe598f7473c9d2113a",
+      "checksum": "9355ad41a87921b739bde3514a04ef287815189fe431cefe598f7473c9d2113a"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "BEANIE",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Beanie"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 15,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0ed39c57a0fccc6317b61df82254fe6b323d9404276013216a20873ddd1e6d02",
+      "checksum": "0ed39c57a0fccc6317b61df82254fe6b323d9404276013216a20873ddd1e6d02"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d5caf353566fdabb1ec3ea63293cae59b4cf8340cd1ed31a76df1033c3b51c49",
+      "checksum": "d5caf353566fdabb1ec3ea63293cae59b4cf8340cd1ed31a76df1033c3b51c49"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2f6fdd5a6552c6f2c1f5c321760bd2e6901903b4121e509854b3597e14a90476",
+      "checksum": "2f6fdd5a6552c6f2c1f5c321760bd2e6901903b4121e509854b3597e14a90476"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7ae70c2d9d77503ff92f9b8351753d6b1c4eb8a8c2179e31f80046b352e1989a",
+      "checksum": "7ae70c2d9d77503ff92f9b8351753d6b1c4eb8a8c2179e31f80046b352e1989a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/29beb7b3ddd52d62b400154865317e3b2efac793829041642b8ffaf04c3d9590",
+      "checksum": "29beb7b3ddd52d62b400154865317e3b2efac793829041642b8ffaf04c3d9590"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f",
+      "checksum": "af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f"
+    }
+  }
+}

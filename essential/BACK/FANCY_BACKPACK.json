@@ -1,0 +1,35 @@
+{
+  "id": "FANCY_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Fancy Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 25,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/da825c531f793ec37306d79cc809c4fa8c1883ff84a5329d5d941cc9bb4324f4",
+      "checksum": "da825c531f793ec37306d79cc809c4fa8c1883ff84a5329d5d941cc9bb4324f4"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f0552f0871eb33c2fd1fd6b66ba2d4e964e190e8c20e42122b3b2b3e373c1657",
+      "checksum": "f0552f0871eb33c2fd1fd6b66ba2d4e964e190e8c20e42122b3b2b3e373c1657"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/33a7b9eda32ee77e75e572208d6f82beebc0daa1a463781e60dc30a83027ee9e",
+      "checksum": "33a7b9eda32ee77e75e572208d6f82beebc0daa1a463781e60dc30a83027ee9e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3dafc07fc61c28b6b2a19be4a2573c7b151a9e7c14bb42ade4ee2bfcf19054ae",
+      "checksum": "3dafc07fc61c28b6b2a19be4a2573c7b151a9e7c14bb42ade4ee2bfcf19054ae"
+    }
+  }
+}

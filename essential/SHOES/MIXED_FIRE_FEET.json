@@ -1,0 +1,47 @@
+{
+  "id": "MIXED_FIRE_FEET",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Legacy Mixed Fire Feet"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 2000,
+  "priceCoins": 600,
+  "assetsMap": {
+    "variants/green-purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/164c5dafebf00233ef8421bd53e63f653e9b0686a5059f9f653432c94d2b4f76",
+      "checksum": "164c5dafebf00233ef8421bd53e63f653e9b0686a5059f9f653432c94d2b4f76"
+    },
+    "variants/fire-blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/094f12292651dc8f860d6958d3e98c431f9d89b1a118906fffd05892783d1755",
+      "checksum": "094f12292651dc8f860d6958d3e98c431f9d89b1a118906fffd05892783d1755"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/71fadb0d2170cc7df51decac4f185cfaa2e619b381d6c046175570e6cc9af94f",
+      "checksum": "71fadb0d2170cc7df51decac4f185cfaa2e619b381d6c046175570e6cc9af94f"
+    },
+    "variants/green-purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3d5ee06f5034bf32d18ecd9a83fc6fa463d10dd8f172ad222ece4bdd938baa9b",
+      "checksum": "3d5ee06f5034bf32d18ecd9a83fc6fa463d10dd8f172ad222ece4bdd938baa9b"
+    },
+    "variants/fire-blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8c9e7ea84c9997151e13f546e3dc56399079418b1fa14e9cd3122f425c0c1618",
+      "checksum": "8c9e7ea84c9997151e13f546e3dc56399079418b1fa14e9cd3122f425c0c1618"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bc237726efb426a5cb901359ef04979a0275a1bb0dab57b3764e0e10252be563",
+      "checksum": "bc237726efb426a5cb901359ef04979a0275a1bb0dab57b3764e0e10252be563"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755",
+      "checksum": "88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755"
+    }
+  }
+}

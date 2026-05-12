@@ -1,0 +1,37 @@
+{
+  "id": "PUMPKIN_HEAD",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Pumpkin Head"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 140,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9ae1de07361df06272eea65da0eed3a088265969e8a5152593e079f4d71a0361",
+      "checksum": "9ae1de07361df06272eea65da0eed3a088265969e8a5152593e079f4d71a0361"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/66acd5a36926a70f9d312f819d2f0dac676ef1ad9cdac23d354758ab6ed009fd",
+      "checksum": "66acd5a36926a70f9d312f819d2f0dac676ef1ad9cdac23d354758ab6ed009fd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/17e4e972ed3245683b021e29f4080cad5b3400a9b4248f3ef163d4366027ae5e",
+      "checksum": "17e4e972ed3245683b021e29f4080cad5b3400a9b4248f3ef163d4366027ae5e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

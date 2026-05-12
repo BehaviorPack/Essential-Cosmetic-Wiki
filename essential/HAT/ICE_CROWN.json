@@ -1,0 +1,37 @@
+{
+  "id": "ICE_CROWN",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Ice Crown"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY",
+    "THEME_FANTASY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1cb6963e9c8fa5f3f7138582b7e9643236c290978c4b27bccd2febf2c2f0c741",
+      "checksum": "1cb6963e9c8fa5f3f7138582b7e9643236c290978c4b27bccd2febf2c2f0c741"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/5662c68adeab1c20fb4980663bec08cfe971f8468ea703bc525525ed0925d42d",
+      "checksum": "5662c68adeab1c20fb4980663bec08cfe971f8468ea703bc525525ed0925d42d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1a8a6e3b379af9e03e537ce6507e4470e0cdda3be8e84aabaf76c32111197584",
+      "checksum": "1a8a6e3b379af9e03e537ce6507e4470e0cdda3be8e84aabaf76c32111197584"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d6d59e4b78bff9a2ce56f5999683b2beb2481fdc43d2f2e8c0191f79dd4de0f7",
+      "checksum": "d6d59e4b78bff9a2ce56f5999683b2beb2481fdc43d2f2e8c0191f79dd4de0f7"
+    }
+  }
+}

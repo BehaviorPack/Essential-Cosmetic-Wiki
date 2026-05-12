@@ -1,0 +1,48 @@
+{
+  "id": "DENIM_OVERALL",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Denim Overall"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_AUTUMN",
+    "THEME_COZY",
+    "THEME_FARM"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 240,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/beige/texture.png": {
+      "url": "https://cdn.essential.gg/assets/361c69d8a62fcbe0f43ec7e469d880e3cc20b63a9d61c1cc7168d57df54ee7a3",
+      "checksum": "361c69d8a62fcbe0f43ec7e469d880e3cc20b63a9d61c1cc7168d57df54ee7a3"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8eb28c2b1be8e414e716d6b8980e47e8417b0a6a4f23969cd904a351c3e5d631",
+      "checksum": "8eb28c2b1be8e414e716d6b8980e47e8417b0a6a4f23969cd904a351c3e5d631"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8236d9e67dba91e49e28354540a54cf03b7a97ad43366f57b7ccf75865bbeaf6",
+      "checksum": "8236d9e67dba91e49e28354540a54cf03b7a97ad43366f57b7ccf75865bbeaf6"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/de0cc6a83cf023e162311773b6315bc7e9842bf49be12baaee14e52496627aa9",
+      "checksum": "de0cc6a83cf023e162311773b6315bc7e9842bf49be12baaee14e52496627aa9"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/440718f0b9bad2e62cf91aaf477d61978057faa27767fb6203a63c893b85f14d",
+      "checksum": "440718f0b9bad2e62cf91aaf477d61978057faa27767fb6203a63c893b85f14d"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/1fa53448a2d8bb7331cad811f70f7121896dd6086b799e33ec48a6fca3acc2e7",
+      "checksum": "1fa53448a2d8bb7331cad811f70f7121896dd6086b799e33ec48a6fca3acc2e7"
+    }
+  }
+}

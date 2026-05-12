@@ -1,0 +1,47 @@
+{
+  "id": "HEART_T_SHIRT",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Heart T-Shirt"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/04618fb94d05070f02133b4db27ddee3b1009ac344c8517831cde4966c146c2b",
+      "checksum": "04618fb94d05070f02133b4db27ddee3b1009ac344c8517831cde4966c146c2b"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/f13b75d6434df8840f8127183b81667f8bfe5e79a573fc33e61eb5d55c277a2f",
+      "checksum": "f13b75d6434df8840f8127183b81667f8bfe5e79a573fc33e61eb5d55c277a2f"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/5ce68f62e02461be54aba28f75109d68f704b3d202643641168f841efe44592b",
+      "checksum": "5ce68f62e02461be54aba28f75109d68f704b3d202643641168f841efe44592b"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/93e5b97caaca6a761e7ac75542e56ab53214cea65a15d476f8a4544f93db4656",
+      "checksum": "93e5b97caaca6a761e7ac75542e56ab53214cea65a15d476f8a4544f93db4656"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0d8e4f2c0ae8174868fc2b6404e7cf039d6e6350b74f793fe5d3d9b2a308fa4b",
+      "checksum": "0d8e4f2c0ae8174868fc2b6404e7cf039d6e6350b74f793fe5d3d9b2a308fa4b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4afbaa4db9e4ce6fcb7bbf3e4ff3d4c8c628edf7af56c56070f663fc817f9331",
+      "checksum": "4afbaa4db9e4ce6fcb7bbf3e4ff3d4c8c628edf7af56c56070f663fc817f9331"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/72189480892c7d5c918e693fc8c177e91fb2c594e6ef9f7577e733460507ddb2",
+      "checksum": "72189480892c7d5c918e693fc8c177e91fb2c594e6ef9f7577e733460507ddb2"
+    }
+  }
+}

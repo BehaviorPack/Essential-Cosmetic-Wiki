@@ -1,0 +1,38 @@
+{
+  "id": "TURTLE_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Turtle Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 119,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f76f49257dd1f06a2e07f4fb019243500c93dc9faf83263e0a3f1a029be07ea9",
+      "checksum": "f76f49257dd1f06a2e07f4fb019243500c93dc9faf83263e0a3f1a029be07ea9"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b14c7f2bed370b4a0eb645be11ffd2f5a893500b40a5b53fffa7be6d236ac7da",
+      "checksum": "b14c7f2bed370b4a0eb645be11ffd2f5a893500b40a5b53fffa7be6d236ac7da"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/2ac82fd617b952ec1188085f8d8462c8fe970bf699b9b8c29ae0bc7ac9fb802a",
+      "checksum": "2ac82fd617b952ec1188085f8d8462c8fe970bf699b9b8c29ae0bc7ac9fb802a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b8a8fd85c39b8bff9799b9cdf7300a50f1b0828b1b5229d0deb3a6e020152304",
+      "checksum": "b8a8fd85c39b8bff9799b9cdf7300a50f1b0828b1b5229d0deb3a6e020152304"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af161de5c97fc777807119f7296ef2a683804120cb7d143262b13e3d09c94afc",
+      "checksum": "af161de5c97fc777807119f7296ef2a683804120cb7d143262b13e3d09c94afc"
+    }
+  }
+}

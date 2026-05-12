@@ -1,0 +1,58 @@
+{
+  "id": "PAJAMA_TOP",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Pajama Top"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY",
+    "THEME_AUTUMN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 8,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/33ca19c1a8f38acebe57d6afdd34cc2dec67d9941ffcdcacc619715c0cedf9b2",
+      "checksum": "33ca19c1a8f38acebe57d6afdd34cc2dec67d9941ffcdcacc619715c0cedf9b2"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a3ab6051ccd39779df435dae5582a4a1169a73642aa2051806a1efaa715be760",
+      "checksum": "a3ab6051ccd39779df435dae5582a4a1169a73642aa2051806a1efaa715be760"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/65acca897c83795496bcba15cb534372e86eb3430912f1f6dcb97e2333dd4363",
+      "checksum": "65acca897c83795496bcba15cb534372e86eb3430912f1f6dcb97e2333dd4363"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/0348653599756b529d3d60f1d5a7a1fa000901b5955e572ddf7d2a4ff6f75f63",
+      "checksum": "0348653599756b529d3d60f1d5a7a1fa000901b5955e572ddf7d2a4ff6f75f63"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/26c6ea9fcfeb79446067c196ebe52a36ddd7af3fbf6d256229ecc3669e8b48d7",
+      "checksum": "26c6ea9fcfeb79446067c196ebe52a36ddd7af3fbf6d256229ecc3669e8b48d7"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/95b7e6fea3cd3dd173bbaa3590df91014593b5c9e5e1603ce278359a7fdb1136",
+      "checksum": "95b7e6fea3cd3dd173bbaa3590df91014593b5c9e5e1603ce278359a7fdb1136"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3facfc6ff25b01681c8c14f70c28ea4fd0ae9eb62d459db58181e413bb647d72",
+      "checksum": "3facfc6ff25b01681c8c14f70c28ea4fd0ae9eb62d459db58181e413bb647d72"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6dd22d002edb74fddd18056c1887d70f676e647df07b2388a2b449cbdb7e3d96",
+      "checksum": "6dd22d002edb74fddd18056c1887d70f676e647df07b2388a2b449cbdb7e3d96"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c61980a26414dfdd3f07de798b804405bab6ae28d802047a58753a5c8e334009",
+      "checksum": "c61980a26414dfdd3f07de798b804405bab6ae28d802047a58753a5c8e334009"
+    }
+  }
+}

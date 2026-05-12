@@ -1,0 +1,40 @@
+{
+  "id": "EARMUFFS",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Earmuffs"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0213996de86abef88d08c155060a9617a50b9e169dd667906d33268bb6326b19",
+      "checksum": "0213996de86abef88d08c155060a9617a50b9e169dd667906d33268bb6326b19"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8bff60f9eb477eb1794023628055e479ae7455943c20c862a97ea6ecb893849d",
+      "checksum": "8bff60f9eb477eb1794023628055e479ae7455943c20c862a97ea6ecb893849d"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/49234b93ab38b83e446974431bf8b6a4e78b9c9a65cb9d634ae9b1112cf1bce0",
+      "checksum": "49234b93ab38b83e446974431bf8b6a4e78b9c9a65cb9d634ae9b1112cf1bce0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f5405536ab28e2dbf2705d15f759f17401c2360585cadbf2b8c5e41cded97fe6",
+      "checksum": "f5405536ab28e2dbf2705d15f759f17401c2360585cadbf2b8c5e41cded97fe6"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bd0e0b85050f3bf83978365ce7c67abd3f86b87de11cf8dd55744d2823b11da3",
+      "checksum": "bd0e0b85050f3bf83978365ce7c67abd3f86b87de11cf8dd55744d2823b11da3"
+    }
+  }
+}

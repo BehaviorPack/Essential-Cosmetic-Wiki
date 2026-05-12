@@ -1,0 +1,54 @@
+{
+  "id": "GRUNGE_PANTS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Grunge Pants"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK",
+    "COLLECTION_JUNE2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2286858d9bd4c63930a9baa2a6701e40d5399facb03883853488014890db42a0",
+      "checksum": "2286858d9bd4c63930a9baa2a6701e40d5399facb03883853488014890db42a0"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/524d5cc15c5832bafcb6a6bac78951376077b8783c459a208081a0d94cf51f25",
+      "checksum": "524d5cc15c5832bafcb6a6bac78951376077b8783c459a208081a0d94cf51f25"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7451de3f513dc88f7e6c08b0c69f9f0571b430a966ae4929f159af1881aafb03",
+      "checksum": "7451de3f513dc88f7e6c08b0c69f9f0571b430a966ae4929f159af1881aafb03"
+    },
+    "variants/dark_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cb86cc4b944a6fd978bd866caeea7fd814660d2b4cffedaf2f8668f625e6e7ad",
+      "checksum": "cb86cc4b944a6fd978bd866caeea7fd814660d2b4cffedaf2f8668f625e6e7ad"
+    },
+    "variants/light_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/635eeb42c73609ac9f3f565ee420661bac3bd815164994817e3d77cb9039d079",
+      "checksum": "635eeb42c73609ac9f3f565ee420661bac3bd815164994817e3d77cb9039d079"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/099e2e36eef8e22710f3f5f2caf0979b5cae2408da78458bbe6ab7b3e0d3f2a0",
+      "checksum": "099e2e36eef8e22710f3f5f2caf0979b5cae2408da78458bbe6ab7b3e0d3f2a0"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/e58a26e753514478621021136fd4731da4d061203a721f79548370492a506265",
+      "checksum": "e58a26e753514478621021136fd4731da4d061203a721f79548370492a506265"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f3f6393531b738217fe7f5479a7d7985ff19547704d6f3a5e0d963f67cf38e30",
+      "checksum": "f3f6393531b738217fe7f5479a7d7985ff19547704d6f3a5e0d963f67cf38e30"
+    }
+  }
+}

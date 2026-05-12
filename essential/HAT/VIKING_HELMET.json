@@ -1,0 +1,36 @@
+{
+  "id": "VIKING_HELMET",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Viking Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 101,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b65b3173cbc99bd9eb80c92760e7ae03b6cad1d19a247f20583531a8c1b3979c",
+      "checksum": "b65b3173cbc99bd9eb80c92760e7ae03b6cad1d19a247f20583531a8c1b3979c"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/90d0148c6c974a1bf83ea17414d4ff9131a2950267712cf4a22504cd8949c0cc",
+      "checksum": "90d0148c6c974a1bf83ea17414d4ff9131a2950267712cf4a22504cd8949c0cc"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4421341b918e33db31b02bb1d56381c2b91c8c15fe9bb8ed8d11f93b71974ee8",
+      "checksum": "4421341b918e33db31b02bb1d56381c2b91c8c15fe9bb8ed8d11f93b71974ee8"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/433f522fa89aabd8d6da21cc39c89d1524007136ac2b7f41f70ee80cf51ee705",
+      "checksum": "433f522fa89aabd8d6da21cc39c89d1524007136ac2b7f41f70ee80cf51ee705"
+    }
+  }
+}

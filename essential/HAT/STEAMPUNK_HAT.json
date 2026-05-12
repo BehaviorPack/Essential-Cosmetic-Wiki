@@ -1,0 +1,36 @@
+{
+  "id": "STEAMPUNK_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Steampunk Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 108,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3e768933c3f1e1e080bad2c40858b264f117518a9b627a982e16f9fd412dcd34",
+      "checksum": "3e768933c3f1e1e080bad2c40858b264f117518a9b627a982e16f9fd412dcd34"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c9f29545f95f8b74a5fb47c420e686abb1838a6bbf395c90aa291af85694855b",
+      "checksum": "c9f29545f95f8b74a5fb47c420e686abb1838a6bbf395c90aa291af85694855b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/258a8d59429f8284189302cdfff732d42c2ba0b4da09a985b5fbc247f8fecb04",
+      "checksum": "258a8d59429f8284189302cdfff732d42c2ba0b4da09a985b5fbc247f8fecb04"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/99b50caa087c3519991af3ad52d91204004d132e10f2ed1cb54313a8fbe5ab4d",
+      "checksum": "99b50caa087c3519991af3ad52d91204004d132e10f2ed1cb54313a8fbe5ab4d"
+    }
+  }
+}

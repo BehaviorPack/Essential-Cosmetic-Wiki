@@ -1,0 +1,38 @@
+{
+  "id": "CHEF_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Chef Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_CITY",
+    "THEME_FARM"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3e6ac124bd4a9822e3cdf26502ae3db034831e36fb99bc4014644f1c59099030",
+      "checksum": "3e6ac124bd4a9822e3cdf26502ae3db034831e36fb99bc4014644f1c59099030"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/54317862983658f079f113cbdf312bcb111bf854eeaf9af5ff9a21570a637995",
+      "checksum": "54317862983658f079f113cbdf312bcb111bf854eeaf9af5ff9a21570a637995"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6fa440bdc7060c38c00f53e387a833db699384c29f9b9bc6862af73b16e8b779",
+      "checksum": "6fa440bdc7060c38c00f53e387a833db699384c29f9b9bc6862af73b16e8b779"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761",
+      "checksum": "0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761"
+    }
+  }
+}

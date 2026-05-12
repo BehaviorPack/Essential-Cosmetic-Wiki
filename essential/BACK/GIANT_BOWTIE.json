@@ -1,0 +1,41 @@
+{
+  "id": "GIANT_BOWTIE",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Big Bowtie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0899030f2556704eb1b14f146eb41c242dd83410e7411e1a681a429a6de8600a",
+      "checksum": "0899030f2556704eb1b14f146eb41c242dd83410e7411e1a681a429a6de8600a"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/94f8d7b626768dc489ff3ea1e3a57e238763be1d610b9831490bb82c558ae5f5",
+      "checksum": "94f8d7b626768dc489ff3ea1e3a57e238763be1d610b9831490bb82c558ae5f5"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8585bf23efa062e365a23f4a1d85487e791316b02abd4d358b40a4596c863891",
+      "checksum": "8585bf23efa062e365a23f4a1d85487e791316b02abd4d358b40a4596c863891"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/37b44be322d57f7b629bfe9c1750601e1dd6bffd83a3e250182033dc2a54b0c0",
+      "checksum": "37b44be322d57f7b629bfe9c1750601e1dd6bffd83a3e250182033dc2a54b0c0"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fa1d292569c7bcef17e18f26e104d492ddbae7ada974f13af5e049a453c7731b",
+      "checksum": "fa1d292569c7bcef17e18f26e104d492ddbae7ada974f13af5e049a453c7731b"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GHASTLING_PET",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Ghastling"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_NETHER",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/regular/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b6fd1c54b01109ce2f53ffc0f8f6768495b7230e11be9b6c664f500dad1d05c9",
+      "checksum": "b6fd1c54b01109ce2f53ffc0f8f6768495b7230e11be9b6c664f500dad1d05c9"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c3b4c4ce909782bcf332c65703d506413989aac1f87dad7c1ecb34d82ae1c534",
+      "checksum": "c3b4c4ce909782bcf332c65703d506413989aac1f87dad7c1ecb34d82ae1c534"
+    },
+    "variants/goggles/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ece45cb014448f989201a9340242508bfcf02866a2b42ce680c4d5518ec46c7e",
+      "checksum": "ece45cb014448f989201a9340242508bfcf02866a2b42ce680c4d5518ec46c7e"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/72a724b859df0662812b2dc7dce8a2c654edd174f6825239649bb186912e6861",
+      "checksum": "72a724b859df0662812b2dc7dce8a2c654edd174f6825239649bb186912e6861"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c7ad2cd494355cfe0c9151919b895efb67869ed466ae686ec43676f876e782f2",
+      "checksum": "c7ad2cd494355cfe0c9151919b895efb67869ed466ae686ec43676f876e782f2"
+    }
+  }
+}

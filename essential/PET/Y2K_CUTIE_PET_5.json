@@ -1,0 +1,39 @@
+{
+  "id": "Y2K_CUTIE_PET_5",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Honeydew Mouse"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JUNE2025",
+    "THEME_Y2K",
+    "SET_CUTIES",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f2b23bd05c312349e5aa9e29d62930ca10b97ee6272be13397e851a4e49f261e",
+      "checksum": "f2b23bd05c312349e5aa9e29d62930ca10b97ee6272be13397e851a4e49f261e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/2594a6b0ecd45f660241c9ead0d9487b57be7c15ddd83bdaf726162c2f5b5df0",
+      "checksum": "2594a6b0ecd45f660241c9ead0d9487b57be7c15ddd83bdaf726162c2f5b5df0"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/87e90838e366ccd11130eb748250a837ed6f3189512ce3de9991780f2466ac53",
+      "checksum": "87e90838e366ccd11130eb748250a837ed6f3189512ce3de9991780f2466ac53"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3be8899f4f7c811defd3078297ba056359c2cdc9eba4915400ba8ef5992b105b",
+      "checksum": "3be8899f4f7c811defd3078297ba056359c2cdc9eba4915400ba8ef5992b105b"
+    }
+  }
+}

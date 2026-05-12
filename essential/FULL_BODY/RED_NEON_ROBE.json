@@ -1,0 +1,48 @@
+{
+  "id": "RED_NEON_ROBE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "(RED) Neon RGB Robe"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 500,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/071391d92160b16f55f2f94b2217320f6c0359b8146bbcdc05530d132a7df74a",
+      "checksum": "071391d92160b16f55f2f94b2217320f6c0359b8146bbcdc05530d132a7df74a"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/749127a4f5916d193b6ea6ba608368599f7b50bf3ea194f665e33983aa94cd2c",
+      "checksum": "749127a4f5916d193b6ea6ba608368599f7b50bf3ea194f665e33983aa94cd2c"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b9b0302e5500bbe2e05e7fd3431c3154752f95b5c30c5529b21a7e29da527511",
+      "checksum": "b9b0302e5500bbe2e05e7fd3431c3154752f95b5c30c5529b21a7e29da527511"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c0e7b768d82dfd7979d6a1e8373db275ac48bc2280acc52af27a110fd46314c1",
+      "checksum": "c0e7b768d82dfd7979d6a1e8373db275ac48bc2280acc52af27a110fd46314c1"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/a65d78d6ea54be6809092a2cf6bfbd6b3c21170db0ae441407943b754dd565d3",
+      "checksum": "a65d78d6ea54be6809092a2cf6bfbd6b3c21170db0ae441407943b754dd565d3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/46f33dceb28352cd30c9cf964dba74085cae2a1ca19189fa7be4770a77d39da8",
+      "checksum": "46f33dceb28352cd30c9cf964dba74085cae2a1ca19189fa7be4770a77d39da8"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/4d5fed046594dbcfc164d96baf98917e7d454f710613381d9302fe49bf4ac2f4",
+      "checksum": "4d5fed046594dbcfc164d96baf98917e7d454f710613381d9302fe49bf4ac2f4"
+    }
+  }
+}

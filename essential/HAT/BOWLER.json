@@ -1,0 +1,35 @@
+{
+  "id": "BOWLER",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Bowler"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 35,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/434fd97a7b8b239f7ae681810d658c5d551f79fef3fd3704c958d0033f9657f5",
+      "checksum": "434fd97a7b8b239f7ae681810d658c5d551f79fef3fd3704c958d0033f9657f5"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f61be0910827efa8ae285208a8fe6d80e29ed98377c66713d1285ceda71e9ee1",
+      "checksum": "f61be0910827efa8ae285208a8fe6d80e29ed98377c66713d1285ceda71e9ee1"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/84237c6ba56a5d9ab2a80d3f2f6379f06c5e6a2f29ed255db8453e2ad88c5712",
+      "checksum": "84237c6ba56a5d9ab2a80d3f2f6379f06c5e6a2f29ed255db8453e2ad88c5712"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f",
+      "checksum": "af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f"
+    }
+  }
+}

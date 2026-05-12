@@ -1,0 +1,60 @@
+{
+  "id": "HEAD_FLAMES",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Head Flames"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 9,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c6ea54aa8070c79e97075d87f1028b8945ebe87ff19a3c2ae5f158c36faf301c",
+      "checksum": "c6ea54aa8070c79e97075d87f1028b8945ebe87ff19a3c2ae5f158c36faf301c"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/043a24cf7ac5cbd116d43e508bd31e0ce92b46c05e7c6ead050f7707bf82db27",
+      "checksum": "043a24cf7ac5cbd116d43e508bd31e0ce92b46c05e7c6ead050f7707bf82db27"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/32e91ee8bce8f2a4cce6c1dce3258c8b9dcfcc87e74e6caafa8a129bf4e7eae2",
+      "checksum": "32e91ee8bce8f2a4cce6c1dce3258c8b9dcfcc87e74e6caafa8a129bf4e7eae2"
+    },
+    "variants/fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/744b1442fb1960bb48eab35758db86d40f8133323641730c2cd64f1a16ef0e0f",
+      "checksum": "744b1442fb1960bb48eab35758db86d40f8133323641730c2cd64f1a16ef0e0f"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4e54fbafc68a5a93e02e267d5e14e24b00f557d6e89cabf2f01d711d612642ec",
+      "checksum": "4e54fbafc68a5a93e02e267d5e14e24b00f557d6e89cabf2f01d711d612642ec"
+    },
+    "variants/fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/0544c64ae6c7f680540aca8b48482342c715b294e37455ff08daf4ed3b2bad0a",
+      "checksum": "0544c64ae6c7f680540aca8b48482342c715b294e37455ff08daf4ed3b2bad0a"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1068c6c8874aed1d92d928d4d95a3faf81b49c8946a3db1f608c06e559fc1e58",
+      "checksum": "1068c6c8874aed1d92d928d4d95a3faf81b49c8946a3db1f608c06e559fc1e58"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5f7128463ab456d68ffb0fd971d5483e6385b677b5829778698db0e306315d40",
+      "checksum": "5f7128463ab456d68ffb0fd971d5483e6385b677b5829778698db0e306315d40"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a007eb157d4dde64bab8c499322911f35a988b30a33ab52c6487726734879e6e",
+      "checksum": "a007eb157d4dde64bab8c499322911f35a988b30a33ab52c6487726734879e6e"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c9959ae3961cfa9dc91fabc8a6f4f038a16ca8247342a83afad10f87a47ed9a7",
+      "checksum": "c9959ae3961cfa9dc91fabc8a6f4f038a16ca8247342a83afad10f87a47ed9a7"
+    }
+  }
+}

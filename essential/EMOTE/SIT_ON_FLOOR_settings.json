@@ -1,0 +1,10 @@
+[
+  {
+    "type": "INTERRUPTS_EMOTE",
+    "id": "SIT",
+    "enabled": true,
+    "data": {
+      "MOVEMENT": true
+    }
+  }
+]

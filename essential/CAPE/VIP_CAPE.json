@@ -1,0 +1,45 @@
+{
+  "id": "VIP_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "VIP Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 6,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8d3a8c18e70796ed8381d73c528d9cf32973793d1a28e92d348f39d69687f7ab",
+      "checksum": "8d3a8c18e70796ed8381d73c528d9cf32973793d1a28e92d348f39d69687f7ab"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/99a4f3eaaae962836293aa2fd2062cfd2700c3b27e2df2d911aa6cc1e4082546",
+      "checksum": "99a4f3eaaae962836293aa2fd2062cfd2700c3b27e2df2d911aa6cc1e4082546"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9c29946fda31552258c72c664d31079826f2c3aa005a0039adcd7ebb83b54743",
+      "checksum": "9c29946fda31552258c72c664d31079826f2c3aa005a0039adcd7ebb83b54743"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/568dbf14a10934ec6f81c7ab3f09826d287ae19faf0dbf622d8001ab632d4532",
+      "checksum": "568dbf14a10934ec6f81c7ab3f09826d287ae19faf0dbf622d8001ab632d4532"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8bc4cabdee75fc9e77936cb8552b337b65f5420b906ff0987754b595f3b36441",
+      "checksum": "8bc4cabdee75fc9e77936cb8552b337b65f5420b906ff0987754b595f3b36441"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7e18e190c8eb3cf314bb5dacef1e86f6dac3f0ffd38ee526dbd1ecb097d1cbb4",
+      "checksum": "7e18e190c8eb3cf314bb5dacef1e86f6dac3f0ffd38ee526dbd1ecb097d1cbb4"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/988313a578cc2c3e4b0975db2aa98ef1438a62992c611bb70266e2b67dac217a",
+      "checksum": "988313a578cc2c3e4b0975db2aa98ef1438a62992c611bb70266e2b67dac217a"
+    }
+  }
+}

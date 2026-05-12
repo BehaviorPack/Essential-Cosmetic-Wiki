@@ -1,0 +1,39 @@
+{
+  "id": "BLACK_CAT_MASK",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Black Cat Mask"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HALLOWEEN",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5f7be715666f2af8ae99ba4c39d8fa6da1573ddc422097ce26971e7ff0936893",
+      "checksum": "5f7be715666f2af8ae99ba4c39d8fa6da1573ddc422097ce26971e7ff0936893"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/bc4d90e206db828356068aeae0c70d831693baeeabb547c3299d26ee80f411a7",
+      "checksum": "bc4d90e206db828356068aeae0c70d831693baeeabb547c3299d26ee80f411a7"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/9a8215308d7c22b4e40a64beb7a84f68d4e67ef09b9147b94b68be910c72110e",
+      "checksum": "9a8215308d7c22b4e40a64beb7a84f68d4e67ef09b9147b94b68be910c72110e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f72e5ccc8f7a1c294fee09115c8a93ff932fbe4e4e3fc65983d5843c47b14e66",
+      "checksum": "f72e5ccc8f7a1c294fee09115c8a93ff932fbe4e4e3fc65983d5843c47b14e66"
+    }
+  }
+}

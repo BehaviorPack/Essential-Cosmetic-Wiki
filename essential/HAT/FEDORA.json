@@ -1,0 +1,33 @@
+{
+  "id": "FEDORA",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Fedora"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 31,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7ee1e504c60f5a84596603f90f2e929344863ba9c2912e2eb9f3d688de8fc7ea",
+      "checksum": "7ee1e504c60f5a84596603f90f2e929344863ba9c2912e2eb9f3d688de8fc7ea"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/d9d0318dd86c8b8890fb48ffdd27793b869233b8a7972f8d84dff16bf7f380d7",
+      "checksum": "d9d0318dd86c8b8890fb48ffdd27793b869233b8a7972f8d84dff16bf7f380d7"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/725bb80644cf3f1da6788b5ff8bfcf93bfdeda94115963ec2ec2d8f7f451a575",
+      "checksum": "725bb80644cf3f1da6788b5ff8bfcf93bfdeda94115963ec2ec2d8f7f451a575"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f",
+      "checksum": "af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "WIND_WARRIOR_ARMOR",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Wind Warrior Armor"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_NINJA",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/32648820992bf293792063e99fd067f19eed2c92d1b8faf5941b93a43508d29f",
+      "checksum": "32648820992bf293792063e99fd067f19eed2c92d1b8faf5941b93a43508d29f"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/5684466fb32151fffaf0fa718af346bc426fe8bff34d626c1d639c857f320a59",
+      "checksum": "5684466fb32151fffaf0fa718af346bc426fe8bff34d626c1d639c857f320a59"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/3155a30323efa81a80a8b7c050fcf9c85bb2a1a06ec8caea7a6557296cdbe5a7",
+      "checksum": "3155a30323efa81a80a8b7c050fcf9c85bb2a1a06ec8caea7a6557296cdbe5a7"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/47c0632e9588586aab8642773c4df7872c847fcf02301f192083a8a8a7c569cd",
+      "checksum": "47c0632e9588586aab8642773c4df7872c847fcf02301f192083a8a8a7c569cd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f09f300ee2a2737c7fb17d41d17d29feb509854a2f7d53e855fc1714021b5b3a",
+      "checksum": "f09f300ee2a2737c7fb17d41d17d29feb509854a2f7d53e855fc1714021b5b3a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/1830736c8f3660c4ed4f7ec4794243cc795f3968d6eb17f000bbf0e4c60f353f",
+      "checksum": "1830736c8f3660c4ed4f7ec4794243cc795f3968d6eb17f000bbf0e4c60f353f"
+    }
+  }
+}

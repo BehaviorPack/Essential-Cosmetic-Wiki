@@ -1,0 +1,48 @@
+{
+  "id": "NEON_RGB_ROBE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "RGB Robe"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 130,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/adcd71c077694e0f0784621642c48b9d14e530caa348e1932acb3988f5a9fc20",
+      "checksum": "adcd71c077694e0f0784621642c48b9d14e530caa348e1932acb3988f5a9fc20"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/73f92c2bd12aa82c89a20cdb0713232e56339e4f8b9792829a8ca5481aa8be6d",
+      "checksum": "73f92c2bd12aa82c89a20cdb0713232e56339e4f8b9792829a8ca5481aa8be6d"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/37ee3b1e6b555a2e90e8a9d5c4b07a3c320c03a74baf9defc5ef4c025a572e17",
+      "checksum": "37ee3b1e6b555a2e90e8a9d5c4b07a3c320c03a74baf9defc5ef4c025a572e17"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c330813ab72ee9a59f9e103dd06b3fcc5f8bc181a0fd40aeb810e970eda947a8",
+      "checksum": "c330813ab72ee9a59f9e103dd06b3fcc5f8bc181a0fd40aeb810e970eda947a8"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/639a1bd358fa7be74547f92fc0168c75e0a9eab02e834224882a7e6f33d4fe6e",
+      "checksum": "639a1bd358fa7be74547f92fc0168c75e0a9eab02e834224882a7e6f33d4fe6e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0a3c8817992b2c7270dd4b1f79039d2119c6bf40d6f509787aaac58c0b3dc5db",
+      "checksum": "0a3c8817992b2c7270dd4b1f79039d2119c6bf40d6f509787aaac58c0b3dc5db"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/62af102e5a9ac7de23b8fd66e3b41263b693bfdc2dff55d7b571b012a470defe",
+      "checksum": "62af102e5a9ac7de23b8fd66e3b41263b693bfdc2dff55d7b571b012a470defe"
+    }
+  }
+}

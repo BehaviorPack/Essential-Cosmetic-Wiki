@@ -1,0 +1,32 @@
+{
+  "id": "BLOSSOM_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Blossom Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/114b5b687b941b7b63f95ddb38514b0a10d184d9cab8676b371e93262949b911",
+      "checksum": "114b5b687b941b7b63f95ddb38514b0a10d184d9cab8676b371e93262949b911"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/2721a18176307a5dbc32285d3004f7829cf08d84e20102a74850c0cd8746266e",
+      "checksum": "2721a18176307a5dbc32285d3004f7829cf08d84e20102a74850c0cd8746266e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1977d9e49d2f18238a8ac96aa28243f4cce9bdb0bbf8cbc27bf5278499c457f1",
+      "checksum": "1977d9e49d2f18238a8ac96aa28243f4cce9bdb0bbf8cbc27bf5278499c457f1"
+    }
+  }
+}

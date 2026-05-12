@@ -1,0 +1,80 @@
+{
+  "id": "SOUL_VOID",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Void Matter"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_BLACK",
+    "THEME_GOTHIC",
+    "COLLECTION_MAY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/black_green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/af8fa076b8b59d46f86a3ff2359c1e8d0e33f56f6303b92ba17b2b3200a23095",
+      "checksum": "af8fa076b8b59d46f86a3ff2359c1e8d0e33f56f6303b92ba17b2b3200a23095"
+    },
+    "variants/black_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/924f7ab0de9dd10e81b1bcef74275be35bc0a4a173ec024a78f68f3e9f545997",
+      "checksum": "924f7ab0de9dd10e81b1bcef74275be35bc0a4a173ec024a78f68f3e9f545997"
+    },
+    "particles/soul_void_trail.particle.json": {
+      "url": "https://cdn.essential.gg/assets/024307d29a7e40be47659e2efd51e6c1894fa45dea7c01781939d8250d7e9d84",
+      "checksum": "024307d29a7e40be47659e2efd51e6c1894fa45dea7c01781939d8250d7e9d84"
+    },
+    "particles/soul_void_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/10325896fe01aaeed1014a97725b715e7d3e96482115f3f5773e248b87fefcfa",
+      "checksum": "10325896fe01aaeed1014a97725b715e7d3e96482115f3f5773e248b87fefcfa"
+    },
+    "particles/soul_void_streaks.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d3a34997701a4a8015b74e648f68de6b274a0a89af557585f8ca345c74dde8f8",
+      "checksum": "d3a34997701a4a8015b74e648f68de6b274a0a89af557585f8ca345c74dde8f8"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6de56801d472e75ea6ef5153249cff2b02d253fa2ddb28fbc217a7a70ad0e8e8",
+      "checksum": "6de56801d472e75ea6ef5153249cff2b02d253fa2ddb28fbc217a7a70ad0e8e8"
+    },
+    "particles/soul_void_spikes.particle.json": {
+      "url": "https://cdn.essential.gg/assets/543afbc694c66b0f616820a9ce8a8f6341af0ab457b8c43873f9de18ca390430",
+      "checksum": "543afbc694c66b0f616820a9ce8a8f6341af0ab457b8c43873f9de18ca390430"
+    },
+    "particles/soul_void_discs.particle.json": {
+      "url": "https://cdn.essential.gg/assets/664eaed19e9d3c6597ea9f62c8dec245913ad6d413c1f852c293a7f91e6f725d",
+      "checksum": "664eaed19e9d3c6597ea9f62c8dec245913ad6d413c1f852c293a7f91e6f725d"
+    },
+    "particles/soul_void_lines.particle.json": {
+      "url": "https://cdn.essential.gg/assets/4a933a085fba1a645fd8d2cc475d3ae86893e9afda2b3a92cab7147f4e0981ae",
+      "checksum": "4a933a085fba1a645fd8d2cc475d3ae86893e9afda2b3a92cab7147f4e0981ae"
+    },
+    "variants/black_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6f816d8be2542fd05cafdc673a05f931ad0d743182e8e43ea2fa6f608cb071db",
+      "checksum": "6f816d8be2542fd05cafdc673a05f931ad0d743182e8e43ea2fa6f608cb071db"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/836b6edb87348cbf6248bf853f1dde5524578d418c011cc751bf7878bea6027f",
+      "checksum": "836b6edb87348cbf6248bf853f1dde5524578d418c011cc751bf7878bea6027f"
+    },
+    "variants/black_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e0c671f8c58b8e4caa02b772f0414cb6801ff6b32e99d9617b0bde1d58eb6de3",
+      "checksum": "e0c671f8c58b8e4caa02b772f0414cb6801ff6b32e99d9617b0bde1d58eb6de3"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/f6b88b8bbdac518ded23a6d7fe71dae63bbdc30f081127c3e129966cd775cc6a",
+      "checksum": "f6b88b8bbdac518ded23a6d7fe71dae63bbdc30f081127c3e129966cd775cc6a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/74cbd03cbdc68c298c69874183193397c62030549422de6f6bdd811343cb901d",
+      "checksum": "74cbd03cbdc68c298c69874183193397c62030549422de6f6bdd811343cb901d"
+    }
+  }
+}

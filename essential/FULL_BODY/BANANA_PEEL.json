@@ -1,0 +1,47 @@
+{
+  "id": "BANANA_PEEL",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Banana Peel"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY",
+    "THEME_HALLOWEEN",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/29a7b82a63a6511db46b595e6c28d11f604ddb38246fd213d17e7d6ad5792953",
+      "checksum": "29a7b82a63a6511db46b595e6c28d11f604ddb38246fd213d17e7d6ad5792953"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/868f2db3071a8140010295c961108899650383195ea342243c6547a0e083eb5c",
+      "checksum": "868f2db3071a8140010295c961108899650383195ea342243c6547a0e083eb5c"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/98ba5d1073f667b3b1f8bca3d776bae5c277949e87cf767566706d14b281c05c",
+      "checksum": "98ba5d1073f667b3b1f8bca3d776bae5c277949e87cf767566706d14b281c05c"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/5ce68f62e02461be54aba28f75109d68f704b3d202643641168f841efe44592b",
+      "checksum": "5ce68f62e02461be54aba28f75109d68f704b3d202643641168f841efe44592b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/430b62480a48370d02d00105b3408951e5ad8ea70b6832f71152be8b704eca14",
+      "checksum": "430b62480a48370d02d00105b3408951e5ad8ea70b6832f71152be8b704eca14"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/72189480892c7d5c918e693fc8c177e91fb2c594e6ef9f7577e733460507ddb2",
+      "checksum": "72189480892c7d5c918e693fc8c177e91fb2c594e6ef9f7577e733460507ddb2"
+    }
+  }
+}

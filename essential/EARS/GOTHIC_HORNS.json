@@ -1,0 +1,53 @@
+{
+  "id": "GOTHIC_HORNS",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Gothic Horns"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_APRIL2026",
+    "THEME_ANIMAL",
+    "THEME_DEVIL",
+    "THEME_HALLOWEEN",
+    "THEME_DEMON"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/be10663b2c885ab3912095e0cddf6ef524e97960e82eebf0e2303dc86a75051d",
+      "checksum": "be10663b2c885ab3912095e0cddf6ef524e97960e82eebf0e2303dc86a75051d"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1b62fdb37e1fbcf154a500fff854a404ea4bb004357068eb3118ffd7314e4816",
+      "checksum": "1b62fdb37e1fbcf154a500fff854a404ea4bb004357068eb3118ffd7314e4816"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e71baa3eef7d49c0cc33dd482aeb2fa14152c37424b0f16a830103c420a80bad",
+      "checksum": "e71baa3eef7d49c0cc33dd482aeb2fa14152c37424b0f16a830103c420a80bad"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/85852b9b68e1a7206c6c4766ea5c25d2676d87431bc4487388927e8950260e4d",
+      "checksum": "85852b9b68e1a7206c6c4766ea5c25d2676d87431bc4487388927e8950260e4d"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/91914a645144109ec2b0fd513816d4b01269ba93399505530b649154d54ce4d8",
+      "checksum": "91914a645144109ec2b0fd513816d4b01269ba93399505530b649154d54ce4d8"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/67f7981598f86e6502578ba19036c9abba77dea1489e48f91c6ea2cdc2c0a19e",
+      "checksum": "67f7981598f86e6502578ba19036c9abba77dea1489e48f91c6ea2cdc2c0a19e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0f9a8d3a749eb8d13b2857cc2e635c88829431bddf5e9d27521b114c4ae7ac9d",
+      "checksum": "0f9a8d3a749eb8d13b2857cc2e635c88829431bddf5e9d27521b114c4ae7ac9d"
+    }
+  }
+}

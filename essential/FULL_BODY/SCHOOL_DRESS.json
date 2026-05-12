@@ -1,0 +1,53 @@
+{
+  "id": "SCHOOL_DRESS",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "School Dress"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCHOOL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 100,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/36512f5b1f462dd87a585d8459921f83fa72ee2be76e9d5c648832b90acae6fe",
+      "checksum": "36512f5b1f462dd87a585d8459921f83fa72ee2be76e9d5c648832b90acae6fe"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/7481fb036d51628615ca977da1149ca71dec204085946fd67da9a78f807e90cf",
+      "checksum": "7481fb036d51628615ca977da1149ca71dec204085946fd67da9a78f807e90cf"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/80ea715fde6f897bb5f7cc59eb510eb3aed4708e28bc73e571ba1f9588aff6cf",
+      "checksum": "80ea715fde6f897bb5f7cc59eb510eb3aed4708e28bc73e571ba1f9588aff6cf"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/224630dcce93054a57746ae1bb325c8c38ebad87690c80b897a46e6ae3c565b9",
+      "checksum": "224630dcce93054a57746ae1bb325c8c38ebad87690c80b897a46e6ae3c565b9"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/05a753af892aa51e66aad67ef5c93bca8c70dc533b4d278acf4c638a8d2942c8",
+      "checksum": "05a753af892aa51e66aad67ef5c93bca8c70dc533b4d278acf4c638a8d2942c8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/980148f4750f50114c89ce714bdc5004333ad9039c29e477106e2264e624b881",
+      "checksum": "980148f4750f50114c89ce714bdc5004333ad9039c29e477106e2264e624b881"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d9f037636d34ac73358c11878e5174cf2cf48e885e0e0c11302e377421923478",
+      "checksum": "d9f037636d34ac73358c11878e5174cf2cf48e885e0e0c11302e377421923478"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/169b146bb4f7a3b4a150310dd9efe40836bc52c2a223a34a9c1e69df584d7214",
+      "checksum": "169b146bb4f7a3b4a150310dd9efe40836bc52c2a223a34a9c1e69df584d7214"
+    }
+  }
+}

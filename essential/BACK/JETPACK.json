@@ -1,0 +1,33 @@
+{
+  "id": "JETPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Jetpack"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 31,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a04e122cf4b83f975424c01f7eda27bf37f269c482c87d8f4e9bb6febf1351c7",
+      "checksum": "a04e122cf4b83f975424c01f7eda27bf37f269c482c87d8f4e9bb6febf1351c7"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/46d121b5cb66a42372679fa56f6874f199068f5660bc2cd2352eea9253c93f78",
+      "checksum": "46d121b5cb66a42372679fa56f6874f199068f5660bc2cd2352eea9253c93f78"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a60c3be0576071d45ddf4acae0318460e9d4a1ef757dc3c8fd1575e0ebca1954",
+      "checksum": "a60c3be0576071d45ddf4acae0318460e9d4a1ef757dc3c8fd1575e0ebca1954"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/82fa7c3f826b2acca4e8416737f823fc303aee47a5c294d4b2596196cfd419ae",
+      "checksum": "82fa7c3f826b2acca4e8416737f823fc303aee47a5c294d4b2596196cfd419ae"
+    }
+  }
+}

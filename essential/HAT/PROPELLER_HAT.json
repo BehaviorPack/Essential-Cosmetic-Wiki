@@ -1,0 +1,43 @@
+{
+  "id": "PROPELLER_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Propeller Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 9,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f75589e657486375af8d5c12d5bb89bbc7049a5e086c9f19ae7b9a1da6c4b42d",
+      "checksum": "f75589e657486375af8d5c12d5bb89bbc7049a5e086c9f19ae7b9a1da6c4b42d"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/754fb73b5ded7624cf389533767d8c22aa08392aef0f484b80dd84a35a61bf26",
+      "checksum": "754fb73b5ded7624cf389533767d8c22aa08392aef0f484b80dd84a35a61bf26"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/4502bf5baefd13a1fbaa41071c17ca29462e791cb4badaf55e9f5e304620dad3",
+      "checksum": "4502bf5baefd13a1fbaa41071c17ca29462e791cb4badaf55e9f5e304620dad3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4f80b51a20408b5bf6b6949459fe2afc44e0ed0685c0af9f9e12205fd0ccc224",
+      "checksum": "4f80b51a20408b5bf6b6949459fe2afc44e0ed0685c0af9f9e12205fd0ccc224"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/9054b47f535ade1947e05ddcd55d27c4d280bfcf5c6e43ab1e61a787710010b5",
+      "checksum": "9054b47f535ade1947e05ddcd55d27c4d280bfcf5c6e43ab1e61a787710010b5"
+    }
+  }
+}

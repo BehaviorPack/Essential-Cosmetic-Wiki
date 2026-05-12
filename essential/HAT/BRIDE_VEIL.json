@@ -1,0 +1,41 @@
+{
+  "id": "BRIDE_VEIL",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Lace Veil"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_VALENTINES",
+    "COLLECTION_APRIL2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8b5b61648f2fec1c340411f5cf2203825b50b6e993eb9c489e206057539c4dbd",
+      "checksum": "8b5b61648f2fec1c340411f5cf2203825b50b6e993eb9c489e206057539c4dbd"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1ee1be523f89775d3fd41593c2fa2cfb930d8d6d5dc005917e88b687807a94bd",
+      "checksum": "1ee1be523f89775d3fd41593c2fa2cfb930d8d6d5dc005917e88b687807a94bd"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6f078677b182dd7789ee05007fb88eedb5b87580cab1b32c02d5ccd70e1667cd",
+      "checksum": "6f078677b182dd7789ee05007fb88eedb5b87580cab1b32c02d5ccd70e1667cd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d480af7712968a585a1d0281ffed6393a8d8a68a11b9bda0163dd521e334a722",
+      "checksum": "d480af7712968a585a1d0281ffed6393a8d8a68a11b9bda0163dd521e334a722"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/e3cee592b48ff505de0d4a85b5d4b21630a69637729b46633ee46cbe5ab093dd",
+      "checksum": "e3cee592b48ff505de0d4a85b5d4b21630a69637729b46633ee46cbe5ab093dd"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "HEART_PARTICLES",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Heart Particles"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/460822a79d490fbf3e6ea2d969470c82265f3b864e28b63ced6cf0361be22125",
+      "checksum": "460822a79d490fbf3e6ea2d969470c82265f3b864e28b63ced6cf0361be22125"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b64eee9b9d8614ebacf66352142adcee63ee820c5a0f134e62b1efa2928a54c6",
+      "checksum": "b64eee9b9d8614ebacf66352142adcee63ee820c5a0f134e62b1efa2928a54c6"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e5c09ee7d72c1a5e32a08e126e4445ceffea6a9e49d05e79b1159d919591b06a",
+      "checksum": "e5c09ee7d72c1a5e32a08e126e4445ceffea6a9e49d05e79b1159d919591b06a"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/5dc84dedced7ff5a66dd8ffe6666b1f10b7187b1e70285f9f5a68641ad31667c",
+      "checksum": "5dc84dedced7ff5a66dd8ffe6666b1f10b7187b1e70285f9f5a68641ad31667c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7706fab6d118cfef0da38709ca8668945f45b072479f8ec428bf1436975845ad",
+      "checksum": "7706fab6d118cfef0da38709ca8668945f45b072479f8ec428bf1436975845ad"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/12c38e31bb7f848073a22b570d486a1d4ed88f75d4d11040f81112a70c4aebcb",
+      "checksum": "12c38e31bb7f848073a22b570d486a1d4ed88f75d4d11040f81112a70c4aebcb"
+    }
+  }
+}

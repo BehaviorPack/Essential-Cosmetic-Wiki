@@ -1,0 +1,42 @@
+{
+  "id": "REAPER_ROBES",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Reaper Robes"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 450,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3746c9e620e3b8afa6e52998d7325044dab772e87bd2db4fdbdfbcae61bc703b",
+      "checksum": "3746c9e620e3b8afa6e52998d7325044dab772e87bd2db4fdbdfbcae61bc703b"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/855c70ca9a0116fe9fdd254046743311f560fc89ae08812bb8860845e521d715",
+      "checksum": "855c70ca9a0116fe9fdd254046743311f560fc89ae08812bb8860845e521d715"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/7c6068faf5249718f3b33530c12e698f25efeaac611a224e6954f820ac091655",
+      "checksum": "7c6068faf5249718f3b33530c12e698f25efeaac611a224e6954f820ac091655"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/bfe568dd2d55f237c5a70dfd6edb34201035d12a93ee411ba70d8281019a1b7f",
+      "checksum": "bfe568dd2d55f237c5a70dfd6edb34201035d12a93ee411ba70d8281019a1b7f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/fb4c875aa738086c0d5532ce7fad12640508d50e10a965a57ef7ba40d87be0c6",
+      "checksum": "fb4c875aa738086c0d5532ce7fad12640508d50e10a965a57ef7ba40d87be0c6"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/05924e761d4667c079f746e7ecde145374b5449e08999ef93aaae92e56edbf4c",
+      "checksum": "05924e761d4667c079f746e7ecde145374b5449e08999ef93aaae92e56edbf4c"
+    }
+  }
+}

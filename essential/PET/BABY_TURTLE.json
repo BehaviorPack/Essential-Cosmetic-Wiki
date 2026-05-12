@@ -1,0 +1,40 @@
+{
+  "id": "BABY_TURTLE",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Baby Turtle"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "COLLECTION_JANUARY2026",
+    "THEME_CUTE",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/59c2a3598292a25b52671d45525f11cd76b07bd629559a1e327c89deef762ed2",
+      "checksum": "59c2a3598292a25b52671d45525f11cd76b07bd629559a1e327c89deef762ed2"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/faebe4f3625884564a9ab4bac6bf91958172786de299bf618f9a40cd3ff51bde",
+      "checksum": "faebe4f3625884564a9ab4bac6bf91958172786de299bf618f9a40cd3ff51bde"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/32f71a65c5e3fc66e68180a8329ac08bb5743d14e36d321d5af97c9051fbe750",
+      "checksum": "32f71a65c5e3fc66e68180a8329ac08bb5743d14e36d321d5af97c9051fbe750"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/00dfef2ee60eb28621954a72d0848937e4186c17c3efc28a594e035f119d0d97",
+      "checksum": "00dfef2ee60eb28621954a72d0848937e4186c17c3efc28a594e035f119d0d97"
+    }
+  }
+}

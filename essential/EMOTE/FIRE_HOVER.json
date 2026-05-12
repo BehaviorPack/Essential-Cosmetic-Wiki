@@ -1,0 +1,95 @@
+{
+  "id": "FIRE_HOVER",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Fire Flight"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR",
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "particles/release_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/7e778d93c112d272484bd7ba2edecc7c165cd353b1acbd122c3c9379efa94c28",
+      "checksum": "7e778d93c112d272484bd7ba2edecc7c165cd353b1acbd122c3c9379efa94c28"
+    },
+    "particles/arm_burst_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/471588b857ad0d4ba143785e06826c56a4c73d5fa71def6785e8d8258213a970",
+      "checksum": "471588b857ad0d4ba143785e06826c56a4c73d5fa71def6785e8d8258213a970"
+    },
+    "particles/take_off_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/cfcaeecb6a7748385d00d200a162c6b4d4c6316daf8f5bb04d430fa476879544",
+      "checksum": "cfcaeecb6a7748385d00d200a162c6b4d4c6316daf8f5bb04d430fa476879544"
+    },
+    "particles/arm_burst_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/e5fee8de5bf46caa53fb7192266e90bae817cfc8fcacadd26316f67f2dd4e282",
+      "checksum": "e5fee8de5bf46caa53fb7192266e90bae817cfc8fcacadd26316f67f2dd4e282"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/ba432e6b9f98e69b3714a19db878feb5c8859a0ea3174e0addde82e8d7e420f3",
+      "checksum": "ba432e6b9f98e69b3714a19db878feb5c8859a0ea3174e0addde82e8d7e420f3"
+    },
+    "particles/ready_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/850f44cbf67d1acc5ec1b00bd9b7bd566065b5ab9ccc5951baaf98b7105b937d",
+      "checksum": "850f44cbf67d1acc5ec1b00bd9b7bd566065b5ab9ccc5951baaf98b7105b937d"
+    },
+    "particles/fly_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/81f322ce59880e367c6e8d96577393fa3266a0a4644010f34a61be6b6753a642",
+      "checksum": "81f322ce59880e367c6e8d96577393fa3266a0a4644010f34a61be6b6753a642"
+    },
+    "sounds/fire_hover_pre.ogg": {
+      "url": "https://cdn.essential.gg/assets/24e2dad0c6adfb0091143aee3f5c2c18401a8fce4760c3d7c7478e0276d43f2c",
+      "checksum": "24e2dad0c6adfb0091143aee3f5c2c18401a8fce4760c3d7c7478e0276d43f2c"
+    },
+    "particles/charge_up_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d467d95ed365e8c9c707a745d297adcfbc22d90d5b5a6002f104c8c71187aa46",
+      "checksum": "d467d95ed365e8c9c707a745d297adcfbc22d90d5b5a6002f104c8c71187aa46"
+    },
+    "sounds/fire_hover_loop.ogg": {
+      "url": "https://cdn.essential.gg/assets/5764db21eaaa5b1ae9da18c53ae59f51f4f6619c32873db691c575823a5dcfb2",
+      "checksum": "5764db21eaaa5b1ae9da18c53ae59f51f4f6619c32873db691c575823a5dcfb2"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/4adf9644db4bbeec3c238cf0267bb8644ff7edb662fde0d092c4a590509f0dcb",
+      "checksum": "4adf9644db4bbeec3c238cf0267bb8644ff7edb662fde0d092c4a590509f0dcb"
+    },
+    "particles/charge_up_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/a49f8a88a53b8064dd6ba1505838b48a0d6ca4c638bdf9e4a2e09aa25c2754c6",
+      "checksum": "a49f8a88a53b8064dd6ba1505838b48a0d6ca4c638bdf9e4a2e09aa25c2754c6"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/50b3150883f6c3165b0341b1d34b92a123e3ea29b9703d4688ee5ae26d103119",
+      "checksum": "50b3150883f6c3165b0341b1d34b92a123e3ea29b9703d4688ee5ae26d103119"
+    },
+    "particles/release_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/e6e97e53a629991470a6056e17592015704e7d90f7511b25e17b3a6ecf363073",
+      "checksum": "e6e97e53a629991470a6056e17592015704e7d90f7511b25e17b3a6ecf363073"
+    },
+    "particles/ready_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/f02fae40d79b903f65e6e53916df625a0f5717dd9b34bd210ac3f81eeaa180f8",
+      "checksum": "f02fae40d79b903f65e6e53916df625a0f5717dd9b34bd210ac3f81eeaa180f8"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/0947c7ab6126f375d31bfea06616fea456d91c14a61238d4ebbfc046e56f7752",
+      "checksum": "0947c7ab6126f375d31bfea06616fea456d91c14a61238d4ebbfc046e56f7752"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/fdb00d074c3702de1a67b624b6f9ae7f9dab16c90c9fc97ff321d570cbcf11ec",
+      "checksum": "fdb00d074c3702de1a67b624b6f9ae7f9dab16c90c9fc97ff321d570cbcf11ec"
+    },
+    "particles/fly_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/0684587cd67475ec0952e7c7de40869b099f6e2a35d2382ca23975ab2a5c9f2d",
+      "checksum": "0684587cd67475ec0952e7c7de40869b099f6e2a35d2382ca23975ab2a5c9f2d"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "FALLEN_ANGEL_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Fallen Angel Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANGEL",
+    "THEME_GOLDEN",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/11301988bf859f35cf19f085ee57b4272c13c9cce61f3048e7fbe0c2918f71d6",
+      "checksum": "11301988bf859f35cf19f085ee57b4272c13c9cce61f3048e7fbe0c2918f71d6"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/3d43d0a9e1fdb620ef8faa2f1bae30b7170b75def9ab9c1745522ba5edc55241",
+      "checksum": "3d43d0a9e1fdb620ef8faa2f1bae30b7170b75def9ab9c1745522ba5edc55241"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/08c18f3c7cfea059c19d9f47fece1efc9a41155f985c686800add805424e2f54",
+      "checksum": "08c18f3c7cfea059c19d9f47fece1efc9a41155f985c686800add805424e2f54"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/04c9859c89decdd41fc7c8b2e9cfe91aad5064bd4714928e9d8e7b0fde9da2e7",
+      "checksum": "04c9859c89decdd41fc7c8b2e9cfe91aad5064bd4714928e9d8e7b0fde9da2e7"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/091926e2be7531f1439bf3c75e2c0f7c732ab521ae00f9b002011732528ecce2",
+      "checksum": "091926e2be7531f1439bf3c75e2c0f7c732ab521ae00f9b002011732528ecce2"
+    }
+  }
+}

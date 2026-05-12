@@ -1,0 +1,53 @@
+{
+  "id": "VEST",
+  "type": "ACCESSORY",
+  "displayNames": {
+    "en_us": "Vest"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 9,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/506130fd93d69218b48ae8ee09e90acc8c79cfa3e4cc436ac34a71728d838d20",
+      "checksum": "506130fd93d69218b48ae8ee09e90acc8c79cfa3e4cc436ac34a71728d838d20"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/eb724e718105921e3df2285249a8ccf97bb9ee72766e28f16c0f1655e51a272e",
+      "checksum": "eb724e718105921e3df2285249a8ccf97bb9ee72766e28f16c0f1655e51a272e"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/67b36599e03cc37ffb326e7e4ebcd4f5f460c31317131c927ef52733ae572bde",
+      "checksum": "67b36599e03cc37ffb326e7e4ebcd4f5f460c31317131c927ef52733ae572bde"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d8baa78be51acb184b34cb316e8988d9e70631069ca11ddd015e6dea72c9e550",
+      "checksum": "d8baa78be51acb184b34cb316e8988d9e70631069ca11ddd015e6dea72c9e550"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ed385fb6998da614c1392b02b1d4b3cebb23b5cf017a161dafd38805712b5722",
+      "checksum": "ed385fb6998da614c1392b02b1d4b3cebb23b5cf017a161dafd38805712b5722"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/189a797c85300a6ec3f5817cc2a231763b33ff2cc8b0723500d091b5dcb9c5aa",
+      "checksum": "189a797c85300a6ec3f5817cc2a231763b33ff2cc8b0723500d091b5dcb9c5aa"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7c8bf17b4faed2d2ac02720e6dedc0d403a87c2b37981be00d4b4980a6079222",
+      "checksum": "7c8bf17b4faed2d2ac02720e6dedc0d403a87c2b37981be00d4b4980a6079222"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/67b36599e03cc37ffb326e7e4ebcd4f5f460c31317131c927ef52733ae572bde",
+      "checksum": "67b36599e03cc37ffb326e7e4ebcd4f5f460c31317131c927ef52733ae572bde"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "EAR_SCRATCH",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Ear Scratch"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_APRIL2026",
+    "THEME_ANIMAL",
+    "THEME_FURRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 500,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/4091f36ed0f78f4ecddaa516ee84137fe1bfcac9dbbd15d9e87a6657d86f12db",
+      "checksum": "4091f36ed0f78f4ecddaa516ee84137fe1bfcac9dbbd15d9e87a6657d86f12db"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/92c36307654a38168f94f2cd221e33034f923d981f845650a7dc44368e75b1ea",
+      "checksum": "92c36307654a38168f94f2cd221e33034f923d981f845650a7dc44368e75b1ea"
+    },
+    "sounds/em_ear_scratch.ogg": {
+      "url": "https://cdn.essential.gg/assets/9d1079521443346c12a483ce84e953c4f3d3c0795f4cef4cbc6fdbfeee7a9d89",
+      "checksum": "9d1079521443346c12a483ce84e953c4f3d3c0795f4cef4cbc6fdbfeee7a9d89"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/c0b41c74fba77dc8bf5762d6eedbc56ddfe6478e17dce2b0b918365cff3f5401",
+      "checksum": "c0b41c74fba77dc8bf5762d6eedbc56ddfe6478e17dce2b0b918365cff3f5401"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/84a8f7e86a5befcc8f7d91d28f54116ebcfd08efe48c32884a74d01417256b4a",
+      "checksum": "84a8f7e86a5befcc8f7d91d28f54116ebcfd08efe48c32884a74d01417256b4a"
+    }
+  }
+}

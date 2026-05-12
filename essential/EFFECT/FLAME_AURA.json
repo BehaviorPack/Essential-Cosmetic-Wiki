@@ -1,0 +1,32 @@
+{
+  "id": "FLAME_AURA",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Flame Aura"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:FLAME",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 80,
+  "assetsMap": {
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/44ab2f7c85fc49a75d1749f36fadb9210387bca8010bc2bf3d6ce8a094864b36",
+      "checksum": "44ab2f7c85fc49a75d1749f36fadb9210387bca8010bc2bf3d6ce8a094864b36"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4d5de2aa93dfff05ef052100aead609a159a31fadc48c0b379b4def79d36d4be",
+      "checksum": "4d5de2aa93dfff05ef052100aead609a159a31fadc48c0b379b4def79d36d4be"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/32d6c77c694e00370781fe9bd00c2ab08f108055d4edd81be8a4ab2ba0ae74e1",
+      "checksum": "32d6c77c694e00370781fe9bd00c2ab08f108055d4edd81be8a4ab2ba0ae74e1"
+    }
+  }
+}

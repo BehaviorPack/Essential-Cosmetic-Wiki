@@ -1,0 +1,38 @@
+{
+  "id": "TOP_HAT_LEGACY",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Top Hat Legacy"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 111,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/589675730a0cd639ace30a01c32f3d2c456ee3e27f282cea77edc01e6bd87fe9",
+      "checksum": "589675730a0cd639ace30a01c32f3d2c456ee3e27f282cea77edc01e6bd87fe9"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c4a1acdecf2375e80f9ed24f5e52dd16882e477eff5d1e21294f5204c503c5a3",
+      "checksum": "c4a1acdecf2375e80f9ed24f5e52dd16882e477eff5d1e21294f5204c503c5a3"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/31cc09149d9093b75f24016bfd5ca7e38a91b22a700c80a8cc6e41ae8f44ba9b",
+      "checksum": "31cc09149d9093b75f24016bfd5ca7e38a91b22a700c80a8cc6e41ae8f44ba9b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/39fc5121fc2f98bdcffc3e4e0ec4df1659ecc05848fc5a3fa1c24c3f01138452",
+      "checksum": "39fc5121fc2f98bdcffc3e4e0ec4df1659ecc05848fc5a3fa1c24c3f01138452"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f",
+      "checksum": "af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f"
+    }
+  }
+}

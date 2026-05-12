@@ -1,0 +1,47 @@
+{
+  "id": "HIKING_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Hiking Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 30,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/faade3c54d5a7a35ab0af9e1cb1ba4b3492240fc5f7e979244ad3a5eb8dcfb70",
+      "checksum": "faade3c54d5a7a35ab0af9e1cb1ba4b3492240fc5f7e979244ad3a5eb8dcfb70"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cd9fd6510169ec403e3cc9c764ac3469169fae3ae9f7e5ee74f87c896f08264b",
+      "checksum": "cd9fd6510169ec403e3cc9c764ac3469169fae3ae9f7e5ee74f87c896f08264b"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/37ea62626a5f177e9f23ee749efcde8890295ba87c46357a6251df1c81a7a610",
+      "checksum": "37ea62626a5f177e9f23ee749efcde8890295ba87c46357a6251df1c81a7a610"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b3ee56aa56de8ccda1a5c8947e2afade4b6d42643358df996d058f6e102d08ae",
+      "checksum": "b3ee56aa56de8ccda1a5c8947e2afade4b6d42643358df996d058f6e102d08ae"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c1cbce65387ec3de5217c165af2f53a1aacb8fbb24f399421cd0029eeae57f88",
+      "checksum": "c1cbce65387ec3de5217c165af2f53a1aacb8fbb24f399421cd0029eeae57f88"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0271e8970307b18e05bdd52146d08607e961e4e32861eb628ba186242f68df27",
+      "checksum": "0271e8970307b18e05bdd52146d08607e961e4e32861eb628ba186242f68df27"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/b2f12b789eea7003d4bb687527f91954c13d3b0ab2a3279ff8861a19df3cd2d3",
+      "checksum": "b2f12b789eea7003d4bb687527f91954c13d3b0ab2a3279ff8861a19df3cd2d3"
+    }
+  }
+}

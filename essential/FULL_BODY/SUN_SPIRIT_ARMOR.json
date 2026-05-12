@@ -1,0 +1,64 @@
+{
+  "id": "SUN_SPIRIT_ARMOR",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Sun Spirit Armor"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_DEVIL"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/orange_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fc8322ae068e8b2e9aca470f2bb52c64ff458de9abf81824d0d21706d06117b5",
+      "checksum": "fc8322ae068e8b2e9aca470f2bb52c64ff458de9abf81824d0d21706d06117b5"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/cb71cf0167212add27d1ae01c9caeef4424d023a145327320686cfadf00995de",
+      "checksum": "cb71cf0167212add27d1ae01c9caeef4424d023a145327320686cfadf00995de"
+    },
+    "variants/soulfire_blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/924a793ddff8fb6008e5e52d761decd8c618d284a36281d2dd9e0359c8eabdd9",
+      "checksum": "924a793ddff8fb6008e5e52d761decd8c618d284a36281d2dd9e0359c8eabdd9"
+    },
+    "variants/soulfire_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8afcdc30129455ee51ecfbb9b239f37f4dec0ec67328aa1dfb9e377fb4ba8a88",
+      "checksum": "8afcdc30129455ee51ecfbb9b239f37f4dec0ec67328aa1dfb9e377fb4ba8a88"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/1944e9514d4bb663ddb5ed935760aca81a03aed2750a0eee616bbfe5c34560b9",
+      "checksum": "1944e9514d4bb663ddb5ed935760aca81a03aed2750a0eee616bbfe5c34560b9"
+    },
+    "variants/fire_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fbc0a5dd990428915537c2463a624afc7d39c14c8e0af8ac7957c10c6e288b77",
+      "checksum": "fbc0a5dd990428915537c2463a624afc7d39c14c8e0af8ac7957c10c6e288b77"
+    },
+    "variants/fire_red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/fa7552a83a32afbc86f432374faa175c942df5d4d2c804651d533f57f26dbd9b",
+      "checksum": "fa7552a83a32afbc86f432374faa175c942df5d4d2c804651d533f57f26dbd9b"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6",
+      "checksum": "e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6"
+    },
+    "variants/orange_red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/214dc672ecc3b559ed8db5f90cb02a4879cb58c13256f2a2323cd1e3a10db576",
+      "checksum": "214dc672ecc3b559ed8db5f90cb02a4879cb58c13256f2a2323cd1e3a10db576"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1b4415ca6e999eaeb282e65a590fce759f94dbf12f8c7a31133b5017c673ec70",
+      "checksum": "1b4415ca6e999eaeb282e65a590fce759f94dbf12f8c7a31133b5017c673ec70"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9",
+      "checksum": "f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "MIXED_FIRE_ARMOR",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Mixed Fire Armor"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/green-purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/7f91cb1d7468bbf014e6d1fc4b67357ec76698961118d6201d93478800538714",
+      "checksum": "7f91cb1d7468bbf014e6d1fc4b67357ec76698961118d6201d93478800538714"
+    },
+    "variants/fire-blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7e86c406fd343942c5becf60dc994445559afa652af80118ab9c9f44fa8f1c8f",
+      "checksum": "7e86c406fd343942c5becf60dc994445559afa652af80118ab9c9f44fa8f1c8f"
+    },
+    "skin_mask.steve.right.png": {
+      "url": "https://cdn.essential.gg/assets/548d27cffba2798afc69716b155664f51082e696e83edad702fb0b4a7c101666",
+      "checksum": "548d27cffba2798afc69716b155664f51082e696e83edad702fb0b4a7c101666"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2f19ee16e899e4b8ce80618e26084c73154f91a6d56d920453c7120db015e172",
+      "checksum": "2f19ee16e899e4b8ce80618e26084c73154f91a6d56d920453c7120db015e172"
+    },
+    "skin_mask.steve.left.png": {
+      "url": "https://cdn.essential.gg/assets/548d27cffba2798afc69716b155664f51082e696e83edad702fb0b4a7c101666",
+      "checksum": "548d27cffba2798afc69716b155664f51082e696e83edad702fb0b4a7c101666"
+    },
+    "variants/green-purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e5842fbaa7b5ca2d487489f1596938b381bf89c0bde9f16f403a3e83bf338b6f",
+      "checksum": "e5842fbaa7b5ca2d487489f1596938b381bf89c0bde9f16f403a3e83bf338b6f"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/e240cc848486f74ffc90c6f60a27cb5cb2822b87b6b9a8ad4e33f12d0de66796",
+      "checksum": "e240cc848486f74ffc90c6f60a27cb5cb2822b87b6b9a8ad4e33f12d0de66796"
+    },
+    "skin_mask.alex.left.png": {
+      "url": "https://cdn.essential.gg/assets/5751ec566b577ba2dfa3c4f8e274f5a06a7323c2bad768f7118a6464284ab8a4",
+      "checksum": "5751ec566b577ba2dfa3c4f8e274f5a06a7323c2bad768f7118a6464284ab8a4"
+    },
+    "variants/fire-blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/2246a4e6d8ac86ec552720ed942c3185223e7caeadb2bd40f89cd8d92fb158be",
+      "checksum": "2246a4e6d8ac86ec552720ed942c3185223e7caeadb2bd40f89cd8d92fb158be"
+    },
+    "skin_mask.alex.right.png": {
+      "url": "https://cdn.essential.gg/assets/5751ec566b577ba2dfa3c4f8e274f5a06a7323c2bad768f7118a6464284ab8a4",
+      "checksum": "5751ec566b577ba2dfa3c4f8e274f5a06a7323c2bad768f7118a6464284ab8a4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5c3cd4f00651980aa3a6d25592118d1b11ec756d1b9ec5a25062675fec14f250",
+      "checksum": "5c3cd4f00651980aa3a6d25592118d1b11ec756d1b9ec5a25062675fec14f250"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "DOG_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Dog Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/husky/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3e907b4620637d3b8de59efe92aaa669f94b56fe569b1e9eba0607964ec47bc5",
+      "checksum": "3e907b4620637d3b8de59efe92aaa669f94b56fe569b1e9eba0607964ec47bc5"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0aa0ebbbf799b21f7b97c3e04a93877bb1161e863639d505517c3988882d14ec",
+      "checksum": "0aa0ebbbf799b21f7b97c3e04a93877bb1161e863639d505517c3988882d14ec"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/71a6b0fd5bd7ca1fc63328d21fc90017bdfb669ae8bd59b9ba1dd5f4c2cb5b5d",
+      "checksum": "71a6b0fd5bd7ca1fc63328d21fc90017bdfb669ae8bd59b9ba1dd5f4c2cb5b5d"
+    },
+    "variants/dalmatian/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fd171aafdc08c8090bb99653a6181c2c20b4ee617c68d3ab47a6e3d8eb039b3b",
+      "checksum": "fd171aafdc08c8090bb99653a6181c2c20b4ee617c68d3ab47a6e3d8eb039b3b"
+    },
+    "variants/labrador/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7a13e766e045f922c4d25abc8321e8a719b0710d3e394a3c04e4c8e3f67369bd",
+      "checksum": "7a13e766e045f922c4d25abc8321e8a719b0710d3e394a3c04e4c8e3f67369bd"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/d9b7c668798b98f2d7e349e964e3774c6f51b7b91b67e112a1873c189b6a3c3b",
+      "checksum": "d9b7c668798b98f2d7e349e964e3774c6f51b7b91b67e112a1873c189b6a3c3b"
+    },
+    "variants/saintbernard/texture.png": {
+      "url": "https://cdn.essential.gg/assets/257429a38eede0cf2d078c8ad5a6143d5681bdd5b18c07e4d8c4698cdb984b26",
+      "checksum": "257429a38eede0cf2d078c8ad5a6143d5681bdd5b18c07e4d8c4698cdb984b26"
+    },
+    "variants/shiba/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a65bee1dbe015c2ec7a5020c6e21ee2d4eeacf5046af1ee75fccc32efc921cc1",
+      "checksum": "a65bee1dbe015c2ec7a5020c6e21ee2d4eeacf5046af1ee75fccc32efc921cc1"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/b53f95146320942a830d3b0d3766f1fc709708c1ccb43c2bc004bbac55a5f2bc",
+      "checksum": "b53f95146320942a830d3b0d3766f1fc709708c1ccb43c2bc004bbac55a5f2bc"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/72ee3d7aff2ea6ca4de33bad8d3141c6b56b922e0fbbcf2ab4c5bc95dbc4fab0",
+      "checksum": "72ee3d7aff2ea6ca4de33bad8d3141c6b56b922e0fbbcf2ab4c5bc95dbc4fab0"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d1f88b1d0a2296e3267dda19a571d5ba8f767024e709d9d3931b28cd4f366baf",
+      "checksum": "d1f88b1d0a2296e3267dda19a571d5ba8f767024e709d9d3931b28cd4f366baf"
+    }
+  }
+}

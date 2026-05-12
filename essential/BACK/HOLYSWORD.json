@@ -1,0 +1,50 @@
+{
+  "id": "HOLYSWORD",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Holysword"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/soul_aether_blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5b76e8fb509d264d98cf8690577d393af4e7218c687093e6d79e30d73328b15b",
+      "checksum": "5b76e8fb509d264d98cf8690577d393af4e7218c687093e6d79e30d73328b15b"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7c38bf4f97e6d4e3a8b7ad70bcb6363b6aa459668a96b200892d68723c5a0e3e",
+      "checksum": "7c38bf4f97e6d4e3a8b7ad70bcb6363b6aa459668a96b200892d68723c5a0e3e"
+    },
+    "variants/soul_aether_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b0ab7f7cf3b68edbf76f7a8dec6d0c8643b6b67a032ce004938872381d5f2571",
+      "checksum": "b0ab7f7cf3b68edbf76f7a8dec6d0c8643b6b67a032ce004938872381d5f2571"
+    },
+    "variants/black_gold/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/554f69f12d25a64f376e3de1c4151b3d720177d1bb20aa85dc638b310d6dffd3",
+      "checksum": "554f69f12d25a64f376e3de1c4151b3d720177d1bb20aa85dc638b310d6dffd3"
+    },
+    "variants/silver_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/045ab2b1ed7bb2e2313a0c4f98c442b8c865517315c656bfa603293773390894",
+      "checksum": "045ab2b1ed7bb2e2313a0c4f98c442b8c865517315c656bfa603293773390894"
+    },
+    "variants/black_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ebcd49f4ac8c6c656daeace2bbfb3803b503617dff7778aff64d2e5da134b29a",
+      "checksum": "ebcd49f4ac8c6c656daeace2bbfb3803b503617dff7778aff64d2e5da134b29a"
+    },
+    "variants/silver_gold/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/63af84307789ca589a2e4118d9c825cb1e73f5a34fbe0df586ef0e16a6f1bd65",
+      "checksum": "63af84307789ca589a2e4118d9c825cb1e73f5a34fbe0df586ef0e16a6f1bd65"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e8cab461a58e7348bdb69de9357e9bfaf927f950a8563514553e36f9f4b17357",
+      "checksum": "e8cab461a58e7348bdb69de9357e9bfaf927f950a8563514553e36f9f4b17357"
+    }
+  }
+}

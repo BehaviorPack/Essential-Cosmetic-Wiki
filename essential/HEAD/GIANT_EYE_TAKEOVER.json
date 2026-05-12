@@ -1,0 +1,47 @@
+{
+  "id": "GIANT_EYE_TAKEOVER",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Eye Takeover"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HORROR",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2b4a58b8b5d156ef67c4789cb790d739a9eafdf4a219504be14016d3ce0062f1",
+      "checksum": "2b4a58b8b5d156ef67c4789cb790d739a9eafdf4a219504be14016d3ce0062f1"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/db713ca5d92384c98078dc5b9f9f32ff92265c19e8a0122dd046616a5be9a63a",
+      "checksum": "db713ca5d92384c98078dc5b9f9f32ff92265c19e8a0122dd046616a5be9a63a"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/1e71225abf55bc877c7edd5ab19f4878aa42aebdc0ab3c0a3be0e3fea3d8d933",
+      "checksum": "1e71225abf55bc877c7edd5ab19f4878aa42aebdc0ab3c0a3be0e3fea3d8d933"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/1f2dbc263f882aabeaa1c13f6716d4fb7de2c38f259d185c968f265dee237b4a",
+      "checksum": "1f2dbc263f882aabeaa1c13f6716d4fb7de2c38f259d185c968f265dee237b4a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bdf35712649f40cdafdb0cae3fa66f47d1b863254e1252f7ed4a2372ed63760d",
+      "checksum": "bdf35712649f40cdafdb0cae3fa66f47d1b863254e1252f7ed4a2372ed63760d"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/1dd74a95e3c253a3bebc6bb5668c03293c809dbfb2b9a3a8067317b1adc56560",
+      "checksum": "1dd74a95e3c253a3bebc6bb5668c03293c809dbfb2b9a3a8067317b1adc56560"
+    }
+  }
+}

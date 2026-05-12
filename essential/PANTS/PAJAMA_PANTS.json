@@ -1,0 +1,49 @@
+{
+  "id": "PAJAMA_PANTS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Pajama Pants"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 7,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/917beaa083a15d5b4bdbb96a7a046294b8ccda70e5c9e2e3d5879621023624eb",
+      "checksum": "917beaa083a15d5b4bdbb96a7a046294b8ccda70e5c9e2e3d5879621023624eb"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/66fb951141fdf1c926da91fd21be1944edb5c4ec61c6be7d903cba01a924b22a",
+      "checksum": "66fb951141fdf1c926da91fd21be1944edb5c4ec61c6be7d903cba01a924b22a"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/25e72ffcd7c7e10724c66a537849ba581f318dc8abf1b9267f6d88d90a55d780",
+      "checksum": "25e72ffcd7c7e10724c66a537849ba581f318dc8abf1b9267f6d88d90a55d780"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/106330a0a1b9fad6686f2544e0b04010888660f37b537878e185f378fbbeab7d",
+      "checksum": "106330a0a1b9fad6686f2544e0b04010888660f37b537878e185f378fbbeab7d"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f",
+      "checksum": "503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bf7bd808ff97cbeba8161d1ef44ac8ff7834dbe10fe0fb0c76b136c8aa8f301e",
+      "checksum": "bf7bd808ff97cbeba8161d1ef44ac8ff7834dbe10fe0fb0c76b136c8aa8f301e"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/993ce110cb72dfc09cbc8b5a71716622711a6f6fa8cfed8b064805289f5b07c4",
+      "checksum": "993ce110cb72dfc09cbc8b5a71716622711a6f6fa8cfed8b064805289f5b07c4"
+    }
+  }
+}

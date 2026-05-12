@@ -1,0 +1,59 @@
+{
+  "id": "GINGHAM_DRESS",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Gingham Dress"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_CUTE",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6ca7cca8070e112904fa9ac97d1b37fedc7a05511969e5b6f61b7530d4206276",
+      "checksum": "6ca7cca8070e112904fa9ac97d1b37fedc7a05511969e5b6f61b7530d4206276"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0241cc45a17604c84bbedb8961e366eac8efe6a8756b1aa4290778069f16f286",
+      "checksum": "0241cc45a17604c84bbedb8961e366eac8efe6a8756b1aa4290778069f16f286"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8489f3940868e07a8d71f5a47f65b13f57305014018d466ff2d6fe6ecca75395",
+      "checksum": "8489f3940868e07a8d71f5a47f65b13f57305014018d466ff2d6fe6ecca75395"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/99ccb4172afc335b67f7a479bd23b5164be36939ec2235099e402923045a97ef",
+      "checksum": "99ccb4172afc335b67f7a479bd23b5164be36939ec2235099e402923045a97ef"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/f40e6fafc6b02f9068208bbb53052bc44023a92b1d963deaf3011cb4a4cbd3d8",
+      "checksum": "f40e6fafc6b02f9068208bbb53052bc44023a92b1d963deaf3011cb4a4cbd3d8"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6a551f9bb2dafe5b9bffc6c6e182aed45c5d4a534de723219d5958e7f8c852f6",
+      "checksum": "6a551f9bb2dafe5b9bffc6c6e182aed45c5d4a534de723219d5958e7f8c852f6"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b9dedb946c261e746d95873b8c8dc364b0e794235367281a4eee95e5041beffd",
+      "checksum": "b9dedb946c261e746d95873b8c8dc364b0e794235367281a4eee95e5041beffd"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f79e2b5bf442a6cd9683db60187852c6dccfccd62d2f5aa8b8554dcc7fe5004f",
+      "checksum": "f79e2b5bf442a6cd9683db60187852c6dccfccd62d2f5aa8b8554dcc7fe5004f"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7fa58c6d7f64774aa647793855dcd93e6d9f18369bc38784bd437184132e987a",
+      "checksum": "7fa58c6d7f64774aa647793855dcd93e6d9f18369bc38784bd437184132e987a"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7a348aa05edc2ad8d82217614be9c2fb3c752efcd36742677e7f367522e1aa67",
+      "checksum": "7a348aa05edc2ad8d82217614be9c2fb3c752efcd36742677e7f367522e1aa67"
+    }
+  }
+}

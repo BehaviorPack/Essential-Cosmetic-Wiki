@@ -1,0 +1,38 @@
+{
+  "id": "ELEPHANT_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Elephant Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 115,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/71405263cecb6d50959c24fd5aec972a898fcbd2f0839770d238386312532067",
+      "checksum": "71405263cecb6d50959c24fd5aec972a898fcbd2f0839770d238386312532067"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b17015c6f28c351cb27fa2b0f3f6a92ff40f16c7f2d02caa529548a20868a19a",
+      "checksum": "b17015c6f28c351cb27fa2b0f3f6a92ff40f16c7f2d02caa529548a20868a19a"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/c6c790eb338aa5b9d56c245fc55f3300d39bc3695a9b895360a764cb42daec83",
+      "checksum": "c6c790eb338aa5b9d56c245fc55f3300d39bc3695a9b895360a764cb42daec83"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8fbf3d1ba08692d8c6a6ef67a57ae89f4a67196cf1c14bb2a4ca0096ad289519",
+      "checksum": "8fbf3d1ba08692d8c6a6ef67a57ae89f4a67196cf1c14bb2a4ca0096ad289519"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/aa0b7c9ebb3a9ec4e5bb175a7d47fd596e94d79a41e4217ac7d6e8d0014fbf2d",
+      "checksum": "aa0b7c9ebb3a9ec4e5bb175a7d47fd596e94d79a41e4217ac7d6e8d0014fbf2d"
+    }
+  }
+}

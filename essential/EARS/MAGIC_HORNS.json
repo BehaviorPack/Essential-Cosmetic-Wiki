@@ -1,0 +1,38 @@
+{
+  "id": "MAGIC_HORNS",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Magic Horns"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7751fd97c798c97057c1ecc47ea1bf598796f64df45db1faea4fecbfca743805",
+      "checksum": "7751fd97c798c97057c1ecc47ea1bf598796f64df45db1faea4fecbfca743805"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/979747bade0d0669912a37efa8cb8d06d248a7ff84e0ff72f1570ee36a7136ee",
+      "checksum": "979747bade0d0669912a37efa8cb8d06d248a7ff84e0ff72f1570ee36a7136ee"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/d1fc8cca0549138607d52e77c841a8579040d9a4fee70733728d00359859208a",
+      "checksum": "d1fc8cca0549138607d52e77c841a8579040d9a4fee70733728d00359859208a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0d0c77d8de52cbb32fd03f3fb6c46329040b09550f5288ffefdf241a50982d2d",
+      "checksum": "0d0c77d8de52cbb32fd03f3fb6c46329040b09550f5288ffefdf241a50982d2d"
+    }
+  }
+}

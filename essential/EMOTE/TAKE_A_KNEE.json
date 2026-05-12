@@ -1,0 +1,33 @@
+{
+  "id": "TAKE_A_KNEE",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Scout Kneel"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ROLEPLAY",
+    "COLLECTION_MAY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a5a12c4546c22801fda06e60fa5c7b5788d9f5a51f0e82b3b9bab1078519b932",
+      "checksum": "a5a12c4546c22801fda06e60fa5c7b5788d9f5a51f0e82b3b9bab1078519b932"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/b604bb2241b9d73d8d658184bfe5a7f71ba4311541d3167c3158ed9a56cea392",
+      "checksum": "b604bb2241b9d73d8d658184bfe5a7f71ba4311541d3167c3158ed9a56cea392"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c0188c0fef2ba18547e29ff2f9a19bf1c2a520454f729ba8c8ce682ac97cb294",
+      "checksum": "c0188c0fef2ba18547e29ff2f9a19bf1c2a520454f729ba8c8ce682ac97cb294"
+    }
+  }
+}

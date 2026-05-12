@@ -1,0 +1,108 @@
+[
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "BANANA_SUIT",
+    "enabled": true,
+    "data": {
+      "peel_right": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "DARK_LORD_SUIT",
+    "enabled": true,
+    "data": {
+      "shoulder_right": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "SSUNDEE_FOOT_ONESIE",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "ARMOR_HANDLING",
+    "id": "BITZEL_SOCK_MONKEY",
+    "enabled": true,
+    "data": {
+      "arms": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "MAID_OUTFIT",
+    "enabled": true,
+    "data": {
+      "puff_left": true,
+      "puff_right": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "MAGMA_ARMOR",
+    "enabled": true,
+    "data": {
+      "shoulder_left": true,
+      "shoulder_right": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "ENDER_ENTITY_BODY",
+    "enabled": true,
+    "data": {
+      "arm_extra_left": true,
+      "arm_extra_right": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "THUNDERBOLT_HELMET",
+    "enabled": true,
+    "data": {
+      "horn_middle_left": true,
+      "horn_middle_right": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "SLAYER_OUTFIT",
+    "enabled": true,
+    "data": {
+      "shoulder_left": true,
+      "shoulder_right": true,
+      "shoulderpad_left": true,
+      "shoulderpad_right": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "UNDEAD_OVERLORD_HEAD",
+    "enabled": true,
+    "data": {
+      "horn_left": true,
+      "horn_right": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "UNDEAD_OVERLORD_BODY",
+    "enabled": true,
+    "data": {
+      "shoulder_left": true,
+      "shoulder_right": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "SAMURAI_HELMET",
+    "enabled": true,
+    "data": {
+      "side_left": true,
+      "side_right": true
+    }
+  }
+]

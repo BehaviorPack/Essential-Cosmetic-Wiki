@@ -1,0 +1,43 @@
+{
+  "id": "DIVING_GOGGLES",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Diving Goggles"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_AQUATIC"
+  ],
+  "createdAt": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 18,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7cad1063450681388808f30879013abd4b94076913b765ca3003531b612f8cf8",
+      "checksum": "7cad1063450681388808f30879013abd4b94076913b765ca3003531b612f8cf8"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0e47d4630e8df6e41ccfe1685aad5d53c1c8096fd7c2f9838eebf9faa57ce2a9",
+      "checksum": "0e47d4630e8df6e41ccfe1685aad5d53c1c8096fd7c2f9838eebf9faa57ce2a9"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/bdb2437186843d0bfd6b68e50691a028cb3caa0bd323e4a1b6973566f8ec297b",
+      "checksum": "bdb2437186843d0bfd6b68e50691a028cb3caa0bd323e4a1b6973566f8ec297b"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/56bf624cdc5561cdd12ffb6e5f89995b3366ab282e1998dd53ac22b9ff4cc2d5",
+      "checksum": "56bf624cdc5561cdd12ffb6e5f89995b3366ab282e1998dd53ac22b9ff4cc2d5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f18261112c0de22d477b5fe0acaad6a9e064e048243f1a8ff20ddcd5d0a11118",
+      "checksum": "f18261112c0de22d477b5fe0acaad6a9e064e048243f1a8ff20ddcd5d0a11118"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/5a06afa075c4a4f60e4aefd183cf50f7c11e4e6e000de98208b0b0e2e243f6ff",
+      "checksum": "5a06afa075c4a4f60e4aefd183cf50f7c11e4e6e000de98208b0b0e2e243f6ff"
+    }
+  }
+}

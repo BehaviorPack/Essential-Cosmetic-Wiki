@@ -1,0 +1,57 @@
+{
+  "id": "HACKER_ARMOR",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Hacker Armor"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:HACKER",
+    "FEATURED",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 520,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/745db09e4ba0bb3e5f7dd824e7b54199049f61df9fde6516e0ed7071760e1cba",
+      "checksum": "745db09e4ba0bb3e5f7dd824e7b54199049f61df9fde6516e0ed7071760e1cba"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/bd1b922bd33a3addb1b10ec3eda5759f01b72bac4a747aff7ed08999ba9feebc",
+      "checksum": "bd1b922bd33a3addb1b10ec3eda5759f01b72bac4a747aff7ed08999ba9feebc"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/78ce73b7f9a6c676f643825fa92c19081f25e2948404181bf1220eabf864f9a7",
+      "checksum": "78ce73b7f9a6c676f643825fa92c19081f25e2948404181bf1220eabf864f9a7"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fdad66756a3d3d4405ea4d16d6ab821fe3f42229273e359e20295a7b68164bfd",
+      "checksum": "fdad66756a3d3d4405ea4d16d6ab821fe3f42229273e359e20295a7b68164bfd"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/847673e43040689a0f0d6f43a1a6326999af70220e47d0f992619a5385c6b3c0",
+      "checksum": "847673e43040689a0f0d6f43a1a6326999af70220e47d0f992619a5385c6b3c0"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/d5a827d8a9490b649d2e49e5a73cdcc10a177a052e8011486a67103f5c82b5dc",
+      "checksum": "d5a827d8a9490b649d2e49e5a73cdcc10a177a052e8011486a67103f5c82b5dc"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b4408698f1d23486f462314ecb90934e6369a659c013dab3928a2ceddd9269e4",
+      "checksum": "b4408698f1d23486f462314ecb90934e6369a659c013dab3928a2ceddd9269e4"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/90d453d75367bc75975b713235cedf96dfcbeae1728073ab9b29a2d096347803",
+      "checksum": "90d453d75367bc75975b713235cedf96dfcbeae1728073ab9b29a2d096347803"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a6560ea54ef0220c35f034ba1faa2a055c284ccbf0837eb689ccd3fcd140045f",
+      "checksum": "a6560ea54ef0220c35f034ba1faa2a055c284ccbf0837eb689ccd3fcd140045f"
+    }
+  }
+}

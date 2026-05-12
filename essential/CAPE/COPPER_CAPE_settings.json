@@ -1,0 +1,24 @@
+[
+  {
+    "type": "REQUIRES_UNLOCK_ACTION",
+    "id": "UNUSED",
+    "enabled": true,
+    "data": {
+      "ACTION_TYPE": "JOIN_SPS",
+      "ACTION_DESCRIPTION": "Default Cape - UNKOWN ID"
+    }
+  },
+  {
+    "type": "VARIANTS",
+    "id": "UNUSED",
+    "enabled": true,
+    "data": {
+      "variants": [
+        { "name": "unoxidized", "color": 0 },
+        { "name": "exposed", "color": 0 },
+        { "name": "weathered", "color": 0 },
+        { "name": "oxidized", "color": 0 }
+      ]
+    }
+  }
+]

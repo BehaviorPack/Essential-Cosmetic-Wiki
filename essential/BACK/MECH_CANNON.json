@@ -1,0 +1,83 @@
+{
+  "id": "MECH_CANNON",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Mech Pack"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8c80ac91bcdf3ccb2452b1333cc466b2de938887ed6c3a745112750b89ee0215",
+      "checksum": "8c80ac91bcdf3ccb2452b1333cc466b2de938887ed6c3a745112750b89ee0215"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1292d01618a818b78f04c6c2cec2d24de3fd7294f3bb12c5e9b54cd621f41e3e",
+      "checksum": "1292d01618a818b78f04c6c2cec2d24de3fd7294f3bb12c5e9b54cd621f41e3e"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/6dbafdff2faec590d864a48268201458ef84f02b991e23349268fca03e29db75",
+      "checksum": "6dbafdff2faec590d864a48268201458ef84f02b991e23349268fca03e29db75"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/51fd6354fee73fa65fdb085647baac8aadd9a568ff9148789bf11c5c84f188a5",
+      "checksum": "51fd6354fee73fa65fdb085647baac8aadd9a568ff9148789bf11c5c84f188a5"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7ea8ab734cb9a7bddc10051e7566187cd72a36f68563eeb03240e8c2e3a9594b",
+      "checksum": "7ea8ab734cb9a7bddc10051e7566187cd72a36f68563eeb03240e8c2e3a9594b"
+    },
+    "particles/smoke_poof.particle.json": {
+      "url": "https://cdn.essential.gg/assets/25043bbb3197d71205437be5b8cfde4e60cd7ebc08128f2d36b364115122b9b5",
+      "checksum": "25043bbb3197d71205437be5b8cfde4e60cd7ebc08128f2d36b364115122b9b5"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/99aac8dfed69d7b66bd92f9ae92d3ac4290ee1cdae639a9c702adf737af98bf9",
+      "checksum": "99aac8dfed69d7b66bd92f9ae92d3ac4290ee1cdae639a9c702adf737af98bf9"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bfd4b5429e598a84c33bfc5a2bbefcbf7f5836e12f884036ff68c7a87acc4ccf",
+      "checksum": "bfd4b5429e598a84c33bfc5a2bbefcbf7f5836e12f884036ff68c7a87acc4ccf"
+    },
+    "particles/fire_pulse_side.particle.json": {
+      "url": "https://cdn.essential.gg/assets/873208b68f771695c0a2b53f24821c4838b1c1690c4a7df014cc8360644e8211",
+      "checksum": "873208b68f771695c0a2b53f24821c4838b1c1690c4a7df014cc8360644e8211"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/72efd9ec17ec6ce2c49af93a97e25c144267f088ecfd1afc2a13d9987fbb83bf",
+      "checksum": "72efd9ec17ec6ce2c49af93a97e25c144267f088ecfd1afc2a13d9987fbb83bf"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0d8d4435eaa3c2ad94a870c604375a418c869c90bcb054be9266cae754019939",
+      "checksum": "0d8d4435eaa3c2ad94a870c604375a418c869c90bcb054be9266cae754019939"
+    },
+    "variants/silver/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1fa4371a5f7c98481c141075fe03701cf0363e09c0038a1cdd66b7c2824fc6de",
+      "checksum": "1fa4371a5f7c98481c141075fe03701cf0363e09c0038a1cdd66b7c2824fc6de"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b2d6cc9282976783e20947e6acfeb8098a268cd366b87a481dce1b80533f81d1",
+      "checksum": "b2d6cc9282976783e20947e6acfeb8098a268cd366b87a481dce1b80533f81d1"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/a00c68366d10c2f34fcfdeb3765be97c36324c3df1d0a5573bc5bd7efb199ad7",
+      "checksum": "a00c68366d10c2f34fcfdeb3765be97c36324c3df1d0a5573bc5bd7efb199ad7"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/413cf976155c363911abbf2d7f6b08d524c1fe0a2994ab2c1b8664e41eb749bd",
+      "checksum": "413cf976155c363911abbf2d7f6b08d524c1fe0a2994ab2c1b8664e41eb749bd"
+    }
+  }
+}

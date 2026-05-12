@@ -1,0 +1,45 @@
+{
+  "id": "GHOST_BLANKET",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Ghost Blanket"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 390,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3d53d587e0dae55b8f30449cb07df9f5eb270ffdc9baeec054ec50fa953ac563",
+      "checksum": "3d53d587e0dae55b8f30449cb07df9f5eb270ffdc9baeec054ec50fa953ac563"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/bbe45a4132345c5af7eeeb89da84bfe5bbe5b119dc088c5805fdec23840a0e3f",
+      "checksum": "bbe45a4132345c5af7eeeb89da84bfe5bbe5b119dc088c5805fdec23840a0e3f"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/5e94a37b8cc1e753a0fc42e964318109f065296212edc8c250cfd847bf9367e9",
+      "checksum": "5e94a37b8cc1e753a0fc42e964318109f065296212edc8c250cfd847bf9367e9"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/6981c1f9cfd035a07013153de019d993f5c4caadb7916ce516dfe6133b6e9e20",
+      "checksum": "6981c1f9cfd035a07013153de019d993f5c4caadb7916ce516dfe6133b6e9e20"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/30acb56c609126fb0140228a92b5e34a5a7b580eb968425f177c7f811c0c3d37",
+      "checksum": "30acb56c609126fb0140228a92b5e34a5a7b580eb968425f177c7f811c0c3d37"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/518fec67af08f3d6368d556f3698f42134903876b3aadeaab07a0947386e2829",
+      "checksum": "518fec67af08f3d6368d556f3698f42134903876b3aadeaab07a0947386e2829"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "WITHERED_SUIT",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Animatronic Body"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HORROR",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "particles/animatronic_suit_parent.particle.json": {
+      "url": "https://cdn.essential.gg/assets/3dc6e8097a847997b2b08be58aa083e5b3febeebecc81328757ee1c05c62ae75",
+      "checksum": "3dc6e8097a847997b2b08be58aa083e5b3febeebecc81328757ee1c05c62ae75"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/31d3f55bc4f2d618474465af0f9dbb8c372e0ab1912957b3ba75dbe06a01b579",
+      "checksum": "31d3f55bc4f2d618474465af0f9dbb8c372e0ab1912957b3ba75dbe06a01b579"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8b562283d13516e5f9277ed3ae6e34fb89ab4e358753db2ea60d959b399a4210",
+      "checksum": "8b562283d13516e5f9277ed3ae6e34fb89ab4e358753db2ea60d959b399a4210"
+    },
+    "particles/animatronic_suit_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/e1332d8a0665ae51a920b22cd5569bd18537e124653df304616cfb32dfbf093e",
+      "checksum": "e1332d8a0665ae51a920b22cd5569bd18537e124653df304616cfb32dfbf093e"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/06be19e5009784af9c93a8ef4fd8b1e6809b62b02b6d59af0206f024b1cc82a6",
+      "checksum": "06be19e5009784af9c93a8ef4fd8b1e6809b62b02b6d59af0206f024b1cc82a6"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/43267f683d96a4093fa4d5ddad6b2051c1bb3de1669b1745d5db749e8080edef",
+      "checksum": "43267f683d96a4093fa4d5ddad6b2051c1bb3de1669b1745d5db749e8080edef"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4dbeeea0418c6d1a9765ad11fe1d6a22abf093f2be17407cc0f6be74d6f641b8",
+      "checksum": "4dbeeea0418c6d1a9765ad11fe1d6a22abf093f2be17407cc0f6be74d6f641b8"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/2dc4a8306878b5e8bd0d544af3eecf92fc9ed62b2cc25d18fed33010a4663625",
+      "checksum": "2dc4a8306878b5e8bd0d544af3eecf92fc9ed62b2cc25d18fed33010a4663625"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/9dabe5e2abd6f0692937a4984a41d1d0d955a4ee2b24ac7abc70ebfb53fb0bb3",
+      "checksum": "9dabe5e2abd6f0692937a4984a41d1d0d955a4ee2b24ac7abc70ebfb53fb0bb3"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d266764015dad814e9fabcbfc171e05b0dfddf8f4693264fefd1ba3d64a8ffe0",
+      "checksum": "d266764015dad814e9fabcbfc171e05b0dfddf8f4693264fefd1ba3d64a8ffe0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a422b8ee1679c082055b6c4f3bb95ba15e0b17eaf11b97235a45a92d3846f7b1",
+      "checksum": "a422b8ee1679c082055b6c4f3bb95ba15e0b17eaf11b97235a45a92d3846f7b1"
+    },
+    "particles/animatronic_suit_sparks.particle.json": {
+      "url": "https://cdn.essential.gg/assets/5fc62cae383cc451e5461ed1dcd3b428fec9e693cd673a8ba8f872e35809d020",
+      "checksum": "5fc62cae383cc451e5461ed1dcd3b428fec9e693cd673a8ba8f872e35809d020"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f1dc3420305d9f4229189bc9569bd2a947c4547766907d24eec9d288789534d5",
+      "checksum": "f1dc3420305d9f4229189bc9569bd2a947c4547766907d24eec9d288789534d5"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/96f949e41f34c63c926f13b1d4f060df62a6c54670cb5d8887d605fabd5400a0",
+      "checksum": "96f949e41f34c63c926f13b1d4f060df62a6c54670cb5d8887d605fabd5400a0"
+    }
+  }
+}

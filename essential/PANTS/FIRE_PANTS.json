@@ -1,0 +1,42 @@
+{
+  "id": "FIRE_PANTS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Fire Pants"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/63e62a882ff0481972fee772216edafacbda48cb03f71b501fc424238636d66d",
+      "checksum": "63e62a882ff0481972fee772216edafacbda48cb03f71b501fc424238636d66d"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/467f4621f4eb180446bf9aaf2e4876330eb0cba22ca89dc25b57ef7327eca9f6",
+      "checksum": "467f4621f4eb180446bf9aaf2e4876330eb0cba22ca89dc25b57ef7327eca9f6"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/8feb27118e0674e4cb24ad7ab2ffd9337022d7bed231ed77d0ce688251dffefb",
+      "checksum": "8feb27118e0674e4cb24ad7ab2ffd9337022d7bed231ed77d0ce688251dffefb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2dd932bde37b40a750019e29fedd9f14f6697563d9ce9a8d041a79410f7ed7f4",
+      "checksum": "2dd932bde37b40a750019e29fedd9f14f6697563d9ce9a8d041a79410f7ed7f4"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f",
+      "checksum": "503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f"
+    }
+  }
+}

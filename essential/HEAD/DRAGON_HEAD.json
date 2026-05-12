@@ -1,0 +1,36 @@
+{
+  "id": "DRAGON_HEAD",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Dragon Head"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 400,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e059cc086109d6a3de5b299f350902adb864aeeeb40230e7b83a54387c7e11a7",
+      "checksum": "e059cc086109d6a3de5b299f350902adb864aeeeb40230e7b83a54387c7e11a7"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/3d296c30d290a6868b35a51af2aa986ffaaadc344a0849e5ae29ca681340dd4e",
+      "checksum": "3d296c30d290a6868b35a51af2aa986ffaaadc344a0849e5ae29ca681340dd4e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d0fa545157a58765960006d7cf76d4ec04d813349a1c27deab6743db4238ca43",
+      "checksum": "d0fa545157a58765960006d7cf76d4ec04d813349a1c27deab6743db4238ca43"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

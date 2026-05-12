@@ -1,0 +1,40 @@
+{
+  "id": "PLANT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Plant"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_CUTE",
+    "THEME_SPRING",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 9,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e9768e750ad7d1d4366f4342d94f745da0269c4838e0e30f6fe5bd44525fb3ea",
+      "checksum": "e9768e750ad7d1d4366f4342d94f745da0269c4838e0e30f6fe5bd44525fb3ea"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/89d98e3e05a0791c720e89721cefd17b18029d23f1c206e53dbbdca59cec90a6",
+      "checksum": "89d98e3e05a0791c720e89721cefd17b18029d23f1c206e53dbbdca59cec90a6"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0c7cb5396984cc859d08bb3e455c0a37a18843da55a0ccc1ae2f1dd795de23d4",
+      "checksum": "0c7cb5396984cc859d08bb3e455c0a37a18843da55a0ccc1ae2f1dd795de23d4"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/4f32f242e3b00b8314b26e7fc2bbbc3cfcd750a238ae433bf08e0c3d37599d12",
+      "checksum": "4f32f242e3b00b8314b26e7fc2bbbc3cfcd750a238ae433bf08e0c3d37599d12"
+    }
+  }
+}

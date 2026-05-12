@@ -1,0 +1,39 @@
+{
+  "id": "NEON_RGB_FLAME_BATTLE_AXE",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "RGB Fire Axe"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "event:FLAME",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 13,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/82f08f5966a65511e9f1202c0a21e5e7e24d292e8cfd82d2c82a2e9e5655ed9a",
+      "checksum": "82f08f5966a65511e9f1202c0a21e5e7e24d292e8cfd82d2c82a2e9e5655ed9a"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/e6fdd6a5b789cab6f46b7ccaefaf9d44a99722c7a00ba488be652fb47838507d",
+      "checksum": "e6fdd6a5b789cab6f46b7ccaefaf9d44a99722c7a00ba488be652fb47838507d"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/a9118a58dccc490243050b58131df94156cfd2407bfeaea726e4f72883051f89",
+      "checksum": "a9118a58dccc490243050b58131df94156cfd2407bfeaea726e4f72883051f89"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5e443e7440001088766e97ad749db68a70696d2092a834d515f3ad4f131bd14f",
+      "checksum": "5e443e7440001088766e97ad749db68a70696d2092a834d515f3ad4f131bd14f"
+    }
+  }
+}

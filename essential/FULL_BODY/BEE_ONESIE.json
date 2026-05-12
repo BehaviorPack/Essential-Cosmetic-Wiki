@@ -1,0 +1,48 @@
+{
+  "id": "BEE_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Bee Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_BUG",
+    "THEME_CUTE",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f65886ba19c910fe03365c89be35f3d310e28027984627e192d94af3b190b81f",
+      "checksum": "f65886ba19c910fe03365c89be35f3d310e28027984627e192d94af3b190b81f"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/a061b1c174fc425b66bf51199a4acb2b39b69ae1139b514b595894ef2e481429",
+      "checksum": "a061b1c174fc425b66bf51199a4acb2b39b69ae1139b514b595894ef2e481429"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/d293f79b039155aa964140dd4b3e348be5924c5a101949aa0a194b6eff3f2dde",
+      "checksum": "d293f79b039155aa964140dd4b3e348be5924c5a101949aa0a194b6eff3f2dde"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/d9b7c668798b98f2d7e349e964e3774c6f51b7b91b67e112a1873c189b6a3c3b",
+      "checksum": "d9b7c668798b98f2d7e349e964e3774c6f51b7b91b67e112a1873c189b6a3c3b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/771d03cd3e355684616ac409ce66567dc3022c50b55f17ee1ee66464ebdb5281",
+      "checksum": "771d03cd3e355684616ac409ce66567dc3022c50b55f17ee1ee66464ebdb5281"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d1f88b1d0a2296e3267dda19a571d5ba8f767024e709d9d3931b28cd4f366baf",
+      "checksum": "d1f88b1d0a2296e3267dda19a571d5ba8f767024e709d9d3931b28cd4f366baf"
+    }
+  }
+}

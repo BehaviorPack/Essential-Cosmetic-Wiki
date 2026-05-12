@@ -1,0 +1,63 @@
+{
+  "id": "Y2K_CUTIE_SHIRT",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "The Cuties Shirt"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JUNE2025",
+    "THEME_CUTE",
+    "SET_CUTIES"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/556b17f7eed3d350027f288ddae424daccfdd0d3c995b4dadc1a2a6720c67060",
+      "checksum": "556b17f7eed3d350027f288ddae424daccfdd0d3c995b4dadc1a2a6720c67060"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/53d203ccd3f49f8537de5127adeb563e02550e00b4b1be801e7b3bc0febec09c",
+      "checksum": "53d203ccd3f49f8537de5127adeb563e02550e00b4b1be801e7b3bc0febec09c"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/7defecf1d73066b19c944e95bf2672d85873ffa25c4b170fac3041ed5aebef3d",
+      "checksum": "7defecf1d73066b19c944e95bf2672d85873ffa25c4b170fac3041ed5aebef3d"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/7d412b67cbba79bb820de9f5e2a366da06bc03ff34bcc194fb23e6af1970a5fd",
+      "checksum": "7d412b67cbba79bb820de9f5e2a366da06bc03ff34bcc194fb23e6af1970a5fd"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c1d6d7a13683eecd5f7aa728d0c94e4972dd2b101dd1694c4a70a5e58ef1d5e8",
+      "checksum": "c1d6d7a13683eecd5f7aa728d0c94e4972dd2b101dd1694c4a70a5e58ef1d5e8"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/126698ca821bbd1c0a6a188dabe6f4ea552dac1aeac3638765a43f961cfc72ec",
+      "checksum": "126698ca821bbd1c0a6a188dabe6f4ea552dac1aeac3638765a43f961cfc72ec"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5241ea507b14505eeb440df3cf8ffea339ab1b223f854830043fc25b4a5c411d",
+      "checksum": "5241ea507b14505eeb440df3cf8ffea339ab1b223f854830043fc25b4a5c411d"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/777499f0339227ab42be3ddc87bc3ef81dbc136e5b9559d007ca9ee008276644",
+      "checksum": "777499f0339227ab42be3ddc87bc3ef81dbc136e5b9559d007ca9ee008276644"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bd486c7e8f2c0c79763a26b0acb9d917b5becb4d2dc06dba76182c8cf0abbf08",
+      "checksum": "bd486c7e8f2c0c79763a26b0acb9d917b5becb4d2dc06dba76182c8cf0abbf08"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/54e3c39144477b5eb46a08bbe45229f61244965860db3f3dfc4d8471ef81cd5e",
+      "checksum": "54e3c39144477b5eb46a08bbe45229f61244965860db3f3dfc4d8471ef81cd5e"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "MOUSTACHE_GLASSES",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Moustache Glasses"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 7,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8d75dc3fb2e76554012545b98ef5f3481fabf4b84a6e59dc52153b9d42574910",
+      "checksum": "8d75dc3fb2e76554012545b98ef5f3481fabf4b84a6e59dc52153b9d42574910"
+    },
+    "variants/brunette/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fd85565f868dbb1ff3197e947f868bd1ccfa1bb28a32540e5e9e736404b377bd",
+      "checksum": "fd85565f868dbb1ff3197e947f868bd1ccfa1bb28a32540e5e9e736404b377bd"
+    },
+    "variants/blonde/texture.png": {
+      "url": "https://cdn.essential.gg/assets/08c17de634863f0f4e4a7f3158d592cd1be70607d6c155c164451c2187f001cc",
+      "checksum": "08c17de634863f0f4e4a7f3158d592cd1be70607d6c155c164451c2187f001cc"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/34d2782917b14289d5842c811567a0cc3c785a809b81c3e7d3b424273969ccb0",
+      "checksum": "34d2782917b14289d5842c811567a0cc3c785a809b81c3e7d3b424273969ccb0"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fa5444adb78a75626e501a0d323bc002999c08ed965d86d9c608cce1e606b7c8",
+      "checksum": "fa5444adb78a75626e501a0d323bc002999c08ed965d86d9c608cce1e606b7c8"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/afefa8876084bd7405197ddd946172f440484e391b145aece60b19e5f77547d4",
+      "checksum": "afefa8876084bd7405197ddd946172f440484e391b145aece60b19e5f77547d4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e3361c138f17ca0e6d8dbc6c3a37be0bbff112ee6b4b0f7bb4e19dacbcf0053",
+      "checksum": "7e3361c138f17ca0e6d8dbc6c3a37be0bbff112ee6b4b0f7bb4e19dacbcf0053"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/83202b6262c9441aa58a4d655ed7b5b5b289da534ea31e2c0edd9bd2f5f97fdd",
+      "checksum": "83202b6262c9441aa58a4d655ed7b5b5b289da534ea31e2c0edd9bd2f5f97fdd"
+    }
+  }
+}

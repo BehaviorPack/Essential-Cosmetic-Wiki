@@ -1,0 +1,56 @@
+{
+  "id": "BABY_WOLF",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Baby Wolf"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "COLLECTION_JANUARY2026",
+    "THEME_CUTE",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/grey/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7aeb7e11fa3c85eb0388c3057ef6cd927f2eff4b86d741097d1e84fcbf4ffa0a",
+      "checksum": "7aeb7e11fa3c85eb0388c3057ef6cd927f2eff4b86d741097d1e84fcbf4ffa0a"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f5506509a103ab870f13b695976d1b7d10c26719c34b40c3392f5125986205de",
+      "checksum": "f5506509a103ab870f13b695976d1b7d10c26719c34b40c3392f5125986205de"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5bea33db13b8d4d7f352e867db8888ded4256d50161c863e4e60d26b8efee0dc",
+      "checksum": "5bea33db13b8d4d7f352e867db8888ded4256d50161c863e4e60d26b8efee0dc"
+    },
+    "variants/shiba_inu/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6447c6a4ffc84caf549ff7381fb1d020e594f5074ebfd74c6d8f434add48fc99",
+      "checksum": "6447c6a4ffc84caf549ff7381fb1d020e594f5074ebfd74c6d8f434add48fc99"
+    },
+    "variants/golden/texture.png": {
+      "url": "https://cdn.essential.gg/assets/de9c942844322cf3444d6236a89a9169c0538416825162ecb5131da522cd1068",
+      "checksum": "de9c942844322cf3444d6236a89a9169c0538416825162ecb5131da522cd1068"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/28f89f7c66b3ab321e7b2f3ca96a38e8140e1c50eb7caa9684b21e54ae088ff4",
+      "checksum": "28f89f7c66b3ab321e7b2f3ca96a38e8140e1c50eb7caa9684b21e54ae088ff4"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/2d9c5756999ce43850117059839929596d7dab38202aaad5f7bf7b7faef47f21",
+      "checksum": "2d9c5756999ce43850117059839929596d7dab38202aaad5f7bf7b7faef47f21"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/74384a60ec46ee53e732538ced04f11b6cb87c961a3f3d36822e13d130fbac98",
+      "checksum": "74384a60ec46ee53e732538ced04f11b6cb87c961a3f3d36822e13d130fbac98"
+    }
+  }
+}

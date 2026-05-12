@@ -1,0 +1,39 @@
+{
+  "id": "Y2K_CUTIE_PET_4",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Cottonmi Kitten"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JUNE2025",
+    "THEME_Y2K",
+    "SET_CUTIES",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/cad2a267fa712d3f903ce4b7547a1f4dc928606d69c82bf4faa55e6c404d5c81",
+      "checksum": "cad2a267fa712d3f903ce4b7547a1f4dc928606d69c82bf4faa55e6c404d5c81"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/2c8852cd052e131c8d938654b53da12703a94bf131bd4de428b7646b651c6902",
+      "checksum": "2c8852cd052e131c8d938654b53da12703a94bf131bd4de428b7646b651c6902"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/59228b87ee7a7e44ecd437466dd498fcd8810af7dfb06fea4623183dc039b2c2",
+      "checksum": "59228b87ee7a7e44ecd437466dd498fcd8810af7dfb06fea4623183dc039b2c2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4b6cbf53c6c939ba8cac22bc4fc34c416d78815e0b6992f7a430b3612a1be97e",
+      "checksum": "4b6cbf53c6c939ba8cac22bc4fc34c416d78815e0b6992f7a430b3612a1be97e"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "PLUSHIE_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Plushie Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_Y2K",
+    "THEME_CUTE",
+    "SET_CUTIES",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/6dab93dd65b0d8f2cab111c1d47eca9c09e91a546e73581cb0ae497dab3335fe",
+      "checksum": "6dab93dd65b0d8f2cab111c1d47eca9c09e91a546e73581cb0ae497dab3335fe"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/127f3e5bc09ad448c89d5205baea137e83a6436e1c35838bb908dafd45c074fb",
+      "checksum": "127f3e5bc09ad448c89d5205baea137e83a6436e1c35838bb908dafd45c074fb"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e97590261db5d601794921782f1effc89ed4a27fea2c1a160fbf8f9c52be718b",
+      "checksum": "e97590261db5d601794921782f1effc89ed4a27fea2c1a160fbf8f9c52be718b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a9240a2ef0a89f05e43aaf35b33666afa1ce86d4637ce62bd029bd2692c57fe7",
+      "checksum": "a9240a2ef0a89f05e43aaf35b33666afa1ce86d4637ce62bd029bd2692c57fe7"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/4483318f3f190a8245d4e238741dd880efb0eb6f00e0a5179b725025564280de",
+      "checksum": "4483318f3f190a8245d4e238741dd880efb0eb6f00e0a5179b725025564280de"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/aab8e5b8622198516c03a2654114023d42622896657430dd95e5dbd121c003ee",
+      "checksum": "aab8e5b8622198516c03a2654114023d42622896657430dd95e5dbd121c003ee"
+    }
+  }
+}

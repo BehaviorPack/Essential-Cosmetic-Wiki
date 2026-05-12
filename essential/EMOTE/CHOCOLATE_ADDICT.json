@@ -1,0 +1,57 @@
+{
+  "id": "CHOCOLATE_ADDICT",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Chocolate Lover"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_COZY",
+    "COLLECTION_APRIL2026",
+    "THEME_FOOD",
+    "THEME_EASTER",
+    "THEME_CUTE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/7610adb9c41a03941c088dbc45a7b2dc69aeafcc9fd8313f0c61dd3df9c331ab",
+      "checksum": "7610adb9c41a03941c088dbc45a7b2dc69aeafcc9fd8313f0c61dd3df9c331ab"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/81e2c252e26ae71174e5776b48fc5688d583ce1c4a6b611414414df1bc521698",
+      "checksum": "81e2c252e26ae71174e5776b48fc5688d583ce1c4a6b611414414df1bc521698"
+    },
+    "particles/hearts.particle.json": {
+      "url": "https://cdn.essential.gg/assets/856db40074b87358fecbdcee824ab5320979e9e74e89dd9e3303d2106c90b791",
+      "checksum": "856db40074b87358fecbdcee824ab5320979e9e74e89dd9e3303d2106c90b791"
+    },
+    "sounds/em_chocolate_lover.ogg": {
+      "url": "https://cdn.essential.gg/assets/ccda3b8446eaeeb82ef9aeeece9df561fd94116581b76b0e195bc6ea7b3b5164",
+      "checksum": "ccda3b8446eaeeb82ef9aeeece9df561fd94116581b76b0e195bc6ea7b3b5164"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/6d67f91b5dc9024bd8614dbb650ab8864e74b21d04754f4b77861c004d32244c",
+      "checksum": "6d67f91b5dc9024bd8614dbb650ab8864e74b21d04754f4b77861c004d32244c"
+    },
+    "particles/chocolate_crumbs.particle.json": {
+      "url": "https://cdn.essential.gg/assets/723a327357c6de77f30453ed1905404adfee4c6ff095f25cf81a5e9daca92913",
+      "checksum": "723a327357c6de77f30453ed1905404adfee4c6ff095f25cf81a5e9daca92913"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/6a99771c775162eabbf2885e9ed08465241366e38aa1643a1bb79ad414f292d5",
+      "checksum": "6a99771c775162eabbf2885e9ed08465241366e38aa1643a1bb79ad414f292d5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b1060f3570d06b7984bec1450a9afbb201320934069a7b89519eb15590ee4a3c",
+      "checksum": "b1060f3570d06b7984bec1450a9afbb201320934069a7b89519eb15590ee4a3c"
+    }
+  }
+}

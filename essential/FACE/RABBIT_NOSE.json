@@ -1,0 +1,32 @@
+{
+  "id": "RABBIT_NOSE",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Rabbit Nose"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 42,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/6c946b649915ad2c6f9736af46dd1afbb214b59f804c448d07df43fa96703031",
+      "checksum": "6c946b649915ad2c6f9736af46dd1afbb214b59f804c448d07df43fa96703031"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/51173c646158032fb2b8dd74fe5f42a1a6d7545f3acbe7e067acf17119145abd",
+      "checksum": "51173c646158032fb2b8dd74fe5f42a1a6d7545f3acbe7e067acf17119145abd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f970bd08624e95a1c63f400d76ba505d81f1d0314e5c94103dbeb88318d19566",
+      "checksum": "f970bd08624e95a1c63f400d76ba505d81f1d0314e5c94103dbeb88318d19566"
+    }
+  }
+}

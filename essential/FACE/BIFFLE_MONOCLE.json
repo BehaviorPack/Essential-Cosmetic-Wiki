@@ -1,0 +1,31 @@
+{
+  "id": "BIFFLE_MONOCLE",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Biffle\u0027s Monocle"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 48,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b993da785c16b0c09a241f4611e58722b057b889177c85eadc3eed60bd0b7da0",
+      "checksum": "b993da785c16b0c09a241f4611e58722b057b889177c85eadc3eed60bd0b7da0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/87ed14fde5ca248198b3864c6f412af8b4d7fcca25367bbd771c554aabe66b50",
+      "checksum": "87ed14fde5ca248198b3864c6f412af8b4d7fcca25367bbd771c554aabe66b50"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0f5b3dd0c29180a6c5ec75b8a1194893c5ac87bf11259aea57775a5a46fd165f",
+      "checksum": "0f5b3dd0c29180a6c5ec75b8a1194893c5ac87bf11259aea57775a5a46fd165f"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "KNIGHT_HELMET",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Knight Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 100,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c2d924351f089e4701deb99a77442fbefc3a19edbb1ee5c36384bf8d68cdaa1e",
+      "checksum": "c2d924351f089e4701deb99a77442fbefc3a19edbb1ee5c36384bf8d68cdaa1e"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/46504250ead78e5f4966547c08a77f717bbbe1b9343c47e832413b90bad4199b",
+      "checksum": "46504250ead78e5f4966547c08a77f717bbbe1b9343c47e832413b90bad4199b"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/71a05a66203e16325be2b7f8d6931c12d2fb94a46fef08f157cadfec16e73d60",
+      "checksum": "71a05a66203e16325be2b7f8d6931c12d2fb94a46fef08f157cadfec16e73d60"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ec48757eaebc5e384f8005962348abba4e1f95327b65e1de5cfe97a749c40c76",
+      "checksum": "ec48757eaebc5e384f8005962348abba4e1f95327b65e1de5cfe97a749c40c76"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b4e2ac7544796689cb7718bead5757e7fd871716b6fb550a10e9e6ee8eb1f32a",
+      "checksum": "b4e2ac7544796689cb7718bead5757e7fd871716b6fb550a10e9e6ee8eb1f32a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/dde4f70956cbb61d49c4c36dad6cf57431d638495a093be6d9bfe0295851b40a",
+      "checksum": "dde4f70956cbb61d49c4c36dad6cf57431d638495a093be6d9bfe0295851b40a"
+    }
+  }
+}

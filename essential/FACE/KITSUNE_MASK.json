@@ -1,0 +1,36 @@
+{
+  "id": "KITSUNE_MASK",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Kitsune Mask"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 14,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/18b024fe9c82563896b6c26149e738095de786f6975cf495d1c23575c52cb43e",
+      "checksum": "18b024fe9c82563896b6c26149e738095de786f6975cf495d1c23575c52cb43e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/fbca975a9ad249fe62a10856c3949297c560a1024dc6a8359354a27212d6f426",
+      "checksum": "fbca975a9ad249fe62a10856c3949297c560a1024dc6a8359354a27212d6f426"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/83c4786bb433b1d77ec96c9b6cc94a9c4c90de0a997b8db24921096e334edd6f",
+      "checksum": "83c4786bb433b1d77ec96c9b6cc94a9c4c90de0a997b8db24921096e334edd6f"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/4d8ca64136b828119f464d595eb45b363c722f41c0bbe1e83288284cd2f8b040",
+      "checksum": "4d8ca64136b828119f464d595eb45b363c722f41c0bbe1e83288284cd2f8b040"
+    }
+  }
+}

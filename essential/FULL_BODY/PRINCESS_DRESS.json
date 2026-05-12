@@ -1,0 +1,58 @@
+{
+  "id": "PRINCESS_DRESS",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Princess Dress"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_PRETTY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 180,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/558fd93294725fc570dc1d8dad27160b88307b77949cddef4d0d88cf1f72d0dc",
+      "checksum": "558fd93294725fc570dc1d8dad27160b88307b77949cddef4d0d88cf1f72d0dc"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/da31a74866a096691fbb905754f9ccd4915f46fb33d058db0f2eff30daea6160",
+      "checksum": "da31a74866a096691fbb905754f9ccd4915f46fb33d058db0f2eff30daea6160"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/d130a59a9dea0f6ce3be053dd273a39e8592953c73dc6e6c6d36a21b94d00284",
+      "checksum": "d130a59a9dea0f6ce3be053dd273a39e8592953c73dc6e6c6d36a21b94d00284"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6",
+      "checksum": "e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1ed1dbb011d80788ed198586a83f3de88381a84c3a9f9a94adb37bed695cd840",
+      "checksum": "1ed1dbb011d80788ed198586a83f3de88381a84c3a9f9a94adb37bed695cd840"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/abe7095064bf0a8dfed5611917d0f81a3d52ac6102974a13119385ae3a85591d",
+      "checksum": "abe7095064bf0a8dfed5611917d0f81a3d52ac6102974a13119385ae3a85591d"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9",
+      "checksum": "f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b9cf69375723523526ae255b7ce0f061ad55550e2d9e07e831dbe40ec943020c",
+      "checksum": "b9cf69375723523526ae255b7ce0f061ad55550e2d9e07e831dbe40ec943020c"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1d8b1f5b8b1ec5723dde1bd1765081511f81d7253c6533c7444fc23c72f20d2e",
+      "checksum": "1d8b1f5b8b1ec5723dde1bd1765081511f81d7253c6533c7444fc23c72f20d2e"
+    }
+  }
+}

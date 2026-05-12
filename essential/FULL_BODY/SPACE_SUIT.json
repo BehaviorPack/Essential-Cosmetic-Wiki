@@ -1,0 +1,47 @@
+{
+  "id": "SPACE_SUIT",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Space Suit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 150,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/fea36546f8049fd15b738a720da50396f2b172531d6978d4d4eda78adb83d426",
+      "checksum": "fea36546f8049fd15b738a720da50396f2b172531d6978d4d4eda78adb83d426"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/f9073eb5efe5aca0d6ea8eeb89c0d8aa30fb8f2b3a74a0b9a571e7889c9ddea9",
+      "checksum": "f9073eb5efe5aca0d6ea8eeb89c0d8aa30fb8f2b3a74a0b9a571e7889c9ddea9"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/ba2f851858e87e37e69aa74ff47c92f430976fa17f0ff1dfe6b1bd1ceecdf8d5",
+      "checksum": "ba2f851858e87e37e69aa74ff47c92f430976fa17f0ff1dfe6b1bd1ceecdf8d5"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/bfe568dd2d55f237c5a70dfd6edb34201035d12a93ee411ba70d8281019a1b7f",
+      "checksum": "bfe568dd2d55f237c5a70dfd6edb34201035d12a93ee411ba70d8281019a1b7f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/aaa3fdff724e0cb367f56cc27e58adf3b712d63b4cd57be0c920dea70c774724",
+      "checksum": "aaa3fdff724e0cb367f56cc27e58adf3b712d63b4cd57be0c920dea70c774724"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/05924e761d4667c079f746e7ecde145374b5449e08999ef93aaae92e56edbf4c",
+      "checksum": "05924e761d4667c079f746e7ecde145374b5449e08999ef93aaae92e56edbf4c"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "COZY_PJS",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Striped Pajamas"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_COZY",
+    "COLLECTION_FEBRUARY2026"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7fd6abaeb76c43ca8e88dccfad488135b6f21dfda9a36588714527fc1694ff15",
+      "checksum": "7fd6abaeb76c43ca8e88dccfad488135b6f21dfda9a36588714527fc1694ff15"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/6ab6dd55a7755a37635a8a94b83794fd9404f1c17b2584600097e40a44f4a047",
+      "checksum": "6ab6dd55a7755a37635a8a94b83794fd9404f1c17b2584600097e40a44f4a047"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/f582d15d0e3972b431b07c2ad0dd34a2f0783ed2ecb5d70c690020105ea26192",
+      "checksum": "f582d15d0e3972b431b07c2ad0dd34a2f0783ed2ecb5d70c690020105ea26192"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/0376e914e46273200a83d2cf14c3af346e8f8903cdd26746f56789f02e575607",
+      "checksum": "0376e914e46273200a83d2cf14c3af346e8f8903cdd26746f56789f02e575607"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c40451439f42d710df2556da214789146899eae62811ecd9a0f194fceaaf6e68",
+      "checksum": "c40451439f42d710df2556da214789146899eae62811ecd9a0f194fceaaf6e68"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/844eb927ecd3a43a304d96d66d562e8cfb95a2880a5dc47028be3da2e90e3e3c",
+      "checksum": "844eb927ecd3a43a304d96d66d562e8cfb95a2880a5dc47028be3da2e90e3e3c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/6840cb1a95cb4910ff4f38573cbf8d4df6ee18cd515b5252e72aa15a9442c81f",
+      "checksum": "6840cb1a95cb4910ff4f38573cbf8d4df6ee18cd515b5252e72aa15a9442c81f"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cb225b57be28f6eb5bf7886bc6c32543e1411538fc068cb8cf64fc98a4edc7f7",
+      "checksum": "cb225b57be28f6eb5bf7886bc6c32543e1411538fc068cb8cf64fc98a4edc7f7"
+    }
+  }
+}

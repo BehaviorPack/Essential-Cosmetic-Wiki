@@ -1,0 +1,32 @@
+{
+  "id": "SNIFFER_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Sniffer Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e648811c6fa85a99254273513c3fe1e5ac05ed0f3073e41739ebd23746e6c078",
+      "checksum": "e648811c6fa85a99254273513c3fe1e5ac05ed0f3073e41739ebd23746e6c078"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c9f0f5bec3be27bac1a78ea858211fd8255411dfe45c42148ec764bef8bae60a",
+      "checksum": "c9f0f5bec3be27bac1a78ea858211fd8255411dfe45c42148ec764bef8bae60a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e9c95de7d3b744ca4fd486e2c32d92ba38829657fc835b7ea6a93510c8c03442",
+      "checksum": "e9c95de7d3b744ca4fd486e2c32d92ba38829657fc835b7ea6a93510c8c03442"
+    }
+  }
+}

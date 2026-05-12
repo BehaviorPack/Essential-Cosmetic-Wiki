@@ -1,0 +1,44 @@
+{
+  "id": "TURTLE_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Turtle Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 220,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/437771c86ca1988fa44f2419fa4b0006534b2975d6df896d702ce4ea5702282e",
+      "checksum": "437771c86ca1988fa44f2419fa4b0006534b2975d6df896d702ce4ea5702282e"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/ba44fdc10dbaa06ecffe2e5c7749ee58e648b451c0a61df58ea9b0db5257cd23",
+      "checksum": "ba44fdc10dbaa06ecffe2e5c7749ee58e648b451c0a61df58ea9b0db5257cd23"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/608f5f8735c602f444918e2d7b96d3ace30d0af561d4a8b83d0329880f138ad5",
+      "checksum": "608f5f8735c602f444918e2d7b96d3ace30d0af561d4a8b83d0329880f138ad5"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/d9b7c668798b98f2d7e349e964e3774c6f51b7b91b67e112a1873c189b6a3c3b",
+      "checksum": "d9b7c668798b98f2d7e349e964e3774c6f51b7b91b67e112a1873c189b6a3c3b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7d24388af8ec6f5efea97871ebcfef1227b592827b45fcddd3e7ec754a1881b7",
+      "checksum": "7d24388af8ec6f5efea97871ebcfef1227b592827b45fcddd3e7ec754a1881b7"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d1f88b1d0a2296e3267dda19a571d5ba8f767024e709d9d3931b28cd4f366baf",
+      "checksum": "d1f88b1d0a2296e3267dda19a571d5ba8f767024e709d9d3931b28cd4f366baf"
+    }
+  }
+}

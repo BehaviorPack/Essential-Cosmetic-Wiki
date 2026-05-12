@@ -1,0 +1,46 @@
+{
+  "id": "CYBORG_HEAD",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Cyborg Head"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 110,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "skin_mask.steve.right.png": {
+      "url": "https://cdn.essential.gg/assets/de0e3ad701c068a8548e25ad5c99eeee5eaff84e959756e730bd3a50a5173f71",
+      "checksum": "de0e3ad701c068a8548e25ad5c99eeee5eaff84e959756e730bd3a50a5173f71"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2f79505153d0d30fe4b915561bbb7368fa31fd42c5f9ed84e772bd0476ba1d2a",
+      "checksum": "2f79505153d0d30fe4b915561bbb7368fa31fd42c5f9ed84e772bd0476ba1d2a"
+    },
+    "skin_mask.steve.left.png": {
+      "url": "https://cdn.essential.gg/assets/3784e331812e9ba0c2a122abbc6ad17b0fb0f6bd3f2d95b784dfd048ebb9b6a3",
+      "checksum": "3784e331812e9ba0c2a122abbc6ad17b0fb0f6bd3f2d95b784dfd048ebb9b6a3"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/63136ba510b3d296f45d202e822f8d788483b68dd78ebfbb46694c66668bfb34",
+      "checksum": "63136ba510b3d296f45d202e822f8d788483b68dd78ebfbb46694c66668bfb34"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/0dca7cb805938792093adf0fee60ec3abb4d3d86eea25d5e50e640d8d048293f",
+      "checksum": "0dca7cb805938792093adf0fee60ec3abb4d3d86eea25d5e50e640d8d048293f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8739f0fb39b3752533e556e699fe1701d4bf01a76b2ecfebf6184d13434e7027",
+      "checksum": "8739f0fb39b3752533e556e699fe1701d4bf01a76b2ecfebf6184d13434e7027"
+    }
+  }
+}

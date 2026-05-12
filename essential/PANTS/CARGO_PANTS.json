@@ -1,0 +1,55 @@
+{
+  "id": "CARGO_PANTS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Cargo Pants"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK",
+    "COLLECTION_JUNE2025",
+    "THEME_Y2K"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/03e3980c835548549f306b25fd0aa9685adca87595c132c73b71fc3f49b97fee",
+      "checksum": "03e3980c835548549f306b25fd0aa9685adca87595c132c73b71fc3f49b97fee"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8f542160432359a6360e891d6b52fe090809d67b36684aa439aeae1101c3c57f",
+      "checksum": "8f542160432359a6360e891d6b52fe090809d67b36684aa439aeae1101c3c57f"
+    },
+    "variants/dark_green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f81b313fb89396c3e9714cec8ba0ba4968b6d44224e8e7e8f8440f52a125d423",
+      "checksum": "f81b313fb89396c3e9714cec8ba0ba4968b6d44224e8e7e8f8440f52a125d423"
+    },
+    "variants/navy/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2e1d6a4f733fc3694b11bc85767b33900860b8d1af85b1134fcb4aba86a5bc33",
+      "checksum": "2e1d6a4f733fc3694b11bc85767b33900860b8d1af85b1134fcb4aba86a5bc33"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/363262ce861de3f338c0dba5eeced0219f586814d086765bdd591013a3886657",
+      "checksum": "363262ce861de3f338c0dba5eeced0219f586814d086765bdd591013a3886657"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c5d2ac1479ed5cae972e6acb973ab3efd1cedd814325a820d789537f75cc5ee6",
+      "checksum": "c5d2ac1479ed5cae972e6acb973ab3efd1cedd814325a820d789537f75cc5ee6"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d3124b57ce85884360ad1417de4075371d9d9a1eeb1feed2217c6eb1613dd702",
+      "checksum": "d3124b57ce85884360ad1417de4075371d9d9a1eeb1feed2217c6eb1613dd702"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f",
+      "checksum": "503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f"
+    }
+  }
+}

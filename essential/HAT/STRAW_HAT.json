@@ -1,0 +1,39 @@
+{
+  "id": "STRAW_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Legacy Straw Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 41,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/649ce5bd34c394d8252c42fb838e76953a23157188d8ac1b1c369ee29229a7dd",
+      "checksum": "649ce5bd34c394d8252c42fb838e76953a23157188d8ac1b1c369ee29229a7dd"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/edb29ad9506aed905465983bdb0e9fddac6292d548dd109255d9f2aafc7193e4",
+      "checksum": "edb29ad9506aed905465983bdb0e9fddac6292d548dd109255d9f2aafc7193e4"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7bbd1b4bbecd095e702c7337d07b01b3b9c0960d77c9ea46752d2b7dbdd5009b",
+      "checksum": "7bbd1b4bbecd095e702c7337d07b01b3b9c0960d77c9ea46752d2b7dbdd5009b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5cd9256318dfd65fd15a3b5061845406e6434b543b0e4e37d6db72726d865966",
+      "checksum": "5cd9256318dfd65fd15a3b5061845406e6434b543b0e4e37d6db72726d865966"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f",
+      "checksum": "af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f"
+    }
+  }
+}

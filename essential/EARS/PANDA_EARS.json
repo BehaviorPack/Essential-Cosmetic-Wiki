@@ -1,0 +1,35 @@
+{
+  "id": "PANDA_EARS",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Panda Ears"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 10,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7daf29afe6d61b9a5f469e1124407bd3eca14bedcf97febae80304f1410fcdb9",
+      "checksum": "7daf29afe6d61b9a5f469e1124407bd3eca14bedcf97febae80304f1410fcdb9"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/482c135f7c7a046f3e346c7f0ff0e4fc900d49e207f84f9cc9f79fdb16416b62",
+      "checksum": "482c135f7c7a046f3e346c7f0ff0e4fc900d49e207f84f9cc9f79fdb16416b62"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/bc53edd68ba5cd2cef5e9c175fce1131510787f0a4227cf88160267261aba2c2",
+      "checksum": "bc53edd68ba5cd2cef5e9c175fce1131510787f0a4227cf88160267261aba2c2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/67fdd2ac9ed5fa199875463da98b48a394004f97c9425fabd6f193cbea678feb",
+      "checksum": "67fdd2ac9ed5fa199875463da98b48a394004f97c9425fabd6f193cbea678feb"
+    }
+  }
+}

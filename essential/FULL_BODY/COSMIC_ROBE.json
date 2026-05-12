@@ -1,0 +1,63 @@
+{
+  "id": "COSMIC_ROBE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Astral Robes"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/flame_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/73992b1489985983af97f04863a68fb7bd8f9da902e8fff8f43c9b6864e8de06",
+      "checksum": "73992b1489985983af97f04863a68fb7bd8f9da902e8fff8f43c9b6864e8de06"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/01a2cfaa7a121b5f7f1a270422ec8161713930cedb32990e070d651e3a73c33d",
+      "checksum": "01a2cfaa7a121b5f7f1a270422ec8161713930cedb32990e070d651e3a73c33d"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/6811bc6c97505457377564740d972d964070616ae2f1041eff2358de1776b5cf",
+      "checksum": "6811bc6c97505457377564740d972d964070616ae2f1041eff2358de1776b5cf"
+    },
+    "variants/swamp_green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ec45bcde6c1a1c64344c4f154470388bec8ecc553faf5cd4059705bf4da258ba",
+      "checksum": "ec45bcde6c1a1c64344c4f154470388bec8ecc553faf5cd4059705bf4da258ba"
+    },
+    "variants/cosmic_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3bc4ca882d74e722b335d5335e142b93573f3dedab3a9a7390748888c52989eb",
+      "checksum": "3bc4ca882d74e722b335d5335e142b93573f3dedab3a9a7390748888c52989eb"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6",
+      "checksum": "e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6"
+    },
+    "variants/light_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f3d1c00fec7685f07ad70b6b16dbf09285db550db3956bc1431bb2a24d39000d",
+      "checksum": "f3d1c00fec7685f07ad70b6b16dbf09285db550db3956bc1431bb2a24d39000d"
+    },
+    "variants/pastel_pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e4cd0b299c6f0b5ece4950cd6efdfba8f8a676cc59158937076fece604331200",
+      "checksum": "e4cd0b299c6f0b5ece4950cd6efdfba8f8a676cc59158937076fece604331200"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/41957da8c08c38c010c997f5e4faecf627ff928301a903bd5981cf534b1bf209",
+      "checksum": "41957da8c08c38c010c997f5e4faecf627ff928301a903bd5981cf534b1bf209"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9",
+      "checksum": "f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9"
+    }
+  }
+}

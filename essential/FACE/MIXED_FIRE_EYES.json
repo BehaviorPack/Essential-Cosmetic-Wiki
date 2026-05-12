@@ -1,0 +1,43 @@
+{
+  "id": "MIXED_FIRE_EYES",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Legacy Mixed Fire Eyes"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 2000,
+  "priceCoins": 900,
+  "assetsMap": {
+    "variants/green-purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/d3d67a3248ceefd99242f088328a5603350e23879baf2bbca7852d1a9dec0116",
+      "checksum": "d3d67a3248ceefd99242f088328a5603350e23879baf2bbca7852d1a9dec0116"
+    },
+    "variants/fire-blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f185020aabe168ad02545e1dba24ea504f15cb92c40e3e4766028a58e1fe0428",
+      "checksum": "f185020aabe168ad02545e1dba24ea504f15cb92c40e3e4766028a58e1fe0428"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d5b45b62437b59c9855c84dfca8e77c23582a5d81b07c8d56ab8052a59fb6de9",
+      "checksum": "d5b45b62437b59c9855c84dfca8e77c23582a5d81b07c8d56ab8052a59fb6de9"
+    },
+    "variants/green-purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ccbfb3b2e717236a942e12626dcbc3ee719051f7d695fd528fac8e035a65f4b1",
+      "checksum": "ccbfb3b2e717236a942e12626dcbc3ee719051f7d695fd528fac8e035a65f4b1"
+    },
+    "variants/fire-blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/e099f32f6ff9fe5e01192966938ab5bcd09e56247689a091089e06c5103b78bb",
+      "checksum": "e099f32f6ff9fe5e01192966938ab5bcd09e56247689a091089e06c5103b78bb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0f7ecc39024f6e2b1b3b8c8aadaf883f763eee7d1e139b30756b2420d41255d7",
+      "checksum": "0f7ecc39024f6e2b1b3b8c8aadaf883f763eee7d1e139b30756b2420d41255d7"
+    }
+  }
+}

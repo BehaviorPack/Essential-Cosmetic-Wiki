@@ -1,0 +1,35 @@
+{
+  "id": "EMPLOYEE_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Employee Hat"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 37,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f19e2121782f4427e12ee71941b107e02a5a03ce31e118a7ec8674b3258070c3",
+      "checksum": "f19e2121782f4427e12ee71941b107e02a5a03ce31e118a7ec8674b3258070c3"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/ceacd53b441148ab2deeb36e8e83a063a5479ba595304a6a86fc1bbada34cab9",
+      "checksum": "ceacd53b441148ab2deeb36e8e83a063a5479ba595304a6a86fc1bbada34cab9"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/333e88922fbedf46467f384358eeaed3fa6326678562b8cb5713f28dbb12df9c",
+      "checksum": "333e88922fbedf46467f384358eeaed3fa6326678562b8cb5713f28dbb12df9c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f03dc1575dbe1c677699a5b70d9f9ed6ac0778a3dd29caae26a5ddd288577d19",
+      "checksum": "f03dc1575dbe1c677699a5b70d9f9ed6ac0778a3dd29caae26a5ddd288577d19"
+    }
+  }
+}

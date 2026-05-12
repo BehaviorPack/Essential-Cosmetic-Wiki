@@ -1,0 +1,42 @@
+{
+  "id": "PENGUIN",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Penguin"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY",
+    "THEME_ANIMAL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ca490ff4fdde4d5e2af99b83331fb2df557ecc175191b51931d2d81205160cb7",
+      "checksum": "ca490ff4fdde4d5e2af99b83331fb2df557ecc175191b51931d2d81205160cb7"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a7494fbe6817ccf10d4d299f2e1977bec8a564b8e84b6a525ebfa01e1300ef59",
+      "checksum": "a7494fbe6817ccf10d4d299f2e1977bec8a564b8e84b6a525ebfa01e1300ef59"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0a797691c13e797df22d91f1064543a7ca58791134e497eb90b2cdcc7502fb7a",
+      "checksum": "0a797691c13e797df22d91f1064543a7ca58791134e497eb90b2cdcc7502fb7a"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e25c600b8632f188316f30157799d6b9f3a0e46fd0535697486d8d8ce81a7426",
+      "checksum": "e25c600b8632f188316f30157799d6b9f3a0e46fd0535697486d8d8ce81a7426"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/054c5897d824c5f80a9186809f476cf3c85bcb7c1cfe587137f933f57acde919",
+      "checksum": "054c5897d824c5f80a9186809f476cf3c85bcb7c1cfe587137f933f57acde919"
+    }
+  }
+}

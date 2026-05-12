@@ -1,0 +1,36 @@
+{
+  "id": "NEON_GLASSES",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Neon Glasses"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 8,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b4411dc1619d59db99cec789ae6a60ea6c1ed2ccf41feac3bd5fb8cab2c1fa02",
+      "checksum": "b4411dc1619d59db99cec789ae6a60ea6c1ed2ccf41feac3bd5fb8cab2c1fa02"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/5ec8311df6ad7e6645fdc584d5ebdaa0c7154300e436dd8d8f14632e4a3597e1",
+      "checksum": "5ec8311df6ad7e6645fdc584d5ebdaa0c7154300e436dd8d8f14632e4a3597e1"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b43f1361c362af9dffcb6c35e8348657e8e26a6bb00ccb5bd320560f84808ebc",
+      "checksum": "b43f1361c362af9dffcb6c35e8348657e8e26a6bb00ccb5bd320560f84808ebc"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/adddebc0b116a4da4a6c178b00fe87822ee03ae0308bc5e9e13ed54c00c3113e",
+      "checksum": "adddebc0b116a4da4a6c178b00fe87822ee03ae0308bc5e9e13ed54c00c3113e"
+    }
+  }
+}

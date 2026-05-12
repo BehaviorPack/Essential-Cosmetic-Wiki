@@ -1,0 +1,84 @@
+{
+  "id": "GOTHIC_KNIGHT_ARMOR_SET_2",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Hollow Sentinel Armor"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_BLACK",
+    "THEME_GOTHIC",
+    "COLLECTION_MAY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/iron/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5d19a91eeadb1c5f5f18f20ab016025687f531300f5ee0c41787b27af020bb5d",
+      "checksum": "5d19a91eeadb1c5f5f18f20ab016025687f531300f5ee0c41787b27af020bb5d"
+    },
+    "variants/iron/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5fb4aa729c1b62015b3947589d7159c2b41325917ce2ffbd3eab9a5396ac251d",
+      "checksum": "5fb4aa729c1b62015b3947589d7159c2b41325917ce2ffbd3eab9a5396ac251d"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5818aa61351fea78701cfbf6831e3fdb3ae7509eb9a1d0c4b855911df2f51a9a",
+      "checksum": "5818aa61351fea78701cfbf6831e3fdb3ae7509eb9a1d0c4b855911df2f51a9a"
+    },
+    "variants/dark_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/72e5bde85da4a16537244ac853dd8f850b972699103555a7bbdad03ab9311f5c",
+      "checksum": "72e5bde85da4a16537244ac853dd8f850b972699103555a7bbdad03ab9311f5c"
+    },
+    "variants/dark_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d452c24903acb2644ca03aa84e4c92b453a95721a55ccfe6c0fdbb7ad6539ec8",
+      "checksum": "d452c24903acb2644ca03aa84e4c92b453a95721a55ccfe6c0fdbb7ad6539ec8"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/665bb9622dc2d0008408ef72997af3ea174e27dd12633b9af36f342ca9c5a45b",
+      "checksum": "665bb9622dc2d0008408ef72997af3ea174e27dd12633b9af36f342ca9c5a45b"
+    },
+    "variants/dark_purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/e23aeeb69eb3779dbb312b4549ab7a0f8e35f4e3364986b3ed2dfe64c9175882",
+      "checksum": "e23aeeb69eb3779dbb312b4549ab7a0f8e35f4e3364986b3ed2dfe64c9175882"
+    },
+    "variants/dark_red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/6d9136c38af6cfe479ca9c8f3d26fde0a63ab74b42dd9fac5fcc765783621e6b",
+      "checksum": "6d9136c38af6cfe479ca9c8f3d26fde0a63ab74b42dd9fac5fcc765783621e6b"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/cdfb197fa28dbe955b0f36dd5084ebec5a77eda9360f2948e1401ea4fe6ce903",
+      "checksum": "cdfb197fa28dbe955b0f36dd5084ebec5a77eda9360f2948e1401ea4fe6ce903"
+    },
+    "variants/silver/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/a88099adf309dcad6e521a63fbcf8aeff91be905ca60d5fc151927fa1c3a7397",
+      "checksum": "a88099adf309dcad6e521a63fbcf8aeff91be905ca60d5fc151927fa1c3a7397"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/2f153cbe5148afac9c409058658effe0ef060b6592d08c22fc3c1d479fa503d5",
+      "checksum": "2f153cbe5148afac9c409058658effe0ef060b6592d08c22fc3c1d479fa503d5"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/ab09050496d65d8ca19f5e4b1bd1990383d9d60671679f343ed6188d9b09319c",
+      "checksum": "ab09050496d65d8ca19f5e4b1bd1990383d9d60671679f343ed6188d9b09319c"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/d3ae42d0a18a499febc0a13a8d6db0e0dbea19f490d2cc311cb6beeee241c6fb",
+      "checksum": "d3ae42d0a18a499febc0a13a8d6db0e0dbea19f490d2cc311cb6beeee241c6fb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1b1da164476cea3dad6b9ed92fe9e048aef8ee25881f7e0a6e8f35ff86e4bf26",
+      "checksum": "1b1da164476cea3dad6b9ed92fe9e048aef8ee25881f7e0a6e8f35ff86e4bf26"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3d02286d0b49758b8b01583126030ced12148970f2dcb3e826fc057d9b9d519a",
+      "checksum": "3d02286d0b49758b8b01583126030ced12148970f2dcb3e826fc057d9b9d519a"
+    }
+  }
+}

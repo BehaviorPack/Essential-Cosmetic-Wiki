@@ -1,0 +1,38 @@
+{
+  "id": "UNICORN_HORN",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Unicorn Horn"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 32,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/beige/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f2d3516d3d63ee5c3e728dce52bb5387d52cd74d0309392bf7edef6b3c3eb99f",
+      "checksum": "f2d3516d3d63ee5c3e728dce52bb5387d52cd74d0309392bf7edef6b3c3eb99f"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/05b84bff0c9f46e71dab5f69cda99ca14503b12d27795655b6b08cd43480636a",
+      "checksum": "05b84bff0c9f46e71dab5f69cda99ca14503b12d27795655b6b08cd43480636a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1542582b3bc8a581a5bfe4a3eb65499fd236cba977ddde73b90a0a8d979ef6c7",
+      "checksum": "1542582b3bc8a581a5bfe4a3eb65499fd236cba977ddde73b90a0a8d979ef6c7"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/83af6da902bdef944ea6ca497f98273c079c4cb5093f2a651a27cc65f56f8119",
+      "checksum": "83af6da902bdef944ea6ca497f98273c079c4cb5093f2a651a27cc65f56f8119"
+    }
+  }
+}

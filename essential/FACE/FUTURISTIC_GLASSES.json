@@ -1,0 +1,58 @@
+{
+  "id": "FUTURISTIC_GLASSES",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Futuristic Glasses"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 9,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6a90229476f45bff1d0aa3c07c786af9b9b2c05cbc133bde2e4d715b8cde53bc",
+      "checksum": "6a90229476f45bff1d0aa3c07c786af9b9b2c05cbc133bde2e4d715b8cde53bc"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/fe99df754519bb40123c17f967d3555320ec74496f648b45089c82c1b8bb538c",
+      "checksum": "fe99df754519bb40123c17f967d3555320ec74496f648b45089c82c1b8bb538c"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/196a1160337c4f5eac543cd6559f81f0aea05df47ea7f4d2a57bfb35e967a3c4",
+      "checksum": "196a1160337c4f5eac543cd6559f81f0aea05df47ea7f4d2a57bfb35e967a3c4"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/945c707cf1484dfb4538a1a2e99b68ef2d8a7938f67fe3133c6bc28a77cc00f1",
+      "checksum": "945c707cf1484dfb4538a1a2e99b68ef2d8a7938f67fe3133c6bc28a77cc00f1"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2cb96561ce7fdb6633b78d0783981f3f3d86413e828cf0359a595c2b3a1fddc9",
+      "checksum": "2cb96561ce7fdb6633b78d0783981f3f3d86413e828cf0359a595c2b3a1fddc9"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/9fae22a3f94509a6a38b14dd2e1b8620e4dcf014d1eb7f701340b114c36cc74f",
+      "checksum": "9fae22a3f94509a6a38b14dd2e1b8620e4dcf014d1eb7f701340b114c36cc74f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/45506d1f69b51f8b6f6c89e03f3f6a0f67cc67cc0442c5f0766891df1727b007",
+      "checksum": "45506d1f69b51f8b6f6c89e03f3f6a0f67cc67cc0442c5f0766891df1727b007"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/23d8fb74b94229ff6b020588b16c70ae159e20534a7534272d74cce1ea2fe982",
+      "checksum": "23d8fb74b94229ff6b020588b16c70ae159e20534a7534272d74cce1ea2fe982"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c133c2b6a69312927862d568c494f115fe099eb25053513da4f059d5225ec4d9",
+      "checksum": "c133c2b6a69312927862d568c494f115fe099eb25053513da4f059d5225ec4d9"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "SNOWMAN_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Snowman Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "event:WINTER",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 500,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9521d5ecc2d2c2eb6541e37be855ffb629eb91357d5185b40462d4b72894ab2f",
+      "checksum": "9521d5ecc2d2c2eb6541e37be855ffb629eb91357d5185b40462d4b72894ab2f"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/2a8bc832fa341048725ebf3ab973f4b24389ce7530b89dc4bf6f3769662a6774",
+      "checksum": "2a8bc832fa341048725ebf3ab973f4b24389ce7530b89dc4bf6f3769662a6774"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/084412381ffb76c664e4251c214f43be3d4d23139eabce4b4df4ac386a85968e",
+      "checksum": "084412381ffb76c664e4251c214f43be3d4d23139eabce4b4df4ac386a85968e"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/cc563af53abc4486d7da2d3c408bc2b6e187f57c6fa1ac55a648443abf80f76c",
+      "checksum": "cc563af53abc4486d7da2d3c408bc2b6e187f57c6fa1ac55a648443abf80f76c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/603a7cf8b5cd0bc1b83cfdd582d82db380514ae1c460287a44915bc8fd54a11b",
+      "checksum": "603a7cf8b5cd0bc1b83cfdd582d82db380514ae1c460287a44915bc8fd54a11b"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/b009638f4f0d63ccfb277734c055d35fd065a7d8667d51f6eadda726dffecb04",
+      "checksum": "b009638f4f0d63ccfb277734c055d35fd065a7d8667d51f6eadda726dffecb04"
+    }
+  }
+}

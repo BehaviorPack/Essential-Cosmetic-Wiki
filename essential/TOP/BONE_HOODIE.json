@@ -1,0 +1,50 @@
+{
+  "id": "BONE_HOODIE",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Rib Cage Hoodie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK",
+    "COLLECTION_APRIL2026",
+    "THEME_BLACK"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/hoodieup/texture.png": {
+      "url": "https://cdn.essential.gg/assets/348df2a7295789a18f043efb9378df92003d821bbe282a3d2867f6fe7f126c99",
+      "checksum": "348df2a7295789a18f043efb9378df92003d821bbe282a3d2867f6fe7f126c99"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/19df3a817d3bc4d33e0f16776772aa18fbd27bc19b60015e68fab9698190f1d8",
+      "checksum": "19df3a817d3bc4d33e0f16776772aa18fbd27bc19b60015e68fab9698190f1d8"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/aca48cc2d15a6b4301844fe7edb079b64a2d7df0fac82110d42d2c7288d97c5e",
+      "checksum": "aca48cc2d15a6b4301844fe7edb079b64a2d7df0fac82110d42d2c7288d97c5e"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/840877cfd0cf2477be3c3ef0a34df50ebe058b30ab64e1ae5cb342a2098e325b",
+      "checksum": "840877cfd0cf2477be3c3ef0a34df50ebe058b30ab64e1ae5cb342a2098e325b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7b4aeea14bac0950ff35a4ed4dc2eb23aa78526ca711fe2846d78703f5950a04",
+      "checksum": "7b4aeea14bac0950ff35a4ed4dc2eb23aa78526ca711fe2846d78703f5950a04"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/46ce3c37501612f96cd01e04b668025ab36da56a68ecf1ac5740c100935bad68",
+      "checksum": "46ce3c37501612f96cd01e04b668025ab36da56a68ecf1ac5740c100935bad68"
+    },
+    "variants/hoodiedown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/64ab0ffa17ff054b9904eb62a8f417672dc380a5b2c1f3856bb61849c000abf8",
+      "checksum": "64ab0ffa17ff054b9904eb62a8f417672dc380a5b2c1f3856bb61849c000abf8"
+    }
+  }
+}

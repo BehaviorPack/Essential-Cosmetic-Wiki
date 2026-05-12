@@ -1,0 +1,34 @@
+{
+  "id": "TALL_COWBOY_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Tall Cowboy Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 104,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/cc213be6dd3f15239c152cadefd9d10838921870bc4147ae7efb10efcedefd31",
+      "checksum": "cc213be6dd3f15239c152cadefd9d10838921870bc4147ae7efb10efcedefd31"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/dd4cc907cec508bb4a53c379f4f3fdc83ae8cafbcf804ba4f32e64eb3270a9ea",
+      "checksum": "dd4cc907cec508bb4a53c379f4f3fdc83ae8cafbcf804ba4f32e64eb3270a9ea"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/21f2e2fbbfb196e56cfc752aee93618084cd9cd6050ef5a2bbd2000986608749",
+      "checksum": "21f2e2fbbfb196e56cfc752aee93618084cd9cd6050ef5a2bbd2000986608749"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f",
+      "checksum": "af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "REINDEER",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Reindeer"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY",
+    "THEME_ANIMAL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8124e8801308af4a5dc7c528c169ea836209b0a1e9dd6b34723914631e55f7c2",
+      "checksum": "8124e8801308af4a5dc7c528c169ea836209b0a1e9dd6b34723914631e55f7c2"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/038d712b8bb0b443a2dcac59ad833cd7d9967cb90bed7df011424d3acb56e2ac",
+      "checksum": "038d712b8bb0b443a2dcac59ad833cd7d9967cb90bed7df011424d3acb56e2ac"
+    },
+    "variants/snow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0cbdea6bc3d503ef1ff6d337d23b253fc8ef33578599b592e5d39976879ae02a",
+      "checksum": "0cbdea6bc3d503ef1ff6d337d23b253fc8ef33578599b592e5d39976879ae02a"
+    },
+    "variants/charcoal/texture.png": {
+      "url": "https://cdn.essential.gg/assets/33e3caffab3e348268c007e8fe722ba2b40be830a913ed7192eadc2830bfd724",
+      "checksum": "33e3caffab3e348268c007e8fe722ba2b40be830a913ed7192eadc2830bfd724"
+    },
+    "variants/white_brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ceb27df096a57d27e03e1a2efb15bc7dbef422dcd6002530b6c8f67e092fb70e",
+      "checksum": "ceb27df096a57d27e03e1a2efb15bc7dbef422dcd6002530b6c8f67e092fb70e"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d20df1c0cfa279e8e29004002b607ed933e10c9152c996fef9ab82ed5d73d22f",
+      "checksum": "d20df1c0cfa279e8e29004002b607ed933e10c9152c996fef9ab82ed5d73d22f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b6d498afadfeafe6d554a5b5cb0f356483a1f128a426dcd459105974f8a0d79b",
+      "checksum": "b6d498afadfeafe6d554a5b5cb0f356483a1f128a426dcd459105974f8a0d79b"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "SOUL_FLAME_SCYTHE",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Soul Fire Scythe"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:FLAME",
+    "NON_PARTNER",
+    "FEATURED"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 110,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/45d897d5f93b3d60f4170c925159317bfdaac6604c742208f2bcf14da617513a",
+      "checksum": "45d897d5f93b3d60f4170c925159317bfdaac6604c742208f2bcf14da617513a"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/4e4b9ca7836dfe2c286dba80cce50ec7e1c221b78b71490f87e3aea4b4343449",
+      "checksum": "4e4b9ca7836dfe2c286dba80cce50ec7e1c221b78b71490f87e3aea4b4343449"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/cb26832cd0522a7ae41bf3416aca0c8943514ef40e36292f422d7a32b4a5dd9a",
+      "checksum": "cb26832cd0522a7ae41bf3416aca0c8943514ef40e36292f422d7a32b4a5dd9a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d6cc117fe2415ea64444f63de4c88bf3ea839de9b39a1f79724ceb96043a49b3",
+      "checksum": "d6cc117fe2415ea64444f63de4c88bf3ea839de9b39a1f79724ceb96043a49b3"
+    }
+  }
+}

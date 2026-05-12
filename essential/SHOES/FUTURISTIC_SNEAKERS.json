@@ -1,0 +1,73 @@
+{
+  "id": "FUTURISTIC_SNEAKERS",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Sci-Fi Boots"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 7,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/orange/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/898dfaf15cde0968b7de2eaea8dff8b4dac59e040af56ada656ea79baeda9f22",
+      "checksum": "898dfaf15cde0968b7de2eaea8dff8b4dac59e040af56ada656ea79baeda9f22"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/d157ceb3d3b5aaec80219c91339e10996e3bee0baad0d1eedce668a269be57b7",
+      "checksum": "d157ceb3d3b5aaec80219c91339e10996e3bee0baad0d1eedce668a269be57b7"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/7f5f513f5e7b6980eed9416f1a6bae2b26f97d2834dc2526aca60fdd5188260b",
+      "checksum": "7f5f513f5e7b6980eed9416f1a6bae2b26f97d2834dc2526aca60fdd5188260b"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8b99d5ed672e0dd27ea436ee380c413f4a74043afc05d892d25a72d1ca31939f",
+      "checksum": "8b99d5ed672e0dd27ea436ee380c413f4a74043afc05d892d25a72d1ca31939f"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f434e63e0b5ef50887ae1ec144a3e14bf7f5fce1c71f9cae6aaa568361b9b2ad",
+      "checksum": "f434e63e0b5ef50887ae1ec144a3e14bf7f5fce1c71f9cae6aaa568361b9b2ad"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/6d3ac700a71b3d112aa410afac21e341cc913b38b328277db6ba4de4f7420c6d",
+      "checksum": "6d3ac700a71b3d112aa410afac21e341cc913b38b328277db6ba4de4f7420c6d"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bca6f72064d2eb42f050b68acf00011e601ce46007de11f05e7ecea4c0e552a5",
+      "checksum": "bca6f72064d2eb42f050b68acf00011e601ce46007de11f05e7ecea4c0e552a5"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7851e66d7ade7746b12eaaa18a8ac1b95ea8457e1daea0cf66bbb127eab6fd32",
+      "checksum": "7851e66d7ade7746b12eaaa18a8ac1b95ea8457e1daea0cf66bbb127eab6fd32"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/dbb635f7c090630b344cd965baf0c2e0b9cd37e77bdab26798253918e8dbe3ae",
+      "checksum": "dbb635f7c090630b344cd965baf0c2e0b9cd37e77bdab26798253918e8dbe3ae"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/35e4ffcad4243481fa5f646116ee51edc7d1014d1d6f8109d3169631319317c7",
+      "checksum": "35e4ffcad4243481fa5f646116ee51edc7d1014d1d6f8109d3169631319317c7"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/24afc0a4ad1b138b7c292ea95ad79f2daf896b127946352a0928632aa2b56437",
+      "checksum": "24afc0a4ad1b138b7c292ea95ad79f2daf896b127946352a0928632aa2b56437"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/2fd8f49fbb253b82a02558e77c6cf2a38e3fc9b268f7d896e8513e5ce7606e15",
+      "checksum": "2fd8f49fbb253b82a02558e77c6cf2a38e3fc9b268f7d896e8513e5ce7606e15"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3c779467f273233f6bc1e76e7ded7bf4e2d2834d31cef73316a88606dce6126b",
+      "checksum": "3c779467f273233f6bc1e76e7ded7bf4e2d2834d31cef73316a88606dce6126b"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "MYSTICAL_HOOD",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Mystical Hood"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_MAGIC",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 80,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c7bc61a87fa7e30cdaf9959f63f929d84b5acd4af6c945ecb951552e474c863a",
+      "checksum": "c7bc61a87fa7e30cdaf9959f63f929d84b5acd4af6c945ecb951552e474c863a"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8afd07bb1c0416d9e057470711d81071234e222823f38653f85f29f9d406f310",
+      "checksum": "8afd07bb1c0416d9e057470711d81071234e222823f38653f85f29f9d406f310"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1d39eacd1cbb1f633fcb16273a1f18c11d65ce0b5c4041452d70143c13ad88fb",
+      "checksum": "1d39eacd1cbb1f633fcb16273a1f18c11d65ce0b5c4041452d70143c13ad88fb"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/c18058d42b36819771ed8854f0156ff7340e548f589d43c564c69c37274907ff",
+      "checksum": "c18058d42b36819771ed8854f0156ff7340e548f589d43c564c69c37274907ff"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/05ec84c9d271cec920d82e57fcb890ee757f0e3d6a49f722e6dc90d98d1512dd",
+      "checksum": "05ec84c9d271cec920d82e57fcb890ee757f0e3d6a49f722e6dc90d98d1512dd"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6240a1692074ce07d96a9477ecbe83f37777a14f5834ba8aef2182d761b69511",
+      "checksum": "6240a1692074ce07d96a9477ecbe83f37777a14f5834ba8aef2182d761b69511"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e643913490a9a40a2fddab4c29fae95d70777f63930fc7fdfd652968ff3bfbbd",
+      "checksum": "e643913490a9a40a2fddab4c29fae95d70777f63930fc7fdfd652968ff3bfbbd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/30f9ebe6e835c3949c1cf17a4ae868db629539004540a7d2ab98d2e4e224bde9",
+      "checksum": "30f9ebe6e835c3949c1cf17a4ae868db629539004540a7d2ab98d2e4e224bde9"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3d6162c77e4de0e3aa3afeb7146d7e002a15d2870ce1ebde6b3c96073c2292f1",
+      "checksum": "3d6162c77e4de0e3aa3afeb7146d7e002a15d2870ce1ebde6b3c96073c2292f1"
+    }
+  }
+}

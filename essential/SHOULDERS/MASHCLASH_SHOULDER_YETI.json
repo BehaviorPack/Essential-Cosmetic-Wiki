@@ -1,0 +1,39 @@
+{
+  "id": "MASHCLASH_SHOULDER_YETI",
+  "type": "SHOULDERS",
+  "displayNames": {
+    "en_us": "MashClash\u0027s Yeti"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY",
+    "FEATURED"
+  ],
+  "createdAt": {},
+  "categories": {
+    "SHOULDERS": 20
+  },
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9e19eb8e4e4dab2ef7469d999070f8a0d70c6b5db1f672ec1ab7aff2c8c8bfd4",
+      "checksum": "9e19eb8e4e4dab2ef7469d999070f8a0d70c6b5db1f672ec1ab7aff2c8c8bfd4"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/04e247e816e8f3fec0b7d8b3b45cb20a0b3a51c31dadd9e8c4dad4b07cfd95f9",
+      "checksum": "04e247e816e8f3fec0b7d8b3b45cb20a0b3a51c31dadd9e8c4dad4b07cfd95f9"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/13f04d43e4cf1d1edb876c1457f466026c79111755ec0cd668751632736a87a4",
+      "checksum": "13f04d43e4cf1d1edb876c1457f466026c79111755ec0cd668751632736a87a4"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/6067b8584bac6e013a0090deecc330bf0c4fd8bfa8137a8fb6d26b121a0c342f",
+      "checksum": "6067b8584bac6e013a0090deecc330bf0c4fd8bfa8137a8fb6d26b121a0c342f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8af00eda2b40e6a94112573e1cf6a46ab0035106e3679d08cbd8d082965caff3",
+      "checksum": "8af00eda2b40e6a94112573e1cf6a46ab0035106e3679d08cbd8d082965caff3"
+    }
+  }
+}

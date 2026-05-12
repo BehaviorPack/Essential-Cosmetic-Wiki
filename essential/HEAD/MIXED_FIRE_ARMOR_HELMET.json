@@ -1,0 +1,52 @@
+{
+  "id": "MIXED_FIRE_ARMOR_HELMET",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Mixed Fire Armor Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 31,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/green-purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/40caf9f5e0ae7874e2a912b0f24812ee0aa0dac0cbbcc8143ccf9537e8c03977",
+      "checksum": "40caf9f5e0ae7874e2a912b0f24812ee0aa0dac0cbbcc8143ccf9537e8c03977"
+    },
+    "variants/fire-blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d7435a413d5956dad339b6c32067a1292a11a93a0de57c1c543452c833d4e813",
+      "checksum": "d7435a413d5956dad339b6c32067a1292a11a93a0de57c1c543452c833d4e813"
+    },
+    "skin_mask.steve.right.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d86be3a1313d54a4f2d448cc23103ec8d0b7ce7e6b43a1772ddfe611f74e137c",
+      "checksum": "d86be3a1313d54a4f2d448cc23103ec8d0b7ce7e6b43a1772ddfe611f74e137c"
+    },
+    "skin_mask.steve.left.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    },
+    "variants/green-purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/52d6fb5e5a965197b7dfd405e6901425aceb5dff3f543352f2f0c06e1c15f710",
+      "checksum": "52d6fb5e5a965197b7dfd405e6901425aceb5dff3f543352f2f0c06e1c15f710"
+    },
+    "variants/fire-blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/7018a06009bf9a9cb07c36114e59190fc4cb9c30730970ef9e00f6c7e593dd04",
+      "checksum": "7018a06009bf9a9cb07c36114e59190fc4cb9c30730970ef9e00f6c7e593dd04"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/91a0c3ec8edb819b7fdd5f342e7f8357c6c5e8ed81b1b7185a8d43b21a7d9634",
+      "checksum": "91a0c3ec8edb819b7fdd5f342e7f8357c6c5e8ed81b1b7185a8d43b21a7d9634"
+    }
+  }
+}

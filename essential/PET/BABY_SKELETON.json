@@ -1,0 +1,44 @@
+{
+  "id": "BABY_SKELETON",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Skeleton"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HALLOWEEN",
+    "THEME_MINECRAFT",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/915017ee89fa2b23a65d631541b1ad927cb7f5143f47bce47aad123527ca8197",
+      "checksum": "915017ee89fa2b23a65d631541b1ad927cb7f5143f47bce47aad123527ca8197"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/333a0036efe56c58334b1e538eb023b15a92c905301812cf29dc4159e1b37de5",
+      "checksum": "333a0036efe56c58334b1e538eb023b15a92c905301812cf29dc4159e1b37de5"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/062d8f084918437a3ea21e6521c25048405daeefb69bfd7d2a91c8609c5dcfde",
+      "checksum": "062d8f084918437a3ea21e6521c25048405daeefb69bfd7d2a91c8609c5dcfde"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1a00e0468066e19d409a2437ebe01a86facb2b9ee588d4b559740146ef4c7947",
+      "checksum": "1a00e0468066e19d409a2437ebe01a86facb2b9ee588d4b559740146ef4c7947"
+    },
+    "variants/wither/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ed4ffe5a48fccbb706ff53cde06c275d52919bc22341c6b5aba966db265bfc2c",
+      "checksum": "ed4ffe5a48fccbb706ff53cde06c275d52919bc22341c6b5aba966db265bfc2c"
+    }
+  }
+}

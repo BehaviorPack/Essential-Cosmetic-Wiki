@@ -1,0 +1,71 @@
+{
+  "id": "FIRE_ARMOR",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Legacy Fire Armor"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 2500,
+  "priceCoins": 900,
+  "assetsMap": {
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b51eefa21455500a15edba842b280265af8cf4f3e36471232424e7006a758c58",
+      "checksum": "b51eefa21455500a15edba842b280265af8cf4f3e36471232424e7006a758c58"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a8b262d880ca6adbfefdd8faaa96d70ae73bb6aeb8b5f4febedfb0e7710109bd",
+      "checksum": "a8b262d880ca6adbfefdd8faaa96d70ae73bb6aeb8b5f4febedfb0e7710109bd"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7e414c9b0add0468634884e46d3ce0cebc133b8872f6ebf940f6a3d07eb8b711",
+      "checksum": "7e414c9b0add0468634884e46d3ce0cebc133b8872f6ebf940f6a3d07eb8b711"
+    },
+    "variants/fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f94e3f016c4fac218923f7d880f83c1c7e27c04c6ac7cf5e37f0f956cb516444",
+      "checksum": "f94e3f016c4fac218923f7d880f83c1c7e27c04c6ac7cf5e37f0f956cb516444"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/49be8363d50cc8661b51c7c0f58844f620c4cf7e477c05b64ba9e875406a8f75",
+      "checksum": "49be8363d50cc8661b51c7c0f58844f620c4cf7e477c05b64ba9e875406a8f75"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e53dbdd45396eb9a4b1976230d0b08d64f154f54a8dabadfc2d49e4f10bf4007",
+      "checksum": "e53dbdd45396eb9a4b1976230d0b08d64f154f54a8dabadfc2d49e4f10bf4007"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/fa3aa5f8caa0a5b5b0763922ff3d1f98b666f5e303eb5522742f8f3f0c5565d8",
+      "checksum": "fa3aa5f8caa0a5b5b0763922ff3d1f98b666f5e303eb5522742f8f3f0c5565d8"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/5751ec566b577ba2dfa3c4f8e274f5a06a7323c2bad768f7118a6464284ab8a4",
+      "checksum": "5751ec566b577ba2dfa3c4f8e274f5a06a7323c2bad768f7118a6464284ab8a4"
+    },
+    "variants/fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/be5b5c3ef701cd7828287a0054571d4cb509f280a805b505ebbebae8f6b518a4",
+      "checksum": "be5b5c3ef701cd7828287a0054571d4cb509f280a805b505ebbebae8f6b518a4"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/c20aacf1122e6e0288c8667de72a6c7e4cc0112456518f4f1d5d3033301de392",
+      "checksum": "c20aacf1122e6e0288c8667de72a6c7e4cc0112456518f4f1d5d3033301de392"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/42eebe7cf071a37a3a994455e0a647ecd24b7271be8f67d826a464f6173a505c",
+      "checksum": "42eebe7cf071a37a3a994455e0a647ecd24b7271be8f67d826a464f6173a505c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/548d27cffba2798afc69716b155664f51082e696e83edad702fb0b4a7c101666",
+      "checksum": "548d27cffba2798afc69716b155664f51082e696e83edad702fb0b4a7c101666"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/67dee9bb6febf2e4a1c2825d2f5f569a4d94b40ba148301be3666573371e5592",
+      "checksum": "67dee9bb6febf2e4a1c2825d2f5f569a4d94b40ba148301be3666573371e5592"
+    }
+  }
+}

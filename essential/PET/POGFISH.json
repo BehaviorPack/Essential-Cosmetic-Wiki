@@ -1,0 +1,50 @@
+{
+  "id": "POGFISH",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Pogfish"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "particles/heart_bubble.particle.json": {
+      "url": "https://cdn.essential.gg/assets/c87a76bdae985b8adb5c1346b9592d3104fecce85295bc012ba156987b8da408",
+      "checksum": "c87a76bdae985b8adb5c1346b9592d3104fecce85295bc012ba156987b8da408"
+    },
+    "particles/bubble_pop.particle.json": {
+      "url": "https://cdn.essential.gg/assets/1792192ae3dcc4210aed1dea65a7a34547bb0ab8b72a39c5dd73ed103d7958d9",
+      "checksum": "1792192ae3dcc4210aed1dea65a7a34547bb0ab8b72a39c5dd73ed103d7958d9"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f2340d06859b99df318df3943342579967ea7d17f77bdeb26463cf759cc1c526",
+      "checksum": "f2340d06859b99df318df3943342579967ea7d17f77bdeb26463cf759cc1c526"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/e0393ec412c431d1c3fbde83e8bb8df8e562249f8f71846b21b8330d3344ae43",
+      "checksum": "e0393ec412c431d1c3fbde83e8bb8df8e562249f8f71846b21b8330d3344ae43"
+    },
+    "particles/heart_bubble_burst.particle.json": {
+      "url": "https://cdn.essential.gg/assets/e3396a670db1ae970b52c0d1d51f2f222457e4bf96bdf42ed76ce0e0d7128f29",
+      "checksum": "e3396a670db1ae970b52c0d1d51f2f222457e4bf96bdf42ed76ce0e0d7128f29"
+    },
+    "particles/heart_bubble_turn.particle.json": {
+      "url": "https://cdn.essential.gg/assets/b508cd4f54e66179e350f0de295a2348aa603fd3617e44eb2b1cdc70c8b3a35b",
+      "checksum": "b508cd4f54e66179e350f0de295a2348aa603fd3617e44eb2b1cdc70c8b3a35b"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/37c9b049f3ea2b8c0f1c9662b5dc596bd8deec56ac315f9b75a9fb9bd64077ec",
+      "checksum": "37c9b049f3ea2b8c0f1c9662b5dc596bd8deec56ac315f9b75a9fb9bd64077ec"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f1b94a282c2f87faf279a8abb01c668bf2c2431f5d6da8a9c9bf488bd59b6548",
+      "checksum": "f1b94a282c2f87faf279a8abb01c668bf2c2431f5d6da8a9c9bf488bd59b6548"
+    }
+  }
+}

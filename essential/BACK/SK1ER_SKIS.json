@@ -1,0 +1,33 @@
+{
+  "id": "SK1ER_SKIS",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Skis"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2d7aa3606dab54f9b23054c84d7577f0d57eafa57769d8381ff3c6f07e59088e",
+      "checksum": "2d7aa3606dab54f9b23054c84d7577f0d57eafa57769d8381ff3c6f07e59088e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4f0129e70507a9d457de7be7ec0f9848fd9467ad56ec5cc8a91f1a0c172147c4",
+      "checksum": "4f0129e70507a9d457de7be7ec0f9848fd9467ad56ec5cc8a91f1a0c172147c4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6d9a463c0d7aeb9034a3677d7e893183e3cf60a35bef85d192b06d34b16dbae1",
+      "checksum": "6d9a463c0d7aeb9034a3677d7e893183e3cf60a35bef85d192b06d34b16dbae1"
+    }
+  }
+}

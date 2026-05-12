@@ -1,0 +1,46 @@
+{
+  "id": "ICE_STAFF",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Ice Staff"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY",
+    "THEME_MAGIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "particles/ice_staff_spiral.particle.json": {
+      "url": "https://cdn.essential.gg/assets/2d00df311fbeea1e68c0ccc7e4e176b783871e8cf632e9fc1f7a7b94ae6a5b93",
+      "checksum": "2d00df311fbeea1e68c0ccc7e4e176b783871e8cf632e9fc1f7a7b94ae6a5b93"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/65282fd3824e7e9751e96a74c09046015291f1e9f0f5ea5e89377a9762b06680",
+      "checksum": "65282fd3824e7e9751e96a74c09046015291f1e9f0f5ea5e89377a9762b06680"
+    },
+    "particles/ice_staff_spread.particle.json": {
+      "url": "https://cdn.essential.gg/assets/1e4000128e4524bcb5c30c531ef89afc412086042fde27f518ffa83a24e4ab48",
+      "checksum": "1e4000128e4524bcb5c30c531ef89afc412086042fde27f518ffa83a24e4ab48"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/92479b33752dccb35f178b2251ef87ae10773a90e0b2da1619e7c46814b7998b",
+      "checksum": "92479b33752dccb35f178b2251ef87ae10773a90e0b2da1619e7c46814b7998b"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/8b05f0f92e8c04dfd2910e9e6343ee4e55f0d5ab1f12f94b3b3a1fa6eebe366c",
+      "checksum": "8b05f0f92e8c04dfd2910e9e6343ee4e55f0d5ab1f12f94b3b3a1fa6eebe366c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5077783426a6181190642bf1189ab4854dab7f38aa90e03f8e0a23e3cf433ae2",
+      "checksum": "5077783426a6181190642bf1189ab4854dab7f38aa90e03f8e0a23e3cf433ae2"
+    }
+  }
+}

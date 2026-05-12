@@ -1,0 +1,72 @@
+{
+  "id": "GOTHIC_KNIGHT_BLADE_2",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Hollow Blade"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_BLACK",
+    "THEME_GOTHIC",
+    "COLLECTION_MAY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/dark_purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/ecc6ee320f4e920aede66a85b288db1f90e33804e64afd6c025d37edd712ee33",
+      "checksum": "ecc6ee320f4e920aede66a85b288db1f90e33804e64afd6c025d37edd712ee33"
+    },
+    "variants/iron/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/72866bf5f68589e60cacf19d97afda6021bea52ecfeaa1e86cbc2b2930d196c4",
+      "checksum": "72866bf5f68589e60cacf19d97afda6021bea52ecfeaa1e86cbc2b2930d196c4"
+    },
+    "variants/iron/texture.png": {
+      "url": "https://cdn.essential.gg/assets/16471b3cd26eb6c6abfbd749756af11fb9d5a9f687264fcc10efd6f63786c4f4",
+      "checksum": "16471b3cd26eb6c6abfbd749756af11fb9d5a9f687264fcc10efd6f63786c4f4"
+    },
+    "variants/dark_red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5eb67494ac3114618ef7f9e8b6fcd4e4bc2fdbd7ff3f045c9bf56b9ccc2d6667",
+      "checksum": "5eb67494ac3114618ef7f9e8b6fcd4e4bc2fdbd7ff3f045c9bf56b9ccc2d6667"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ab03f468bc16010be53c2583bf7a973f8cf0e790f2b636c0a277f73637d46075",
+      "checksum": "ab03f468bc16010be53c2583bf7a973f8cf0e790f2b636c0a277f73637d46075"
+    },
+    "variants/silver/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/485818b0e5015a95dbbba773fdd23927d551925caf01967733345405a066b86c",
+      "checksum": "485818b0e5015a95dbbba773fdd23927d551925caf01967733345405a066b86c"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/81b06e81e53f62fc55bc7c960a5f14887912de15c081cc42bc890790d6809e5f",
+      "checksum": "81b06e81e53f62fc55bc7c960a5f14887912de15c081cc42bc890790d6809e5f"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8d2866ae1d9c5baf7949b12b126ccbc06dd2f8e6e400a06dd63c57ea0aec8a9e",
+      "checksum": "8d2866ae1d9c5baf7949b12b126ccbc06dd2f8e6e400a06dd63c57ea0aec8a9e"
+    },
+    "variants/dark_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e667c92137a6fe125ee061255791c5352deb4fe70c4b1b16a3631718a07dd439",
+      "checksum": "e667c92137a6fe125ee061255791c5352deb4fe70c4b1b16a3631718a07dd439"
+    },
+    "variants/dark_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a2ff6782bfe96b8679b90d2364811e537bc80157eb99c0e8b18a84acc86f8469",
+      "checksum": "a2ff6782bfe96b8679b90d2364811e537bc80157eb99c0e8b18a84acc86f8469"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/67424a734142dd45d984877a485d8318ee0995495f9dce620f5f6455848defb7",
+      "checksum": "67424a734142dd45d984877a485d8318ee0995495f9dce620f5f6455848defb7"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ebddc169952a75c775b0d80b0b3d473dfaef6e489a4b0c2188ddbad48d2b0c6a",
+      "checksum": "ebddc169952a75c775b0d80b0b3d473dfaef6e489a4b0c2188ddbad48d2b0c6a"
+    }
+  }
+}

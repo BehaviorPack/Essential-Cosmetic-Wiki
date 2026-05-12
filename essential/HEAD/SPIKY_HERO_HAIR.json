@@ -1,0 +1,72 @@
+{
+  "id": "SPIKY_HERO_HAIR",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Spiky Hero Hair"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "HAIR": 20
+  },
+  "defaultSortWeight": 10,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e4bd7ee995be534989e4e3d7c6cd7b6a49b7007b0d6617a9c30ae3ed94442cef",
+      "checksum": "e4bd7ee995be534989e4e3d7c6cd7b6a49b7007b0d6617a9c30ae3ed94442cef"
+    },
+    "variants/ginger/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/6801d31c50ce8fc4e8062dd1dbb0603e8b9096f18dc17d630d992db55857af03",
+      "checksum": "6801d31c50ce8fc4e8062dd1dbb0603e8b9096f18dc17d630d992db55857af03"
+    },
+    "variants/white/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8bf6937d52daa98ccabce74a183648fe6dd00907e041eb775fde6a0e49b778bf",
+      "checksum": "8bf6937d52daa98ccabce74a183648fe6dd00907e041eb775fde6a0e49b778bf"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/aa2300cc421a1aef823d31e5150c8d7726eaa944b2cd40b89ce7003c37ed7c72",
+      "checksum": "aa2300cc421a1aef823d31e5150c8d7726eaa944b2cd40b89ce7003c37ed7c72"
+    },
+    "variants/blonde/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8517c6531df6329b7ac0f582f1e3e268167864d3a5b15f88383831414e6829a8",
+      "checksum": "8517c6531df6329b7ac0f582f1e3e268167864d3a5b15f88383831414e6829a8"
+    },
+    "variants/brunette/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b401ae9f411841bbd20ebb0c793f4b650816868bad184507d1622b92a35a08fd",
+      "checksum": "b401ae9f411841bbd20ebb0c793f4b650816868bad184507d1622b92a35a08fd"
+    },
+    "variants/brunette/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/eabf279037f8370497af57d3d35522b812e144d8dd668764ad12fb7acb6478c1",
+      "checksum": "eabf279037f8370497af57d3d35522b812e144d8dd668764ad12fb7acb6478c1"
+    },
+    "variants/blonde/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0214310b4fdd153fa056e5566a90250debb573ac084b7612c6554052e0a57215",
+      "checksum": "0214310b4fdd153fa056e5566a90250debb573ac084b7612c6554052e0a57215"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5d54563caf52a8f1a537485ce7974179e6aa372f68dfc9e72697b8361377600d",
+      "checksum": "5d54563caf52a8f1a537485ce7974179e6aa372f68dfc9e72697b8361377600d"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/308f6f1f75e56ff60a1007c678238a87026da44e4bc43310a5ddbf62e1c5b7c0",
+      "checksum": "308f6f1f75e56ff60a1007c678238a87026da44e4bc43310a5ddbf62e1c5b7c0"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8057271f93f6087d574a1a11ed1ac7c7cb6533437b04d3b8af86b2f9771a638f",
+      "checksum": "8057271f93f6087d574a1a11ed1ac7c7cb6533437b04d3b8af86b2f9771a638f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/58da6608f47b5316e6c4dde8d3eab1ce3efad5c70b99d8bbe1a99a0b8462321e",
+      "checksum": "58da6608f47b5316e6c4dde8d3eab1ce3efad5c70b99d8bbe1a99a0b8462321e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d1110de8a0ab201031d791cf7be0a6b7fb6ecb8c984e8d0de4bfd021d1846610",
+      "checksum": "d1110de8a0ab201031d791cf7be0a6b7fb6ecb8c984e8d0de4bfd021d1846610"
+    }
+  }
+}

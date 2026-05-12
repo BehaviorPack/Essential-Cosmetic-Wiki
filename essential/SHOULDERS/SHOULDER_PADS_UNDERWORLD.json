@@ -1,0 +1,33 @@
+{
+  "id": "SHOULDER_PADS_UNDERWORLD",
+  "type": "SHOULDERS",
+  "displayNames": {
+    "en_us": "Skull Shoulders"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "SHOULDERS": 20
+  },
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/77e293bca2e4faab6022d3f48d2ef08eaae7b296be6f28af1e314bc571917e9f",
+      "checksum": "77e293bca2e4faab6022d3f48d2ef08eaae7b296be6f28af1e314bc571917e9f"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/f03a8f7a6834393700047c373ac7d90be95f40b254a816d18600fb97bb431996",
+      "checksum": "f03a8f7a6834393700047c373ac7d90be95f40b254a816d18600fb97bb431996"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/a791d53173d0c7445b482e959ea89e0f139bcb6a00c3eaea013aafd809c547b8",
+      "checksum": "a791d53173d0c7445b482e959ea89e0f139bcb6a00c3eaea013aafd809c547b8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/01015c3b2127ae7b0e67f1f6ad7059a26a704ef919b29e634986e0b82bab3ccd",
+      "checksum": "01015c3b2127ae7b0e67f1f6ad7059a26a704ef919b29e634986e0b82bab3ccd"
+    }
+  }
+}

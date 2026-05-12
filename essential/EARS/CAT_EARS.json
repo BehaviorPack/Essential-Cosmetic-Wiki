@@ -1,0 +1,53 @@
+{
+  "id": "CAT_EARS",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Cat Ears"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_NOVEMBER2025",
+    "THEME_FURRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0b883dbb3e3016f2db32d63f334bdae3e9c75fb2bd7f7b7b8b7a53cccabe2def",
+      "checksum": "0b883dbb3e3016f2db32d63f334bdae3e9c75fb2bd7f7b7b8b7a53cccabe2def"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ed99a2f82e4f78b7c199b22b17d6dcdfd1c60464c535ec5061092091c9fbddd3",
+      "checksum": "ed99a2f82e4f78b7c199b22b17d6dcdfd1c60464c535ec5061092091c9fbddd3"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8247f72da5dbc9fb73ecbf7f9007a5a7afed3924077de6a16b7a401d03da134f",
+      "checksum": "8247f72da5dbc9fb73ecbf7f9007a5a7afed3924077de6a16b7a401d03da134f"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8d6d1219c8168000bf957a2269d6d0eb1e24d0cdc89025448b146f91ab42bf11",
+      "checksum": "8d6d1219c8168000bf957a2269d6d0eb1e24d0cdc89025448b146f91ab42bf11"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cdb60120c87aad5c7357f62f553a07cd6cd9359d209405d5b3565a4f41bf8547",
+      "checksum": "cdb60120c87aad5c7357f62f553a07cd6cd9359d209405d5b3565a4f41bf8547"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6e1bc08e49a99d72d8daca7ef0662131045ab7a46688b89e045dc3d7c9bd3436",
+      "checksum": "6e1bc08e49a99d72d8daca7ef0662131045ab7a46688b89e045dc3d7c9bd3436"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/4e0f778d5b76708c3833a5b059802c9b119653a67bdc794d678a0746b283b5f4",
+      "checksum": "4e0f778d5b76708c3833a5b059802c9b119653a67bdc794d678a0746b283b5f4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/30af7708b21842d6f88d77551b8a746d88417e55de24de0c06be47c89786236a",
+      "checksum": "30af7708b21842d6f88d77551b8a746d88417e55de24de0c06be47c89786236a"
+    }
+  }
+}

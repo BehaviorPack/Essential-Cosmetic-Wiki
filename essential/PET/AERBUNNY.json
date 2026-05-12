@@ -1,0 +1,36 @@
+{
+  "id": "AERBUNNY",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Aerbunny"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_AETHER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9d3ea79bdf68006112030d9a128aa9bcaabdc6bf5426fe3f5ca94676b8392b19",
+      "checksum": "9d3ea79bdf68006112030d9a128aa9bcaabdc6bf5426fe3f5ca94676b8392b19"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/cd6348e3c7f34f949db2708e91a59f1134793aea619c9a45f490aada116fcad2",
+      "checksum": "cd6348e3c7f34f949db2708e91a59f1134793aea619c9a45f490aada116fcad2"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/80a5bccba97b7eb705373ce41d0e96bf7952108695536a3ba65b8693d213c22f",
+      "checksum": "80a5bccba97b7eb705373ce41d0e96bf7952108695536a3ba65b8693d213c22f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d44a9dbbb2c9d0cc4ae68b429fece6c3abed1bb773617c7b8c4f490fe71c5787",
+      "checksum": "d44a9dbbb2c9d0cc4ae68b429fece6c3abed1bb773617c7b8c4f490fe71c5787"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "BLINDFOLD",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Blindfold"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 10,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/62c8a5b04cee30021218bb512d344fb48495244dcf4ac7423475b29fa8779cda",
+      "checksum": "62c8a5b04cee30021218bb512d344fb48495244dcf4ac7423475b29fa8779cda"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/e46dd491d2d2a35f3a28e621fc4f8faf1771264c62f773c14cba701f0470b72b",
+      "checksum": "e46dd491d2d2a35f3a28e621fc4f8faf1771264c62f773c14cba701f0470b72b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8b20796fec03a16016c8ba681828016f79aeb2039f4e8fe8398203e24f6f8e9b",
+      "checksum": "8b20796fec03a16016c8ba681828016f79aeb2039f4e8fe8398203e24f6f8e9b"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/404fc562610aeb90b32285393c9137ae905bb54589df90dc6044333c9ce4b214",
+      "checksum": "404fc562610aeb90b32285393c9137ae905bb54589df90dc6044333c9ce4b214"
+    }
+  }
+}

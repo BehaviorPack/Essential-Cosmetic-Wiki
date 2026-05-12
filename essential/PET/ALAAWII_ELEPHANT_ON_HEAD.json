@@ -1,0 +1,36 @@
+{
+  "id": "ALAAWII_ELEPHANT_ON_HEAD",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Alaawii\u0027s Elephant"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY",
+    "FEATURED"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 102,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c75b39e0c8a0871bc6298dae2aa1196fc79483263244845113a668779290d001",
+      "checksum": "c75b39e0c8a0871bc6298dae2aa1196fc79483263244845113a668779290d001"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/95f1da78e2f33b9e52faeb6c4689bdd39d16c6a94ff1218419dd08506be44bc8",
+      "checksum": "95f1da78e2f33b9e52faeb6c4689bdd39d16c6a94ff1218419dd08506be44bc8"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/84a657f32a3fdfca736aefbf2992c74691681a7b751d1793e092ae21ded4ead1",
+      "checksum": "84a657f32a3fdfca736aefbf2992c74691681a7b751d1793e092ae21ded4ead1"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c5fa9ec032e2d32b5c0d4a20a1b20cc2081afe7a7d3dd804c773a9029ce52471",
+      "checksum": "c5fa9ec032e2d32b5c0d4a20a1b20cc2081afe7a7d3dd804c773a9029ce52471"
+    }
+  }
+}

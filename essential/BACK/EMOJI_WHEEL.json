@@ -1,0 +1,30 @@
+{
+  "id": "EMOJI_WHEEL",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Emoji Wheel"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 114,
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c2df617141c9b2a6fc0bda9240653628907e4004ddaff96a0dbff00454cf9635",
+      "checksum": "c2df617141c9b2a6fc0bda9240653628907e4004ddaff96a0dbff00454cf9635"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/708e1af6a7382c7ff87bdc337701b4fc0801dfc2f714695af1c842e26d335a12",
+      "checksum": "708e1af6a7382c7ff87bdc337701b4fc0801dfc2f714695af1c842e26d335a12"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5de9737653e93d8efaa355bf855654e54e943515495add7dd5d06697ca54abc5",
+      "checksum": "5de9737653e93d8efaa355bf855654e54e943515495add7dd5d06697ca54abc5"
+    }
+  }
+}

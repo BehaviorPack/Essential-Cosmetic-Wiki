@@ -1,0 +1,32 @@
+{
+  "id": "CUBECRAFT_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "CubeCraft Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 7,
+  "priceCoins": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/da7363d6c933a820af7356bf6370f18255be752eba2633109f2512d9c61e2ad5",
+      "checksum": "da7363d6c933a820af7356bf6370f18255be752eba2633109f2512d9c61e2ad5"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/1b75f1269c813fbd9e0ae8389106951efb74323f17e769ee5bf74a56c398c534",
+      "checksum": "1b75f1269c813fbd9e0ae8389106951efb74323f17e769ee5bf74a56c398c534"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2c4bf72437063b04ec7e2a332d778ff86a787845a0f4aca1e4f7e4fc135fa644",
+      "checksum": "2c4bf72437063b04ec7e2a332d778ff86a787845a0f4aca1e4f7e4fc135fa644"
+    }
+  }
+}

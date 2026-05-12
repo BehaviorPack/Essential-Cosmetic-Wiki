@@ -1,0 +1,98 @@
+{
+  "id": "MECH_ARMOR",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Mech Armor"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/577af7716374642ded69ec7a95474ecfaf9b09f51a29613430628f9e4fc999bb",
+      "checksum": "577af7716374642ded69ec7a95474ecfaf9b09f51a29613430628f9e4fc999bb"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/c29877213ac5854b9fe905667b934670ab9c7b0f860c985422a6f64900ce44d0",
+      "checksum": "c29877213ac5854b9fe905667b934670ab9c7b0f860c985422a6f64900ce44d0"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/aff7adb0582cee1ad9d5f94d5358a554b54dfafa9f8a0be0288794e1e3e8e44d",
+      "checksum": "aff7adb0582cee1ad9d5f94d5358a554b54dfafa9f8a0be0288794e1e3e8e44d"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6658a7ecd73e116b584b5eca42250405a71715dda6c2803130054d12b1ebb382",
+      "checksum": "6658a7ecd73e116b584b5eca42250405a71715dda6c2803130054d12b1ebb382"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/afdf1332f56af752b2188416ff01f8bd0c79be41b54f8bae677b9cfe07cc59a0",
+      "checksum": "afdf1332f56af752b2188416ff01f8bd0c79be41b54f8bae677b9cfe07cc59a0"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/896ce74803f9478a4fb3de2a7b1e363009259b68093d8d29367270c619e0dd25",
+      "checksum": "896ce74803f9478a4fb3de2a7b1e363009259b68093d8d29367270c619e0dd25"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d4a5bd234f6ddc055347d51af45067cddd91bd7bbe75a58528a0a685d9ecadaa",
+      "checksum": "d4a5bd234f6ddc055347d51af45067cddd91bd7bbe75a58528a0a685d9ecadaa"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4640b7e4203d14220117a68fbc65eabb03600d04200c41a54eb9eabe6f452749",
+      "checksum": "4640b7e4203d14220117a68fbc65eabb03600d04200c41a54eb9eabe6f452749"
+    },
+    "particles/mech_armor_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/8bac5b9ab754a0a43780b6865aca40f629246275f001f7b8543988efd14ecee5",
+      "checksum": "8bac5b9ab754a0a43780b6865aca40f629246275f001f7b8543988efd14ecee5"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8a1dbfea924af79a54058ef8edd1e9b05d136312268e6ce918945b91bf1702d8",
+      "checksum": "8a1dbfea924af79a54058ef8edd1e9b05d136312268e6ce918945b91bf1702d8"
+    },
+    "variants/silver/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f3cd9237b48eb6c3b9318ef6dd4c31158b569574b30de7a58587890be2c33a61",
+      "checksum": "f3cd9237b48eb6c3b9318ef6dd4c31158b569574b30de7a58587890be2c33a61"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/1d740d7f5eaacce7544760e68d3f1720609eda6187ac285e2db185908ed1dc1d",
+      "checksum": "1d740d7f5eaacce7544760e68d3f1720609eda6187ac285e2db185908ed1dc1d"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/06d712ecd6aeba8d50daa45f29de005096d3687d9f27c58173c00ad36212f0e5",
+      "checksum": "06d712ecd6aeba8d50daa45f29de005096d3687d9f27c58173c00ad36212f0e5"
+    },
+    "particles/mech_armor_pulse.particle.json": {
+      "url": "https://cdn.essential.gg/assets/f5d847bacca1ed407bb7cf1826006a2e1e8b0d14bef35a182caa6ffa810f8f49",
+      "checksum": "f5d847bacca1ed407bb7cf1826006a2e1e8b0d14bef35a182caa6ffa810f8f49"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/9dabe5e2abd6f0692937a4984a41d1d0d955a4ee2b24ac7abc70ebfb53fb0bb3",
+      "checksum": "9dabe5e2abd6f0692937a4984a41d1d0d955a4ee2b24ac7abc70ebfb53fb0bb3"
+    },
+    "particles/mech_armor_charge_up.particle.json": {
+      "url": "https://cdn.essential.gg/assets/039142d633079d0164372a9672fe72f2f28553233dcdea96f75366eacdfb3ea6",
+      "checksum": "039142d633079d0164372a9672fe72f2f28553233dcdea96f75366eacdfb3ea6"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e0d4958c3a7171eb268cf6987c6334c7a3bb42a92df04437f40721bb4aca4c86",
+      "checksum": "e0d4958c3a7171eb268cf6987c6334c7a3bb42a92df04437f40721bb4aca4c86"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3b04e24be18c61eeb8d7052bfaba6b007434fd798839ff6c94657af3b28358c5",
+      "checksum": "3b04e24be18c61eeb8d7052bfaba6b007434fd798839ff6c94657af3b28358c5"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f1dc3420305d9f4229189bc9569bd2a947c4547766907d24eec9d288789534d5",
+      "checksum": "f1dc3420305d9f4229189bc9569bd2a947c4547766907d24eec9d288789534d5"
+    }
+  }
+}

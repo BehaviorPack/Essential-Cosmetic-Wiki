@@ -1,0 +1,59 @@
+{
+  "id": "SHINY_HOODIE",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Shiny Hoodie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_GOLDEN",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/amethyst/texture.png": {
+      "url": "https://cdn.essential.gg/assets/dbae9b35dfb510bf9fa8fe9e636afdf7c1571b2c7c48edd8e9fd004ff9e4c8c1",
+      "checksum": "dbae9b35dfb510bf9fa8fe9e636afdf7c1571b2c7c48edd8e9fd004ff9e4c8c1"
+    },
+    "variants/diamond/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6b83ee4480b9d8f85de59392d86ab1facfd30b74fc6e003b31d22e552067d820",
+      "checksum": "6b83ee4480b9d8f85de59392d86ab1facfd30b74fc6e003b31d22e552067d820"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8ec96f7cc5bf718e123b920b488935a302008ffcbbde698e88562390246e7c02",
+      "checksum": "8ec96f7cc5bf718e123b920b488935a302008ffcbbde698e88562390246e7c02"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/fea750da3f50cdb598d30e334f297dfeed918a63c4e422cac1e0038cacbd0f3a",
+      "checksum": "fea750da3f50cdb598d30e334f297dfeed918a63c4e422cac1e0038cacbd0f3a"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/0348653599756b529d3d60f1d5a7a1fa000901b5955e572ddf7d2a4ff6f75f63",
+      "checksum": "0348653599756b529d3d60f1d5a7a1fa000901b5955e572ddf7d2a4ff6f75f63"
+    },
+    "variants/emerald/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b68bfcee152b8234fb366ad46d9d0f116ab6f1d58ab620a1aaaa9de223245ec0",
+      "checksum": "b68bfcee152b8234fb366ad46d9d0f116ab6f1d58ab620a1aaaa9de223245ec0"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3b7e4430f7fdadc7a9e47a5c2f836253ed32c506f1c6c3a01a72cc3fa191de97",
+      "checksum": "3b7e4430f7fdadc7a9e47a5c2f836253ed32c506f1c6c3a01a72cc3fa191de97"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5e8ef27274718fdacaf98ff56601bc1a0dd169a0299008fabc20a14172095922",
+      "checksum": "5e8ef27274718fdacaf98ff56601bc1a0dd169a0299008fabc20a14172095922"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3facfc6ff25b01681c8c14f70c28ea4fd0ae9eb62d459db58181e413bb647d72",
+      "checksum": "3facfc6ff25b01681c8c14f70c28ea4fd0ae9eb62d459db58181e413bb647d72"
+    }
+  }
+}

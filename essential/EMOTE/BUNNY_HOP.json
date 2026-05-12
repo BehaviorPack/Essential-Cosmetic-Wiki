@@ -1,0 +1,64 @@
+{
+  "id": "BUNNY_HOP",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Bunny Hop"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_APRIL2026",
+    "THEME_EASTER",
+    "THEME_CUTE",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 0
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 500,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "sounds/em_bunny_hop_boing5.ogg": {
+      "url": "https://cdn.essential.gg/assets/6d2c8db1e80b1475241e67050e00c6d311df5eeba7391716926ef889c5dd62ac",
+      "checksum": "6d2c8db1e80b1475241e67050e00c6d311df5eeba7391716926ef889c5dd62ac"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/0d93c6de04a1d88dc9301559789b67ee5a164860bb69af587388ad139fffa69c",
+      "checksum": "0d93c6de04a1d88dc9301559789b67ee5a164860bb69af587388ad139fffa69c"
+    },
+    "sounds/em_bunny_hop_pre.ogg": {
+      "url": "https://cdn.essential.gg/assets/52fef0d69881bdfe87de9f0a4c1898f41ad88632f04163d65752226a8b0f9a56",
+      "checksum": "52fef0d69881bdfe87de9f0a4c1898f41ad88632f04163d65752226a8b0f9a56"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/138e945f0b891ae392cae8eab91779868664b8af9bc7fbefe0ca7bd85687a4cd",
+      "checksum": "138e945f0b891ae392cae8eab91779868664b8af9bc7fbefe0ca7bd85687a4cd"
+    },
+    "sounds/em_bunny_hop_boing4.ogg": {
+      "url": "https://cdn.essential.gg/assets/f830dfc27613cc9debb7b5a539444a1002f55624a465d1ffcc1dc645fb9a0db9",
+      "checksum": "f830dfc27613cc9debb7b5a539444a1002f55624a465d1ffcc1dc645fb9a0db9"
+    },
+    "sounds/em_bunny_hop_boing3.ogg": {
+      "url": "https://cdn.essential.gg/assets/ef7dcb4fbd5bda3a7b3cd5d58de75f64309239f03c6d6ebf6344eee79dfd55a4",
+      "checksum": "ef7dcb4fbd5bda3a7b3cd5d58de75f64309239f03c6d6ebf6344eee79dfd55a4"
+    },
+    "sounds/em_bunny_hop_boing2.ogg": {
+      "url": "https://cdn.essential.gg/assets/028f611c61259f71ba248538d9d51cd4e1230d2a80f46e18d56aa28608bfd947",
+      "checksum": "028f611c61259f71ba248538d9d51cd4e1230d2a80f46e18d56aa28608bfd947"
+    },
+    "sounds/em_bunny_hop_boing1.ogg": {
+      "url": "https://cdn.essential.gg/assets/1cd0ce8f47462ddaaf2c081351150155d2ce2db196253a040cde59baf6e264cb",
+      "checksum": "1cd0ce8f47462ddaaf2c081351150155d2ce2db196253a040cde59baf6e264cb"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/2ca958ed23a21419ddf06871bcd518c5b1889fb9d357eb6da10d77cdb330ffbb",
+      "checksum": "2ca958ed23a21419ddf06871bcd518c5b1889fb9d357eb6da10d77cdb330ffbb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a283ef324e04e23ea654a363822f85551e4ef11930201632e755b0d79441d071",
+      "checksum": "a283ef324e04e23ea654a363822f85551e4ef11930201632e755b0d79441d071"
+    }
+  }
+}

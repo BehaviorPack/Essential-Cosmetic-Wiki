@@ -1,0 +1,41 @@
+{
+  "id": "HACKER_JETPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Hacker Jetpack"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:HACKER",
+    "FEATURED",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 116,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/21e6e38f85f20ad92d67aadd89f58c5a002c4b6b1577160ea5d9ab71e9d54d26",
+      "checksum": "21e6e38f85f20ad92d67aadd89f58c5a002c4b6b1577160ea5d9ab71e9d54d26"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cf08f0efdd18ac1056a0503b1d97d7a3eced7fa4f30a3f28dd6c461a5c9d62ff",
+      "checksum": "cf08f0efdd18ac1056a0503b1d97d7a3eced7fa4f30a3f28dd6c461a5c9d62ff"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/35cc122e2bcf102de34a407fb5e89565c5ce21b022ff46d92cdd2eadc060f443",
+      "checksum": "35cc122e2bcf102de34a407fb5e89565c5ce21b022ff46d92cdd2eadc060f443"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/82fa7c3f826b2acca4e8416737f823fc303aee47a5c294d4b2596196cfd419ae",
+      "checksum": "82fa7c3f826b2acca4e8416737f823fc303aee47a5c294d4b2596196cfd419ae"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/61e5bb9ca489aff9df23329125490ef9cb8d4d57fe4df547bdedfe5733b57c38",
+      "checksum": "61e5bb9ca489aff9df23329125490ef9cb8d4d57fe4df547bdedfe5733b57c38"
+    }
+  }
+}

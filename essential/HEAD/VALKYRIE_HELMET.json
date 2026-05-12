@@ -1,0 +1,42 @@
+{
+  "id": "VALKYRIE_HELMET",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Valkyrie Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f2e57e7fb828983e7a80bd31dc256fc20324b15d1b7e6b239c327dc4ccd463d6",
+      "checksum": "f2e57e7fb828983e7a80bd31dc256fc20324b15d1b7e6b239c327dc4ccd463d6"
+    },
+    "variants/soul_aether_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8d24e451e910f51a7c86622112dc4490548d877b069cebe7516eb866aed52b0a",
+      "checksum": "8d24e451e910f51a7c86622112dc4490548d877b069cebe7516eb866aed52b0a"
+    },
+    "variants/silver_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ced536d11a9e73cb8f32bd2007885cd4724566a18949f3029434298737eaeab8",
+      "checksum": "ced536d11a9e73cb8f32bd2007885cd4724566a18949f3029434298737eaeab8"
+    },
+    "variants/black_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bfc7bf71b3bebdf4ed14f92b623bb29c92b5f3ced1580db6dc43ab29c1eb23dd",
+      "checksum": "bfc7bf71b3bebdf4ed14f92b623bb29c92b5f3ced1580db6dc43ab29c1eb23dd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a0d4f0edd1098f4fab845b177b292125b1fe1643b2cf3a5f068a373174bba69a",
+      "checksum": "a0d4f0edd1098f4fab845b177b292125b1fe1643b2cf3a5f068a373174bba69a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

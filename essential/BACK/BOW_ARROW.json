@@ -1,0 +1,32 @@
+{
+  "id": "BOW_ARROW",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Bow \u0026 Arrow"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 18,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8201ab1aa2e94100cf7e79680e23087f64c9e6808da8e1f8388afb25dc7a8e0e",
+      "checksum": "8201ab1aa2e94100cf7e79680e23087f64c9e6808da8e1f8388afb25dc7a8e0e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c42f09d282567db9e8abef4abb23354ee30f022ec82ddaf8262e5dc4dfd9f3a1",
+      "checksum": "c42f09d282567db9e8abef4abb23354ee30f022ec82ddaf8262e5dc4dfd9f3a1"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/755b9799745efc85cb6184a875b6c52be6169c43f45ac482cc57fc621f8918b6",
+      "checksum": "755b9799745efc85cb6184a875b6c52be6169c43f45ac482cc57fc621f8918b6"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "FIRE_SCYTHE",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Fire Scythe"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 11,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f261f2735b83dea058c9bd17bdc880a86c2afae8bebaf51b63efe217ce1dc8e2",
+      "checksum": "f261f2735b83dea058c9bd17bdc880a86c2afae8bebaf51b63efe217ce1dc8e2"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/4fb2e7bad994c0830be671ddcea8174eda763de1c9698b8d44388fe88be2caed",
+      "checksum": "4fb2e7bad994c0830be671ddcea8174eda763de1c9698b8d44388fe88be2caed"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ef8c394087f4f42320703c19025883a6df549ca88bd7ee9821bd95dd7ff30dff",
+      "checksum": "ef8c394087f4f42320703c19025883a6df549ca88bd7ee9821bd95dd7ff30dff"
+    },
+    "variants/fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bd3cc5e7f8fbfdf8d37fa27292b5885a23fc243fd2be9d2f07013c2817af7b72",
+      "checksum": "bd3cc5e7f8fbfdf8d37fa27292b5885a23fc243fd2be9d2f07013c2817af7b72"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/883d1b46eb81bcd5bb59e3ffc6353b96f1d2abfff8e7f5c1ceb0bc5d0b23a679",
+      "checksum": "883d1b46eb81bcd5bb59e3ffc6353b96f1d2abfff8e7f5c1ceb0bc5d0b23a679"
+    },
+    "variants/fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/d9356116604e165181dc03065c1dab04ca889edb62943eec6a22eae039dfeb57",
+      "checksum": "d9356116604e165181dc03065c1dab04ca889edb62943eec6a22eae039dfeb57"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1b3d9303f73f18148ac705faf5ed13e6e813acee01c2f7efdc80ba509f716095",
+      "checksum": "1b3d9303f73f18148ac705faf5ed13e6e813acee01c2f7efdc80ba509f716095"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5d17fc183aa2d1d0abf6d55767dd40ca0e2d19ba7df183fe181b95627bbac2d9",
+      "checksum": "5d17fc183aa2d1d0abf6d55767dd40ca0e2d19ba7df183fe181b95627bbac2d9"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ed383d566aeeb59ab021d6b3ce210826b9af2952f7829c928ff75f10627b8626",
+      "checksum": "ed383d566aeeb59ab021d6b3ce210826b9af2952f7829c928ff75f10627b8626"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4d463256d63f257f46e4736cc9ace2c03a1a1ab7a148f6d6ad9407531e499bb3",
+      "checksum": "4d463256d63f257f46e4736cc9ace2c03a1a1ab7a148f6d6ad9407531e499bb3"
+    }
+  }
+}

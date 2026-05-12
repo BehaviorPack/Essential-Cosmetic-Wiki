@@ -1,0 +1,69 @@
+{
+  "id": "RAIN_BOOTS",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Rain Boots"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_FEBRUARY2026",
+    "THEME_CUTE",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/pink/textures.png": {
+      "url": "https://cdn.essential.gg/assets/cf662e6b714570ea97e72242a6d588d50b28b5abd6dcacc1164fd8f74ad09c2a",
+      "checksum": "cf662e6b714570ea97e72242a6d588d50b28b5abd6dcacc1164fd8f74ad09c2a"
+    },
+    "variants/blue/textures.png": {
+      "url": "https://cdn.essential.gg/assets/cf662e6b714570ea97e72242a6d588d50b28b5abd6dcacc1164fd8f74ad09c2a",
+      "checksum": "cf662e6b714570ea97e72242a6d588d50b28b5abd6dcacc1164fd8f74ad09c2a"
+    },
+    "variants/green/textures.png": {
+      "url": "https://cdn.essential.gg/assets/cf662e6b714570ea97e72242a6d588d50b28b5abd6dcacc1164fd8f74ad09c2a",
+      "checksum": "cf662e6b714570ea97e72242a6d588d50b28b5abd6dcacc1164fd8f74ad09c2a"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9e104dec3c5f18f4665332886244372dbb531bbbfb1ba1312c6a1a636931ec02",
+      "checksum": "9e104dec3c5f18f4665332886244372dbb531bbbfb1ba1312c6a1a636931ec02"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/34cb8794ba7bf22826bbf6036a09c3155c53a14f2e0ddc8cc28850c7b5012703",
+      "checksum": "34cb8794ba7bf22826bbf6036a09c3155c53a14f2e0ddc8cc28850c7b5012703"
+    },
+    "variants/lilac/texture.png": {
+      "url": "https://cdn.essential.gg/assets/74b87c9bada7e8d4aed55e45f4d98fd91db7fb5d1d9c15d1322c8638943fb367",
+      "checksum": "74b87c9bada7e8d4aed55e45f4d98fd91db7fb5d1d9c15d1322c8638943fb367"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9011cd5966f5094d1886a237a25b5e3aaae2d6d527f7f214b47a1eda0f00ad21",
+      "checksum": "9011cd5966f5094d1886a237a25b5e3aaae2d6d527f7f214b47a1eda0f00ad21"
+    },
+    "variants/lilac/textures.png": {
+      "url": "https://cdn.essential.gg/assets/cf662e6b714570ea97e72242a6d588d50b28b5abd6dcacc1164fd8f74ad09c2a",
+      "checksum": "cf662e6b714570ea97e72242a6d588d50b28b5abd6dcacc1164fd8f74ad09c2a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/60228f92beb1cb49ca83887ab7f72d6f28a9322ee52f8928315b870914286b01",
+      "checksum": "60228f92beb1cb49ca83887ab7f72d6f28a9322ee52f8928315b870914286b01"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/304406ac1d71efff72d347d267c940710bfb90113abac2ff396ed7be705790a3",
+      "checksum": "304406ac1d71efff72d347d267c940710bfb90113abac2ff396ed7be705790a3"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5a62ecb455083515960609fcc7bbe75a35dd274511485df29f0e398b38e0c4c8",
+      "checksum": "5a62ecb455083515960609fcc7bbe75a35dd274511485df29f0e398b38e0c4c8"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9114ec2ba8808271dea8025d3df798278ea1b2f8c1d1e0200619c75493d55c73",
+      "checksum": "9114ec2ba8808271dea8025d3df798278ea1b2f8c1d1e0200619c75493d55c73"
+    }
+  }
+}

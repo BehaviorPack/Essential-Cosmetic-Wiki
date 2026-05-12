@@ -1,0 +1,46 @@
+{
+  "id": "RAINBOW_SUIT",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Rainbow Suit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PRIDE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 120,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3f7a74a880471240bc9346bef5f0c4683edb086d300dc19d0cbc694ca3d6e857",
+      "checksum": "3f7a74a880471240bc9346bef5f0c4683edb086d300dc19d0cbc694ca3d6e857"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/6fbaeec8b51305bdd64fd261814dc73809f37198cb74b54bdc1fc19c83e3e6d1",
+      "checksum": "6fbaeec8b51305bdd64fd261814dc73809f37198cb74b54bdc1fc19c83e3e6d1"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/3569de6601f5fe0e6eea3ace0c69b342c67f05d104551a4bd29283187f0f6949",
+      "checksum": "3569de6601f5fe0e6eea3ace0c69b342c67f05d104551a4bd29283187f0f6949"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/c266306e8e5cf91f018b629ba98c1df9c9719b9d42552ee00b88735099d29151",
+      "checksum": "c266306e8e5cf91f018b629ba98c1df9c9719b9d42552ee00b88735099d29151"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e6376a194e7bf3f1c1c016599dd4f4429e7bb80bf9814dc5da86d8ce5ba520a5",
+      "checksum": "e6376a194e7bf3f1c1c016599dd4f4429e7bb80bf9814dc5da86d8ce5ba520a5"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/023de180f0d6128e6a4d50ae6b471f5917df4e249991e0af42e268774ee9fb94",
+      "checksum": "023de180f0d6128e6a4d50ae6b471f5917df4e249991e0af42e268774ee9fb94"
+    }
+  }
+}

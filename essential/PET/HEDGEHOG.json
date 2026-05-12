@@ -1,0 +1,48 @@
+{
+  "id": "HEDGEHOG",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Hedgehog"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_SPRING",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 8,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6a063641c6a47908cc5106b20648e41208e1bb9bc27170182923b68ae6446310",
+      "checksum": "6a063641c6a47908cc5106b20648e41208e1bb9bc27170182923b68ae6446310"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/cdb4a27d404f17cef227d2e25c7a4a38656fb7c9ad7d35c6299ab348dd10d1ef",
+      "checksum": "cdb4a27d404f17cef227d2e25c7a4a38656fb7c9ad7d35c6299ab348dd10d1ef"
+    },
+    "variants/light/texture.png": {
+      "url": "https://cdn.essential.gg/assets/83ab5f15c1c042acb78f3cb675fb2dfba2a2f103b7667f68982d5f256477fc1d",
+      "checksum": "83ab5f15c1c042acb78f3cb675fb2dfba2a2f103b7667f68982d5f256477fc1d"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/33fa92b2f263c2873dd2905fcb1a7f1dc8fd2a7ed5478c89f9584fccbeb9c70b",
+      "checksum": "33fa92b2f263c2873dd2905fcb1a7f1dc8fd2a7ed5478c89f9584fccbeb9c70b"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/b9ff990eff59a42f272d7c71f23d5f5a39ee8f03e159799a67f85e0f831ee7b6",
+      "checksum": "b9ff990eff59a42f272d7c71f23d5f5a39ee8f03e159799a67f85e0f831ee7b6"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/53ff68abfe77dc9d830e1026f35d15facf58e69ea525ac72d27f8d00d1578d44",
+      "checksum": "53ff68abfe77dc9d830e1026f35d15facf58e69ea525ac72d27f8d00d1578d44"
+    }
+  }
+}

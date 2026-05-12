@@ -1,0 +1,52 @@
+{
+  "id": "VALKYRIE_ARMOR",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Valkyrie Armor"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_DEVIL"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/27a5dcb65a4d406d8b4708fcb849254215e0a53f240f1f0e1f79259690287212",
+      "checksum": "27a5dcb65a4d406d8b4708fcb849254215e0a53f240f1f0e1f79259690287212"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/ccf96e98985fdbb8d40f60c3d83abbfadb71aef2f63c7c5566c2ae48729ce352",
+      "checksum": "ccf96e98985fdbb8d40f60c3d83abbfadb71aef2f63c7c5566c2ae48729ce352"
+    },
+    "variants/soul_aether_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8160c4c41c999605dec8d43f7442cdfe293dab0a24d016d181709bec9597c75f",
+      "checksum": "8160c4c41c999605dec8d43f7442cdfe293dab0a24d016d181709bec9597c75f"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6",
+      "checksum": "e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6"
+    },
+    "variants/silver_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3b2f0ddb7423b7deb65248aa58e2f084f73cf8f7dd26fbcf78b3dca35694390b",
+      "checksum": "3b2f0ddb7423b7deb65248aa58e2f084f73cf8f7dd26fbcf78b3dca35694390b"
+    },
+    "variants/black_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b03d1da2491581d065e76425453e004c2a16b079690102027c75e8cf56a94ff1",
+      "checksum": "b03d1da2491581d065e76425453e004c2a16b079690102027c75e8cf56a94ff1"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ccc80ee15ff01a09f56b5fd5f9c414c7d7b76d66986e9b1cffa92cf983c16f13",
+      "checksum": "ccc80ee15ff01a09f56b5fd5f9c414c7d7b76d66986e9b1cffa92cf983c16f13"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9",
+      "checksum": "f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9"
+    }
+  }
+}

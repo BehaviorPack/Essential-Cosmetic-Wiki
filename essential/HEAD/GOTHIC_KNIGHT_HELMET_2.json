@@ -1,0 +1,76 @@
+{
+  "id": "GOTHIC_KNIGHT_HELMET_2",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Hollow Sentinel Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_BLACK",
+    "THEME_GOTHIC",
+    "COLLECTION_MAY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/iron/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1b422df1e64a7649da56e5efe062fd2c5fd9a8628bf4e115a7fc68f84e88672a",
+      "checksum": "1b422df1e64a7649da56e5efe062fd2c5fd9a8628bf4e115a7fc68f84e88672a"
+    },
+    "variants/iron/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e1354e8aa052259dd2ee83f8ec3c12f98fa917ea8162c991e0c918b1e33534a8",
+      "checksum": "e1354e8aa052259dd2ee83f8ec3c12f98fa917ea8162c991e0c918b1e33534a8"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5f337845d822d449aec3c023fd8475f27dec6f0f9b47ab1f3b632a9a60c99226",
+      "checksum": "5f337845d822d449aec3c023fd8475f27dec6f0f9b47ab1f3b632a9a60c99226"
+    },
+    "variants/dark_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5278f3e23666da9ec1407a4cf72d74044c0c71fd68d21948ac3eac3993766147",
+      "checksum": "5278f3e23666da9ec1407a4cf72d74044c0c71fd68d21948ac3eac3993766147"
+    },
+    "variants/dark_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9cc9b69f6465f48ff313ee2a523aba32c21f23913541c65012ab27aca06ea318",
+      "checksum": "9cc9b69f6465f48ff313ee2a523aba32c21f23913541c65012ab27aca06ea318"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c7a0335f2cd3a4a2d1a8c1547517254715bba3e7c6c7978a2bc84619638ab569",
+      "checksum": "c7a0335f2cd3a4a2d1a8c1547517254715bba3e7c6c7978a2bc84619638ab569"
+    },
+    "variants/dark_purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b9844ec5ee5c61f8a15d34e4ad9b479b43c47e8e76e5721a894df99bb3a6b55e",
+      "checksum": "b9844ec5ee5c61f8a15d34e4ad9b479b43c47e8e76e5721a894df99bb3a6b55e"
+    },
+    "variants/dark_red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/2933693257c5eba07ca740298d70ade901d8a6b522e98bae3289c1829662c5f1",
+      "checksum": "2933693257c5eba07ca740298d70ade901d8a6b522e98bae3289c1829662c5f1"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1ce129c7a0bd2dd6db2c81bcab2eb17c3f94793d78dc930703416e2906acf243",
+      "checksum": "1ce129c7a0bd2dd6db2c81bcab2eb17c3f94793d78dc930703416e2906acf243"
+    },
+    "variants/silver/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/2d4e8b3d41b2bc0d4db3cac2e8625debb4a256fc5f0f33b38645da1f2ff05e37",
+      "checksum": "2d4e8b3d41b2bc0d4db3cac2e8625debb4a256fc5f0f33b38645da1f2ff05e37"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/0f337263f6785ab1531b3fef4963ba0a442b6e386e73174c778762dc92517e65",
+      "checksum": "0f337263f6785ab1531b3fef4963ba0a442b6e386e73174c778762dc92517e65"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/640950d5fabe6d16be2e30152da303362e4cf22440e8f71fbff4e6a4b3d1d239",
+      "checksum": "640950d5fabe6d16be2e30152da303362e4cf22440e8f71fbff4e6a4b3d1d239"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

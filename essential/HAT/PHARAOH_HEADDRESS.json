@@ -1,0 +1,32 @@
+{
+  "id": "PHARAOH_HEADDRESS",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Pharaoh Headdress"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 110,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c59c25a08c494963e7e2fd272b81c2132b35a9d90586dbfbcb2d8fa8169b1b10",
+      "checksum": "c59c25a08c494963e7e2fd272b81c2132b35a9d90586dbfbcb2d8fa8169b1b10"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/0b98383ac7a159a9287849a10095c31cc0b6acbb1fb7a612a19c4ab76b544694",
+      "checksum": "0b98383ac7a159a9287849a10095c31cc0b6acbb1fb7a612a19c4ab76b544694"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/9ca591d1cb7606fa3c64d995bd8843d47a8d09ced9edb12e7a8dab69ce292832",
+      "checksum": "9ca591d1cb7606fa3c64d995bd8843d47a8d09ced9edb12e7a8dab69ce292832"
+    }
+  }
+}

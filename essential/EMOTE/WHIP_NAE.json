@@ -1,0 +1,36 @@
+{
+  "id": "WHIP_NAE",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Whip Nae Nae"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MEME",
+    "THEME_SILLY",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9278265b3b9ae0575debb29403e4296c023662855b119b333295152a1bbd2d71",
+      "checksum": "9278265b3b9ae0575debb29403e4296c023662855b119b333295152a1bbd2d71"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/7155e59c084fca1f4a7b8f80f9c243d1d5ba603620f2f645be8636ed862e111e",
+      "checksum": "7155e59c084fca1f4a7b8f80f9c243d1d5ba603620f2f645be8636ed862e111e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "DRAGON_ONESIE_ORANGE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Orange Dragon Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 1100,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ef2975c549087b1b6a81d1096eeb1fe86052185bdfa543a4cd8af46878c7a359",
+      "checksum": "ef2975c549087b1b6a81d1096eeb1fe86052185bdfa543a4cd8af46878c7a359"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/5e0098e3eb4bb1addc020916e62517ac9b0e3976666d50ab44f2e5665d488877",
+      "checksum": "5e0098e3eb4bb1addc020916e62517ac9b0e3976666d50ab44f2e5665d488877"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/726f893b3a0e2be0e3092a6de741bd8ea7d6f5c16ef0ac35ba0e204aee57487f",
+      "checksum": "726f893b3a0e2be0e3092a6de741bd8ea7d6f5c16ef0ac35ba0e204aee57487f"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/157203018595691b333dfd4b0ba319356919a29a92153e5e18f54de40c6730dd",
+      "checksum": "157203018595691b333dfd4b0ba319356919a29a92153e5e18f54de40c6730dd"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/5883cc611821ba1c760763bab41b27b926ed4473073e8293953bf20cc24190fd",
+      "checksum": "5883cc611821ba1c760763bab41b27b926ed4473073e8293953bf20cc24190fd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/db682b42e3e47dec84f207ab068ef3353f6e81f69ce732515adfca38d26ad5f9",
+      "checksum": "db682b42e3e47dec84f207ab068ef3353f6e81f69ce732515adfca38d26ad5f9"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/0c6119906f2dd3e43e43ce5f3d1b168317c657586c5aba6745491eda49a9955a",
+      "checksum": "0c6119906f2dd3e43e43ce5f3d1b168317c657586c5aba6745491eda49a9955a"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "GRUNGE_SKIRT",
+  "type": "SKIRT",
+  "displayNames": {
+    "en_us": "Grunge Skirt"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK",
+    "COLLECTION_JUNE2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9518f30fde1603a4c15d388772f6189cbbf80d9f53da15d92324307e9d2b649d",
+      "checksum": "9518f30fde1603a4c15d388772f6189cbbf80d9f53da15d92324307e9d2b649d"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d6c467252dfa42c423e4d236a2c3611f57f7a5ad69871d434513b82d2ebf9cd9",
+      "checksum": "d6c467252dfa42c423e4d236a2c3611f57f7a5ad69871d434513b82d2ebf9cd9"
+    },
+    "variants/charcoal/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f652d410742b8c8f5155719a401aef572fd49869067dceadf114394d5326f494",
+      "checksum": "f652d410742b8c8f5155719a401aef572fd49869067dceadf114394d5326f494"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/876313bf944dae3a7211a348b46aa6cc02856d4a70e52a509d96f07b6dc0b2e4",
+      "checksum": "876313bf944dae3a7211a348b46aa6cc02856d4a70e52a509d96f07b6dc0b2e4"
+    },
+    "variants/pastel_pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cf307c2721993416835ba064f0b34d23b76d880e26ff1195501a7e53cf9119f0",
+      "checksum": "cf307c2721993416835ba064f0b34d23b76d880e26ff1195501a7e53cf9119f0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cc48583be2b7be6a27e6049eb2439402415c71927b723a45a4520a9befd416e5",
+      "checksum": "cc48583be2b7be6a27e6049eb2439402415c71927b723a45a4520a9befd416e5"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/499c23f67a80f9d98d7ff683375bea6379c329ad16c19f699d9fa4bbe6daa2ef",
+      "checksum": "499c23f67a80f9d98d7ff683375bea6379c329ad16c19f699d9fa4bbe6daa2ef"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/924209123823839fb2d31a2dedf320c7db438f29555cb719de1819fd5064eca0",
+      "checksum": "924209123823839fb2d31a2dedf320c7db438f29555cb719de1819fd5064eca0"
+    }
+  }
+}

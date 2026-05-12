@@ -1,0 +1,46 @@
+{
+  "id": "MUSHROOM_CAP",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Mushroom Cap"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_COZY",
+    "THEME_CUTE",
+    "THEME_HALLOWEEN",
+    "THEME_SPRING",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/81fc230c22532ffdb92d30e003710a93c4b24b4a6d845673bcea8a51f0eeaa73",
+      "checksum": "81fc230c22532ffdb92d30e003710a93c4b24b4a6d845673bcea8a51f0eeaa73"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8fa558f201f8580019b0f2d444e38fe7b38f9e273c666b6deacac95054172b8a",
+      "checksum": "8fa558f201f8580019b0f2d444e38fe7b38f9e273c666b6deacac95054172b8a"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/220ce5a1f92aa7242ba535b21e388175c68d21d1b41c2d3aad107996964ede80",
+      "checksum": "220ce5a1f92aa7242ba535b21e388175c68d21d1b41c2d3aad107996964ede80"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/31f3da5f3949c77637e80edafdf6601ca851ca65e290d5c14a60ea82005c0a94",
+      "checksum": "31f3da5f3949c77637e80edafdf6601ca851ca65e290d5c14a60ea82005c0a94"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/94ee532e31d80a34d199bdd2829245e5c7255bbee5059b97bcb946bead606817",
+      "checksum": "94ee532e31d80a34d199bdd2829245e5c7255bbee5059b97bcb946bead606817"
+    }
+  }
+}

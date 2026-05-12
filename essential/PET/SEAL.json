@@ -1,0 +1,46 @@
+{
+  "id": "SEAL",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Seal"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_AQUATIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5c0a8d8e0bdf8e6e96b644fed52ea220085202a29feb95ddbaa730fa69b7790d",
+      "checksum": "5c0a8d8e0bdf8e6e96b644fed52ea220085202a29feb95ddbaa730fa69b7790d"
+    },
+    "variants/bright/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7f71da61dd3d5200aa222ed0540cea0b313f6da06b0c340b567212dee8d2bc2e",
+      "checksum": "7f71da61dd3d5200aa222ed0540cea0b313f6da06b0c340b567212dee8d2bc2e"
+    },
+    "variants/medium/texture.png": {
+      "url": "https://cdn.essential.gg/assets/dea8caa8b19ed011198ccb0940bcd76bbfe1de79f2a31b42a327af77ddfe07ad",
+      "checksum": "dea8caa8b19ed011198ccb0940bcd76bbfe1de79f2a31b42a327af77ddfe07ad"
+    },
+    "variants/dark/texture.png": {
+      "url": "https://cdn.essential.gg/assets/80b39e3d141607e0ad50b1ebf164d6bc708d848ad1dba525c5b8e8c94fe2142c",
+      "checksum": "80b39e3d141607e0ad50b1ebf164d6bc708d848ad1dba525c5b8e8c94fe2142c"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e762e8557e6ba2a9d4778fc046b6662fedabfdf0984c5591f0bd6cf6d583b740",
+      "checksum": "e762e8557e6ba2a9d4778fc046b6662fedabfdf0984c5591f0bd6cf6d583b740"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f04306ee0fe25c7da21758065436f07b9343d2a42ba3637b2b922384d51f2274",
+      "checksum": "f04306ee0fe25c7da21758065436f07b9343d2a42ba3637b2b922384d51f2274"
+    }
+  }
+}

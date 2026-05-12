@@ -1,0 +1,55 @@
+{
+  "id": "BASIC_CLOAK",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Basic Cloak"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 210,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/958c1155206373486204b263060c90709f1a091d83c1372b46c3b7aa51d5f3d3",
+      "checksum": "958c1155206373486204b263060c90709f1a091d83c1372b46c3b7aa51d5f3d3"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/dfc2aeb05d8d0cbd7f753583a7db567565405229c41d535cf9926d7615eba113",
+      "checksum": "dfc2aeb05d8d0cbd7f753583a7db567565405229c41d535cf9926d7615eba113"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/5c4815e60133138a0289e8431ad04b5cbc1b72a6140a933ce4f40e6ffb4204c2",
+      "checksum": "5c4815e60133138a0289e8431ad04b5cbc1b72a6140a933ce4f40e6ffb4204c2"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/00f2723bd80df4138763e78411d574e8f78fe349507d03b27459ea0a014beb6e",
+      "checksum": "00f2723bd80df4138763e78411d574e8f78fe349507d03b27459ea0a014beb6e"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cdb2e04cd828448add886e006ebb1ff83494fde0dfd488fb4ede029c4a2f9a87",
+      "checksum": "cdb2e04cd828448add886e006ebb1ff83494fde0dfd488fb4ede029c4a2f9a87"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/343a165d326a4ffe06e8126342106c42d37482b8d0ddad33390a2eb905e01adb",
+      "checksum": "343a165d326a4ffe06e8126342106c42d37482b8d0ddad33390a2eb905e01adb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2010b878235c3d1a73f22b0431dfe56cf246391e40c5cc26d5a9e13ba4958c09",
+      "checksum": "2010b878235c3d1a73f22b0431dfe56cf246391e40c5cc26d5a9e13ba4958c09"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/9b538cd08035e9095dff7f71d86ec9378f55dc5daaa91cd3a25d6f0dfc751360",
+      "checksum": "9b538cd08035e9095dff7f71d86ec9378f55dc5daaa91cd3a25d6f0dfc751360"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fd2acdc6d6a6e83ba53c668730b3a61147f046c218af4b2fa2a5257533cf0a97",
+      "checksum": "fd2acdc6d6a6e83ba53c668730b3a61147f046c218af4b2fa2a5257533cf0a97"
+    }
+  }
+}

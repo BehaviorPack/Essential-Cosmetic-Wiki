@@ -1,0 +1,50 @@
+{
+  "id": "SHROOMLING",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Mushling"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_MAGIC",
+    "THEME_HALLOWEEN",
+    "THEME_SPRING",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/11e17f31ccce05ea10a4532a89ce16eee922d46bf6554f0656ccac176b13759d",
+      "checksum": "11e17f31ccce05ea10a4532a89ce16eee922d46bf6554f0656ccac176b13759d"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f93bd158b35e07f106f0a40838250060d21b3a1fb47e98d6d2ebcd963b2b3d88",
+      "checksum": "f93bd158b35e07f106f0a40838250060d21b3a1fb47e98d6d2ebcd963b2b3d88"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b3cc6c2d01f241935605b38e680642be68cad1959ba5c0bf2d7c08efa4a276ff",
+      "checksum": "b3cc6c2d01f241935605b38e680642be68cad1959ba5c0bf2d7c08efa4a276ff"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/180e2219efc51bf17e84d0500bf40d61ec0651f20463ccd208b43d7dedef81d1",
+      "checksum": "180e2219efc51bf17e84d0500bf40d61ec0651f20463ccd208b43d7dedef81d1"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/c635982216ed78e024c0b97456b3c55a9646269e3d7e78894e0a2ce24ceaf249",
+      "checksum": "c635982216ed78e024c0b97456b3c55a9646269e3d7e78894e0a2ce24ceaf249"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bd2b1dc06a8d38fb7cc7f4c64ffe1cae8be7e37d3f4ccb4ab4630e1d0d80cd50",
+      "checksum": "bd2b1dc06a8d38fb7cc7f4c64ffe1cae8be7e37d3f4ccb4ab4630e1d0d80cd50"
+    }
+  }
+}

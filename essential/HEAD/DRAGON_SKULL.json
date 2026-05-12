@@ -1,0 +1,37 @@
+{
+  "id": "DRAGON_SKULL",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Dragon Skull"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "event:100T",
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 450,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/24ed11267730d6ab060ba8fd26d90f2ad2d67b8387f3492e0152862215b8f391",
+      "checksum": "24ed11267730d6ab060ba8fd26d90f2ad2d67b8387f3492e0152862215b8f391"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4c64a1e7c1bd540b096cc5f3db01ea06e6051f8dbbee5f3f0810ae729ea908f3",
+      "checksum": "4c64a1e7c1bd540b096cc5f3db01ea06e6051f8dbbee5f3f0810ae729ea908f3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7fc2eaf72a5daf9bd8e8283e48c123136c403b97a4cbd0579130fea8500a2100",
+      "checksum": "7fc2eaf72a5daf9bd8e8283e48c123136c403b97a4cbd0579130fea8500a2100"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

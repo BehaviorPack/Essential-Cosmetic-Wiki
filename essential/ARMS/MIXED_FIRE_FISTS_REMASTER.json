@@ -1,0 +1,50 @@
+{
+  "id": "MIXED_FIRE_FISTS_REMASTER",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Mixed Fire Fists"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9293bd6010d0715d3d64c06067106f609f3ce8ac6c073d4ab8b63ccef34d486b",
+      "checksum": "9293bd6010d0715d3d64c06067106f609f3ce8ac6c073d4ab8b63ccef34d486b"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/2d0e618c76ef6348d54b6794c1a472d988cb4eebb390f4d93263b2a6e238663a",
+      "checksum": "2d0e618c76ef6348d54b6794c1a472d988cb4eebb390f4d93263b2a6e238663a"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/fcd70b066a0b20953cddf290befe549d9c90b63d8d5ecc24a8cb49738f7a68a3",
+      "checksum": "fcd70b066a0b20953cddf290befe549d9c90b63d8d5ecc24a8cb49738f7a68a3"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b672b286c7aafcdb5917776a39c1359e5e6a1a431c0a4c09272f2e737a7a0a82",
+      "checksum": "b672b286c7aafcdb5917776a39c1359e5e6a1a431c0a4c09272f2e737a7a0a82"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/d36183162e3f484c04d004acf3a5048e846a7acdd5ce5088e73926e41127be71",
+      "checksum": "d36183162e3f484c04d004acf3a5048e846a7acdd5ce5088e73926e41127be71"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8700985c85f174ab025466257e4e24624e0c42444e60de06ce64b7b14c8dde06",
+      "checksum": "8700985c85f174ab025466257e4e24624e0c42444e60de06ce64b7b14c8dde06"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/cc88c341f7d2c66f6301f0ae8e66eb19b02d7077808f6fd3e56aba99cc2a8036",
+      "checksum": "cc88c341f7d2c66f6301f0ae8e66eb19b02d7077808f6fd3e56aba99cc2a8036"
+    }
+  }
+}

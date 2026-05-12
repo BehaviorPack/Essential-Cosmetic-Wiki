@@ -1,0 +1,38 @@
+{
+  "id": "MIXED_FIRE_EYES_REMASTER",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Mixed Fire Eyes"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f64b8fdae54746ce1700a3de94f46999ed524b1bb6b7d9f896f7b31c438c978f",
+      "checksum": "f64b8fdae54746ce1700a3de94f46999ed524b1bb6b7d9f896f7b31c438c978f"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/fa54eb866d67ca7cac82b7c0f861e4261883d332b13eb4ce90ac3f7773264349",
+      "checksum": "fa54eb866d67ca7cac82b7c0f861e4261883d332b13eb4ce90ac3f7773264349"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/395caa52f256cba3dc319580487b7494a5943194d02491fd4700e0634acf1552",
+      "checksum": "395caa52f256cba3dc319580487b7494a5943194d02491fd4700e0634acf1552"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d9947ec8199874b886ec8a376d05d466ddabe3ab678c22ec326d03a0c8ad6ea8",
+      "checksum": "d9947ec8199874b886ec8a376d05d466ddabe3ab678c22ec326d03a0c8ad6ea8"
+    }
+  }
+}

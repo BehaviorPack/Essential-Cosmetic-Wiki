@@ -1,0 +1,59 @@
+{
+  "id": "GOTHIC_DRESS",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Gothic Dress"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_APRIL2026",
+    "THEME_GOTHIC",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/black_classic/texture.png": {
+      "url": "https://cdn.essential.gg/assets/142402ff157b78c6290a116ed053ad4267e6b5a078f9c6fa481edb440c329149",
+      "checksum": "142402ff157b78c6290a116ed053ad4267e6b5a078f9c6fa481edb440c329149"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/139d45408f1c85da96a628d6b5dd6daddf27b39f5f2a610902ccf9e18b130fd9",
+      "checksum": "139d45408f1c85da96a628d6b5dd6daddf27b39f5f2a610902ccf9e18b130fd9"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/43b4783660cfe8f2042a249e5a9fa96a3e1568640f1e2de8597ae6306d9c9513",
+      "checksum": "43b4783660cfe8f2042a249e5a9fa96a3e1568640f1e2de8597ae6306d9c9513"
+    },
+    "variants/black_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c1d733ebe92729d8330cc254baaee4ed61543b8ff006b1a1d1537c2cba61eecb",
+      "checksum": "c1d733ebe92729d8330cc254baaee4ed61543b8ff006b1a1d1537c2cba61eecb"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/29c7ed51484998beb04a6ff10d988c24f473d65525f7e45fa0d9f5385236baa5",
+      "checksum": "29c7ed51484998beb04a6ff10d988c24f473d65525f7e45fa0d9f5385236baa5"
+    },
+    "variants/velvet_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1bb0faf44315eb00c4087d43c13b9a6b9205af04adce41cf7f43313dac3fcf8f",
+      "checksum": "1bb0faf44315eb00c4087d43c13b9a6b9205af04adce41cf7f43313dac3fcf8f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/46851de548c26cf9a4a6285bacdaf209b554fc4a9fa20aa54143b43b59434b8a",
+      "checksum": "46851de548c26cf9a4a6285bacdaf209b554fc4a9fa20aa54143b43b59434b8a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/cdfe21bc6823b157d40b637b3d792fc66f0d866c1b6fbf3705f65b2f124267bf",
+      "checksum": "cdfe21bc6823b157d40b637b3d792fc66f0d866c1b6fbf3705f65b2f124267bf"
+    },
+    "variants/black_modern/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bd13068be8d78171a17a614722524f5382a2fd8753335af659dd5177269014e8",
+      "checksum": "bd13068be8d78171a17a614722524f5382a2fd8753335af659dd5177269014e8"
+    }
+  }
+}

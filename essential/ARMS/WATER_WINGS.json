@@ -1,0 +1,35 @@
+{
+  "id": "WATER_WINGS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Arm Floaties"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "priceCoins": 0,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ff993a367322da08edaa623e9ad1adbeb15ba92d941c1174a271622100c6aed9",
+      "checksum": "ff993a367322da08edaa623e9ad1adbeb15ba92d941c1174a271622100c6aed9"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/736f8c5b4a0f48306b3fa5bb7c1e1321bf97e6bf594cd0f52c793db03904386c",
+      "checksum": "736f8c5b4a0f48306b3fa5bb7c1e1321bf97e6bf594cd0f52c793db03904386c"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/378187cdec773183da6363265238d409680d6f99320b401df031f01d3ffc00cd",
+      "checksum": "378187cdec773183da6363265238d409680d6f99320b401df031f01d3ffc00cd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/508f838509c0369c6273c3c53fc1f695554788c5bbb63f6b52ad00cb762b6bdc",
+      "checksum": "508f838509c0369c6273c3c53fc1f695554788c5bbb63f6b52ad00cb762b6bdc"
+    }
+  }
+}

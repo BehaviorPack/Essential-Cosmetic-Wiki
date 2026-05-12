@@ -1,0 +1,66 @@
+{
+  "id": "BUNNY_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Bunny Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_COZY",
+    "COLLECTION_APRIL2026",
+    "THEME_ANIMAL",
+    "THEME_EASTER",
+    "THEME_CUTE",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/39c60980e507fade736e0f6f59e7b6fa25b99b0127492b9a753c6f1b348d69e2",
+      "checksum": "39c60980e507fade736e0f6f59e7b6fa25b99b0127492b9a753c6f1b348d69e2"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9ef9d762dee376bb99c27c4cef6d2481060d01081d9e2ac33bc7c0259a0ca727",
+      "checksum": "9ef9d762dee376bb99c27c4cef6d2481060d01081d9e2ac33bc7c0259a0ca727"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/13fa0197fc5fb2bf769470153e41475858393bc97e84c47baf8872a7f783ad09",
+      "checksum": "13fa0197fc5fb2bf769470153e41475858393bc97e84c47baf8872a7f783ad09"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/f97a9710b76072120d9fc8c150b8d6f3daa01ea538aa2fed1e8c5e3b56e2bd22",
+      "checksum": "f97a9710b76072120d9fc8c150b8d6f3daa01ea538aa2fed1e8c5e3b56e2bd22"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f9130dc846748b715e1b5a0595ac88bf0bffd33cb7ab6298e19a28d314d33743",
+      "checksum": "f9130dc846748b715e1b5a0595ac88bf0bffd33cb7ab6298e19a28d314d33743"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2079bd8fa71fe964751446ae1f666806db6cf0110a8f6e47680b1d30639c65fa",
+      "checksum": "2079bd8fa71fe964751446ae1f666806db6cf0110a8f6e47680b1d30639c65fa"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9e903bf5c90dbf63fadf27f1a1e847215926aaa1582056b52fba3543433f0ca1",
+      "checksum": "9e903bf5c90dbf63fadf27f1a1e847215926aaa1582056b52fba3543433f0ca1"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/61ab05bb18168e81ac707af1d8e8a65f9cec658c792d7bcd2a4cfe64691cc62b",
+      "checksum": "61ab05bb18168e81ac707af1d8e8a65f9cec658c792d7bcd2a4cfe64691cc62b"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/fe0a8aa1fcb674a31231c2f8e66e9912d1c690a7878301b8870e30f8ea30d846",
+      "checksum": "fe0a8aa1fcb674a31231c2f8e66e9912d1c690a7878301b8870e30f8ea30d846"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4666514a098d0dfd00e9bf0992eb325facd9f042b42b0559fa760299805f80cd",
+      "checksum": "4666514a098d0dfd00e9bf0992eb325facd9f042b42b0559fa760299805f80cd"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "BABY_CAT",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Baby Cat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "COLLECTION_JANUARY2026",
+    "THEME_CUTE",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/britishshorthair/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c9464e6e193193e3577dac08a088b0deb11605276e4800976ca7ec9c4783a520",
+      "checksum": "c9464e6e193193e3577dac08a088b0deb11605276e4800976ca7ec9c4783a520"
+    },
+    "variants/tuxedo/texture.png": {
+      "url": "https://cdn.essential.gg/assets/16208574761a2246d6979230ca537438710de4ad4e4b9deca732fb39ab3d3c99",
+      "checksum": "16208574761a2246d6979230ca537438710de4ad4e4b9deca732fb39ab3d3c99"
+    },
+    "variants/allblackcat/texture.png": {
+      "url": "https://cdn.essential.gg/assets/97e6e971e718883bba33c29f835e8c7567bd5a3257c5fd1c8bf7ec379ab16e45",
+      "checksum": "97e6e971e718883bba33c29f835e8c7567bd5a3257c5fd1c8bf7ec379ab16e45"
+    },
+    "variants/calico/texture.png": {
+      "url": "https://cdn.essential.gg/assets/df5abedee4fe43b33a8acb5b5a6462a278eb9373da69cd9689d53019aab8087c",
+      "checksum": "df5abedee4fe43b33a8acb5b5a6462a278eb9373da69cd9689d53019aab8087c"
+    },
+    "variants/ragdoll/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2b1745e40a860089f8e85d28fc01f604c29252c8f501c7cc31b6c5f22fa5293e",
+      "checksum": "2b1745e40a860089f8e85d28fc01f604c29252c8f501c7cc31b6c5f22fa5293e"
+    },
+    "variants/jellie/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2f3e3216b8e9dca60031814e70270bf747f15ad5192aec460362a397a26ad3e3",
+      "checksum": "2f3e3216b8e9dca60031814e70270bf747f15ad5192aec460362a397a26ad3e3"
+    },
+    "variants/persian/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6e95ebfe85a07c3efac0b025f676f4730a7866650f8a76d8d9138b9c017c21ef",
+      "checksum": "6e95ebfe85a07c3efac0b025f676f4730a7866650f8a76d8d9138b9c017c21ef"
+    },
+    "variants/tabby/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ba2b0a022f82b7f961ef3148e51ccb931d1dfa30b6b3b508a84c785a6647e71b",
+      "checksum": "ba2b0a022f82b7f961ef3148e51ccb931d1dfa30b6b3b508a84c785a6647e71b"
+    },
+    "variants/siamese/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8dd267c6f44ce8ccab47361592c4fbbdcf8d35de3bc6310c9a69eae8c7146dcb",
+      "checksum": "8dd267c6f44ce8ccab47361592c4fbbdcf8d35de3bc6310c9a69eae8c7146dcb"
+    },
+    "variants/redtabby/texture.png": {
+      "url": "https://cdn.essential.gg/assets/39eb405160afb390009f2a94b26b88f18d25b588f5a6f86b180dad5d9d7b4e64",
+      "checksum": "39eb405160afb390009f2a94b26b88f18d25b588f5a6f86b180dad5d9d7b4e64"
+    },
+    "variants/ocelot/texture.png": {
+      "url": "https://cdn.essential.gg/assets/67c3643fc3283de7c7ce0bed4230a3351de772158bdc995e31ace42e7ccb2fce",
+      "checksum": "67c3643fc3283de7c7ce0bed4230a3351de772158bdc995e31ace42e7ccb2fce"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/913fbe233477dc83c5d1ef2ae7b80ff2d89a3023378380f91c14fb3815b57fe4",
+      "checksum": "913fbe233477dc83c5d1ef2ae7b80ff2d89a3023378380f91c14fb3815b57fe4"
+    },
+    "variants/ragdoll/texturesdf.png": {
+      "url": "https://cdn.essential.gg/assets/3235fbc324c5d08892ee9722495ceebe4d6e42c2408c4096d107f81b7e40be1a",
+      "checksum": "3235fbc324c5d08892ee9722495ceebe4d6e42c2408c4096d107f81b7e40be1a"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/839106058ec103b6e5a1f7639ceacf0abbd3f54479e9fd3464f8b111f2b03c1d",
+      "checksum": "839106058ec103b6e5a1f7639ceacf0abbd3f54479e9fd3464f8b111f2b03c1d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/665336b1d301c92d315946b5c0bc90516101bce173098447598a10267463463c",
+      "checksum": "665336b1d301c92d315946b5c0bc90516101bce173098447598a10267463463c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/381098ec639772954a89c5a9db7e32832d7476cfb95ecdef57d24fd1b25f6e5e",
+      "checksum": "381098ec639772954a89c5a9db7e32832d7476cfb95ecdef57d24fd1b25f6e5e"
+    }
+  }
+}

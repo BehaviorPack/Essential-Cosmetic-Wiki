@@ -1,0 +1,49 @@
+{
+  "id": "FOX_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Fox Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a1e231f517417639d68fcb9b586fd0cad273b5c754b82593a135bcf35455a1b6",
+      "checksum": "a1e231f517417639d68fcb9b586fd0cad273b5c754b82593a135bcf35455a1b6"
+    },
+    "variants/arctic/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6183fa84d5ed7c7d71dee159c65017b7e32d716e529f32030de9fade4c1e87b0",
+      "checksum": "6183fa84d5ed7c7d71dee159c65017b7e32d716e529f32030de9fade4c1e87b0"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ce0c039e2923044ac64b153f98fcb062bc641640630145b8d347cbd04c4451ad",
+      "checksum": "ce0c039e2923044ac64b153f98fcb062bc641640630145b8d347cbd04c4451ad"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/ea56eb818b9afb19126d4661804249db1d6584338c08954462b209b095c30815",
+      "checksum": "ea56eb818b9afb19126d4661804249db1d6584338c08954462b209b095c30815"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/d9b7c668798b98f2d7e349e964e3774c6f51b7b91b67e112a1873c189b6a3c3b",
+      "checksum": "d9b7c668798b98f2d7e349e964e3774c6f51b7b91b67e112a1873c189b6a3c3b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7dd530dc5083f61390aa0c0a08a61b35991931322f20ec6113bdb4162ac2ae46",
+      "checksum": "7dd530dc5083f61390aa0c0a08a61b35991931322f20ec6113bdb4162ac2ae46"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d1f88b1d0a2296e3267dda19a571d5ba8f767024e709d9d3931b28cd4f366baf",
+      "checksum": "d1f88b1d0a2296e3267dda19a571d5ba8f767024e709d9d3931b28cd4f366baf"
+    }
+  }
+}

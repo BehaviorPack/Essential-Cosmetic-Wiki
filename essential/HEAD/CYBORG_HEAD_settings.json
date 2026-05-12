@@ -1,0 +1,218 @@
+[
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "DOUBLE_BUN",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "SHORT_BEARD",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "MESSY_BUN",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "LONG_BEARD",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "BUN",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "SPIKY_HAIR",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "FLATTOP",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "LONG_HAIR",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "MOUSTACHE_GLASSES",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "NEON_GLASSES",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "DEAL_WITH_IT_GLASSES",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "3D_GLASSES",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "NERDY_GLASSES",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "CUTE_HEADBAND",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "HOLY_MASK",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "TIKI_MASK",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "SKULL_MASK",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "REAPER_SUIT",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "DARK_LORD_SUIT",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "REAPER_ROBES",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "SCI_FI_ARMOR",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "SCI_FI_MINING_SUIT",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "SCARY_CLOWN_SUIT",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "JACK_O_LANTERN_SUIT",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "Y2K_JACKET",
+    "enabled": true,
+    "data": {
+      "hood": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "Y2K_TRENDS_TOP",
+    "enabled": true,
+    "data": {
+      "collar": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "ANIME_DRESS",
+    "enabled": true,
+    "data": {
+      "hood": true
+    }
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "SUMMER_DROP_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Sky Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/22bef614f02450929a44ca9a9f69bb195eac2f7dc84a89298245d0ef31f12967",
+      "checksum": "22bef614f02450929a44ca9a9f69bb195eac2f7dc84a89298245d0ef31f12967"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/96155a3e2c98d1aa106ba491fb1ada2f539eca52551f6be26b57db90e7b14baa",
+      "checksum": "96155a3e2c98d1aa106ba491fb1ada2f539eca52551f6be26b57db90e7b14baa"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a1a057e8460ee9c52b854b9bfb10af1031f37e02d8f2cd3074ea07a0d6bd088e",
+      "checksum": "a1a057e8460ee9c52b854b9bfb10af1031f37e02d8f2cd3074ea07a0d6bd088e"
+    }
+  }
+}

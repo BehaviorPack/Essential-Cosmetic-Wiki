@@ -1,0 +1,39 @@
+{
+  "id": "Y2K_CUTIE_PET_3",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Pekopon Frog"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JUNE2025",
+    "THEME_Y2K",
+    "SET_CUTIES",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f2b23bd05c312349e5aa9e29d62930ca10b97ee6272be13397e851a4e49f261e",
+      "checksum": "f2b23bd05c312349e5aa9e29d62930ca10b97ee6272be13397e851a4e49f261e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/537ff637dd43f6c8d6f5be75a625ee40586326358afc31d89191178aacbcc49c",
+      "checksum": "537ff637dd43f6c8d6f5be75a625ee40586326358afc31d89191178aacbcc49c"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/383ab3b0f9243030e6e48f45ac3310ef34f4d88cc91f666e498fa45579bc1ff3",
+      "checksum": "383ab3b0f9243030e6e48f45ac3310ef34f4d88cc91f666e498fa45579bc1ff3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/59e1bdd22b8560c19cc2e646a5b09483b2410d323d398ece67fd3f5fed57313e",
+      "checksum": "59e1bdd22b8560c19cc2e646a5b09483b2410d323d398ece67fd3f5fed57313e"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "DOG_EARS",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Dog Ears"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 9,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1fb1ff616457e95dbd66e710e10776554c77b9d17cd788f6d0e480bfc8b47a1b",
+      "checksum": "1fb1ff616457e95dbd66e710e10776554c77b9d17cd788f6d0e480bfc8b47a1b"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/eb11f136b0191b4712befb53e19eb9c22cf0924e359f5d968dbd0c5acd59edd4",
+      "checksum": "eb11f136b0191b4712befb53e19eb9c22cf0924e359f5d968dbd0c5acd59edd4"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/091cd4b97401b5eef14ad992b05a4117f4aa39a7fd622e1fc2aba6916a62f046",
+      "checksum": "091cd4b97401b5eef14ad992b05a4117f4aa39a7fd622e1fc2aba6916a62f046"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/50dcee8225d4c8bc863cf7a0909b8c5b3004a2a1c6344605f6a6a7563046c27a",
+      "checksum": "50dcee8225d4c8bc863cf7a0909b8c5b3004a2a1c6344605f6a6a7563046c27a"
+    }
+  }
+}

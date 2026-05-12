@@ -1,0 +1,52 @@
+{
+  "id": "GOTHIC_WINGS_ALT",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Gothic Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK",
+    "COLLECTION_APRIL2026",
+    "THEME_BLACK",
+    "THEME_GOTHIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/grey/texture.png": {
+      "url": "https://cdn.essential.gg/assets/24c960f9f3b69b37c4f1cf0a831e10ab7dca3ae5379775aea4f200eda714fe82",
+      "checksum": "24c960f9f3b69b37c4f1cf0a831e10ab7dca3ae5379775aea4f200eda714fe82"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a63f4e054579f5dfdc91f3e0a3b7809851bd9c2dc970794e6f76dc5804d4afca",
+      "checksum": "a63f4e054579f5dfdc91f3e0a3b7809851bd9c2dc970794e6f76dc5804d4afca"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3475607a252355ddd23e6bd7377161f4f225858572c2ab269a9d348e7c3484b4",
+      "checksum": "3475607a252355ddd23e6bd7377161f4f225858572c2ab269a9d348e7c3484b4"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f5cb27e730cb26556f5d3fd4a37650f4f187f0f105dd7332d20a058970be2ed2",
+      "checksum": "f5cb27e730cb26556f5d3fd4a37650f4f187f0f105dd7332d20a058970be2ed2"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/71b71694ad7842222d3820ca0d267fcc02b4b2ad0cf0e4220cad0123081f6f48",
+      "checksum": "71b71694ad7842222d3820ca0d267fcc02b4b2ad0cf0e4220cad0123081f6f48"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/982cbd103d0f9bfff1d54c7bfeabd9cad08cf7f055192e4294d9966b5254a0f1",
+      "checksum": "982cbd103d0f9bfff1d54c7bfeabd9cad08cf7f055192e4294d9966b5254a0f1"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8174a18708b7b373915641008c02f31f522e3aa59dea8ab07bf116ac25152ff4",
+      "checksum": "8174a18708b7b373915641008c02f31f522e3aa59dea8ab07bf116ac25152ff4"
+    }
+  }
+}

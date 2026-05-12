@@ -1,0 +1,39 @@
+{
+  "id": "Y2K_CUTIE_PET_2",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Bluebell Bunny"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_EASTER",
+    "COLLECTION_JUNE2025",
+    "THEME_Y2K",
+    "SET_CUTIES"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/11bf72d6614b8c7a1dd750b7f903b4247188e20d57283cc32b28faaa47751f43",
+      "checksum": "11bf72d6614b8c7a1dd750b7f903b4247188e20d57283cc32b28faaa47751f43"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/3a9ed83d2a7aee4e83e21eb2a06ad1995f96a4365217606f50a677d1a59691b3",
+      "checksum": "3a9ed83d2a7aee4e83e21eb2a06ad1995f96a4365217606f50a677d1a59691b3"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d288462f6b993113439f32d30d8b52d85054e1b791889ed9467a630c0b25f2f3",
+      "checksum": "d288462f6b993113439f32d30d8b52d85054e1b791889ed9467a630c0b25f2f3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3ad91f2ad7f8fef52bde3935928bf94364b587a193fa988971e349635c277cab",
+      "checksum": "3ad91f2ad7f8fef52bde3935928bf94364b587a193fa988971e349635c277cab"
+    }
+  }
+}

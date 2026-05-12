@@ -1,0 +1,59 @@
+{
+  "id": "FIRE_HAIR",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Legacy Fire Mohawk"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAIR": 20
+  },
+  "defaultSortWeight": 35,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/31436a8313e9c97a9f22686586a96fafb1161cf921d6ce4fafced0410d2c90e0",
+      "checksum": "31436a8313e9c97a9f22686586a96fafb1161cf921d6ce4fafced0410d2c90e0"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/94253eb94cace64758fa9d76057ebac241a6f5e5ec0d640860ca0d6d640b46eb",
+      "checksum": "94253eb94cace64758fa9d76057ebac241a6f5e5ec0d640860ca0d6d640b46eb"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5e4367ddee5a25206fe968993d7a19ba994f8b45254782d03aea958a3ccf88df",
+      "checksum": "5e4367ddee5a25206fe968993d7a19ba994f8b45254782d03aea958a3ccf88df"
+    },
+    "variants/fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9173610bb9ac00a0df2d59062d6d1b6dfdcafc9390ee1a0770e7bc2dfc7a5a9b",
+      "checksum": "9173610bb9ac00a0df2d59062d6d1b6dfdcafc9390ee1a0770e7bc2dfc7a5a9b"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6e5e32001268ac5a99fd80c13d593903808929d94f6758f20340c01b1271f07b",
+      "checksum": "6e5e32001268ac5a99fd80c13d593903808929d94f6758f20340c01b1271f07b"
+    },
+    "variants/fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/59b0fad4233859c90cb79253d77e7c15cd9a481b242050a58a269e28415db5f5",
+      "checksum": "59b0fad4233859c90cb79253d77e7c15cd9a481b242050a58a269e28415db5f5"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/531750fde3d00166895cfeb472c9e6638e26cdf5b565c9bcc6f9b14b847e233e",
+      "checksum": "531750fde3d00166895cfeb472c9e6638e26cdf5b565c9bcc6f9b14b847e233e"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8c3a8794502a2fd5f5e9ef307416f43103e2c5ce5b68a8efa46079459f06414f",
+      "checksum": "8c3a8794502a2fd5f5e9ef307416f43103e2c5ce5b68a8efa46079459f06414f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/526433101f98adb7b5ce5eb7370de6c8811338e0e46e74356e3ca601808e95b2",
+      "checksum": "526433101f98adb7b5ce5eb7370de6c8811338e0e46e74356e3ca601808e95b2"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3a3d75402b849d86119f15712d1366ef38fd4705b5945acd042c4fa4c7a46126",
+      "checksum": "3a3d75402b849d86119f15712d1366ef38fd4705b5945acd042c4fa4c7a46126"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "CAMO_PANTS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Camo Pants"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 10,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/63e62a882ff0481972fee772216edafacbda48cb03f71b501fc424238636d66d",
+      "checksum": "63e62a882ff0481972fee772216edafacbda48cb03f71b501fc424238636d66d"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/24fe07addad7cb61b6aa0f178cf69b383c2425895ef1ae352413d7a7317c5fb3",
+      "checksum": "24fe07addad7cb61b6aa0f178cf69b383c2425895ef1ae352413d7a7317c5fb3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/62405d3316e9d9017d6b74e15d0a8383a58a3790f0f57a86551af7913ce5190a",
+      "checksum": "62405d3316e9d9017d6b74e15d0a8383a58a3790f0f57a86551af7913ce5190a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f",
+      "checksum": "503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "DOLPHIN_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Dolphin Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 470,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e58f371814724ff52d5b5f19ba9792164d8289d9393db93cb992759b02fc90e0",
+      "checksum": "e58f371814724ff52d5b5f19ba9792164d8289d9393db93cb992759b02fc90e0"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/848922921b1346ec83fc936706078bce851bf42ab370975880deb38d7137edb4",
+      "checksum": "848922921b1346ec83fc936706078bce851bf42ab370975880deb38d7137edb4"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f7105ba54391ec3b86b5ba6e72e3f73b0801e4c70ad21fc52cab80c77066384e",
+      "checksum": "f7105ba54391ec3b86b5ba6e72e3f73b0801e4c70ad21fc52cab80c77066384e"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/157203018595691b333dfd4b0ba319356919a29a92153e5e18f54de40c6730dd",
+      "checksum": "157203018595691b333dfd4b0ba319356919a29a92153e5e18f54de40c6730dd"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/edfdec53a441700c1bd7545d2745ee4f90384a241f488f5a0efcd1def42cdeb1",
+      "checksum": "edfdec53a441700c1bd7545d2745ee4f90384a241f488f5a0efcd1def42cdeb1"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5cbde8bfd6f05af7a2400b7c14e1e285050d71bbd60620dc8671c976f115e6bc",
+      "checksum": "5cbde8bfd6f05af7a2400b7c14e1e285050d71bbd60620dc8671c976f115e6bc"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/0c6119906f2dd3e43e43ce5f3d1b168317c657586c5aba6745491eda49a9955a",
+      "checksum": "0c6119906f2dd3e43e43ce5f3d1b168317c657586c5aba6745491eda49a9955a"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "BABY_CHICKEN_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Tiny Takeover Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3797f27abcff2e972fead5c5876ca307f0c8a4602d81088124d2949dd218651a",
+      "checksum": "3797f27abcff2e972fead5c5876ca307f0c8a4602d81088124d2949dd218651a"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/dad0898f325ac1a5d6b3cfddce99d0d057d06d5428a12d2d481aec72fd77324f",
+      "checksum": "dad0898f325ac1a5d6b3cfddce99d0d057d06d5428a12d2d481aec72fd77324f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c6708eced4826d173dc07d9b51f3396a2b12f9f3f87403483b0d23f7a45fa857",
+      "checksum": "c6708eced4826d173dc07d9b51f3396a2b12f9f3f87403483b0d23f7a45fa857"
+    }
+  }
+}

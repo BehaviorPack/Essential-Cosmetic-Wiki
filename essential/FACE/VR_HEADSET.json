@@ -1,0 +1,39 @@
+{
+  "id": "VR_HEADSET",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "VR Headset"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e51a96eabdf3387bb2f61b2882e43903107baa75cac45769bf8b1af0edd3c4d0",
+      "checksum": "e51a96eabdf3387bb2f61b2882e43903107baa75cac45769bf8b1af0edd3c4d0"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5f0c10ec53a11c68e53ea7931034ee2fa22c76438515db477dfabe535e9fd33f",
+      "checksum": "5f0c10ec53a11c68e53ea7931034ee2fa22c76438515db477dfabe535e9fd33f"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b3dc3ee57c12cdcf327deea3696e599c41f6492465945cd42c146b4a7c15ace0",
+      "checksum": "b3dc3ee57c12cdcf327deea3696e599c41f6492465945cd42c146b4a7c15ace0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0865f791672c865a0bb37d0d0f63dfd1ace0fd8e5050e8eac7590c644ef33349",
+      "checksum": "0865f791672c865a0bb37d0d0f63dfd1ace0fd8e5050e8eac7590c644ef33349"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

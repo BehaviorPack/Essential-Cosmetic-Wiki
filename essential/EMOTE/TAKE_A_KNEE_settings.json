@@ -1,0 +1,18 @@
+[
+  {
+    "type": "TRANSITION_DELAY",
+    "id": "take_a_knee",
+    "enabled": true,
+    "data": {
+      "time": 150
+    }
+  },
+  {
+    "type": "PREVIEW_RESET_TIME",
+    "id": "UNUSED",
+    "enabled": true,
+    "data": {
+      "time": 10000000000.0
+    }
+  }
+]

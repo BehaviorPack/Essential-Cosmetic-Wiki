@@ -1,0 +1,38 @@
+{
+  "id": "SPRING_DROP_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Wildflower Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "particles/cape_petals.particle.json": {
+      "url": "https://cdn.essential.gg/assets/cfd19926ff610008068c4e60286b2195603fee0e90fa71d25ea322b8191b25c5",
+      "checksum": "cfd19926ff610008068c4e60286b2195603fee0e90fa71d25ea322b8191b25c5"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ba4020b8dd9b37c463f04524f52d5fb0fd9d446a67f9537c7f474fd611ed55a6",
+      "checksum": "ba4020b8dd9b37c463f04524f52d5fb0fd9d446a67f9537c7f474fd611ed55a6"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c4da9c50afc1d31faec86476db48a7141ede223709f0e7862e3a66fab9c49f1d",
+      "checksum": "c4da9c50afc1d31faec86476db48a7141ede223709f0e7862e3a66fab9c49f1d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d2b7457b0049be1622b09779b9d13712bb3563fc96377bd79409e0e9a95bfbbe",
+      "checksum": "d2b7457b0049be1622b09779b9d13712bb3563fc96377bd79409e0e9a95bfbbe"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cc2706c8891e1f2090f3f90267e8c9e31467e517d94005fe460706f0b58f35bc",
+      "checksum": "cc2706c8891e1f2090f3f90267e8c9e31467e517d94005fe460706f0b58f35bc"
+    }
+  }
+}

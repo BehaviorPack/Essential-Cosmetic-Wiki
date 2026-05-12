@@ -1,0 +1,30 @@
+{
+  "id": "BLACK_CAT_HAT",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Witch Cat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 542321,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0fbebc5ea6c37f2830c85969ada6430babece7aa28a5b6cf386b21d07136aac2",
+      "checksum": "0fbebc5ea6c37f2830c85969ada6430babece7aa28a5b6cf386b21d07136aac2"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/ead67d5937941018e5c4f7b7f3584f291b0659aa5eb2b0c4f1b60e7e6064f465",
+      "checksum": "ead67d5937941018e5c4f7b7f3584f291b0659aa5eb2b0c4f1b60e7e6064f465"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6652719b535f30fb7416124daf29a5e4804c0744e65d6e6255a9c212d0654e7f",
+      "checksum": "6652719b535f30fb7416124daf29a5e4804c0744e65d6e6255a9c212d0654e7f"
+    }
+  }
+}

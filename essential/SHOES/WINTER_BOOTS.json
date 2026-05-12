@@ -1,0 +1,44 @@
+{
+  "id": "WINTER_BOOTS",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Winter Boots"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0cd6ee34203b01338882e1caea8d65699bf435e6f906c165aa0dcb0149e4469f",
+      "checksum": "0cd6ee34203b01338882e1caea8d65699bf435e6f906c165aa0dcb0149e4469f"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/83146b9ff9d132171efde4e70f3c231c9b3de79db462d1093fbd6dbee8a050c7",
+      "checksum": "83146b9ff9d132171efde4e70f3c231c9b3de79db462d1093fbd6dbee8a050c7"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/beaf308c940d92972a6cc9ecc23adcf2c202fd0771f39edc87fe80ff64c2f45c",
+      "checksum": "beaf308c940d92972a6cc9ecc23adcf2c202fd0771f39edc87fe80ff64c2f45c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0e041a619695866ed05e464b47ce41ae8e3cd531622016937a800b2997ceaa53",
+      "checksum": "0e041a619695866ed05e464b47ce41ae8e3cd531622016937a800b2997ceaa53"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/2fd8f49fbb253b82a02558e77c6cf2a38e3fc9b268f7d896e8513e5ce7606e15",
+      "checksum": "2fd8f49fbb253b82a02558e77c6cf2a38e3fc9b268f7d896e8513e5ce7606e15"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a8cef2bc76250621ca80fe8ed2565745d8ac7cf511c50479dcd34f68a9f02f5d",
+      "checksum": "a8cef2bc76250621ca80fe8ed2565745d8ac7cf511c50479dcd34f68a9f02f5d"
+    }
+  }
+}

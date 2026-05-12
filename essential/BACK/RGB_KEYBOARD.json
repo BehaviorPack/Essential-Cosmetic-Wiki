@@ -1,0 +1,33 @@
+{
+  "id": "RGB_KEYBOARD",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "RGB Keyboard"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:HACKER",
+    "FEATURED",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 1119,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/fa644042d96f1b018ca34e7db34c3bfcd168d283e615edf74ea82b26922d1888",
+      "checksum": "fa644042d96f1b018ca34e7db34c3bfcd168d283e615edf74ea82b26922d1888"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/792d2f89ca19312b663da977ce69dacda8c565f2b70723dca1f23f54dcf03b79",
+      "checksum": "792d2f89ca19312b663da977ce69dacda8c565f2b70723dca1f23f54dcf03b79"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1e76767aa9d5e0e22fd0105a3b4e690c26230db8aea5abe1ada149324ae01360",
+      "checksum": "1e76767aa9d5e0e22fd0105a3b4e690c26230db8aea5abe1ada149324ae01360"
+    }
+  }
+}

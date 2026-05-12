@@ -1,0 +1,46 @@
+{
+  "id": "SCI_FI_ARMOR",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Sci-Fi Armor"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 460,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/77bdfda9ecea5893007117c6d26ef1fa627b262cfe916984a81a5bf4c8ccfb40",
+      "checksum": "77bdfda9ecea5893007117c6d26ef1fa627b262cfe916984a81a5bf4c8ccfb40"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/896ae097e9429645b41238c26ca336836f9566919503aa23a04c5bf6857aa29a",
+      "checksum": "896ae097e9429645b41238c26ca336836f9566919503aa23a04c5bf6857aa29a"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/00437b1467c78faa94018facb50be7663072a3c6dc2fa63ff41ce29fe961d525",
+      "checksum": "00437b1467c78faa94018facb50be7663072a3c6dc2fa63ff41ce29fe961d525"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/a201d1a7ffb7a3d52348fe849967fb5c7907f95b5bb268e766628dc263604e2b",
+      "checksum": "a201d1a7ffb7a3d52348fe849967fb5c7907f95b5bb268e766628dc263604e2b"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/bfe568dd2d55f237c5a70dfd6edb34201035d12a93ee411ba70d8281019a1b7f",
+      "checksum": "bfe568dd2d55f237c5a70dfd6edb34201035d12a93ee411ba70d8281019a1b7f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5e64ec7b550ce60ef45cf80450441ac901f0f27deb332a6d7974973ea1c9983a",
+      "checksum": "5e64ec7b550ce60ef45cf80450441ac901f0f27deb332a6d7974973ea1c9983a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/05924e761d4667c079f746e7ecde145374b5449e08999ef93aaae92e56edbf4c",
+      "checksum": "05924e761d4667c079f746e7ecde145374b5449e08999ef93aaae92e56edbf4c"
+    }
+  }
+}

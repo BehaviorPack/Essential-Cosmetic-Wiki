@@ -1,0 +1,56 @@
+{
+  "id": "GOTHIC_KNIGHT_HELMET_1",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Gothic Knight Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_BLACK",
+    "THEME_GOTHIC",
+    "COLLECTION_MAY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/iron/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f7018d83f4156f7f24e2352fc4f607ee1c3f59ae355ba6c6db82448b1679153f",
+      "checksum": "f7018d83f4156f7f24e2352fc4f607ee1c3f59ae355ba6c6db82448b1679153f"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/42d76640f3d5e992d61e9120635982bffbca032076bb7b562027e9452c192ee9",
+      "checksum": "42d76640f3d5e992d61e9120635982bffbca032076bb7b562027e9452c192ee9"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9b09d65616a9d6d5c0d07d73d1ea2d5330918a443bf5a87acee41c1874b169df",
+      "checksum": "9b09d65616a9d6d5c0d07d73d1ea2d5330918a443bf5a87acee41c1874b169df"
+    },
+    "variants/dark_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/78d2ec106f691c40fa81a90fd8a9bfa7c76248ae63f8dec3b2118a187489b2f7",
+      "checksum": "78d2ec106f691c40fa81a90fd8a9bfa7c76248ae63f8dec3b2118a187489b2f7"
+    },
+    "variants/dark_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/42a175257c0af71ca05a18e84b8491d20171304d31610fc083babddcf3d1bff8",
+      "checksum": "42a175257c0af71ca05a18e84b8491d20171304d31610fc083babddcf3d1bff8"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7571ca2c39e429ca4868192330fb15e5210411c7fd03e870335df79bacb3d286",
+      "checksum": "7571ca2c39e429ca4868192330fb15e5210411c7fd03e870335df79bacb3d286"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4f3f57ab7481e21083aaf133b689dc95d003c01f62282eab01b0795fddaa05ad",
+      "checksum": "4f3f57ab7481e21083aaf133b689dc95d003c01f62282eab01b0795fddaa05ad"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

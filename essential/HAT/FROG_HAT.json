@@ -1,0 +1,40 @@
+{
+  "id": "FROG_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Frog Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_COZY",
+    "THEME_CUTE",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/47025930a5df15ce771a2daa8e5f86ede20704e81f344e24dd265ea86f9362f9",
+      "checksum": "47025930a5df15ce771a2daa8e5f86ede20704e81f344e24dd265ea86f9362f9"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/6c79c3a69b9532d6d12351e38fc86e929707005409fb5c2f8c10d1d6d01d4c4f",
+      "checksum": "6c79c3a69b9532d6d12351e38fc86e929707005409fb5c2f8c10d1d6d01d4c4f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/89200c92961a87a5807cf4c8163c0e041c50cb6d0d91b6e0d9af6df91917ec31",
+      "checksum": "89200c92961a87a5807cf4c8163c0e041c50cb6d0d91b6e0d9af6df91917ec31"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f",
+      "checksum": "af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f"
+    }
+  }
+}

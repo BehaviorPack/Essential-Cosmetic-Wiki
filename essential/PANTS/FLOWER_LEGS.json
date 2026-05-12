@@ -1,0 +1,37 @@
+{
+  "id": "FLOWER_LEGS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Flower Legs"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 8,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/01dc7f1354d395719dbd9956e6ddba282d5357563336ea1e9971a96d1f7b17d0",
+      "checksum": "01dc7f1354d395719dbd9956e6ddba282d5357563336ea1e9971a96d1f7b17d0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4fbc418cfcad227ee3adaf78e2dc1e12a4e303e6a1da14073a6284578b1c3da0",
+      "checksum": "4fbc418cfcad227ee3adaf78e2dc1e12a4e303e6a1da14073a6284578b1c3da0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1a74b92b5cdc74ae0a42a0a1b87e5ffc90c61cfd3f69a8f61c7c4a79e75088fb",
+      "checksum": "1a74b92b5cdc74ae0a42a0a1b87e5ffc90c61cfd3f69a8f61c7c4a79e75088fb"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/16f9bbccf606d58f072538da217e90f7c504e6a82061a39e05a96b268a77267b",
+      "checksum": "16f9bbccf606d58f072538da217e90f7c504e6a82061a39e05a96b268a77267b"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BABY_TARANTULA",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Little Spider"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_APRIL2026",
+    "THEME_ANIMAL",
+    "THEME_CUTE",
+    "THEME_HALLOWEEN",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f0b2d65db4e8983b16b9bb377664f0ffe5d8d173e05dab91c9765b51b9dfb619",
+      "checksum": "f0b2d65db4e8983b16b9bb377664f0ffe5d8d173e05dab91c9765b51b9dfb619"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/fb20c39ce98533bc75a64d73a3890ec61ad8b0f2e5b1031e45088b9946177b0c",
+      "checksum": "fb20c39ce98533bc75a64d73a3890ec61ad8b0f2e5b1031e45088b9946177b0c"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b3607a7746b1e251c903e31d1152f8fa36a38950db9793ed158beee529a14366",
+      "checksum": "b3607a7746b1e251c903e31d1152f8fa36a38950db9793ed158beee529a14366"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/724ccc3d5ec49cc0e832da9aeb3fe41e61f22d5bb51f546ea9016783cb9cc355",
+      "checksum": "724ccc3d5ec49cc0e832da9aeb3fe41e61f22d5bb51f546ea9016783cb9cc355"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5e2e8b23ab6828ef3d5f7d85f41ee65c5eb57491bd36c941df8c9712717b33a1",
+      "checksum": "5e2e8b23ab6828ef3d5f7d85f41ee65c5eb57491bd36c941df8c9712717b33a1"
+    }
+  }
+}

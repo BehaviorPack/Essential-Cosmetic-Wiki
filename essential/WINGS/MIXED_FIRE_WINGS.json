@@ -1,0 +1,47 @@
+{
+  "id": "MIXED_FIRE_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Legacy Mixed Fire Wings"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 2000,
+  "priceCoins": 1500,
+  "assetsMap": {
+    "variants/green-purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/45f702751b45ddb7028b12f540b04aa2954f021b697e48f662066827b6ad0d4a",
+      "checksum": "45f702751b45ddb7028b12f540b04aa2954f021b697e48f662066827b6ad0d4a"
+    },
+    "variants/fire-blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a073b04b4f3f1021e8a3b2e34a1ad9ef96756c29ed9561120e8f107eee93f8ac",
+      "checksum": "a073b04b4f3f1021e8a3b2e34a1ad9ef96756c29ed9561120e8f107eee93f8ac"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/58a86d6ae59afda634f8bfda2d62142f3040c73dae203cb5952f14a6ab78cb83",
+      "checksum": "58a86d6ae59afda634f8bfda2d62142f3040c73dae203cb5952f14a6ab78cb83"
+    },
+    "variants/green-purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/61c18da38f1a9f6c54bde31612d8ca0420f1196c8999a99b74495f6376dc5886",
+      "checksum": "61c18da38f1a9f6c54bde31612d8ca0420f1196c8999a99b74495f6376dc5886"
+    },
+    "variants/fire-blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f0dd9d39e00d4038df8a97cf1ff2077eeb189bd539d562b5d3968bf42cdb78ed",
+      "checksum": "f0dd9d39e00d4038df8a97cf1ff2077eeb189bd539d562b5d3968bf42cdb78ed"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/b5d0f18698dac70125c82de66478375b748d45b678a51283cf2aadb454bb348a",
+      "checksum": "b5d0f18698dac70125c82de66478375b748d45b678a51283cf2aadb454bb348a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b1a4f6715b16b0b11c620af48b8efddb0ad4b378ff1e456cc08dfbc595c9386d",
+      "checksum": "b1a4f6715b16b0b11c620af48b8efddb0ad4b378ff1e456cc08dfbc595c9386d"
+    }
+  }
+}

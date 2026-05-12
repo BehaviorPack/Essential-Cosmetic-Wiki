@@ -1,0 +1,32 @@
+{
+  "id": "BACK_SCYTHE",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Skeletal Scythe"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 14,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/dee93a260c7c7cb55f210c3527b091d55e084bcf989e514d32589791d4bf7895",
+      "checksum": "dee93a260c7c7cb55f210c3527b091d55e084bcf989e514d32589791d4bf7895"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/e9513e0dea5388b7fca425a1db506d2863530f43ff478d865e159d4422c03664",
+      "checksum": "e9513e0dea5388b7fca425a1db506d2863530f43ff478d865e159d4422c03664"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7629ede3a49a66dd297f2fc77aa9d485190960732999f5e5e8b109c870b55a89",
+      "checksum": "7629ede3a49a66dd297f2fc77aa9d485190960732999f5e5e8b109c870b55a89"
+    }
+  }
+}

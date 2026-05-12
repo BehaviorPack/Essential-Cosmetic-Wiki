@@ -1,0 +1,46 @@
+{
+  "id": "JACK_O_LANTERN_SUIT",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Jack-\u0027o\u0027-lantern Suit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 490,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/37ad6b22e869715728be08fb60a8a9f5f290d3a2bf9851f0cdf3b6fac8f64938",
+      "checksum": "37ad6b22e869715728be08fb60a8a9f5f290d3a2bf9851f0cdf3b6fac8f64938"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/a88cd433b7ff6059a1d469e3313511ff37be85882cc4f7b9588863a5a71f1f69",
+      "checksum": "a88cd433b7ff6059a1d469e3313511ff37be85882cc4f7b9588863a5a71f1f69"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/cded0502d6eb1d6aefbd2e51d6a83d8b7b66bd96204eac786a4accd52787ef10",
+      "checksum": "cded0502d6eb1d6aefbd2e51d6a83d8b7b66bd96204eac786a4accd52787ef10"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/ff5cd00f5aaf077cbc87de0770c28620e473a02ba983aa2027c7c3e2b10687f9",
+      "checksum": "ff5cd00f5aaf077cbc87de0770c28620e473a02ba983aa2027c7c3e2b10687f9"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/bfe568dd2d55f237c5a70dfd6edb34201035d12a93ee411ba70d8281019a1b7f",
+      "checksum": "bfe568dd2d55f237c5a70dfd6edb34201035d12a93ee411ba70d8281019a1b7f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/570d3617e1aea47013ab29f953f43cf1e1d4cce4107dacfe9e720132ce231e2a",
+      "checksum": "570d3617e1aea47013ab29f953f43cf1e1d4cce4107dacfe9e720132ce231e2a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/05924e761d4667c079f746e7ecde145374b5449e08999ef93aaae92e56edbf4c",
+      "checksum": "05924e761d4667c079f746e7ecde145374b5449e08999ef93aaae92e56edbf4c"
+    }
+  }
+}

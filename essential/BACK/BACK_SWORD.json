@@ -1,0 +1,48 @@
+{
+  "id": "BACK_SWORD",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Sword"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_GOLDEN",
+    "THEME_MINECRAFT",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/diamond/texture.png": {
+      "url": "https://cdn.essential.gg/assets/61ff1bd20ee4f583a71a232cbf0772da54c4274d48b65220f55aa36c961c18db",
+      "checksum": "61ff1bd20ee4f583a71a232cbf0772da54c4274d48b65220f55aa36c961c18db"
+    },
+    "variants/iron/texture.png": {
+      "url": "https://cdn.essential.gg/assets/aacb5922398937afe8bb9461164c3c5f85db3435515284f009abacd6d3aff820",
+      "checksum": "aacb5922398937afe8bb9461164c3c5f85db3435515284f009abacd6d3aff820"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f94a8d4b48e0c3239b45c67e4355c7b5c8d44c78d0aff59950357fcefd7804d3",
+      "checksum": "f94a8d4b48e0c3239b45c67e4355c7b5c8d44c78d0aff59950357fcefd7804d3"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5a848d7317b16c300c7103d2fd482af3f071404fb216a2fd560a9043783653c5",
+      "checksum": "5a848d7317b16c300c7103d2fd482af3f071404fb216a2fd560a9043783653c5"
+    },
+    "variants/netherite/texture.png": {
+      "url": "https://cdn.essential.gg/assets/45d7511fe055c4940b116c6f7b715eb6e4fd5a3c3b0a15afe9b59f674ec6ad5b",
+      "checksum": "45d7511fe055c4940b116c6f7b715eb6e4fd5a3c3b0a15afe9b59f674ec6ad5b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7ef1d74f80ad2faed93e260dfed618ebcabbba0ea5693eb6291f0ec5dba1d2e1",
+      "checksum": "7ef1d74f80ad2faed93e260dfed618ebcabbba0ea5693eb6291f0ec5dba1d2e1"
+    }
+  }
+}

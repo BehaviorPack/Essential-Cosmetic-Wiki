@@ -1,0 +1,43 @@
+{
+  "id": "JEROME_BEAR_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Jerome\u0027s Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 410,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c0dbded603cda0b1e1e14e5b7c873ead0d89c8e81c9d80198bd5eb184d654a03",
+      "checksum": "c0dbded603cda0b1e1e14e5b7c873ead0d89c8e81c9d80198bd5eb184d654a03"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/acf3b555c3fc32f9227a94e1ca0f50b1e826b56f0d9c30b1be1929e3deaa39c5",
+      "checksum": "acf3b555c3fc32f9227a94e1ca0f50b1e826b56f0d9c30b1be1929e3deaa39c5"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/18b6bbcc533daa7ba6ea2acf5b463f3fd0c0cb6998cad38df5e2d0a893d26f7f",
+      "checksum": "18b6bbcc533daa7ba6ea2acf5b463f3fd0c0cb6998cad38df5e2d0a893d26f7f"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/157203018595691b333dfd4b0ba319356919a29a92153e5e18f54de40c6730dd",
+      "checksum": "157203018595691b333dfd4b0ba319356919a29a92153e5e18f54de40c6730dd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1540b8aefaea1814ee778dddb91faaa59e062895fd3afc217aec8c3ad35941e2",
+      "checksum": "1540b8aefaea1814ee778dddb91faaa59e062895fd3afc217aec8c3ad35941e2"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/0c6119906f2dd3e43e43ce5f3d1b168317c657586c5aba6745491eda49a9955a",
+      "checksum": "0c6119906f2dd3e43e43ce5f3d1b168317c657586c5aba6745491eda49a9955a"
+    }
+  }
+}

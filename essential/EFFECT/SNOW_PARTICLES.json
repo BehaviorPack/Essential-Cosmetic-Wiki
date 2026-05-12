@@ -1,0 +1,37 @@
+{
+  "id": "SNOW_PARTICLES",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Snow Particles"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/504f05ffba5839e94641e14d1b8b19e9f81ab9b49fcdec179a80156bee88d46b",
+      "checksum": "504f05ffba5839e94641e14d1b8b19e9f81ab9b49fcdec179a80156bee88d46b"
+    },
+    "particles/snow.particle.json": {
+      "url": "https://cdn.essential.gg/assets/f9fd7464ec409c7d80936e4b1697a2ff2316e4a3da91186ae4fab60048b04157",
+      "checksum": "f9fd7464ec409c7d80936e4b1697a2ff2316e4a3da91186ae4fab60048b04157"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/cfe669b8d0f5857a57c6956390c09e90d58f16be3c51e8d10c83316db52e09ba",
+      "checksum": "cfe669b8d0f5857a57c6956390c09e90d58f16be3c51e8d10c83316db52e09ba"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/71edebfd86402cf79a7aa1b1379e47fcffaf42c81605668333d71f540eb133ab",
+      "checksum": "71edebfd86402cf79a7aa1b1379e47fcffaf42c81605668333d71f540eb133ab"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "HENWY_SHIELD_AND_SWORD",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Henwy\u0027s Sword and Shield"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 111,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/43b0dbbedec80801391cbfa216ee710fe1e3e927989625ee9074fef01dd5f239",
+      "checksum": "43b0dbbedec80801391cbfa216ee710fe1e3e927989625ee9074fef01dd5f239"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/01a1652f40e780f827ebcf6010d06d14b8ef1cb6ab1c267971395e3296e15f6a",
+      "checksum": "01a1652f40e780f827ebcf6010d06d14b8ef1cb6ab1c267971395e3296e15f6a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c66d414170f02ee7cacff6d245ab6170d3a1f7514cc2c987039ce0094bf9567b",
+      "checksum": "c66d414170f02ee7cacff6d245ab6170d3a1f7514cc2c987039ce0094bf9567b"
+    }
+  }
+}

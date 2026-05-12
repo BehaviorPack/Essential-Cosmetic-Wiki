@@ -1,0 +1,35 @@
+{
+  "id": "CUPID_ARROW_THROUGH_HEAD",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Cupid Arrow"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 7,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6971d2ad7d8ccc827b64b5803887354e8142a74dbe72d19e12985be04df59270",
+      "checksum": "6971d2ad7d8ccc827b64b5803887354e8142a74dbe72d19e12985be04df59270"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/388fcdae340d90375395a78adf5e77c76282eaa0be3ca5b55c0e999d565d95c4",
+      "checksum": "388fcdae340d90375395a78adf5e77c76282eaa0be3ca5b55c0e999d565d95c4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/59a1dd6c0593701c38a6e98085d4507451e68fa2140abf90bdc3c5f4f60218b0",
+      "checksum": "59a1dd6c0593701c38a6e98085d4507451e68fa2140abf90bdc3c5f4f60218b0"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/40b902779772f9d33f365b7533746ef09bb149918a9bc09eb22dae3c289d6e59",
+      "checksum": "40b902779772f9d33f365b7533746ef09bb149918a9bc09eb22dae3c289d6e59"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GROUND_POUND",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Ground Pound"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/249fd88b4f879e60d18808f1fec6604d2cccafe97b3943ff2370b2a71e685845",
+      "checksum": "249fd88b4f879e60d18808f1fec6604d2cccafe97b3943ff2370b2a71e685845"
+    },
+    "particles/ground_pound_stars.particle.json": {
+      "url": "https://cdn.essential.gg/assets/5058c08336c8d875431f90ce15d078eb6a450964c88766bda15f0c1e42ad9240",
+      "checksum": "5058c08336c8d875431f90ce15d078eb6a450964c88766bda15f0c1e42ad9240"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/8464c9dc9c37eea865e4051c0bcf2c3e3970fe948c03bf44c9d5e69326f8b2e2",
+      "checksum": "8464c9dc9c37eea865e4051c0bcf2c3e3970fe948c03bf44c9d5e69326f8b2e2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5ebcc6fb8afb6781dbc0530808dd00f3621b3b10775c7498d5118990e29dffb9",
+      "checksum": "5ebcc6fb8afb6781dbc0530808dd00f3621b3b10775c7498d5118990e29dffb9"
+    },
+    "particles/ground_pound_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/6b86c5b2afa5c802a6af66a2809f68e51162356a8b64cafa953c0a191b80c0bf",
+      "checksum": "6b86c5b2afa5c802a6af66a2809f68e51162356a8b64cafa953c0a191b80c0bf"
+    }
+  }
+}

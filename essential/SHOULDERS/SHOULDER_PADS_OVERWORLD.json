@@ -1,0 +1,33 @@
+{
+  "id": "SHOULDER_PADS_OVERWORLD",
+  "type": "SHOULDERS",
+  "displayNames": {
+    "en_us": "Holy Shoulders"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "SHOULDERS": 20
+  },
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/cce337f9cab383b051ab8091ae44681267a3a42bc53f6eb6162e475af1bc78d5",
+      "checksum": "cce337f9cab383b051ab8091ae44681267a3a42bc53f6eb6162e475af1bc78d5"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/a8542464cb57b23dcd7524a7b40ba9141f9f55879d19e90759ac0223d461b5b6",
+      "checksum": "a8542464cb57b23dcd7524a7b40ba9141f9f55879d19e90759ac0223d461b5b6"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/da7745de382db34c56a44025b13f682d63812e5fffd461b2714548179476a833",
+      "checksum": "da7745de382db34c56a44025b13f682d63812e5fffd461b2714548179476a833"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cbe6386e712aead7035cb557c41f004b6dad9367d99b044d0606903a02497cd9",
+      "checksum": "cbe6386e712aead7035cb557c41f004b6dad9367d99b044d0606903a02497cd9"
+    }
+  }
+}

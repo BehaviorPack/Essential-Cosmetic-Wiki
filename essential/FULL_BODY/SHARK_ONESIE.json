@@ -1,0 +1,46 @@
+{
+  "id": "SHARK_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Shark Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 530,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8c3f39a3391b401cb6b0a53139936a17158156ba2a6a93dc67266045ca84d165",
+      "checksum": "8c3f39a3391b401cb6b0a53139936a17158156ba2a6a93dc67266045ca84d165"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/5aaf430da75cc3cce60249f542be6a9e0fd1a4a0f6f6127fc26273c759a66683",
+      "checksum": "5aaf430da75cc3cce60249f542be6a9e0fd1a4a0f6f6127fc26273c759a66683"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/beb80f2dda0757c32fddd9b3d3dfef3cf60b9381ab801c4c853290d9d9a410e9",
+      "checksum": "beb80f2dda0757c32fddd9b3d3dfef3cf60b9381ab801c4c853290d9d9a410e9"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/01d4cdea0f156a32a9023cbf030fe210949bcd3f543b48fa05823714c2f80d3a",
+      "checksum": "01d4cdea0f156a32a9023cbf030fe210949bcd3f543b48fa05823714c2f80d3a"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e86ffc90fc90afdf35ae8cadc56db67a571ea53f87afb6384c4244f2fa920cc0",
+      "checksum": "e86ffc90fc90afdf35ae8cadc56db67a571ea53f87afb6384c4244f2fa920cc0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f674dd6900063e1c02ccd85a8e1ce94b1fb1413e3f73e12e43317ce41cade0c2",
+      "checksum": "f674dd6900063e1c02ccd85a8e1ce94b1fb1413e3f73e12e43317ce41cade0c2"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/a58ab3519a61df0a80651e6fc3965b965b38fa4d9c6d04b95a85b88dcd4179e3",
+      "checksum": "a58ab3519a61df0a80651e6fc3965b965b38fa4d9c6d04b95a85b88dcd4179e3"
+    }
+  }
+}

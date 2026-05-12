@@ -1,0 +1,61 @@
+{
+  "id": "IMAGINATION_RAINBOW",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Imagination Rainbow"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MEME",
+    "NEW",
+    "THEME_PRIDE",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/32872dcaad7e546dcf05df516d11c644c24879d0b3d0247bdc928169b83919a0",
+      "checksum": "32872dcaad7e546dcf05df516d11c644c24879d0b3d0247bdc928169b83919a0"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7100280efc3c0071c9417696ca3ee47da55a5446604a826cac2d4c7e45b6597f",
+      "checksum": "7100280efc3c0071c9417696ca3ee47da55a5446604a826cac2d4c7e45b6597f"
+    },
+    "particles/rainbow_front.particle.json": {
+      "url": "https://cdn.essential.gg/assets/54ecd2da0630ac064623f35a25b6e8221aeea43671702aea86a4ac2cf3a44767",
+      "checksum": "54ecd2da0630ac064623f35a25b6e8221aeea43671702aea86a4ac2cf3a44767"
+    },
+    "sounds/imagination_rainbow.ogg": {
+      "url": "https://cdn.essential.gg/assets/e6b9f16e6d125c91785c08d463f2c15230f70ee52f55ca2a2c3f94f70285ce55",
+      "checksum": "e6b9f16e6d125c91785c08d463f2c15230f70ee52f55ca2a2c3f94f70285ce55"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/7082b8ff3c58d9adaf382a345095667f7d778673cac39e72bc32cb55ad51058f",
+      "checksum": "7082b8ff3c58d9adaf382a345095667f7d778673cac39e72bc32cb55ad51058f"
+    },
+    "particles/rainbow_back.particle.json": {
+      "url": "https://cdn.essential.gg/assets/a36118ab1d8130cd8b8071569c5cf32baf282349e674221d9b7199b961ffcfb2",
+      "checksum": "a36118ab1d8130cd8b8071569c5cf32baf282349e674221d9b7199b961ffcfb2"
+    },
+    "particles/sparkles.particle.json": {
+      "url": "https://cdn.essential.gg/assets/840b60818892839b907158c74c8faa289657780ad5bf061045cd8b912d6e3f88",
+      "checksum": "840b60818892839b907158c74c8faa289657780ad5bf061045cd8b912d6e3f88"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/6ec5d389f123b35d1fdb3dacb5d3fadd570146cdade56992da4f4df5faae4cc9",
+      "checksum": "6ec5d389f123b35d1fdb3dacb5d3fadd570146cdade56992da4f4df5faae4cc9"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7ef7c0ed870b2877b72057faf9e3e2644bd2109bcf8c0906448630e7eb4989cb",
+      "checksum": "7ef7c0ed870b2877b72057faf9e3e2644bd2109bcf8c0906448630e7eb4989cb"
+    }
+  }
+}

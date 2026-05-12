@@ -1,0 +1,50 @@
+{
+  "id": "FIRE_T_SHIRT",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Fire T-Shirt"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 10,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1a3f3488a632882b50b202d3ef373aa462fa503f99e91c8530db1e8a47169966",
+      "checksum": "1a3f3488a632882b50b202d3ef373aa462fa503f99e91c8530db1e8a47169966"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/0367794c96f3a6d085970687dc4f46b57093219db426d757db1308f5e8dd7480",
+      "checksum": "0367794c96f3a6d085970687dc4f46b57093219db426d757db1308f5e8dd7480"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/27763c01919802bb51ce271df12622c587aababc3ee3fa4e5147f43d4e20e05a",
+      "checksum": "27763c01919802bb51ce271df12622c587aababc3ee3fa4e5147f43d4e20e05a"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c2efe98de67a424fdca539bf202f34a7df930d050758475237e2ae17069d070f",
+      "checksum": "c2efe98de67a424fdca539bf202f34a7df930d050758475237e2ae17069d070f"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/5ce68f62e02461be54aba28f75109d68f704b3d202643641168f841efe44592b",
+      "checksum": "5ce68f62e02461be54aba28f75109d68f704b3d202643641168f841efe44592b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cfddb6051c9dc2c92ef35a817a1149880ec255037fe7c8e94e2daf93e70b89d9",
+      "checksum": "cfddb6051c9dc2c92ef35a817a1149880ec255037fe7c8e94e2daf93e70b89d9"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/72189480892c7d5c918e693fc8c177e91fb2c594e6ef9f7577e733460507ddb2",
+      "checksum": "72189480892c7d5c918e693fc8c177e91fb2c594e6ef9f7577e733460507ddb2"
+    }
+  }
+}

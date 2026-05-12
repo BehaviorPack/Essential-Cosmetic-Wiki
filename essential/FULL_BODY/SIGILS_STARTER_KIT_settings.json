@@ -1,0 +1,65 @@
+[
+  {
+    "type": "ARMOR_HANDLING",
+    "id": "SIGILS_STARTER_KIT",
+    "enabled": true,
+    "data": {
+      "head": true,
+      "arms": true,
+      "body": true,
+      "legs": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "SHORTS",
+    "enabled": true,
+    "data": {
+      "leg_left_outer": true,
+      "leg_right_outer": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "FLOWER_LEGS",
+    "enabled": true,
+    "data": {
+      "leaf_left": true,
+      "leaf_right": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "CYBORG_HEAD",
+    "enabled": true,
+    "data": {
+      "outer_left": true,
+      "outer_right": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "SCARY_FACE_TAKEOVER",
+    "enabled": true,
+    "data": {
+      "smile_outer": true
+    }
+  },
+  {
+    "type": "COSMETIC_BONE_HIDING",
+    "id": "FLOWER_IN_HAIR",
+    "enabled": true,
+    "data": {
+      "head": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "JEROME_BEAR_ONESIE",
+    "enabled": true,
+    "data": {
+      "leg_left_outer": true,
+      "leg_right_outer": true
+    }
+  }
+]

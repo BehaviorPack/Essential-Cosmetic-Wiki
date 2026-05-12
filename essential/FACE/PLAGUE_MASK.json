@@ -1,0 +1,66 @@
+{
+  "id": "PLAGUE_MASK",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Plague Mask"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_APRIL2026",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/leather/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/01ad994d035330ac8300112da1bd31a1f919f409284a9ea8617cc64e8b5a1903",
+      "checksum": "01ad994d035330ac8300112da1bd31a1f919f409284a9ea8617cc64e8b5a1903"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1b70a4dfc5c99dd9f76ae3184f9b6338c2ed1a84512260d60932871e0b82fd11",
+      "checksum": "1b70a4dfc5c99dd9f76ae3184f9b6338c2ed1a84512260d60932871e0b82fd11"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/dfe69cae4177f067efe7c185aea941a40b7aeade5ead0d5df96c1be531192680",
+      "checksum": "dfe69cae4177f067efe7c185aea941a40b7aeade5ead0d5df96c1be531192680"
+    },
+    "variants/black_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b78418c3185b3a6357965ca301849b250005f897e1b10a4dc7e3e6730d587d22",
+      "checksum": "b78418c3185b3a6357965ca301849b250005f897e1b10a4dc7e3e6730d587d22"
+    },
+    "variants/black_purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/a295dbf57fe3e59331dea876d4d3159b9695b29ce02f443d39ed2aa624fdd81b",
+      "checksum": "a295dbf57fe3e59331dea876d4d3159b9695b29ce02f443d39ed2aa624fdd81b"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bd7be51129f0a3f39f7534dd3cf3ccbf8756406e3ce9ed3c6e76827d635804f7",
+      "checksum": "bd7be51129f0a3f39f7534dd3cf3ccbf8756406e3ce9ed3c6e76827d635804f7"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fd61f48ebb71bc351d659011227c121d2774580a081b0ec6a43c47a0b49e38f7",
+      "checksum": "fd61f48ebb71bc351d659011227c121d2774580a081b0ec6a43c47a0b49e38f7"
+    },
+    "variants/cream/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e501e5da56af1fbbab1be82de6d286a8b4fe5bb9d13fae4972da64ebca24b7c4",
+      "checksum": "e501e5da56af1fbbab1be82de6d286a8b4fe5bb9d13fae4972da64ebca24b7c4"
+    },
+    "variants/cream/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/d88f5830df13256692f84e2d4d3d008fc287c50d9238010eecb5f8c09fbed9bb",
+      "checksum": "d88f5830df13256692f84e2d4d3d008fc287c50d9238010eecb5f8c09fbed9bb"
+    },
+    "variants/leather/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bcdcba8046fb618726b5c8cb2a774e1b0a7885d21da5d42677a3a75ce4d8735d",
+      "checksum": "bcdcba8046fb618726b5c8cb2a774e1b0a7885d21da5d42677a3a75ce4d8735d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/45f10ab5a06b2c5215dc640b8a409ff1e287299adefcbd011053cfbba61ce1f2",
+      "checksum": "45f10ab5a06b2c5215dc640b8a409ff1e287299adefcbd011053cfbba61ce1f2"
+    }
+  }
+}

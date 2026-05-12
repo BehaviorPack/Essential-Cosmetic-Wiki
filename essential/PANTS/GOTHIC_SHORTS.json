@@ -1,0 +1,56 @@
+{
+  "id": "GOTHIC_SHORTS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Grunge Shorts"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK",
+    "THEME_Y2K",
+    "THEME_GOTHIC",
+    "COLLECTION_MAY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/grey/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ff07cc858fb4d9f0fec8d4ed05cc6d49cd55c0d07cfe8e604f00faa726eba657",
+      "checksum": "ff07cc858fb4d9f0fec8d4ed05cc6d49cd55c0d07cfe8e604f00faa726eba657"
+    },
+    "variants/black_plain/texture.png": {
+      "url": "https://cdn.essential.gg/assets/35184a60e2ac16715db3f1d8c5044529bf1bd1a8f9a53b4c9858d3d25849edcb",
+      "checksum": "35184a60e2ac16715db3f1d8c5044529bf1bd1a8f9a53b4c9858d3d25849edcb"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/69e52fc87283c92c8e7cdede4f754026b23eeb3e99c03c68fa664727b4a24ef7",
+      "checksum": "69e52fc87283c92c8e7cdede4f754026b23eeb3e99c03c68fa664727b4a24ef7"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/817bd20b3dbb3eac9dfdbcbcb176c08e7ff820c7c9a85ef696342c349cc84e58",
+      "checksum": "817bd20b3dbb3eac9dfdbcbcb176c08e7ff820c7c9a85ef696342c349cc84e58"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a68b256a25dab318d46e346a96f0c25d85e8c79cced45d489882b5bcf7cc47ad",
+      "checksum": "a68b256a25dab318d46e346a96f0c25d85e8c79cced45d489882b5bcf7cc47ad"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/a5b098eb375f843ea401a780dac6d277a7004de5d8a21bee43b0cc1ea58f674b",
+      "checksum": "a5b098eb375f843ea401a780dac6d277a7004de5d8a21bee43b0cc1ea58f674b"
+    },
+    "variants/blue_denim/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5a23376210d728f7c0893eb63b230cbd8febc69bfab5983c070cae9e5d2817f0",
+      "checksum": "5a23376210d728f7c0893eb63b230cbd8febc69bfab5983c070cae9e5d2817f0"
+    },
+    "variants/green_cargo/texture.png": {
+      "url": "https://cdn.essential.gg/assets/172369b245d3bd69dcf8fcbea4fa3e66771518cb82149608a0f37f707f935a14",
+      "checksum": "172369b245d3bd69dcf8fcbea4fa3e66771518cb82149608a0f37f707f935a14"
+    }
+  }
+}

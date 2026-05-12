@@ -1,0 +1,42 @@
+{
+  "id": "WATER_FISTS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Water Fists"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 8,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3e72f68a4bd4c63a4cfe4657be2c2a6de541c7e8a72f8615adf7fc6a9af88070",
+      "checksum": "3e72f68a4bd4c63a4cfe4657be2c2a6de541c7e8a72f8615adf7fc6a9af88070"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/ac6fe426d0d3184a04b0da950d96773d3a4163280822900229a1d54cb42e648a",
+      "checksum": "ac6fe426d0d3184a04b0da950d96773d3a4163280822900229a1d54cb42e648a"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/7a90ecca2bf7e1935bddd46cddbb7f00ac1b2fb24d246ebc759345ced9a5e007",
+      "checksum": "7a90ecca2bf7e1935bddd46cddbb7f00ac1b2fb24d246ebc759345ced9a5e007"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/94c4dedea9c71b121163f74b9ed23cc8d8005aae189ba48a633eeb1e7934c3f5",
+      "checksum": "94c4dedea9c71b121163f74b9ed23cc8d8005aae189ba48a633eeb1e7934c3f5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7411063323b655743b3838ee4ca105c764a763e30704c33792842d7bc285f4ac",
+      "checksum": "7411063323b655743b3838ee4ca105c764a763e30704c33792842d7bc285f4ac"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/7a2044d7f0d969753b28f41e136f5044b8747a6c902d239c5d8b50d77732ac45",
+      "checksum": "7a2044d7f0d969753b28f41e136f5044b8747a6c902d239c5d8b50d77732ac45"
+    }
+  }
+}

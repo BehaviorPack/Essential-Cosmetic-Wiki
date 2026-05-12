@@ -1,0 +1,31 @@
+{
+  "id": "FLOSS",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "The Floss"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MEME",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/a05f8ebe7ccad91156fc0e05fd27f531155f4fc220c1d3728315da61a6c86e24",
+      "checksum": "a05f8ebe7ccad91156fc0e05fd27f531155f4fc220c1d3728315da61a6c86e24"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

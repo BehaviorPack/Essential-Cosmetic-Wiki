@@ -1,0 +1,51 @@
+{
+  "id": "REAPER_SUIT",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Reaper Suit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HALLOWEEN",
+    "THEME_DEMON"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f3214c0e4aa8ede93681878c25ccdc89f6feeaa1301e6d437b7e51b6de9b2ae0",
+      "checksum": "f3214c0e4aa8ede93681878c25ccdc89f6feeaa1301e6d437b7e51b6de9b2ae0"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/1ba07be344b2f2817dcd5759f1de801bf8de2c523c632bb034b8942b6f89d897",
+      "checksum": "1ba07be344b2f2817dcd5759f1de801bf8de2c523c632bb034b8942b6f89d897"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/4cce9d7c6853e330c318157e9e5ec4ac0d79b093f3f297bd0359f78fc492786b",
+      "checksum": "4cce9d7c6853e330c318157e9e5ec4ac0d79b093f3f297bd0359f78fc492786b"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/8798b9a4105865a750f281333931f067d487d3b54b6e49f364a0baa4e2fae0f5",
+      "checksum": "8798b9a4105865a750f281333931f067d487d3b54b6e49f364a0baa4e2fae0f5"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/f72df5261bf782c6c5326b704c05eded664de46d7902536627234e8c240320cf",
+      "checksum": "f72df5261bf782c6c5326b704c05eded664de46d7902536627234e8c240320cf"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5fd404e5997513db22a202116fd26e083bd53f8e68b13671bae6ea45cbdc7a09",
+      "checksum": "5fd404e5997513db22a202116fd26e083bd53f8e68b13671bae6ea45cbdc7a09"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/fed8bda3042b10a7896d375e25b2e0b6ebbe6ba7ada36e71b793f176bb035927",
+      "checksum": "fed8bda3042b10a7896d375e25b2e0b6ebbe6ba7ada36e71b793f176bb035927"
+    }
+  }
+}

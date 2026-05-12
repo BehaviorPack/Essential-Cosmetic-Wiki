@@ -1,0 +1,30 @@
+{
+  "id": "CAT_NOSE",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Cat Nose"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 44,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/91197dcfd394226ba754b2d779e29e862829fc510cc37a47272d1bc763e4442b",
+      "checksum": "91197dcfd394226ba754b2d779e29e862829fc510cc37a47272d1bc763e4442b"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4394d82d07264d31ef2e96878da8b184bc487e00b8e3eba8b4e9a4d08b6745a8",
+      "checksum": "4394d82d07264d31ef2e96878da8b184bc487e00b8e3eba8b4e9a4d08b6745a8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ad94686ae0c1057ee7dbee0cd3c09e9a6eb1fb94bc2529bbe10b39c200c6edac",
+      "checksum": "ad94686ae0c1057ee7dbee0cd3c09e9a6eb1fb94bc2529bbe10b39c200c6edac"
+    }
+  }
+}

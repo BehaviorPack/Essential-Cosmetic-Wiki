@@ -1,0 +1,53 @@
+{
+  "id": "OWL",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Owl"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC",
+    "THEME_ANIMAL",
+    "THEME_HALLOWEEN",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3f363f5dd23f1460e898d2f3143a0cbc77b255c9d02ef9625a073c35cd13a182",
+      "checksum": "3f363f5dd23f1460e898d2f3143a0cbc77b255c9d02ef9625a073c35cd13a182"
+    },
+    "variants/light_brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1a249f80f20a7a6a2afbc5f16b7c1f7cfd0996323e5b6183ad0d43f0c72131a1",
+      "checksum": "1a249f80f20a7a6a2afbc5f16b7c1f7cfd0996323e5b6183ad0d43f0c72131a1"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8fd94eae59bd9a3525e9c71765e4333e36398ab1b95ebc16a2920795bf41bfd0",
+      "checksum": "8fd94eae59bd9a3525e9c71765e4333e36398ab1b95ebc16a2920795bf41bfd0"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c796d29d13aae7c0d6611705da2c267631ec17a2489d1b68b3ecb6330cd6d4e4",
+      "checksum": "c796d29d13aae7c0d6611705da2c267631ec17a2489d1b68b3ecb6330cd6d4e4"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/67c0a7f5d0e61cb21de7f249a85823cc93d9a3c5fc0fc178a217e01baa56e4e7",
+      "checksum": "67c0a7f5d0e61cb21de7f249a85823cc93d9a3c5fc0fc178a217e01baa56e4e7"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/02745cebd392893806022565a87eeb028d264084e2ba16cd22298f0ff84f6dd8",
+      "checksum": "02745cebd392893806022565a87eeb028d264084e2ba16cd22298f0ff84f6dd8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/acb91cda809c819de84a6ec0c9e662bcbf3109f4581a318156e0b6aa4aeeba85",
+      "checksum": "acb91cda809c819de84a6ec0c9e662bcbf3109f4581a318156e0b6aa4aeeba85"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "PUPPY",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Puppy"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/233909243558c9f6fc19316f7b1074f15440e78b414f4f44c78f9fa3692886d2",
+      "checksum": "233909243558c9f6fc19316f7b1074f15440e78b414f4f44c78f9fa3692886d2"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/39861a44c072b7e5bb67e8e0340de4fefa8360b6d4d41d16aa3bc4d7174b300d",
+      "checksum": "39861a44c072b7e5bb67e8e0340de4fefa8360b6d4d41d16aa3bc4d7174b300d"
+    },
+    "variants/saintbernard/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0b65e1f7fc1e2b1db283d9e3f0f9a73bb32664c3af202ce0f24e10ec3055dec2",
+      "checksum": "0b65e1f7fc1e2b1db283d9e3f0f9a73bb32664c3af202ce0f24e10ec3055dec2"
+    },
+    "variants/shiba/texture.png": {
+      "url": "https://cdn.essential.gg/assets/46a41b63e5bd5235da20e571e9dbc1d607ab1fae80c933aebdd6f5c5045403ee",
+      "checksum": "46a41b63e5bd5235da20e571e9dbc1d607ab1fae80c933aebdd6f5c5045403ee"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/33ab35687a85b9f78cb329922477c24b167aed699e60cb0162f9335d9dbff816",
+      "checksum": "33ab35687a85b9f78cb329922477c24b167aed699e60cb0162f9335d9dbff816"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/41c12b959ff375dfbff6aa477437bc1a28c33993025e8738e71b65c6bcfc3a52",
+      "checksum": "41c12b959ff375dfbff6aa477437bc1a28c33993025e8738e71b65c6bcfc3a52"
+    }
+  }
+}

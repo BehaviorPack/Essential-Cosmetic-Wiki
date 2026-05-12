@@ -1,0 +1,54 @@
+{
+  "id": "SUN_SPIRIT_HELMET",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Sun Spirit Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/orange_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a57af94d8444ac2fc63e3ff411bffcdfa5091107e9e70bad4add4db42dcd7d97",
+      "checksum": "a57af94d8444ac2fc63e3ff411bffcdfa5091107e9e70bad4add4db42dcd7d97"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d277c76e0f7dd64cc8d7e32cfde5f729337959dc3518bd60147a92942a0c6762",
+      "checksum": "d277c76e0f7dd64cc8d7e32cfde5f729337959dc3518bd60147a92942a0c6762"
+    },
+    "variants/soulfire_blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/505de62bfd43e47892816f447ecb79d378feced770a09045e2508bae1fe074ae",
+      "checksum": "505de62bfd43e47892816f447ecb79d378feced770a09045e2508bae1fe074ae"
+    },
+    "variants/soulfire_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/10cea33935d0c35fb6c51683fe20ed45f84f30bfe66fd4d05d6bbb38061236fb",
+      "checksum": "10cea33935d0c35fb6c51683fe20ed45f84f30bfe66fd4d05d6bbb38061236fb"
+    },
+    "variants/fire_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5a4b84f26771b32c2716c323f5098732261fd2b832271cca76101c92c98a018f",
+      "checksum": "5a4b84f26771b32c2716c323f5098732261fd2b832271cca76101c92c98a018f"
+    },
+    "variants/fire_red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/08a1c1ccc765a00714a5853da89181200924ae7f12b472cfced1b5de4de90e56",
+      "checksum": "08a1c1ccc765a00714a5853da89181200924ae7f12b472cfced1b5de4de90e56"
+    },
+    "variants/orange_red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8335544fbfc993d2b3358d77a469caad2ad3d51b455541644013fdb3d0a65acd",
+      "checksum": "8335544fbfc993d2b3358d77a469caad2ad3d51b455541644013fdb3d0a65acd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/036246058ec52d6b0a18daf7e88ca83af1a52e51b52dbfee4d8218987075ff12",
+      "checksum": "036246058ec52d6b0a18daf7e88ca83af1a52e51b52dbfee4d8218987075ff12"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

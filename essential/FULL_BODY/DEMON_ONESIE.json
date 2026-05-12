@@ -1,0 +1,52 @@
+{
+  "id": "DEMON_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Demon Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 450,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/06d6af126c81edc030caf55e2733866fbaaf92e684d937c961ff10fe4edfdd7e",
+      "checksum": "06d6af126c81edc030caf55e2733866fbaaf92e684d937c961ff10fe4edfdd7e"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/4098bc59776bebf2d356147df95e18085f1073ce7369343222c4c39964477110",
+      "checksum": "4098bc59776bebf2d356147df95e18085f1073ce7369343222c4c39964477110"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/22cd494a73f73ab0b25202beef5a36559352ab1c5a19633256f727c6f8e4cb59",
+      "checksum": "22cd494a73f73ab0b25202beef5a36559352ab1c5a19633256f727c6f8e4cb59"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/40517adf36bbbf1d7a1f46f8a341bb264303b1a40694e5d8eb04e809425e1bf8",
+      "checksum": "40517adf36bbbf1d7a1f46f8a341bb264303b1a40694e5d8eb04e809425e1bf8"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/463629b4b200d25f8ddb939a49d39d942190add1d7d3d65f3009684834e3bf1f",
+      "checksum": "463629b4b200d25f8ddb939a49d39d942190add1d7d3d65f3009684834e3bf1f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/cc4ef68cd4d41e0ab4b0c791831b1d0176de0e5e34c5d3eb4deeb39b69806232",
+      "checksum": "cc4ef68cd4d41e0ab4b0c791831b1d0176de0e5e34c5d3eb4deeb39b69806232"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b15d6d1617ec81355bdc3a2fff20eae275b5f03fac64b6543d60eaf79a95eb5e",
+      "checksum": "b15d6d1617ec81355bdc3a2fff20eae275b5f03fac64b6543d60eaf79a95eb5e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f1fb0644dc811cf8e26ba2e6fbc9ab939ec3510b3a420ec13dd2e657653cbe9a",
+      "checksum": "f1fb0644dc811cf8e26ba2e6fbc9ab939ec3510b3a420ec13dd2e657653cbe9a"
+    }
+  }
+}

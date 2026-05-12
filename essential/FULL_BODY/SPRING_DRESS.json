@@ -1,0 +1,61 @@
+{
+  "id": "SPRING_DRESS",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Spring Dress"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 30,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5d9e63896722ab60dbe2aa2d082d96137bac09b531ab983c31c4e59d87e811a0",
+      "checksum": "5d9e63896722ab60dbe2aa2d082d96137bac09b531ab983c31c4e59d87e811a0"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/63041ff3c53c76d36d208d2965ba007a7edbd96f64a4b76566ec18a3a76b49d8",
+      "checksum": "63041ff3c53c76d36d208d2965ba007a7edbd96f64a4b76566ec18a3a76b49d8"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/3fe661d1aa4363651fb330d1c923b9d3975101b0586f63f36b7bd2031d6dc419",
+      "checksum": "3fe661d1aa4363651fb330d1c923b9d3975101b0586f63f36b7bd2031d6dc419"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/2ff65587eed177061c55ab51e505b1005ceb1f61ae809dbaa5b1d1f5e14d0c78",
+      "checksum": "2ff65587eed177061c55ab51e505b1005ceb1f61ae809dbaa5b1d1f5e14d0c78"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/054097135b6e14977710bc3bd74fc2c57b703a53c51faa289264dffb66dbf94d",
+      "checksum": "054097135b6e14977710bc3bd74fc2c57b703a53c51faa289264dffb66dbf94d"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5f1f0190a95794edf39b6f4400ae6e7841176dacfca98f6be0e02a637b1d5a2b",
+      "checksum": "5f1f0190a95794edf39b6f4400ae6e7841176dacfca98f6be0e02a637b1d5a2b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bc419ca88d56904b513d6c53969b9b4da9ade2b87c80aff12ffbbf50fb400902",
+      "checksum": "bc419ca88d56904b513d6c53969b9b4da9ade2b87c80aff12ffbbf50fb400902"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/5eeb0e6b4176e80ff3aa730f1fd8580ccab64bc8fb4960d19ca8aa633ef80c6e",
+      "checksum": "5eeb0e6b4176e80ff3aa730f1fd8580ccab64bc8fb4960d19ca8aa633ef80c6e"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c2aa7b481fb60b9a2f545d23ef04b54a0c770dcf646f8279f7480461fa451f80",
+      "checksum": "c2aa7b481fb60b9a2f545d23ef04b54a0c770dcf646f8279f7480461fa451f80"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2125b55e010c05a0b73389ba54776f603a4122b1ef2bfc6782906ccd548adf9d",
+      "checksum": "2125b55e010c05a0b73389ba54776f603a4122b1ef2bfc6782906ccd548adf9d"
+    }
+  }
+}

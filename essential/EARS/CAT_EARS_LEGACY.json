@@ -1,0 +1,35 @@
+{
+  "id": "CAT_EARS_LEGACY",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Cat Ears (Legacy)"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 11,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/11297192f8da58aac8c2303be8dcaebea578684dcb4b53bf40cc4762ea3a0e17",
+      "checksum": "11297192f8da58aac8c2303be8dcaebea578684dcb4b53bf40cc4762ea3a0e17"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4ddc2341a7a057f9420af3163acac137d35398b6cd0db237929e3ea67b28c028",
+      "checksum": "4ddc2341a7a057f9420af3163acac137d35398b6cd0db237929e3ea67b28c028"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/34f65a255e96033384d03c98c3b104b92d875af8eeecf0ad5c8394fa96d07ed3",
+      "checksum": "34f65a255e96033384d03c98c3b104b92d875af8eeecf0ad5c8394fa96d07ed3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/63d7d69786d7fc130409d00efa75e69912f635f7eb5ae7a954a5c66455630f59",
+      "checksum": "63d7d69786d7fc130409d00efa75e69912f635f7eb5ae7a954a5c66455630f59"
+    }
+  }
+}

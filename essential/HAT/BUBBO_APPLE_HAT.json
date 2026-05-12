@@ -1,0 +1,31 @@
+{
+  "id": "BUBBO_APPLE_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Bubbo\u0027s Apple Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 105,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/682c1bc2c469740bfd7ab573084b3b2ff1433c76e825889c94163f9dc42662da",
+      "checksum": "682c1bc2c469740bfd7ab573084b3b2ff1433c76e825889c94163f9dc42662da"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/175118374c8ab2ff476048393a5dd36b9c86f26c19cf2cfb77af5a352f738b4a",
+      "checksum": "175118374c8ab2ff476048393a5dd36b9c86f26c19cf2cfb77af5a352f738b4a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/01bd207a1d1bc01e5be5f5975b1a78ac2087e7d2d7e0593b5cc570fcf7ef0ccf",
+      "checksum": "01bd207a1d1bc01e5be5f5975b1a78ac2087e7d2d7e0593b5cc570fcf7ef0ccf"
+    }
+  }
+}

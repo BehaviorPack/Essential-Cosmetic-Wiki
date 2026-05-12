@@ -1,0 +1,48 @@
+{
+  "id": "RED_DINO_ONESIE",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "(RED) Dino Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 440,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/685e8e5930aff9b7653fba6ac496c89778bce0b2f652997b8445d1175a6b294e",
+      "checksum": "685e8e5930aff9b7653fba6ac496c89778bce0b2f652997b8445d1175a6b294e"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/33ba7de921d11c1e5723eca3aa91676662179c755f37d1d5657b9f10c1c91a63",
+      "checksum": "33ba7de921d11c1e5723eca3aa91676662179c755f37d1d5657b9f10c1c91a63"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/104d4d7d182fc727b870700a1a0ec34526bb2707a6a94ba475c72044c79e57df",
+      "checksum": "104d4d7d182fc727b870700a1a0ec34526bb2707a6a94ba475c72044c79e57df"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/49f7ad4826676c9446197c4b4f9f6246c312328e7e775030ecd8d4c2fe5797ca",
+      "checksum": "49f7ad4826676c9446197c4b4f9f6246c312328e7e775030ecd8d4c2fe5797ca"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/88ac2b06bba02b4a34c4f31cbb8d42e8a100eaae24384dd38fc429422d8faeed",
+      "checksum": "88ac2b06bba02b4a34c4f31cbb8d42e8a100eaae24384dd38fc429422d8faeed"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2b29125565de467f28f7b7038fe8d8b92f557a31fac4a2ee7d1ce1db99a4a4a3",
+      "checksum": "2b29125565de467f28f7b7038fe8d8b92f557a31fac4a2ee7d1ce1db99a4a4a3"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/b553bb341884e3bd0fe9428b7f6a439ea062e5af04d8d0c35b24eef7cfc88777",
+      "checksum": "b553bb341884e3bd0fe9428b7f6a439ea062e5af04d8d0c35b24eef7cfc88777"
+    }
+  }
+}

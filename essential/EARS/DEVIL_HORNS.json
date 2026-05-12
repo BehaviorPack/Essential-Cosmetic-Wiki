@@ -1,0 +1,42 @@
+{
+  "id": "DEVIL_HORNS",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Devil Horns"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_DEVIL",
+    "THEME_HALLOWEEN",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/607def418597f4a1c6ee4b7e137595736e8361d8478eace51a8e4c018f7998a7",
+      "checksum": "607def418597f4a1c6ee4b7e137595736e8361d8478eace51a8e4c018f7998a7"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/4e3c6207925ea3244620c33fd32a22dc3d2af412039697a8e622e36b42c35be5",
+      "checksum": "4e3c6207925ea3244620c33fd32a22dc3d2af412039697a8e622e36b42c35be5"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/dda2c7d350b73f579b662639e29ec432f9e93982103c3ef166b468fdae14c9ef",
+      "checksum": "dda2c7d350b73f579b662639e29ec432f9e93982103c3ef166b468fdae14c9ef"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/431702a7c21f56cbe97ec8d5456618cba15877a3ede0bc908c109d462332480c",
+      "checksum": "431702a7c21f56cbe97ec8d5456618cba15877a3ede0bc908c109d462332480c"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ee86e0158fc596c3b5fb0f31e1d3a9537f31955029ec40e169e08e9f21ca8164",
+      "checksum": "ee86e0158fc596c3b5fb0f31e1d3a9537f31955029ec40e169e08e9f21ca8164"
+    }
+  }
+}

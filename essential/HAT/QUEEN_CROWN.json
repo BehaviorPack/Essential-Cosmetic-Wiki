@@ -1,0 +1,41 @@
+{
+  "id": "QUEEN_CROWN",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Crown"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/81bf3d57a98af99b789a5b25039f74a3a6a888ce1a6865e1686096c5474d5dac",
+      "checksum": "81bf3d57a98af99b789a5b25039f74a3a6a888ce1a6865e1686096c5474d5dac"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d77ae000ee7a5b6893e10d237f67a2e990fb54e2ba635079997d7a87594cea5d",
+      "checksum": "d77ae000ee7a5b6893e10d237f67a2e990fb54e2ba635079997d7a87594cea5d"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3109dbe6a4e693ce97a39f81bceb1583f1c4ec22f6a6ed62162bfdc7954a74b8",
+      "checksum": "3109dbe6a4e693ce97a39f81bceb1583f1c4ec22f6a6ed62162bfdc7954a74b8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/9a7c64364dab850beb1c000fbafac79809691007116a47c82cd56b90b61e86a5",
+      "checksum": "9a7c64364dab850beb1c000fbafac79809691007116a47c82cd56b90b61e86a5"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7c6942cd5c3cd3c03bd5eb7a8b39341ff2ecacb4462e4bdba6a67b2378272926",
+      "checksum": "7c6942cd5c3cd3c03bd5eb7a8b39341ff2ecacb4462e4bdba6a67b2378272926"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "KATANA",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Katana"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 7,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b740f5061af7d5c9325cb58747938a45e94c0e06c7df6178c2d0f82285a44ed4",
+      "checksum": "b740f5061af7d5c9325cb58747938a45e94c0e06c7df6178c2d0f82285a44ed4"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4232e581ae62ced2ecbeb69b1c485b3d13d8991f31a26920a5f7af33bbd2f1be",
+      "checksum": "4232e581ae62ced2ecbeb69b1c485b3d13d8991f31a26920a5f7af33bbd2f1be"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1b0752a98b85569c7f2b6ca4008ed575e03bb94f07dcb52c47d8af5e130f0234",
+      "checksum": "1b0752a98b85569c7f2b6ca4008ed575e03bb94f07dcb52c47d8af5e130f0234"
+    }
+  }
+}

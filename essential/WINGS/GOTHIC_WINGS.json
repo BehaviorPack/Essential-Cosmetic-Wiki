@@ -1,0 +1,51 @@
+{
+  "id": "GOTHIC_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Gothic Moth Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_APRIL2026",
+    "THEME_BLACK",
+    "THEME_GOTHIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/grey/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6352537d88fdba5939fe3b8683c9d9775b78c02fc2525b1f47861208d72bfb96",
+      "checksum": "6352537d88fdba5939fe3b8683c9d9775b78c02fc2525b1f47861208d72bfb96"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/136b43b750fa494ce695b9982648c4b93b7113dbe6fcab74e18dbf673b1482d9",
+      "checksum": "136b43b750fa494ce695b9982648c4b93b7113dbe6fcab74e18dbf673b1482d9"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2ca680e9e2367753089dc23d63fa4eaadadfec323d30c1c811fc3278fc1ee50b",
+      "checksum": "2ca680e9e2367753089dc23d63fa4eaadadfec323d30c1c811fc3278fc1ee50b"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7ab7c4500fa1097b42ce3b1ef5c2db78b59e11b8bc79b6d86142839cddf47987",
+      "checksum": "7ab7c4500fa1097b42ce3b1ef5c2db78b59e11b8bc79b6d86142839cddf47987"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c71bcf8d5ed73cad121e60e86394c765c0ff186f68ce4307cccadc9b7d2ee8c6",
+      "checksum": "c71bcf8d5ed73cad121e60e86394c765c0ff186f68ce4307cccadc9b7d2ee8c6"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/7ebb3c41b389b6b588a2ac990f1f9591550d03e7007eeec39c0edf55ae37f232",
+      "checksum": "7ebb3c41b389b6b588a2ac990f1f9591550d03e7007eeec39c0edf55ae37f232"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/eb2921ce263224fa1ebc137ba993ffe2dc260e78242ac9bd2eadd52c9ead1860",
+      "checksum": "eb2921ce263224fa1ebc137ba993ffe2dc260e78242ac9bd2eadd52c9ead1860"
+    }
+  }
+}

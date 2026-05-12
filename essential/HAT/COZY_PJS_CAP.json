@@ -1,0 +1,44 @@
+{
+  "id": "COZY_PJS_CAP",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Night Cap"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_COZY",
+    "COLLECTION_FEBRUARY2026"
+  ],
+  "createdAt": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ae80e691789193537c7f3bfe6d58b9a09a076ed5763481c5350e0174006c98bc",
+      "checksum": "ae80e691789193537c7f3bfe6d58b9a09a076ed5763481c5350e0174006c98bc"
+    },
+    "variants/pink_stripes/texture.png": {
+      "url": "https://cdn.essential.gg/assets/557f5a6d85e4d5d5556d101204f1ab003746f6ede85e88c465a7d11bee58f03c",
+      "checksum": "557f5a6d85e4d5d5556d101204f1ab003746f6ede85e88c465a7d11bee58f03c"
+    },
+    "variants/red_stripes/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ace97cad65640a1d934cc4ad83946923cf04acd290023369ff3c1b083cea30a8",
+      "checksum": "ace97cad65640a1d934cc4ad83946923cf04acd290023369ff3c1b083cea30a8"
+    },
+    "variants/blue_stripes/texture.png": {
+      "url": "https://cdn.essential.gg/assets/97cab9780996f84202e4e1b0af71872d255ddfe7717d96be6deb6f381df0fe65",
+      "checksum": "97cab9780996f84202e4e1b0af71872d255ddfe7717d96be6deb6f381df0fe65"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d5b165d6ae447f5a1c4c0f8fa8e7f2c77ca3e18989f92fe7d6140fca05b410b8",
+      "checksum": "d5b165d6ae447f5a1c4c0f8fa8e7f2c77ca3e18989f92fe7d6140fca05b410b8"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761",
+      "checksum": "0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761"
+    }
+  }
+}

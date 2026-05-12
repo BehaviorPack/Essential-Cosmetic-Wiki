@@ -1,0 +1,36 @@
+{
+  "id": "RGB_FIRE_HAIR",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "RGB Fire Mohawk"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAIR": 20
+  },
+  "defaultSortWeight": 30,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/273a5b436955e8f710911acb566442fdc9da890f84d1b31056af5321ab2f425a",
+      "checksum": "273a5b436955e8f710911acb566442fdc9da890f84d1b31056af5321ab2f425a"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/36f5d1b75cb9762256d18eaed0ef3626acae45d18a9c58634acc2f6fb6fe2da0",
+      "checksum": "36f5d1b75cb9762256d18eaed0ef3626acae45d18a9c58634acc2f6fb6fe2da0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/7531b563239fd44e60240c8b18ef417aa3c1314d443ee8cad205d2e353f64b77",
+      "checksum": "7531b563239fd44e60240c8b18ef417aa3c1314d443ee8cad205d2e353f64b77"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4dc09c8deca612d8eb7e99acce0551dfef95e71718978caa32f0554c2c19f15a",
+      "checksum": "4dc09c8deca612d8eb7e99acce0551dfef95e71718978caa32f0554c2c19f15a"
+    }
+  }
+}

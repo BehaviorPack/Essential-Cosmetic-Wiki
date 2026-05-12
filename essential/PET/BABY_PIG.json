@@ -1,0 +1,52 @@
+{
+  "id": "BABY_PIG",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Pig"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_MINECRAFT",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/mottled_pig/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0d1d8fe92fd16497b66fb1ebe0312e590804dda787ed3e0cab3fb4741c840508",
+      "checksum": "0d1d8fe92fd16497b66fb1ebe0312e590804dda787ed3e0cab3fb4741c840508"
+    },
+    "variants/spotted_pig/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4547d3071cc693435157910bb6b8baf95c42a40d1caa7e34b6274e54fb7426f5",
+      "checksum": "4547d3071cc693435157910bb6b8baf95c42a40d1caa7e34b6274e54fb7426f5"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5b2ad091613ff791fd1b4b5eb09ef6b136b61177b1792530ebf777174150ef70",
+      "checksum": "5b2ad091613ff791fd1b4b5eb09ef6b136b61177b1792530ebf777174150ef70"
+    },
+    "variants/muddy_pig/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e8dd174706958c1e582b5a53b019b17ca16fd72ee920945dda18b49b39ba1dd2",
+      "checksum": "e8dd174706958c1e582b5a53b019b17ca16fd72ee920945dda18b49b39ba1dd2"
+    },
+    "variants/pig/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e5b637962b737f88ceb7f7b5ecd0bd1f4aef1854a576e98ff72d223f0684a81a",
+      "checksum": "e5b637962b737f88ceb7f7b5ecd0bd1f4aef1854a576e98ff72d223f0684a81a"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/7ff24ff8450f10e2f7d9f214a942f7c3772ed7871291bf781c061342e2ac8174",
+      "checksum": "7ff24ff8450f10e2f7d9f214a942f7c3772ed7871291bf781c061342e2ac8174"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bde0953b59143a5555e610d325f5225c5bffd03d74ddf40c01c51964fc7f885e",
+      "checksum": "bde0953b59143a5555e610d325f5225c5bffd03d74ddf40c01c51964fc7f885e"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "MIMIC_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Mimic Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/409de0e1c80cf49fc4dab96ef69644beb308560169629639abe25bbce511734a",
+      "checksum": "409de0e1c80cf49fc4dab96ef69644beb308560169629639abe25bbce511734a"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b11a3508c4fb699d961462f13daa8eb2d85a5694ddaf52d57a2585425c9b996b",
+      "checksum": "b11a3508c4fb699d961462f13daa8eb2d85a5694ddaf52d57a2585425c9b996b"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/ab85eff7a1e13e4c46fc2da8907b38ed4b73bb58473c0a84b1282ddc3ff3736a",
+      "checksum": "ab85eff7a1e13e4c46fc2da8907b38ed4b73bb58473c0a84b1282ddc3ff3736a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/379761e8effcfed4a90d959aeb1f8e9a7f9fbd7668160b4f13f2679a5c26995b",
+      "checksum": "379761e8effcfed4a90d959aeb1f8e9a7f9fbd7668160b4f13f2679a5c26995b"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/ad44530b4667882cc7ca23d7aa1f99d7f6e1068fc3f8a829f9a77f0c96655ef3",
+      "checksum": "ad44530b4667882cc7ca23d7aa1f99d7f6e1068fc3f8a829f9a77f0c96655ef3"
+    }
+  }
+}

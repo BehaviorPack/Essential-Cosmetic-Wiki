@@ -1,0 +1,53 @@
+{
+  "id": "BABY_CHICKEN",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Baby Chicken"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_EASTER",
+    "COLLECTION_JANUARY2026",
+    "THEME_CUTE",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/grey/texture.png": {
+      "url": "https://cdn.essential.gg/assets/61fe7df0b0fb624d43134ea04b5e561a10ab2d676d8ad12ef243384ecf6e4da6",
+      "checksum": "61fe7df0b0fb624d43134ea04b5e561a10ab2d676d8ad12ef243384ecf6e4da6"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3d130189139e7eea5c8e6ffc998cf7e2412e76dec18a35a02674f89f1899744e",
+      "checksum": "3d130189139e7eea5c8e6ffc998cf7e2412e76dec18a35a02674f89f1899744e"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/296316e7466706d7fb336c22e5e022a52c7dab2bca4d71bbdcc4b34d0375021b",
+      "checksum": "296316e7466706d7fb336c22e5e022a52c7dab2bca4d71bbdcc4b34d0375021b"
+    },
+    "variants/striped/texture.png": {
+      "url": "https://cdn.essential.gg/assets/eaeba3ccef9aebd17a50c64e967131dfe6551c1804333fb4e68de3b5709e4e32",
+      "checksum": "eaeba3ccef9aebd17a50c64e967131dfe6551c1804333fb4e68de3b5709e4e32"
+    },
+    "variants/rainbow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/569412e63cf9000a3fd0d1f389d95b80cf6f05d724f73297646ecfa05a87b723",
+      "checksum": "569412e63cf9000a3fd0d1f389d95b80cf6f05d724f73297646ecfa05a87b723"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/f45f8d0bab77059db031e6700c6b7f89bacc8eb37ada30b581602f3d6221b344",
+      "checksum": "f45f8d0bab77059db031e6700c6b7f89bacc8eb37ada30b581602f3d6221b344"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/22da56cafce5f2084449a851537176a0907725916a62c874994ae178eae89aac",
+      "checksum": "22da56cafce5f2084449a851537176a0907725916a62c874994ae178eae89aac"
+    }
+  }
+}

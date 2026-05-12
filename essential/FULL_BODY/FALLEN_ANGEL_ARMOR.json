@@ -1,0 +1,52 @@
+{
+  "id": "FALLEN_ANGEL_ARMOR",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Fallen Angel Armor"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANGEL",
+    "THEME_GOLDEN",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/99b165e3b31af0cf285f4389ebb86709dade0aee19a25521529a3dd30072f815",
+      "checksum": "99b165e3b31af0cf285f4389ebb86709dade0aee19a25521529a3dd30072f815"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/b8031cb2e9baf2c19c03cf417621b011c5c3fc12d4a15778398fd0d5ce9cab3f",
+      "checksum": "b8031cb2e9baf2c19c03cf417621b011c5c3fc12d4a15778398fd0d5ce9cab3f"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6",
+      "checksum": "e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e3a4cb819698286a67290e0a6b6f4ecfd06915ac9397f087a8765ec2ed231da6",
+      "checksum": "e3a4cb819698286a67290e0a6b6f4ecfd06915ac9397f087a8765ec2ed231da6"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e323c707015073a5706b48d5d3ecc767777857a7460e390d20e3a04427412b54",
+      "checksum": "e323c707015073a5706b48d5d3ecc767777857a7460e390d20e3a04427412b54"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6f9daad50c171b8b07c3bcdd2c1f530fb693cad941a438c8b1f9886d0432ffc1",
+      "checksum": "6f9daad50c171b8b07c3bcdd2c1f530fb693cad941a438c8b1f9886d0432ffc1"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9",
+      "checksum": "f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9"
+    }
+  }
+}

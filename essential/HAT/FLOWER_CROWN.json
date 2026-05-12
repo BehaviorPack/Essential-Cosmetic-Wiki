@@ -1,0 +1,36 @@
+{
+  "id": "FLOWER_CROWN",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Flower Crown"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 42,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0fbe829c4a164ec2dcbb0433d7392727c34c30bd60a0e09638780db7cc043201",
+      "checksum": "0fbe829c4a164ec2dcbb0433d7392727c34c30bd60a0e09638780db7cc043201"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/0480dc5b5f16dd17eb199d0b116d76adf7556cf9cf2c7fdb44af034b29d946af",
+      "checksum": "0480dc5b5f16dd17eb199d0b116d76adf7556cf9cf2c7fdb44af034b29d946af"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f5564e70f2e028da168d53d3eea62a773035b2c80b1a69b5bd8f796ad57a0619",
+      "checksum": "f5564e70f2e028da168d53d3eea62a773035b2c80b1a69b5bd8f796ad57a0619"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/9054b47f535ade1947e05ddcd55d27c4d280bfcf5c6e43ab1e61a787710010b5",
+      "checksum": "9054b47f535ade1947e05ddcd55d27c4d280bfcf5c6e43ab1e61a787710010b5"
+    }
+  }
+}

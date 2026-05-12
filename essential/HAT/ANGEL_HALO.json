@@ -1,0 +1,33 @@
+{
+  "id": "ANGEL_HALO",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Angel Halo"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANGEL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f034d19766681fdbf74d19ba26f010339ec50ae29f96c6d8bb0bf87e8783da24",
+      "checksum": "f034d19766681fdbf74d19ba26f010339ec50ae29f96c6d8bb0bf87e8783da24"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/5375908ec6958d75c768f5cb65e7c8f69e3d9bb5896eb4a213b6239f92a65f17",
+      "checksum": "5375908ec6958d75c768f5cb65e7c8f69e3d9bb5896eb4a213b6239f92a65f17"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/30f311ec8e0d0a1e8c8a7bf8188e186058f77498f0b32585756397f6a4a7ae82",
+      "checksum": "30f311ec8e0d0a1e8c8a7bf8188e186058f77498f0b32585756397f6a4a7ae82"
+    }
+  }
+}

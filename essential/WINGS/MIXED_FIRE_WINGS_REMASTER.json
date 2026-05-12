@@ -1,0 +1,55 @@
+{
+  "id": "MIXED_FIRE_WINGS_REMASTER",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Mixed Fire Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR",
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/17eb03d75d4c00a3fe9663293141a02677fdb40c1b33ce219c7e12771213f902",
+      "checksum": "17eb03d75d4c00a3fe9663293141a02677fdb40c1b33ce219c7e12771213f902"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f04e5b8d701d790f198629f41abcbd025153e82c5956a9b10f705fe44c4ae31a",
+      "checksum": "f04e5b8d701d790f198629f41abcbd025153e82c5956a9b10f705fe44c4ae31a"
+    },
+    "particles/wings_ember.particle.json": {
+      "url": "https://cdn.essential.gg/assets/e3223d5c13d7fe8a88babd4521d200c426b169fc86c2ca66f9204e194e2df010",
+      "checksum": "e3223d5c13d7fe8a88babd4521d200c426b169fc86c2ca66f9204e194e2df010"
+    },
+    "particles/wings_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/f30beacfe2d5e3ddaed34ef6611801a2a6e254b6547f3d5090f5153959b69eac",
+      "checksum": "f30beacfe2d5e3ddaed34ef6611801a2a6e254b6547f3d5090f5153959b69eac"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/e471247e57a4e3a53aaa5b709afd0653f2c7349231a9676c5877301e3479076d",
+      "checksum": "e471247e57a4e3a53aaa5b709afd0653f2c7349231a9676c5877301e3479076d"
+    },
+    "particles/wings_ice.particle.json": {
+      "url": "https://cdn.essential.gg/assets/bedeeea0fcb7bde8ec43da921fb819d9b8d6d62854b5bdd7171538186ae220fc",
+      "checksum": "bedeeea0fcb7bde8ec43da921fb819d9b8d6d62854b5bdd7171538186ae220fc"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/119d390243afeb25916fb21acc75c93fe0cd902c3bd029d47f347463654b013c",
+      "checksum": "119d390243afeb25916fb21acc75c93fe0cd902c3bd029d47f347463654b013c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c1dc915dca233d7f9c06130647c1f98286cfdb6a46aae549ffb33bb85d53f12f",
+      "checksum": "c1dc915dca233d7f9c06130647c1f98286cfdb6a46aae549ffb33bb85d53f12f"
+    }
+  }
+}

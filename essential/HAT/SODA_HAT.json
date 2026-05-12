@@ -1,0 +1,40 @@
+{
+  "id": "SODA_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Soda Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY",
+    "THEME_SPORTS",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 12,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/826584687be90da7e23db10d8fae9262e800c2e63427504b99a8ca2daf526211",
+      "checksum": "826584687be90da7e23db10d8fae9262e800c2e63427504b99a8ca2daf526211"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/0f5c50e77c6f0452a33a608240e8b8bd6ca7e1efe5f1f17bc0c7294b9be43ef8",
+      "checksum": "0f5c50e77c6f0452a33a608240e8b8bd6ca7e1efe5f1f17bc0c7294b9be43ef8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/912c5885bbd315526ebdcedab59d1f6ea16ea9c171de639f3e8e969ec80d4cfb",
+      "checksum": "912c5885bbd315526ebdcedab59d1f6ea16ea9c171de639f3e8e969ec80d4cfb"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/959b7072719ddb3efff21bcfa7cbbe7a27e600b47eaf13b89d956578b5887431",
+      "checksum": "959b7072719ddb3efff21bcfa7cbbe7a27e600b47eaf13b89d956578b5887431"
+    }
+  }
+}

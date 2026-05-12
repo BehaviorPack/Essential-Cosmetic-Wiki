@@ -1,0 +1,31 @@
+{
+  "id": "FEZ",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Fez Hat"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 34,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/957c93e36049b80139b688f7dcd4405f534d0b0b4349c8b003816fbf36948502",
+      "checksum": "957c93e36049b80139b688f7dcd4405f534d0b0b4349c8b003816fbf36948502"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4448a69a7803e16567197ecd06ac5a9c9ef3fce690af97025eb7b7fc3c786832",
+      "checksum": "4448a69a7803e16567197ecd06ac5a9c9ef3fce690af97025eb7b7fc3c786832"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c13371bc2a3cc777482809d4c805f5292a8b897a25321345cbc10655e921fc51",
+      "checksum": "c13371bc2a3cc777482809d4c805f5292a8b897a25321345cbc10655e921fc51"
+    }
+  }
+}

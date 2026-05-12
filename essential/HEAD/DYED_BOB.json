@@ -1,0 +1,55 @@
+{
+  "id": "DYED_BOB",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Dyed Bob"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JUNE2025",
+    "THEME_Y2K",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAIR": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/pink_to_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/64a16acb72c65af02d3739b1bd50357e320e6bbf6dec5323c645c06eebfe480c",
+      "checksum": "64a16acb72c65af02d3739b1bd50357e320e6bbf6dec5323c645c06eebfe480c"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b9f66f76fddafa031cd4d4dcf3487c03649c566e8bc67ca64e64b0520a84cc81",
+      "checksum": "b9f66f76fddafa031cd4d4dcf3487c03649c566e8bc67ca64e64b0520a84cc81"
+    },
+    "variants/black_to_green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/60b367c87e1045909dbe83d68ed9a3beb989560d76bb32fc5974f9ca4f3915c8",
+      "checksum": "60b367c87e1045909dbe83d68ed9a3beb989560d76bb32fc5974f9ca4f3915c8"
+    },
+    "variants/black_to_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/adaef6589f8c4d41064ca86e789e9428e0dc2f614858f73a8b81af1d6f21590e",
+      "checksum": "adaef6589f8c4d41064ca86e789e9428e0dc2f614858f73a8b81af1d6f21590e"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/52a6a5ad2ee9ad15a4c2dd3d51c4030b0460095e8aedf8e3da2f3ebdbb6da445",
+      "checksum": "52a6a5ad2ee9ad15a4c2dd3d51c4030b0460095e8aedf8e3da2f3ebdbb6da445"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7689fb1fc016e60cfd0265be9ecd3bf3ede10ff163e4589848be6a4c30e956b5",
+      "checksum": "7689fb1fc016e60cfd0265be9ecd3bf3ede10ff163e4589848be6a4c30e956b5"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b995cfb407f03ccd4ac9a36b7865a35b9270024de0cbdbddb8e5048a7e83b931",
+      "checksum": "b995cfb407f03ccd4ac9a36b7865a35b9270024de0cbdbddb8e5048a7e83b931"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "MIXED_FIRE_FEET_REMASTER",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Mixed Fire Feet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c1e39708870f7ac5366d370693dffa70eb3e26aeffd2ca0b2c1a44171f9fc79b",
+      "checksum": "c1e39708870f7ac5366d370693dffa70eb3e26aeffd2ca0b2c1a44171f9fc79b"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/3ab28942874cf3e4fd958e38304117830e80678c508663428ee02e45df5cd7c5",
+      "checksum": "3ab28942874cf3e4fd958e38304117830e80678c508663428ee02e45df5cd7c5"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/a7cb6a8423863751448ee863910551affacc12be0d5526d22fbada178e34acc4",
+      "checksum": "a7cb6a8423863751448ee863910551affacc12be0d5526d22fbada178e34acc4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/89f4eb51c0fe34fc3f01f0c2a38a4a33baa9f5c7224c6c7151af7e4b2ffe1048",
+      "checksum": "89f4eb51c0fe34fc3f01f0c2a38a4a33baa9f5c7224c6c7151af7e4b2ffe1048"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d88ee9ebb4f952a65b2efc742b6817829b3b58ab18610351d056ee70fc280375",
+      "checksum": "d88ee9ebb4f952a65b2efc742b6817829b3b58ab18610351d056ee70fc280375"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "BLADE_DRAG",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Blade Drag"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_GOTHIC",
+    "COLLECTION_MAY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 0
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/em_blade_drag_loop1.ogg": {
+      "url": "https://cdn.essential.gg/assets/a83e9038316f208cc304d27fbe9f231427abf0f2221ed02b981b4ee03d0d290b",
+      "checksum": "a83e9038316f208cc304d27fbe9f231427abf0f2221ed02b981b4ee03d0d290b"
+    },
+    "particles/dust_steady.particle.json": {
+      "url": "https://cdn.essential.gg/assets/44b87de998ff6262f5536681a267ac6389871a2d7f3b84cac585b03aa7bd735c",
+      "checksum": "44b87de998ff6262f5536681a267ac6389871a2d7f3b84cac585b03aa7bd735c"
+    },
+    "sounds/em_blade_drag_loop4.ogg": {
+      "url": "https://cdn.essential.gg/assets/b46570f9780a238733b84c5b477e8a051a0c582292421b614d7db6fb0a9a2710",
+      "checksum": "b46570f9780a238733b84c5b477e8a051a0c582292421b614d7db6fb0a9a2710"
+    },
+    "sounds/em_blade_drag_loop3.ogg": {
+      "url": "https://cdn.essential.gg/assets/241d9b8d8b7f8639bdf2bb7d6db154403adca27a21c01cd5ad98335f34a73f8e",
+      "checksum": "241d9b8d8b7f8639bdf2bb7d6db154403adca27a21c01cd5ad98335f34a73f8e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/2c884c36f2b2e49f50fbe54bfe6181789b9dc204c2d7617a71e1cbea67670137",
+      "checksum": "2c884c36f2b2e49f50fbe54bfe6181789b9dc204c2d7617a71e1cbea67670137"
+    },
+    "particles/spark_burst.particle.json": {
+      "url": "https://cdn.essential.gg/assets/5507d729bcbed8782ff95dc41c580909800698dbcc46694357a83bbf0a9fd9ea",
+      "checksum": "5507d729bcbed8782ff95dc41c580909800698dbcc46694357a83bbf0a9fd9ea"
+    },
+    "particles/spark_steady.particle.json": {
+      "url": "https://cdn.essential.gg/assets/9486a1c10de82e3240b9d62504a039e08282210eb763038f425dd5bea192cf2e",
+      "checksum": "9486a1c10de82e3240b9d62504a039e08282210eb763038f425dd5bea192cf2e"
+    },
+    "particles/dust_burst.particle.json": {
+      "url": "https://cdn.essential.gg/assets/55133f57150ec7477d32987dbf2b02c37cf28478b67c57e1dcebdb398501c9e9",
+      "checksum": "55133f57150ec7477d32987dbf2b02c37cf28478b67c57e1dcebdb398501c9e9"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/09e669bc2fc588616c7d5ca86e4b78a5807fef4a35e27d8b9cceb34fb844a2b6",
+      "checksum": "09e669bc2fc588616c7d5ca86e4b78a5807fef4a35e27d8b9cceb34fb844a2b6"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7665056a4a74eddd795c26d40a7ebbff6bec64de1afea8794af00f72310d97a4",
+      "checksum": "7665056a4a74eddd795c26d40a7ebbff6bec64de1afea8794af00f72310d97a4"
+    },
+    "sounds/em_blade_drag_loop2.ogg": {
+      "url": "https://cdn.essential.gg/assets/09c044703d7f131f113d1830e0a5f93e66c118431a430841bd26297ff1cd2976",
+      "checksum": "09c044703d7f131f113d1830e0a5f93e66c118431a430841bd26297ff1cd2976"
+    },
+    "sounds/em_blade_drag_start.ogg": {
+      "url": "https://cdn.essential.gg/assets/61b58644bb59ee4c367ead989c60e7498acd60b57b7181a321dc5b0c2ebb2205",
+      "checksum": "61b58644bb59ee4c367ead989c60e7498acd60b57b7181a321dc5b0c2ebb2205"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d5fbd6842401d0de131ce09ce8f88b7523db1c6fa58dc623e4e596653ab77050",
+      "checksum": "d5fbd6842401d0de131ce09ce8f88b7523db1c6fa58dc623e4e596653ab77050"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bb43268191771c15c725fb1b773b5124dfbb09905e72727e95f5a1333e48a4eb",
+      "checksum": "bb43268191771c15c725fb1b773b5124dfbb09905e72727e95f5a1333e48a4eb"
+    }
+  }
+}

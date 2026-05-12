@@ -1,0 +1,48 @@
+{
+  "id": "INFINITY_SUIT",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Infinity Suit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 540,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1b27a0673ae43195ebf0002611ff1e2b8972ffe9144dd15a282ca0972000ffb8",
+      "checksum": "1b27a0673ae43195ebf0002611ff1e2b8972ffe9144dd15a282ca0972000ffb8"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/47bfa8986bbcff06854058afe7a2525a63c132fd92fa5e71e90657372efd2356",
+      "checksum": "47bfa8986bbcff06854058afe7a2525a63c132fd92fa5e71e90657372efd2356"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/3307751978a2e33954b5be1549b5e98b11235227966ac9f819341923110da423",
+      "checksum": "3307751978a2e33954b5be1549b5e98b11235227966ac9f819341923110da423"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/566e7c1ad6e40455a112b536ab2004226cc29902f971b14cb09e16c82d324465",
+      "checksum": "566e7c1ad6e40455a112b536ab2004226cc29902f971b14cb09e16c82d324465"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/daccce1ed0a336fb210df5b69ca6cf826b2609ecde300d169d623f088588edb2",
+      "checksum": "daccce1ed0a336fb210df5b69ca6cf826b2609ecde300d169d623f088588edb2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2c5cf5ef610d9ac12d962817215518509275649266b0dbe4adde844c6e43eb6e",
+      "checksum": "2c5cf5ef610d9ac12d962817215518509275649266b0dbe4adde844c6e43eb6e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/4d327b1a386e167fe8519a6f3a7b908be32fda4d2f3ba7eb9c54cba761c2683c",
+      "checksum": "4d327b1a386e167fe8519a6f3a7b908be32fda4d2f3ba7eb9c54cba761c2683c"
+    }
+  }
+}

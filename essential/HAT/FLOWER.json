@@ -1,0 +1,53 @@
+{
+  "id": "FLOWER",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Flower"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_VALENTINES",
+    "THEME_CUTE",
+    "THEME_SPRING",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 21,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/orchid/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0ab0bbb02b46691bddc6b244de00642b2059cf5a756d7539962203f9cd54fc54",
+      "checksum": "0ab0bbb02b46691bddc6b244de00642b2059cf5a756d7539962203f9cd54fc54"
+    },
+    "variants/poppy/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c34cabf00cf9646808985c40ed41e85137bb719048b2b251c9ab14fbd5bcf598",
+      "checksum": "c34cabf00cf9646808985c40ed41e85137bb719048b2b251c9ab14fbd5bcf598"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/6fc73924975ae707ed090cf21cdd4c7545b97e6eaf7f9ae3e132d8b39e39e065",
+      "checksum": "6fc73924975ae707ed090cf21cdd4c7545b97e6eaf7f9ae3e132d8b39e39e065"
+    },
+    "variants/sunflower/texture.png": {
+      "url": "https://cdn.essential.gg/assets/078ec5271c36bde68a665555d4917858e5488d0a282bb5165e0bacee6a3ed7d2",
+      "checksum": "078ec5271c36bde68a665555d4917858e5488d0a282bb5165e0bacee6a3ed7d2"
+    },
+    "variants/allium/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2ceda71ded556b0d5194c1dfe916545aeac9ae6c071f8173b90a2bb66cebd425",
+      "checksum": "2ceda71ded556b0d5194c1dfe916545aeac9ae6c071f8173b90a2bb66cebd425"
+    },
+    "variants/azure/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4bb4fa1f328ae0402ad099c32adeb6e3053e887cb772fb2d212a443db02aab96",
+      "checksum": "4bb4fa1f328ae0402ad099c32adeb6e3053e887cb772fb2d212a443db02aab96"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/64e9f70c36526257d8141cf5c3743e822472684683ed0910977e55c30e30b12c",
+      "checksum": "64e9f70c36526257d8141cf5c3743e822472684683ed0910977e55c30e30b12c"
+    }
+  }
+}

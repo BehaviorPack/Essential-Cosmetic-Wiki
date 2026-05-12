@@ -1,0 +1,43 @@
+{
+  "id": "ANIME_HEADBAND",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Anime Headband"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 17,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6793ea03d17e1f842845dbd1add3bfbd86ac71ce5dab311733a513ab92a2d992",
+      "checksum": "6793ea03d17e1f842845dbd1add3bfbd86ac71ce5dab311733a513ab92a2d992"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3d50ffd2868ba07d4fd7298f26c19a5a4bd9fc4565659c8b3d7b5e3fdecac221",
+      "checksum": "3d50ffd2868ba07d4fd7298f26c19a5a4bd9fc4565659c8b3d7b5e3fdecac221"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/578491616cc856e37d61160719b55b47a5182b011ecc28b8bc54ce92d6f3de0b",
+      "checksum": "578491616cc856e37d61160719b55b47a5182b011ecc28b8bc54ce92d6f3de0b"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b69269f95a7fe24456186d5843987b115a1feb4fc6131e0c49e8eb81591c7d08",
+      "checksum": "b69269f95a7fe24456186d5843987b115a1feb4fc6131e0c49e8eb81591c7d08"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7d8269ef7c5b1fc58bcd31454aff2f67a12c82881228443fda332417eb452fdd",
+      "checksum": "7d8269ef7c5b1fc58bcd31454aff2f67a12c82881228443fda332417eb452fdd"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f0ac870fc20ba4661ce1d2e561ab24fea2cad1569ddd299a7517dc6fcad2b009",
+      "checksum": "f0ac870fc20ba4661ce1d2e561ab24fea2cad1569ddd299a7517dc6fcad2b009"
+    }
+  }
+}

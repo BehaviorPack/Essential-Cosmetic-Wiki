@@ -1,0 +1,39 @@
+{
+  "id": "SKULL_MASK",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Skull Mask"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 46,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/53d614aed2320837be0716ac14db9716e9c6c80247d150aa489e02cae69c1199",
+      "checksum": "53d614aed2320837be0716ac14db9716e9c6c80247d150aa489e02cae69c1199"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4d8deac5dc194b754f99380bd9fc9841dd97ef0b1199199b86d206e4e5b4a263",
+      "checksum": "4d8deac5dc194b754f99380bd9fc9841dd97ef0b1199199b86d206e4e5b4a263"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/41e33cfb96a27e1a6f3482a8566e3479caa91e5281f7b16105b62bdfe32634b6",
+      "checksum": "41e33cfb96a27e1a6f3482a8566e3479caa91e5281f7b16105b62bdfe32634b6"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8aef184c9dd2228c1311fbfae77865802ff0c4d142f73410afac0f0155c323f4",
+      "checksum": "8aef184c9dd2228c1311fbfae77865802ff0c4d142f73410afac0f0155c323f4"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/41e33cfb96a27e1a6f3482a8566e3479caa91e5281f7b16105b62bdfe32634b6",
+      "checksum": "41e33cfb96a27e1a6f3482a8566e3479caa91e5281f7b16105b62bdfe32634b6"
+    }
+  }
+}

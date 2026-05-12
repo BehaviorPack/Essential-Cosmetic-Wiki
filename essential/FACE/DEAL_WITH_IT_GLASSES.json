@@ -1,0 +1,36 @@
+{
+  "id": "DEAL_WITH_IT_GLASSES",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Deal With It Glasses"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 9,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a5e6748c863e43cd26a9a9153529093efe392b6ef348d20df552d037cb9fc4ce",
+      "checksum": "a5e6748c863e43cd26a9a9153529093efe392b6ef348d20df552d037cb9fc4ce"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/0148d5097ee9253c225bc9ec0be2b5df067115df3cab0854053967a51bd5a027",
+      "checksum": "0148d5097ee9253c225bc9ec0be2b5df067115df3cab0854053967a51bd5a027"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/88b1c8c5cc5d9bd6dc4f534d96a889803adddcab023f670aa0a04296d0858f5d",
+      "checksum": "88b1c8c5cc5d9bd6dc4f534d96a889803adddcab023f670aa0a04296d0858f5d"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/e3358561d407237204f9b12685f4dedd3d5ad3bcbb116755c5ecb5b20596fc32",
+      "checksum": "e3358561d407237204f9b12685f4dedd3d5ad3bcbb116755c5ecb5b20596fc32"
+    }
+  }
+}

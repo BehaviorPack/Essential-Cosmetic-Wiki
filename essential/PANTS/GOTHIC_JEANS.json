@@ -1,0 +1,51 @@
+{
+  "id": "GOTHIC_JEANS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Gothic Jeans"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK",
+    "COLLECTION_APRIL2026",
+    "THEME_Y2K",
+    "THEME_GOTHIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/black_and_grey/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c70fa4d8a2845afbb017fdea3d0862f6d84da4459fadc9457454084b0b45c90a",
+      "checksum": "c70fa4d8a2845afbb017fdea3d0862f6d84da4459fadc9457454084b0b45c90a"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/61dc7dbcfb925afbe81c1210c2642e910decd77fe520fb94935bc5ff66854d86",
+      "checksum": "61dc7dbcfb925afbe81c1210c2642e910decd77fe520fb94935bc5ff66854d86"
+    },
+    "variants/black_denim/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ca9129eec073fbea5b7d506585d9a0984edbedd4ac7a2169e08b3a7b18dca0e2",
+      "checksum": "ca9129eec073fbea5b7d506585d9a0984edbedd4ac7a2169e08b3a7b18dca0e2"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ffaa81132bd7d02a0182e6dcd93d9e9ead69011e36e0445dcf3e6520b86117f8",
+      "checksum": "ffaa81132bd7d02a0182e6dcd93d9e9ead69011e36e0445dcf3e6520b86117f8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8ff8a00e8727a56554fc7b7e067f4becda8c031828277392af431d0f3c72d88c",
+      "checksum": "8ff8a00e8727a56554fc7b7e067f4becda8c031828277392af431d0f3c72d88c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/7ac0dd6051d6905651feb6f42a3eccec998608eb84e41989f5b8db353f4de00d",
+      "checksum": "7ac0dd6051d6905651feb6f42a3eccec998608eb84e41989f5b8db353f4de00d"
+    },
+    "variants/blue_denim/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3ce2f7750fce0d79703eed7ccd3213a6ab12e25e6f66a678cf315f8ec24d041a",
+      "checksum": "3ce2f7750fce0d79703eed7ccd3213a6ab12e25e6f66a678cf315f8ec24d041a"
+    }
+  }
+}

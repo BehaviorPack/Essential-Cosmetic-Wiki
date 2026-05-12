@@ -1,0 +1,34 @@
+{
+  "id": "KYLER_PENGUIN_CAP",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Kyler\u0027s Penguin Cap"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 101,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/fb7038fe96ae3ecf5262bb1364142004c00704d4abe7c59d23b761e1f0d2e3bf",
+      "checksum": "fb7038fe96ae3ecf5262bb1364142004c00704d4abe7c59d23b761e1f0d2e3bf"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/5d6c8bfc332b9fa0841fc6860ca97530be051a8f068629141c841d24bb5ee929",
+      "checksum": "5d6c8bfc332b9fa0841fc6860ca97530be051a8f068629141c841d24bb5ee929"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/01cf507f35d9965dd23dc05faee8bbdc7d438d176e2c70d56eb185b8fc718518",
+      "checksum": "01cf507f35d9965dd23dc05faee8bbdc7d438d176e2c70d56eb185b8fc718518"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/cddecaa241d820dc94fc63fb64b40157c426219cbb66638ef007598bc79334b0",
+      "checksum": "cddecaa241d820dc94fc63fb64b40157c426219cbb66638ef007598bc79334b0"
+    }
+  }
+}

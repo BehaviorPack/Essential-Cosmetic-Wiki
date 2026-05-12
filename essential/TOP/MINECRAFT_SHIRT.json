@@ -1,0 +1,61 @@
+{
+  "id": "MINECRAFT_SHIRT",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Minecraft Shirt"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2e710dec816756378b0290c51ef66357e29ecd9b236d469cdafe6ab7c1c3ca28",
+      "checksum": "2e710dec816756378b0290c51ef66357e29ecd9b236d469cdafe6ab7c1c3ca28"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/e600806b6498079398ac35c71fb6a08bac2c198369e196239d157e1bfafecc68",
+      "checksum": "e600806b6498079398ac35c71fb6a08bac2c198369e196239d157e1bfafecc68"
+    },
+    "variants/bee_face/texture.png": {
+      "url": "https://cdn.essential.gg/assets/94f278b0811e859aef4ef8ba5c046ce2916a3c97d6f26d3b492d2f07065ae6ca",
+      "checksum": "94f278b0811e859aef4ef8ba5c046ce2916a3c97d6f26d3b492d2f07065ae6ca"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/5ce68f62e02461be54aba28f75109d68f704b3d202643641168f841efe44592b",
+      "checksum": "5ce68f62e02461be54aba28f75109d68f704b3d202643641168f841efe44592b"
+    },
+    "variants/pig_face/texture.png": {
+      "url": "https://cdn.essential.gg/assets/962398ef61eda738219dc7ae7fb4898c140db83d864d1394b1aa797cb1f639be",
+      "checksum": "962398ef61eda738219dc7ae7fb4898c140db83d864d1394b1aa797cb1f639be"
+    },
+    "variants/creeper_face/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cb4263c88c6bdfd4fbbbfed65585e71506b3c7dfcffb0e5338e475b13da3fc44",
+      "checksum": "cb4263c88c6bdfd4fbbbfed65585e71506b3c7dfcffb0e5338e475b13da3fc44"
+    },
+    "variants/grass_block/texture.png": {
+      "url": "https://cdn.essential.gg/assets/914577a917506e6b55425423b22fb9206e0529678b5e3c298c59e9ce8b6c57ac",
+      "checksum": "914577a917506e6b55425423b22fb9206e0529678b5e3c298c59e9ce8b6c57ac"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/584288b8e201654e8747faf74cee66c91781a94d9616a095fab29fc478fa3158",
+      "checksum": "584288b8e201654e8747faf74cee66c91781a94d9616a095fab29fc478fa3158"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/72189480892c7d5c918e693fc8c177e91fb2c594e6ef9f7577e733460507ddb2",
+      "checksum": "72189480892c7d5c918e693fc8c177e91fb2c594e6ef9f7577e733460507ddb2"
+    },
+    "variants/enderman_face/texture.png": {
+      "url": "https://cdn.essential.gg/assets/934d261e55fa11dbec03faf92743c005df59c5de361156e549e415654f6cbefd",
+      "checksum": "934d261e55fa11dbec03faf92743c005df59c5de361156e549e415654f6cbefd"
+    }
+  }
+}

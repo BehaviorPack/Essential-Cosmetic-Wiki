@@ -1,0 +1,34 @@
+{
+  "id": "BITZEL_SOCK_MONKEY",
+  "type": "SHOULDERS",
+  "displayNames": {
+    "en_us": "Bitzel\u0027s Sock Monkey"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "SHOULDERS": 20
+  },
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ec4bed71ff77648a9a3d349e9cce0ec6e616fe8033e18eef7e66e7232ba07cab",
+      "checksum": "ec4bed71ff77648a9a3d349e9cce0ec6e616fe8033e18eef7e66e7232ba07cab"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/e5f320490db942f5e8e3f30d61fc61cf4dcda9a20119b818dffaf8d4fc885edc",
+      "checksum": "e5f320490db942f5e8e3f30d61fc61cf4dcda9a20119b818dffaf8d4fc885edc"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/45d402a28c89e4f49afe48730ca00f1d97512a688afd0748ef6fc3e847fa3299",
+      "checksum": "45d402a28c89e4f49afe48730ca00f1d97512a688afd0748ef6fc3e847fa3299"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2291d36b581d6cea5bcc3cb3c4b1d5fb43af8373f6606576a640d90fc92c83e0",
+      "checksum": "2291d36b581d6cea5bcc3cb3c4b1d5fb43af8373f6606576a640d90fc92c83e0"
+    }
+  }
+}

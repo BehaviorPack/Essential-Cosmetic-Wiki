@@ -1,0 +1,34 @@
+{
+  "id": "SUPER_TALL_COWBOY_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Super Tall Cowboy Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 107,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/78d5deb92b7510a956d074e1c1d32d7c5d9e733ac3ecb51740ab71d99fe7753d",
+      "checksum": "78d5deb92b7510a956d074e1c1d32d7c5d9e733ac3ecb51740ab71d99fe7753d"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/88735d99ad64c83bac350afeb72c230d598c273cb49bfac18daaaaa1899971ce",
+      "checksum": "88735d99ad64c83bac350afeb72c230d598c273cb49bfac18daaaaa1899971ce"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a318016f585e8e56d8c2c83b833f3ad85fcd553824247863889d5ca6dadb869e",
+      "checksum": "a318016f585e8e56d8c2c83b833f3ad85fcd553824247863889d5ca6dadb869e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f",
+      "checksum": "af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SHORT_BEARD",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Short Beard"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAIR": 20
+  },
+  "defaultSortWeight": 7,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a505df60f63a55792d044ab38fa044556f67361b2e416ff47e597c9011b774aa",
+      "checksum": "a505df60f63a55792d044ab38fa044556f67361b2e416ff47e597c9011b774aa"
+    },
+    "variants/brunette/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2129f7f61ff7359a96a2806aea2bb865b0ecc2453357c86935221dbf0a626663",
+      "checksum": "2129f7f61ff7359a96a2806aea2bb865b0ecc2453357c86935221dbf0a626663"
+    },
+    "variants/blonde/texture.png": {
+      "url": "https://cdn.essential.gg/assets/afc601c29a966ff9b2b3a9816f7f4bbc8f5c32ac6f680d766081e9233874f761",
+      "checksum": "afc601c29a966ff9b2b3a9816f7f4bbc8f5c32ac6f680d766081e9233874f761"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c0b40ae192c732afe304346f909ae114fe56cf194306b60fa98ef433869c40e9",
+      "checksum": "c0b40ae192c732afe304346f909ae114fe56cf194306b60fa98ef433869c40e9"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fc7b7525b3b1f8072aab6cd4dedd24e5c973f7904ad131576890bbb101f972ea",
+      "checksum": "fc7b7525b3b1f8072aab6cd4dedd24e5c973f7904ad131576890bbb101f972ea"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2c8259b17d2026e7837c9e2d5172b9537a70063eeca850952587d823c126669f",
+      "checksum": "2c8259b17d2026e7837c9e2d5172b9537a70063eeca850952587d823c126669f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/14b013356a20e1e80c272ca2940bb84f9a7bdea290b6afb88c2bcc9007f207f2",
+      "checksum": "14b013356a20e1e80c272ca2940bb84f9a7bdea290b6afb88c2bcc9007f207f2"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/17b4af542ea93a8ab360ae96a330004d033d9b5db776216a1c5b66b6c55c6476",
+      "checksum": "17b4af542ea93a8ab360ae96a330004d033d9b5db776216a1c5b66b6c55c6476"
+    }
+  }
+}

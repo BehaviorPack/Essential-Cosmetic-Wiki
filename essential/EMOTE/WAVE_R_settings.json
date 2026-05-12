@@ -1,0 +1,10 @@
+[
+  {
+    "type": "TRANSITION_DELAY",
+    "id": "WAVE",
+    "enabled": true,
+    "data": {
+      "time": 150
+    }
+  }
+]

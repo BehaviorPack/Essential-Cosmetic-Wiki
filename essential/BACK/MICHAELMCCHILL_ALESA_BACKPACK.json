@@ -1,0 +1,39 @@
+{
+  "id": "MICHAELMCCHILL_ALESA_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Michaelmcchill\u0027s Alesa Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 108,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8df7af2c49ef3626a8b7b16e69bef65ba1bafd6d51c1088aaa9eb26d3f0ccead",
+      "checksum": "8df7af2c49ef3626a8b7b16e69bef65ba1bafd6d51c1088aaa9eb26d3f0ccead"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/6e1a894928146419172f66986e9207d0a073b09e24049001245f72b513d2f3a1",
+      "checksum": "6e1a894928146419172f66986e9207d0a073b09e24049001245f72b513d2f3a1"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/3b53acaea5f4175501a654ea3aa37cc02bd6c703e8e8463c3d76c21a74af3b93",
+      "checksum": "3b53acaea5f4175501a654ea3aa37cc02bd6c703e8e8463c3d76c21a74af3b93"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6374f45436648828bce4535280bf78133a18ba7dca3cd355e9813ec38b79d234",
+      "checksum": "6374f45436648828bce4535280bf78133a18ba7dca3cd355e9813ec38b79d234"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/cd95aff3631ab7494da1b821f020cd78388581c0e125198a84c690b59367d3dc",
+      "checksum": "cd95aff3631ab7494da1b821f020cd78388581c0e125198a84c690b59367d3dc"
+    }
+  }
+}

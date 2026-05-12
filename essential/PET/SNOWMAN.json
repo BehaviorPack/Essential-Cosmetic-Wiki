@@ -1,0 +1,49 @@
+{
+  "id": "SNOWMAN",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Snowman"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PETS": 20
+  },
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/23e3c222fb3d52b37a8bdea57d6d6281cd554015e520ed268eaf5f0e695e5808",
+      "checksum": "23e3c222fb3d52b37a8bdea57d6d6281cd554015e520ed268eaf5f0e695e5808"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/31e6c32a742a64d0f7f4e905f5846fdccbcbf8b5931cfc153f63f0e33ecacf99",
+      "checksum": "31e6c32a742a64d0f7f4e905f5846fdccbcbf8b5931cfc153f63f0e33ecacf99"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/813900afb30beaae2fd7942ac47f5c78dda247a71b6b2d9b0e7ded6cb92dbf60",
+      "checksum": "813900afb30beaae2fd7942ac47f5c78dda247a71b6b2d9b0e7ded6cb92dbf60"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/66411a5957d5db619094ef76a7843267dea41117bbfc4143f419538050750b84",
+      "checksum": "66411a5957d5db619094ef76a7843267dea41117bbfc4143f419538050750b84"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/67997637a90979a327c5db1ef4e1e2ad63ce7cf1298de6b900ba67adf777e8a5",
+      "checksum": "67997637a90979a327c5db1ef4e1e2ad63ce7cf1298de6b900ba67adf777e8a5"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fdf1cbcd2ca0f3396d1196e30e197608fe80386edfe312c4451d425f9334c3d1",
+      "checksum": "fdf1cbcd2ca0f3396d1196e30e197608fe80386edfe312c4451d425f9334c3d1"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4d876ab8fd55f3815166dbd2daa1c44bd6286d8a8a1a24f1fafe896eb22a5f73",
+      "checksum": "4d876ab8fd55f3815166dbd2daa1c44bd6286d8a8a1a24f1fafe896eb22a5f73"
+    }
+  }
+}

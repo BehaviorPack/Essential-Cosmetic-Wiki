@@ -1,0 +1,47 @@
+{
+  "id": "SCARY_FACE_TAKEOVER",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Scary Takeover"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HORROR",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 130,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/131212dbe8e2289dda79cfbbe8f8703340cf0ea2233783f21da8d758d60a379d",
+      "checksum": "131212dbe8e2289dda79cfbbe8f8703340cf0ea2233783f21da8d758d60a379d"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/df725bb82c829c34bc8c87f83cd87b9d77957bfc272515500dddf7e05b0480de",
+      "checksum": "df725bb82c829c34bc8c87f83cd87b9d77957bfc272515500dddf7e05b0480de"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/21a567bf6f104648e53279c34dca25b0f09ce4cd07fdda0b90691af01804f77c",
+      "checksum": "21a567bf6f104648e53279c34dca25b0f09ce4cd07fdda0b90691af01804f77c"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/38d5ffdd0db319b8a2ba8af8d4c99c0ef43c1f3d5f5d0283abe6929192fcc256",
+      "checksum": "38d5ffdd0db319b8a2ba8af8d4c99c0ef43c1f3d5f5d0283abe6929192fcc256"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c7e679edb240c882cde5e44ff5cc1bb1e6f431dda97c02805300b433bf1fd89b",
+      "checksum": "c7e679edb240c882cde5e44ff5cc1bb1e6f431dda97c02805300b433bf1fd89b"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/45fba81da8df5ab3d1f440e743f880057093825bc7ec92c522872db69c06c3f9",
+      "checksum": "45fba81da8df5ab3d1f440e743f880057093825bc7ec92c522872db69c06c3f9"
+    }
+  }
+}

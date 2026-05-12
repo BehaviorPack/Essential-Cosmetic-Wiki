@@ -1,0 +1,50 @@
+{
+  "id": "SUN_SPIRIT_STAFF",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Sun Spirit Staff"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/orange_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/86f7341ad08b3eee296cf34ef4bb001e0ab9f832e50ddfeda87ae92645d5306e",
+      "checksum": "86f7341ad08b3eee296cf34ef4bb001e0ab9f832e50ddfeda87ae92645d5306e"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7bfc1178d27d13e78078721f4c9f8178ec60cdf20e5d69714756c0f0536c4af4",
+      "checksum": "7bfc1178d27d13e78078721f4c9f8178ec60cdf20e5d69714756c0f0536c4af4"
+    },
+    "variants/soulfire_blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/85c1e24a70d02e9e677d0be4d6f9cd6a3f8eae1d2206c49c15382de16c64bacc",
+      "checksum": "85c1e24a70d02e9e677d0be4d6f9cd6a3f8eae1d2206c49c15382de16c64bacc"
+    },
+    "variants/soulfire_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/62a57d7898eb5802a90e9064bfff72935990e27705fc69217d0af014075605ab",
+      "checksum": "62a57d7898eb5802a90e9064bfff72935990e27705fc69217d0af014075605ab"
+    },
+    "variants/fire_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0ab1aacc752f45303465aa6e49a207bdb20f7f89f79cd3bb1c7a92da611d9559",
+      "checksum": "0ab1aacc752f45303465aa6e49a207bdb20f7f89f79cd3bb1c7a92da611d9559"
+    },
+    "variants/fire_red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/04a2001beab9de414d02e5c9b9b834568a9f25d9c6b461c7ea284b10cd9c1364",
+      "checksum": "04a2001beab9de414d02e5c9b9b834568a9f25d9c6b461c7ea284b10cd9c1364"
+    },
+    "variants/orange_red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1a35f9facd9bd4fa0e320c23631ff1769d2a3f4f5219f00536004a0e9e5dbc88",
+      "checksum": "1a35f9facd9bd4fa0e320c23631ff1769d2a3f4f5219f00536004a0e9e5dbc88"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/67dde8ad134201c3d72647062a0c7bd6c9c391c15535d2cb89c366f14ad55e3c",
+      "checksum": "67dde8ad134201c3d72647062a0c7bd6c9c391c15535d2cb89c366f14ad55e3c"
+    }
+  }
+}

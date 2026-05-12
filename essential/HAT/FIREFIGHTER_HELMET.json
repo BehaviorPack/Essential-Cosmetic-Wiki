@@ -1,0 +1,38 @@
+{
+  "id": "FIREFIGHTER_HELMET",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Firefighter Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_CITY",
+    "THEME_ROLEPLAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 28,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f8b6db2f1bb36667c2d45b578c5c6a1db0d67779c33b32fa0b05ce6ae5e4962a",
+      "checksum": "f8b6db2f1bb36667c2d45b578c5c6a1db0d67779c33b32fa0b05ce6ae5e4962a"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/fef2d8c7532470dc07c8362f2c5e6c4ce9e50ace72ac7621bdeb5339a6518511",
+      "checksum": "fef2d8c7532470dc07c8362f2c5e6c4ce9e50ace72ac7621bdeb5339a6518511"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3a17e5c6c1a58836e7c14b9375049a8d8e7c225eeef782d108f7f4e1a9b20ced",
+      "checksum": "3a17e5c6c1a58836e7c14b9375049a8d8e7c225eeef782d108f7f4e1a9b20ced"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761",
+      "checksum": "0dea9def5090154ed4a788cb716c9b68e3413e76a38c47ea5f84cc1269bf6761"
+    }
+  }
+}
