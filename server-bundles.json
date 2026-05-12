@@ -1,35 +1,5 @@
 [
   {
-    "id": "DEFAULT_FEB2026_COSMICDRAGON",
-    "source": "infra-add-bundle",
-    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
-    "name": "The Ender Abomination",
-    "tier": "LEGENDARY",
-    "discount": 65.0,
-    "rotateOnPreview": true,
-    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@42047573",
-    "cosmetics": {
-      "FULL_BODY": "MAGMA_ARMOR",
-      "EFFECT": "ENDERMAN",
-      "BACK": "ENDER_EXCALIBUR",
-      "HEAD": "ANIMATRONIC_HEAD",
-      "WINGS": "ENDER_ARMS",
-      "EMOTE": "ENDER_ASCENSION"
-    },
-    "settings": {
-      "MAGMA_ARMOR": [
-        {
-          "id": "MAGMA_ARMOR",
-          "type": "VARIANT",
-          "enabled": true,
-          "data": {
-            "variant": "crying_obsidian"
-          }
-        }
-      ]
-    }
-  },
-  {
     "id": "GOTHIC_KNIGHT_RED",
     "source": "infra-add-bundle",
     "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",

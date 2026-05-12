@@ -413,7 +413,7 @@
       .card {
         background: var(--card);
         border: 2px solid transparent;
-        border-radius: 6px;
+        /* border-radius: 6px; */
         overflow: hidden;
         cursor: pointer;
         animation: pop 0.2s ease both;
@@ -643,24 +643,19 @@
       /* ── BUNDLE PANELS ───────────────────────────────────────────────── */
 
       .grid.bundles-layout {
-        grid-template-columns: 1fr !important;
+        grid-template-columns: 1fr 1fr !important;
         gap: 16px;
       }
 
       .bundle-panel {
         background: var(--card);
-        border-radius: 6px;
         overflow: hidden;
         display: flex;
         flex-direction: column;
         animation: pop 0.22s ease both;
         border: 1px solid rgba(255,255,255,0.07);
-        max-width: 700px;
       }
-      .bundle-panel.tier-LEGENDARY { border-color: rgba(245,200,66,0.18); }
-      .bundle-panel.tier-EPIC      { border-color: rgba(193,96,240,0.18); }
-      .bundle-panel.tier-RARE      { border-color: rgba(77,158,245,0.18); }
-      .bundle-panel.tier-UNCOMMON  { border-color: rgba(62,207,122,0.18); }
+
 
       /* Centered title bar */
       .bundle-panel-title-bar {
@@ -696,13 +691,8 @@
         overflow: hidden;
         height: 160px;
         min-height: 160px;
+        background: #0e0e0e;
       }
-      /* tier-tinted backgrounds */
-      .bundle-panel.tier-LEGENDARY .bundle-viewer-wrap { background: linear-gradient(170deg,#131000,#1c1602); }
-      .bundle-panel.tier-EPIC      .bundle-viewer-wrap { background: linear-gradient(170deg,#0e0917,#16091e); }
-      .bundle-panel.tier-RARE      .bundle-viewer-wrap { background: linear-gradient(170deg,#050d1a,#081322); }
-      .bundle-panel.tier-UNCOMMON  .bundle-viewer-wrap { background: linear-gradient(170deg,#061410,#091b14); }
-      .bundle-panel.tier-COMMON    .bundle-viewer-wrap { background: #0e0e0e; }
 
       .bundle-viewer-placeholder {
         width: 100%;
@@ -720,7 +710,7 @@
       }
       .bundle-viewer-placeholder svg { opacity: 0.5; }
       .bundle-viewer-wrap img {
-        max-width: 100%;
+        /* max-width: 100%; */
         max-height: 100%;
         object-fit: contain;
         image-rendering: pixelated;
@@ -771,17 +761,9 @@
         position: relative;
         background: #222;
       }
-      /* Subtle per-cosmetic tier tint — reuse card gradients */
-      .bundle-cosm-cell.slot-EMOTE   .bundle-cosm-img { background: linear-gradient(160deg,#1a1200,#221700); }
-      .bundle-cosm-cell.slot-EFFECT  .bundle-cosm-img { background: linear-gradient(160deg,#100819,#180b22); }
-      .bundle-cosm-cell.slot-PET     .bundle-cosm-img { background: linear-gradient(160deg,#130b1e,#1c1028); }
-      .bundle-cosm-cell.slot-WINGS   .bundle-cosm-img { background: linear-gradient(160deg,#0d1a0d,#0f2010); }
-      .bundle-cosm-cell.slot-BACK    .bundle-cosm-img { background: linear-gradient(160deg,#141414,#1c1c1c); }
-      .bundle-cosm-cell.slot-HEAD    .bundle-cosm-img { background: linear-gradient(160deg,#141414,#1c1c1c); }
-      .bundle-cosm-cell.slot-FULL_BODY .bundle-cosm-img { background: linear-gradient(160deg,#0a0f14,#111820); }
 
       .bundle-cosm-img img {
-        max-width: 100%;
+        /* max-width: 100%; */
         max-height: 100%;
         object-fit: contain;
         image-rendering: pixelated;
@@ -1777,12 +1759,11 @@
       };
 
       function buildBundleCard(bundle, idx) {
-        const tier = bundle.tier || "COMMON";
         const bundleId = bundle.id;
         const pngSrc = `./bundles/${bundleId}.png`;
 
         const panel = document.createElement("div");
-        panel.className = `bundle-panel tier-${tier}`;
+        panel.className = `bundle-panel`;
         panel.style.animationDelay = `${(idx % 20) * 18}ms`;
 
         // Title bar
@@ -1827,6 +1808,21 @@
           slot === "EMOTE" || settingsKeys.includes(cosmeticId)
         );
 
+        const TIER_BG = {
+          LEGENDARY: "rgba(245,200,66,0.08)",
+          EPIC:      "rgba(193,96,240,0.08)",
+          RARE:      "rgba(77,158,245,0.08)",
+          UNCOMMON:  "rgba(62,207,122,0.08)",
+          COMMON:    "rgba(136,153,187,0.05)",
+        };
+        const TIER_IMG_BG = {
+          LEGENDARY: "linear-gradient(170deg,#131000,#1c1602)",
+          EPIC:      "linear-gradient(170deg,#0e0917,#16091e)",
+          RARE:      "linear-gradient(170deg,#050d1a,#081322)",
+          UNCOMMON:  "linear-gradient(170deg,#061410,#091b14)",
+          COMMON:    "#0e0e0e",
+        };
+
         cosmetics.forEach(([slot, cosmeticId]) => {
           const variantSettings = (bundle.settings?.[cosmeticId] || []).find(s => s.type === "VARIANT");
           const variant = variantSettings?.data?.variant;
@@ -1834,12 +1830,15 @@
           const vBase = variant ? `${base}_${variant}` : base;
           const _cosm = allCosmetics.find(c => c.id === cosmeticId);
           const cosmeticName = _cosm?.displayNames?.en_us || formatName(cosmeticId);
+          const cosmeticTier = _cosm?.tier || "COMMON";
 
           const cell = document.createElement("div");
           cell.className = `bundle-cosm-cell slot-${slot}`;
+          cell.style.background = TIER_BG[cosmeticTier] || TIER_BG.COMMON;
 
           const imgWrap = document.createElement("div");
           imgWrap.className = "bundle-cosm-img";
+          imgWrap.style.background = TIER_IMG_BG[cosmeticTier] || TIER_IMG_BG.COMMON;
 
           const img = document.createElement("img");
           img.alt = cosmeticName;
@@ -1870,14 +1869,13 @@
       }
 
             function openBundleModal(bundle) {
-        const tier = bundle.tier || "COMMON";
         const hero = document.getElementById("modalHero");
         hero.querySelectorAll("img").forEach((i) => i.remove());
         document.getElementById("heroFallback").textContent = "🎁";
 
         const badge = document.getElementById("modalTierBadge");
-        badge.textContent = tier.charAt(0) + tier.slice(1).toLowerCase();
-        badge.className = `modal-tier tier-${tier}`;
+        badge.textContent = "";
+        badge.className = "";
 
         document.getElementById("modalName").textContent = bundle.name;
         document.getElementById("modalSub").textContent = `Bundle · ${bundle.id}`;
@@ -1909,7 +1907,7 @@
           for (const [cosmeticId, settingsArr] of Object.entries(bundle.settings)) {
             settingsArr.forEach((s) => {
               if (s.type === "VARIANT" && s.data?.variant) {
-                html += `<span style="background:rgba(52,211,153,0.1);border:1px solid rgba(52,211,153,0.22);color:#34d399;font-size:0.67rem;font-weight:700;padding:2px 9px;border-radius:3px">${cosmeticId}: ${s.data.variant}</span>`;
+                html += `<span style="background:rgba(245,166,35,0.1);border:1px solid rgba(245,166,35,0.25);color:var(--cosmetics);font-size:0.67rem;font-weight:700;padding:2px 9px;border-radius:3px">${cosmeticId}: ${s.data.variant}</span>`;
               }
             });
           }
