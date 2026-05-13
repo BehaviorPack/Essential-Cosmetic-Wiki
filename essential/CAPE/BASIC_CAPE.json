@@ -1,0 +1,44 @@
+{
+  "id": "BASIC_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Basic Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8ed98250f7e717ca2acbcf64586e7e390808856830923bc07d5aa726f1e5e63c",
+      "checksum": "8ed98250f7e717ca2acbcf64586e7e390808856830923bc07d5aa726f1e5e63c"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/16c7292236667af982c0da9b8f5c89950117e76c9ef89f6897963510e5c8cdf1",
+      "checksum": "16c7292236667af982c0da9b8f5c89950117e76c9ef89f6897963510e5c8cdf1"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/34a6d06d277c9d38039363279236c9886195f7c01056a6b709ff91745808d666",
+      "checksum": "34a6d06d277c9d38039363279236c9886195f7c01056a6b709ff91745808d666"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5c8e651ff7499c98be881757b89640bd65dbe3ac13ebd273cb0d6d366a474ae3",
+      "checksum": "5c8e651ff7499c98be881757b89640bd65dbe3ac13ebd273cb0d6d366a474ae3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/25d14e1a06bb1e8b5d46c2ece9292a048267c6954ed6f2bce361af2be5ac524a",
+      "checksum": "25d14e1a06bb1e8b5d46c2ece9292a048267c6954ed6f2bce361af2be5ac524a"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2159e39b1fdf5eac0b3acdc19c4ccc9d3c3e44b8aa921de6cb89582d18065615",
+      "checksum": "2159e39b1fdf5eac0b3acdc19c4ccc9d3c3e44b8aa921de6cb89582d18065615"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c39dfe7d47131679c49f0c4554acadba59ff47c47de8fc2efa2c783b248def27",
+      "checksum": "c39dfe7d47131679c49f0c4554acadba59ff47c47de8fc2efa2c783b248def27"
+    }
+  }
+}
