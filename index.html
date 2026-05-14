@@ -2789,9 +2789,9 @@
         const price = cosmetic.priceCoins;
         if (price === undefined || price === null) return "";
         if (price === 0) {
-          return `<div class="price-chip free"><span class="price-chip-icon"><img src="./essential/icon/BASE_ICON.png" style="width:14px;height:14px;object-fit:contain;image-rendering:pixelated;vertical-align:middle"></span><span class="price-chip-val">Free</span></div>`;
+          return `<div class="price-chip free"><span class="price-chip-icon"><img src="./essential/ICON/BASE_ICON.png" style="width:14px;height:14px;object-fit:contain;image-rendering:pixelated;vertical-align:middle"></span><span class="price-chip-val">Free</span></div>`;
         }
-        return `<div class="price-chip"><span class="price-chip-icon"><img src="./essential/icon/BASE_ICON.png" style="width:14px;height:14px;object-fit:contain;image-rendering:pixelated;vertical-align:middle"></span><span class="price-chip-val">${price.toLocaleString()}</span><span class="price-chip-label">coins</span></div>`;
+        return `<div class="price-chip"><span class="price-chip-icon"><img src="./essential/ICON/BASE_ICON.png" style="width:14px;height:14px;object-fit:contain;image-rendering:pixelated;vertical-align:middle"></span><span class="price-chip-val">${price.toLocaleString()}</span><span class="price-chip-label">coins</span></div>`;
       }
 
       // ── MODAL ────────────────────────────────────────────────────────────
@@ -3047,11 +3047,13 @@
         try {
           const mr = await fetch("./manifest.json");
           if (mr.ok) manifest = await mr.json();
-        } catch { /* no manifest */ }
+        } catch {
+          /* no manifest */
+        }
 
         const fetches = [];
         CATEGORIES.forEach((cat) => {
-          for (const id of (manifest[cat] || [])) {
+          for (const id of manifest[cat] || []) {
             fetches.push(
               fetch(`./essential/${cat}/${id}.json`)
                 .then((r) => (r.ok ? r.json() : null))
