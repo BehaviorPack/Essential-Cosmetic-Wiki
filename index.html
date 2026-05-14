@@ -1,9 +1,44 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Essential — Wardrobe</title>
+    <meta
+      name="description"
+      content="Enhance your Minecraft character with a variety of free and premium Essential Mod exclusive cosmetics. Learn how to get cosmetics, customize them, and even gift them to friends."
+    />
+    <meta name="keywords" content="Essential Mod, Cosmetics, Capes, Outfits, Character Creator" />
+    <link rel="canonical" href="https://behaviorpack.github.io/Essential-Cosmetic-Wiki/" />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="BehaviorPack" />
+    <meta property="og:site_name" content="Wiki - Cosmetics | Essential Mod" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Wiki - Cosmetics | Essential Mod" />
+    <meta
+      property="og:description"
+      content="Enhance your Minecraft character with a variety of free and premium Essential Mod exclusive cosmetics. Learn how to get cosmetics, customize them, and even gift them to friends."
+    />
+    <meta property="og:url" content="https://behaviorpack.github.io/Essential-Cosmetic-Wiki/" />
+    <meta property="og:image" content="https://behaviorpack.github.io/Essential-Cosmetic-Wiki/thumbnail.png" />
+    <meta property="og:image:width" content="1920" />
+    <meta property="og:image:height" content="1080" />
+    <meta property="og:image:alt" content="$####################%" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:domain" content="behaviorpack.github.io" />
+    <meta name="twitter:title" content="Wiki - Cosmetics | Essential Mod" />
+    <meta
+      name="twitter:description"
+      content="Enhance your Minecraft character with a variety of free and premium Essential Mod exclusive cosmetics. Learn how to get cosmetics, customize them, and even gift them to friends."
+    />
+    <meta name="twitter:image" content="https://behaviorpack.github.io/Essential-Cosmetic-Wiki/thumbnail.png" />
+    <meta name="twitter:image:alt" content="$####################%" />
+    <meta name="twitter:site" content="@BehaviorPack" />
+    <meta name="twitter:creator" content="@BehaviorPack" />
+    <link href="https://behaviorpack.github.io/Essential-Cosmetic-Wiki/" hreflang="x-default" rel="alternate" />
+    <meta name="theme-color" content="#1D68FF" />
+    <title>Wiki - Cosmetics | Essential Mod</title>
     <link
       href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
@@ -32,6 +67,7 @@
         --collections: #a78bfa;
         --legacy: #e07b54;
         --bundles: #34d399;
+        --tags: #e879f9;
         --text: #e8e8e8;
         --text-2: #a0a0a0;
         --text-3: #606060;
@@ -201,7 +237,82 @@
         color: var(--text-3);
       }
 
-      /* ── LAYOUT ── */
+      /* ── SORT DROPDOWN ── */
+      .sort-wrap {
+        position: relative;
+      }
+      .sort-btn {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        background: rgba(255, 255, 255, 0.06);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        color: var(--text-2);
+        font-family: "Nunito", sans-serif;
+        font-size: 0.72rem;
+        font-weight: 700;
+        padding: 5px 10px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: all 0.12s;
+        white-space: nowrap;
+      }
+      .sort-btn:hover {
+        background: rgba(255, 255, 255, 0.1);
+        color: var(--text);
+      }
+      .sort-btn svg {
+        opacity: 0.5;
+      }
+      .sort-dropdown {
+        display: none;
+        position: absolute;
+        top: calc(100% + 6px);
+        right: 0;
+        background: #2a2a2a;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 6px;
+        overflow: hidden;
+        min-width: 150px;
+        z-index: 300;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+      }
+      .sort-wrap.open .sort-dropdown {
+        display: block;
+      }
+      .sort-option {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 12px;
+        font-family: "Nunito", sans-serif;
+        font-size: 0.72rem;
+        font-weight: 700;
+        color: var(--text-2);
+        background: none;
+        border: none;
+        width: 100%;
+        text-align: left;
+        cursor: pointer;
+        transition:
+          background 0.1s,
+          color 0.1s;
+      }
+      .sort-option:hover {
+        background: rgba(255, 255, 255, 0.06);
+        color: var(--text);
+      }
+      .sort-option.active {
+        color: var(--accent);
+      }
+      .sort-option .sort-check {
+        opacity: 0;
+        width: 10px;
+        flex-shrink: 0;
+      }
+      .sort-option.active .sort-check {
+        opacity: 1;
+      }
       .layout {
         display: flex;
         padding-top: var(--top-bar-h);
@@ -277,6 +388,9 @@
       .nav-bundles.active::before {
         background: var(--bundles);
       }
+      .nav-tags.active::before {
+        background: var(--tags);
+      }
 
       .nav-icon {
         font-size: 0.85rem;
@@ -299,6 +413,9 @@
       }
       .nav-bundles .nav-icon {
         color: var(--bundles);
+      }
+      .nav-tags .nav-icon {
+        color: var(--tags);
       }
 
       .nav-chevron {
@@ -639,6 +756,9 @@
       .card-owned-check.check-yellow {
         color: #c8b400;
       }
+      .card-owned-check.check-blue {
+        font-size: 0.75rem;
+      }
 
       /* ── BUNDLE PANELS ───────────────────────────────────────────────── */
 
@@ -653,9 +773,8 @@
         display: flex;
         flex-direction: column;
         animation: pop 0.22s ease both;
-        border: 1px solid rgba(255,255,255,0.07);
+        border: 1px solid rgba(255, 255, 255, 0.07);
       }
-
 
       /* Centered title bar */
       .bundle-panel-title-bar {
@@ -665,7 +784,7 @@
         color: var(--text-2);
         text-align: center;
         letter-spacing: 0.01em;
-        border-bottom: 1px solid rgba(255,255,255,0.06);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.06);
       }
 
       /* Body row */
@@ -683,7 +802,7 @@
         position: relative;
         display: flex;
         flex-direction: column;
-        border-right: 1px solid rgba(255,255,255,0.06);
+        border-right: 1px solid rgba(255, 255, 255, 0.06);
       }
       .bundle-viewer-wrap {
         flex: 1;
@@ -708,7 +827,9 @@
         gap: 8px;
         opacity: 0.45;
       }
-      .bundle-viewer-placeholder svg { opacity: 0.5; }
+      .bundle-viewer-placeholder svg {
+        opacity: 0.5;
+      }
       .bundle-viewer-wrap img {
         /* max-width: 100%; */
         max-height: 100%;
@@ -720,8 +841,8 @@
       /* FREE + name footer */
       .bundle-preview-footer {
         padding: 6px 10px 7px;
-        border-top: 1px solid rgba(255,255,255,0.06);
-        background: rgba(0,0,0,0.35);
+        border-top: 1px solid rgba(255, 255, 255, 0.06);
+        background: rgba(0, 0, 0, 0.35);
       }
       .bundle-preview-name {
         font-size: 0.75rem;
@@ -746,11 +867,15 @@
         display: flex;
         flex-direction: column;
         position: relative;
-        border-right: 1px solid rgba(255,255,255,0.05);
-        border-bottom: 1px solid rgba(255,255,255,0.05);
+        border-right: 1px solid rgba(255, 255, 255, 0.05);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
       }
-      .bundle-cosm-cell:nth-child(2n) { border-right: none; }
-      .bundle-cosm-cell:hover { background: var(--card-hover); }
+      .bundle-cosm-cell:nth-child(2n) {
+        border-right: none;
+      }
+      .bundle-cosm-cell:hover {
+        background: var(--card-hover);
+      }
 
       .bundle-cosm-img {
         height: 200px;
@@ -790,7 +915,7 @@
       }
       .bundle-cosm-info {
         padding: 4px 8px 5px;
-        border-top: 1px solid rgba(255,255,255,0.04);
+        border-top: 1px solid rgba(255, 255, 255, 0.04);
       }
       .bundle-cosm-name {
         font-size: 0.67rem;
@@ -812,8 +937,8 @@
         display: flex;
         align-items: center;
         gap: 8px;
-        background: rgba(255,255,255,0.03);
-        border: 1px solid rgba(255,255,255,0.06);
+        background: rgba(255, 255, 255, 0.03);
+        border: 1px solid rgba(255, 255, 255, 0.06);
         border-radius: 4px;
         padding: 6px 10px;
       }
@@ -831,7 +956,7 @@
         color: var(--text-2);
       }
 
-            /* EMPTY */
+      /* EMPTY */
       .empty {
         grid-column: 1/-1;
         text-align: center;
@@ -907,8 +1032,8 @@
         border: 1px solid rgba(255, 255, 255, 0.1);
         border-radius: 10px;
         width: 100%;
-        max-width: 500px;
-        max-height: 86vh;
+        max-width: 640px;
+        max-height: 88vh;
         overflow-y: auto;
         transform: scale(0.97) translateY(10px);
         transition: transform 0.2s;
@@ -916,6 +1041,301 @@
       }
       .overlay.open .modal {
         transform: scale(1) translateY(0);
+      }
+
+      /* ── WIKI UNLOCK BANNER ── */
+      .wiki-unlock-banner {
+        display: flex;
+        align-items: flex-start;
+        gap: 8px;
+        background: rgba(91, 155, 213, 0.08);
+        border: 1px solid rgba(91, 155, 213, 0.22);
+        border-radius: 6px;
+        padding: 10px 14px;
+        font-size: 0.76rem;
+        font-weight: 600;
+        color: var(--accent);
+        line-height: 1.5;
+        margin-bottom: 10px;
+      }
+      .wiki-unlock-banner strong {
+        font-weight: 800;
+      }
+
+      /* ── WIKI THUMBNAIL ── */
+      .wiki-thumbnail-wrap {
+        border-radius: 6px;
+        overflow: hidden;
+        margin-bottom: 4px;
+        border: 1px solid rgba(255, 255, 255, 0.07);
+        background: #111;
+      }
+      .wiki-thumbnail {
+        width: 100%;
+        display: block;
+        object-fit: cover;
+        image-rendering: auto;
+      }
+
+      /* ── WIKI IMAGE GALLERY ── */
+      .wiki-gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+        gap: 8px;
+        margin-bottom: 4px;
+      }
+      .wiki-gallery-item {
+        border-radius: 5px;
+        overflow: hidden;
+        border: 1px solid rgba(255, 255, 255, 0.07);
+        background: #111;
+        cursor: pointer;
+      }
+      .wiki-gallery-item:hover .wiki-gallery-img {
+        filter: brightness(1.1);
+      }
+      .wiki-gallery-img {
+        width: 100%;
+        display: block;
+        object-fit: cover;
+        image-rendering: auto;
+        transition: filter 0.15s;
+      }
+      .wiki-gallery-label {
+        font-size: 0.62rem;
+        font-weight: 700;
+        color: var(--text-3);
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        padding: 4px 8px 5px;
+        background: rgba(0, 0, 0, 0.3);
+        text-align: center;
+      }
+
+      /* ── MODAL WIKI DESCRIPTION ── */
+      .wiki-desc {
+        background: rgba(255, 255, 255, 0.03);
+        border: 1px solid rgba(255, 255, 255, 0.07);
+        border-radius: 6px;
+        padding: 11px 14px;
+        font-size: 0.78rem;
+        font-weight: 600;
+        color: var(--text-2);
+        line-height: 1.6;
+        margin-bottom: 4px;
+        font-style: italic;
+      }
+
+      /* ── PRICE CHIP ── */
+      .price-chip {
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+        background: rgba(91, 155, 213, 0.1);
+        border: 1px solid rgba(91, 155, 213, 0.22);
+        border-radius: 5px;
+        padding: 7px 12px;
+      }
+      .price-chip.free {
+        background: rgba(62, 207, 122, 0.08);
+        border-color: rgba(62, 207, 122, 0.2);
+      }
+      .price-chip-icon {
+        font-size: 0.85rem;
+        line-height: 1;
+      }
+      .price-chip-val {
+        font-size: 0.85rem;
+        font-weight: 800;
+        color: var(--accent);
+      }
+      .price-chip.free .price-chip-val {
+        color: var(--uncommon);
+      }
+      .price-chip-label {
+        font-size: 0.6rem;
+        font-weight: 700;
+        color: var(--text-3);
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        margin-left: 2px;
+      }
+
+      /* ── CLICKABLE TAG PILLS ── */
+      .modal-tag-pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        font-size: 0.67rem;
+        font-weight: 700;
+        padding: 3px 10px;
+        border-radius: 3px;
+        cursor: pointer;
+        transition:
+          filter 0.12s,
+          transform 0.1s;
+        border: 1px solid;
+        user-select: none;
+      }
+      .modal-tag-pill:hover {
+        filter: brightness(1.25);
+        transform: translateY(-1px);
+      }
+      .modal-tag-pill.tag-collection {
+        background: rgba(167, 139, 250, 0.12);
+        border-color: rgba(167, 139, 250, 0.28);
+        color: var(--collections);
+      }
+      .modal-tag-pill.tag-set {
+        background: rgba(245, 166, 35, 0.1);
+        border-color: rgba(245, 166, 35, 0.25);
+        color: var(--cosmetics);
+      }
+      .modal-tag-pill.tag-theme {
+        background: rgba(233, 121, 249, 0.1);
+        border-color: rgba(233, 121, 249, 0.25);
+        color: var(--tags);
+      }
+      .modal-tag-pill.tag-legacy {
+        background: rgba(224, 123, 84, 0.1);
+        border-color: rgba(224, 123, 84, 0.25);
+        color: var(--legacy);
+      }
+      .modal-tag-pill.tag-other {
+        background: rgba(91, 155, 213, 0.1);
+        border-color: rgba(91, 155, 213, 0.22);
+        color: var(--accent);
+      }
+
+      /* ── MODAL HERO layout with wiki sidebar ── */
+      .modal-hero-wrap {
+        position: relative;
+      }
+      .modal-hero-row {
+        display: flex;
+        align-items: stretch;
+        min-height: 200px;
+        border-radius: 10px 10px 0 0;
+        overflow: hidden;
+        background: linear-gradient(180deg, #1a1a2e 0%, #1e1e1e 100%);
+      }
+      /* image side */
+      .modal-hero-img-side {
+        flex: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        position: relative;
+        min-width: 0;
+      }
+      .modal-hero-img-side img {
+        max-height: 180px;
+        max-width: 100%;
+        object-fit: contain;
+        image-rendering: pixelated;
+        filter: drop-shadow(0 6px 20px rgba(0, 0, 0, 0.5));
+      }
+
+      /* ── MODAL TABS ── */
+      .modal-tabs {
+        display: flex;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+        background: #1e1e1e;
+        padding: 0 20px;
+        gap: 2px;
+      }
+      .modal-tab {
+        font-family: "Nunito", sans-serif;
+        font-size: 0.72rem;
+        font-weight: 700;
+        color: var(--text-3);
+        background: none;
+        border: none;
+        border-bottom: 2px solid transparent;
+        padding: 9px 12px 8px;
+        cursor: pointer;
+        transition:
+          color 0.13s,
+          border-color 0.13s;
+        letter-spacing: 0.01em;
+      }
+      .modal-tab:hover {
+        color: var(--text-2);
+      }
+      .modal-tab.active {
+        color: var(--text);
+        border-bottom-color: var(--accent);
+      }
+      .modal-tab-panel {
+        display: none;
+      }
+      .modal-tab-panel.active {
+        display: block;
+      }
+
+      /* ── COMPATIBILITY TAB ── */
+      .compat-section-title {
+        font-size: 0.62rem;
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: var(--text-3);
+        margin: 14px 0 6px;
+        padding-bottom: 4px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+      }
+      .compat-section-title:first-child {
+        margin-top: 0;
+      }
+      .compat-row {
+        display: flex;
+        align-items: flex-start;
+        gap: 8px;
+        padding: 5px 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+      }
+      .compat-row:last-child {
+        border-bottom: none;
+      }
+      .compat-id {
+        font-size: 0.72rem;
+        font-weight: 700;
+        color: var(--text);
+        min-width: 180px;
+        flex-shrink: 0;
+        font-family: monospace;
+        letter-spacing: 0.01em;
+      }
+      .compat-parts {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 3px;
+      }
+      .compat-part {
+        font-size: 0.6rem;
+        font-weight: 700;
+        padding: 1px 6px;
+        border-radius: 3px;
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        color: var(--text-3);
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+      .armor-region-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        font-size: 0.68rem;
+        font-weight: 700;
+        padding: 3px 9px;
+        border-radius: 4px;
+        background: rgba(91, 155, 213, 0.1);
+        border: 1px solid rgba(91, 155, 213, 0.22);
+        color: var(--accent);
+        text-transform: capitalize;
+        margin: 2px;
       }
 
       .modal-hero {
@@ -1093,6 +1513,24 @@
       <div style="width: 1px; height: 22px; background: rgba(255, 255, 255, 0.07); margin: 0 6px"></div>
       <div class="tb-section-name" id="tbSectionName">Featured</div>
       <div class="tb-right">
+        <div class="sort-wrap" id="sortWrap">
+          <button class="sort-btn" onclick="toggleSortDropdown()">
+            <svg width="11" height="11" viewBox="0 0 12 12" fill="none">
+              <line x1="1" y1="3" x2="11" y2="3" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" />
+              <line x1="1" y1="6" x2="8" y2="6" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" />
+              <line x1="1" y1="9" x2="5" y2="9" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" />
+            </svg>
+            <span id="sortLabel">Sort: Weight</span>
+          </button>
+          <div class="sort-dropdown" id="sortDropdown">
+            <button class="sort-option active" id="sortOptWeight" onclick="setSortMode('weight', this)">
+              <span class="sort-check">✓</span> Sort Weight
+            </button>
+            <button class="sort-option" id="sortOptAlpha" onclick="setSortMode('alpha', this)">
+              <span class="sort-check">✓</span> A – Z
+            </button>
+          </div>
+        </div>
         <div class="tb-search-wrap">
           <svg width="11" height="11" viewBox="0 0 13 13" fill="none">
             <circle cx="5.5" cy="5.5" r="4.5" stroke="currentColor" stroke-width="1.5" />
@@ -1363,14 +1801,61 @@
         <button class="nav-item nav-bundles" id="navBundles" onclick="selectTopNav('bundles')">
           <span class="nav-icon">
             <svg width="13" height="13" viewBox="0 0 14 14" fill="none">
-              <rect x="1.5" y="5" width="11" height="7.5" rx="1.2" stroke="currentColor" stroke-width="1.3"/>
-              <path d="M4.5 5V3.5a2.5 2.5 0 0 1 5 0V5" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" fill="none"/>
-              <line x1="7" y1="7.5" x2="7" y2="10" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
-              <line x1="5.5" y1="8.75" x2="8.5" y2="8.75" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+              <rect x="1.5" y="5" width="11" height="7.5" rx="1.2" stroke="currentColor" stroke-width="1.3" />
+              <path
+                d="M4.5 5V3.5a2.5 2.5 0 0 1 5 0V5"
+                stroke="currentColor"
+                stroke-width="1.3"
+                stroke-linecap="round"
+                fill="none"
+              />
+              <line x1="7" y1="7.5" x2="7" y2="10" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" />
+              <line
+                x1="5.5"
+                y1="8.75"
+                x2="8.5"
+                y2="8.75"
+                stroke="currentColor"
+                stroke-width="1.3"
+                stroke-linecap="round"
+              />
             </svg>
           </span>
           Bundles
         </button>
+
+        <!-- Tags -->
+        <button class="nav-item nav-tags" id="navTags" onclick="toggleSection('tags')">
+          <span class="nav-icon">
+            <svg width="13" height="13" viewBox="0 0 14 14" fill="none">
+              <path
+                d="M1.5 1.5h5l5.5 5.5a1.4 1.4 0 0 1 0 2L8.5 12.5a1.4 1.4 0 0 1-2 0L1 7V1.5z"
+                stroke="currentColor"
+                stroke-width="1.3"
+                stroke-linejoin="round"
+                fill="none"
+              />
+              <circle cx="4.5" cy="4.5" r="1" fill="currentColor" />
+            </svg>
+          </span>
+          Tags
+          <span class="nav-chevron">
+            <svg width="8" height="8" viewBox="0 0 8 8" fill="none">
+              <path
+                d="M2.5 2L5 4.5 2.5 7"
+                stroke="currentColor"
+                stroke-width="1.4"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </span>
+        </button>
+        <div class="sub-list" id="subTags">
+          <button class="sub-btn active" data-section="tags" data-sub="ALL" onclick="selectSub('tags', 'ALL', this)">
+            All Tags
+          </button>
+        </div>
       </nav>
 
       <!-- MAIN CONTENT -->
@@ -1389,15 +1874,40 @@
     <!-- MODAL -->
     <div class="overlay" id="overlay">
       <div class="modal">
-        <div class="modal-hero" id="modalHero">
-          <span class="hero-fallback" id="heroFallback"></span>
+        <!-- Hero row: image -->
+        <div class="modal-hero-row" id="modalHero">
+          <div class="modal-hero-img-side" id="modalHeroImgSide">
+            <span class="hero-fallback" id="heroFallback"></span>
+          </div>
           <span class="modal-tier" id="modalTierBadge"></span>
           <button class="modal-close" id="modalClose">✕</button>
         </div>
-        <div class="modal-content">
-          <div class="modal-name" id="modalName"></div>
-          <div class="modal-sub" id="modalSub"></div>
-          <div id="modalBody"></div>
+
+        <!-- Name / sub -->
+        <div class="modal-content" style="padding-bottom: 0">
+          <div
+            style="display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; flex-wrap: wrap"
+          >
+            <div style="min-width: 0">
+              <div class="modal-name" id="modalName"></div>
+              <div class="modal-sub" id="modalSub" style="margin-bottom: 10px"></div>
+            </div>
+            <div id="modalPriceArea" style="flex-shrink: 0; margin-top: 2px"></div>
+          </div>
+        </div>
+
+        <!-- Tabs -->
+        <div class="modal-tabs" id="modalTabs">
+          <button class="modal-tab active" onclick="switchModalTab('overview', this)">Overview</button>
+          <button class="modal-tab" onclick="switchModalTab('compatibility', this)">Compatibility</button>
+          <button class="modal-tab" onclick="switchModalTab('assets', this)">Assets</button>
+        </div>
+
+        <!-- Tab panels -->
+        <div class="modal-content" style="padding-top: 14px" id="modalTabContent">
+          <div class="modal-tab-panel active" id="modalTab-overview"></div>
+          <div class="modal-tab-panel" id="modalTab-compatibility"></div>
+          <div class="modal-tab-panel" id="modalTab-assets"></div>
         </div>
       </div>
     </div>
@@ -1437,6 +1947,7 @@
       let currentTopNav = "featured"; // 'featured' | 'emotes' | 'cosmetics'
       let currentSub = "ALL"; // sub-category within emotes/cosmetics
       let searchQuery = "";
+      let sortMode = "weight"; // "weight" | "alpha"
 
       function formatName(id) {
         return id
@@ -1451,6 +1962,23 @@
         document.querySelectorAll(".nav-item").forEach((b) => b.classList.remove("active", "open"));
       }
 
+      // ── SORT CONTROLS ────────────────────────────────────────────────────
+      function toggleSortDropdown() {
+        document.getElementById("sortWrap").classList.toggle("open");
+      }
+      function setSortMode(mode, btn) {
+        sortMode = mode;
+        document.querySelectorAll(".sort-option").forEach((o) => o.classList.remove("active"));
+        btn.classList.add("active");
+        document.getElementById("sortLabel").textContent = mode === "weight" ? "Sort: Weight" : "Sort: A–Z";
+        document.getElementById("sortWrap").classList.remove("open");
+        renderGrid();
+      }
+      document.addEventListener("click", (e) => {
+        const wrap = document.getElementById("sortWrap");
+        if (wrap && !wrap.contains(e.target)) wrap.classList.remove("open");
+      });
+
       function selectTopNav(section) {
         clearActiveNav();
         currentTopNav = section;
@@ -1458,21 +1986,25 @@
 
         if (section === "legacy") {
           document.getElementById("navLegacy").classList.add("active");
-          const _ib1 = document.getElementById("infoBanner"); if (_ib1) _ib1.style.display = "none";
+          const _ib1 = document.getElementById("infoBanner");
+          if (_ib1) _ib1.style.display = "none";
           document.getElementById("tbSectionName").textContent = "Legacy";
         } else if (section === "bundles") {
           document.getElementById("navBundles").classList.add("active");
-          const _ib2 = document.getElementById("infoBanner"); if (_ib2) _ib2.style.display = "none";
+          const _ib2 = document.getElementById("infoBanner");
+          if (_ib2) _ib2.style.display = "none";
           document.getElementById("tbSectionName").textContent = "Bundles";
         } else {
           document.getElementById("navFeatured").classList.add("active");
-          const _ib3 = document.getElementById("infoBanner"); if (_ib3) _ib3.style.display = "flex";
+          const _ib3 = document.getElementById("infoBanner");
+          if (_ib3) _ib3.style.display = "flex";
           document.getElementById("tbSectionName").textContent = "Featured";
         }
         // close dropdowns
         document.getElementById("subEmotes").classList.remove("open");
         document.getElementById("subCosmetics").classList.remove("open");
         document.getElementById("subCollections").classList.remove("open");
+        document.getElementById("subTags").classList.remove("open");
         document.querySelectorAll(".sub-btn").forEach((b) => b.classList.remove("active"));
         renderGrid();
       }
@@ -1486,6 +2018,7 @@
         document.getElementById("subEmotes").classList.remove("open");
         document.getElementById("subCosmetics").classList.remove("open");
         document.getElementById("subCollections").classList.remove("open");
+        document.getElementById("subTags").classList.remove("open");
         document.querySelectorAll(".nav-item").forEach((b) => b.classList.remove("open"));
 
         if (!isOpen) {
@@ -1495,7 +2028,8 @@
           document.getElementById("navFeatured").classList.remove("active");
           currentTopNav = section;
           currentSub = "ALL";
-          const _ib4 = document.getElementById("infoBanner"); if (_ib4) _ib4.style.display = "none";
+          const _ib4 = document.getElementById("infoBanner");
+          if (_ib4) _ib4.style.display = "none";
           document.getElementById("tbSectionName").textContent = section.charAt(0).toUpperCase() + section.slice(1);
           // auto-select "All" sub
           const firstSub = subEl.querySelector(".sub-btn");
@@ -1565,6 +2099,64 @@
 
       function numToHex(n) {
         return "#" + n.toString(16).padStart(6, "0");
+      }
+
+      // ── TAG HELPERS ─────────────────────────────────────────────────────
+      const EXCLUDED_TAG_PREFIXES = ["COLLECTION_", "LEGACY"];
+
+      function cosmeticTags(cosmetic) {
+        return (cosmetic.tags || []).filter((t) => !EXCLUDED_TAG_PREFIXES.some((p) => t.startsWith(p)));
+      }
+
+      function tagLabel(tag) {
+        return tag
+          .replace(/^(SET_|THEME_|CATEGORY_)/, "")
+          .replace(/_/g, " ")
+          .toLowerCase()
+          .replace(/\b\w/g, (c) => c.toUpperCase());
+      }
+
+      function tagGroupLabel(tag) {
+        if (tag.startsWith("SET_")) return "Set";
+        if (tag.startsWith("THEME_")) return "Theme";
+        return "Other";
+      }
+
+      function buildTagSubList() {
+        const tagSet = new Set();
+        allCosmetics.forEach((c) => cosmeticTags(c).forEach((t) => tagSet.add(t)));
+
+        const sorted = [...tagSet].sort((a, b) => {
+          const ga = tagGroupLabel(a),
+            gb = tagGroupLabel(b);
+          if (ga !== gb) return ga.localeCompare(gb);
+          return tagLabel(a).localeCompare(tagLabel(b));
+        });
+
+        const container = document.getElementById("subTags");
+        container.innerHTML = `<button class="sub-btn active" data-section="tags" data-sub="ALL" onclick="selectSub('tags','ALL',this)">All Tags</button>`;
+
+        let lastGroup = null;
+        sorted.forEach((tag) => {
+          const group = tagGroupLabel(tag);
+          if (group !== lastGroup) {
+            const sep = document.createElement("div");
+            sep.style.cssText =
+              "font-size:0.6rem;font-weight:700;color:var(--text-3);text-transform:uppercase;letter-spacing:0.1em;padding:8px 14px 2px 34px;opacity:0.6";
+            sep.textContent = group;
+            container.appendChild(sep);
+            lastGroup = group;
+          }
+          const btn = document.createElement("button");
+          btn.className = "sub-btn";
+          btn.dataset.section = "tags";
+          btn.dataset.sub = tag;
+          btn.textContent = tagLabel(tag);
+          btn.onclick = function () {
+            selectSub("tags", tag, this);
+          };
+          container.appendChild(btn);
+        });
       }
 
       // ── COLLECTION HELPERS ──────────────────────────────────────────────
@@ -1693,7 +2285,12 @@
         }
 
         const isLegacy = (cosmetic.tags || []).includes("LEGACY");
-        const checkClass = isLegacy ? "check-yellow" : "check-green";
+        const isFree = cosmetic.priceCoins === 0;
+        const checkHtml = isLegacy
+          ? `<span class="card-owned-check check-yellow">✔</span>`
+          : isFree
+            ? `<span class="card-owned-check check-green">✔</span>`
+            : `<span class="card-owned-check check-blue">🔹</span>`;
 
         card.innerHTML = `
     ${unlockBadgeHtml}
@@ -1705,7 +2302,7 @@
     </div>
     <div class="card-info">
       <div class="card-name" title="${name}">${name}</div>
-      <span class="card-owned-check ${checkClass}">✔</span>
+      ${checkHtml}
     </div>`;
 
         // Swatch click — swap image, stop propagation so modal doesn't open
@@ -1789,7 +2386,9 @@
         const previewImg = document.createElement("img");
         previewImg.alt = bundle.name;
         previewImg.style.cssText = "width:100%;height:100%;object-fit:contain;image-rendering:pixelated;display:block;";
-        previewImg.onerror = function() { this.style.display = "none"; };
+        previewImg.onerror = function () {
+          this.style.display = "none";
+        };
         previewImg.src = pngSrc;
         viewerWrap.appendChild(previewImg);
 
@@ -1804,31 +2403,31 @@
         body.appendChild(grid);
 
         const settingsKeys = Object.keys(bundle.settings || {});
-        const cosmetics = Object.entries(bundle.cosmetics || {}).filter(([slot, cosmeticId]) =>
-          slot === "EMOTE" || settingsKeys.includes(cosmeticId)
+        const cosmetics = Object.entries(bundle.cosmetics || {}).filter(
+          ([slot, cosmeticId]) => slot === "EMOTE" || settingsKeys.includes(cosmeticId),
         );
 
         const TIER_BG = {
           LEGENDARY: "rgba(245,200,66,0.08)",
-          EPIC:      "rgba(193,96,240,0.08)",
-          RARE:      "rgba(77,158,245,0.08)",
-          UNCOMMON:  "rgba(62,207,122,0.08)",
-          COMMON:    "rgba(136,153,187,0.05)",
+          EPIC: "rgba(193,96,240,0.08)",
+          RARE: "rgba(77,158,245,0.08)",
+          UNCOMMON: "rgba(62,207,122,0.08)",
+          COMMON: "rgba(136,153,187,0.05)",
         };
         const TIER_IMG_BG = {
           LEGENDARY: "linear-gradient(170deg,#131000,#1c1602)",
-          EPIC:      "linear-gradient(170deg,#0e0917,#16091e)",
-          RARE:      "linear-gradient(170deg,#050d1a,#081322)",
-          UNCOMMON:  "linear-gradient(170deg,#061410,#091b14)",
-          COMMON:    "#0e0e0e",
+          EPIC: "linear-gradient(170deg,#0e0917,#16091e)",
+          RARE: "linear-gradient(170deg,#050d1a,#081322)",
+          UNCOMMON: "linear-gradient(170deg,#061410,#091b14)",
+          COMMON: "#0e0e0e",
         };
 
         cosmetics.forEach(([slot, cosmeticId]) => {
-          const variantSettings = (bundle.settings?.[cosmeticId] || []).find(s => s.type === "VARIANT");
+          const variantSettings = (bundle.settings?.[cosmeticId] || []).find((s) => s.type === "VARIANT");
           const variant = variantSettings?.data?.variant;
           const base = `./essential/${slot}/${cosmeticId}`;
           const vBase = variant ? `${base}_${variant}` : base;
-          const _cosm = allCosmetics.find(c => c.id === cosmeticId);
+          const _cosm = allCosmetics.find((c) => c.id === cosmeticId);
           const cosmeticName = _cosm?.displayNames?.en_us || formatName(cosmeticId);
           const cosmeticTier = _cosm?.tier || "COMMON";
 
@@ -1842,7 +2441,7 @@
 
           const img = document.createElement("img");
           img.alt = cosmeticName;
-          img.onerror = function() {
+          img.onerror = function () {
             if (this.src.endsWith(".gif")) {
               this.src = `${vBase}.png`;
             } else {
@@ -1868,7 +2467,7 @@
         return panel;
       }
 
-            function openBundleModal(bundle) {
+      function openBundleModal(bundle) {
         const hero = document.getElementById("modalHero");
         hero.querySelectorAll("img").forEach((i) => i.remove());
         document.getElementById("heroFallback").textContent = "🎁";
@@ -1941,6 +2540,10 @@
             if (currentSub !== "ALL" && !cols.includes(currentSub)) return false;
           } else if (currentTopNav === "legacy") {
             if (!(c.tags || []).includes("LEGACY")) return false;
+          } else if (currentTopNav === "tags") {
+            const ctags = cosmeticTags(c);
+            if (!ctags.length) return false;
+            if (currentSub !== "ALL" && !ctags.includes(currentSub)) return false;
           } else if (currentTopNav === "bundles") {
             return false; // bundles are not cosmetics; renderGrid handles them separately
           }
@@ -1953,9 +2556,16 @@
         });
 
         filtered.sort((a, b) => {
-          const na = (a.displayNames?.en_us || formatName(a.id)).toLowerCase();
-          const nb = (b.displayNames?.en_us || formatName(b.id)).toLowerCase();
-          return na.localeCompare(nb);
+          if (sortMode === "alpha") {
+            const na = (a.displayNames?.en_us || formatName(a.id)).toLowerCase();
+            const nb = (b.displayNames?.en_us || formatName(b.id)).toLowerCase();
+            return na.localeCompare(nb);
+          }
+          // Sort Weight: primary = categories[type] slot weight, tiebreak = defaultSortWeight
+          const aCatW = Object.values(a.categories || {})[0] ?? 9999;
+          const bCatW = Object.values(b.categories || {})[0] ?? 9999;
+          if (aCatW !== bCatW) return aCatW - bCatW;
+          return (a.defaultSortWeight ?? 9999) - (b.defaultSortWeight ?? 9999);
         });
       }
 
@@ -1977,13 +2587,36 @@
           } else {
             visibleBundles.forEach((b, i) => grid.appendChild(buildBundleCard(b, i)));
           }
-          document.getElementById("resultsBar").innerHTML = `Showing <em>${visibleBundles.length}</em> bundle${visibleBundles.length !== 1 ? "s" : ""}`;
+          document.getElementById("resultsBar").innerHTML =
+            `Showing <em>${visibleBundles.length}</em> bundle${visibleBundles.length !== 1 ? "s" : ""}`;
           return;
         }
         grid.classList.remove("bundles-layout");
 
         if (!filtered.length) {
           grid.innerHTML = `<div class="empty"><p>No items match your search.</p></div>`;
+        } else if (currentTopNav === "tags" && currentSub === "ALL") {
+          // Group by tag, sorted by group then alphabetically
+          const tagMap = {};
+          filtered.forEach((c) => {
+            cosmeticTags(c).forEach((tag) => {
+              (tagMap[tag] = tagMap[tag] || []).push(c);
+            });
+          });
+          const tagKeys = Object.keys(tagMap).sort((a, b) => {
+            const ga = tagGroupLabel(a),
+              gb = tagGroupLabel(b);
+            if (ga !== gb) return ga.localeCompare(gb);
+            return tagLabel(a).localeCompare(tagLabel(b));
+          });
+          tagKeys.forEach((tag) => {
+            const label = document.createElement("div");
+            label.className = "group-label";
+            label.style.gridColumn = "1/-1";
+            label.textContent = tagLabel(tag);
+            grid.appendChild(label);
+            tagMap[tag].forEach((c, i) => grid.appendChild(buildCard(c, i)));
+          });
         } else if (currentTopNav === "collections" && currentSub === "ALL") {
           // Group by collection tag, newest first (same order as sidebar)
           const monthOrder = {
@@ -2057,14 +2690,117 @@
         document.getElementById("resultsBar").innerHTML = `Showing <em>${filtered.length}</em> items`;
       }
 
+      // ── MODAL TAB SWITCHER ───────────────────────────────────────────────
+      function switchModalTab(name, btn) {
+        document.querySelectorAll(".modal-tab").forEach((t) => t.classList.remove("active"));
+        document.querySelectorAll(".modal-tab-panel").forEach((p) => p.classList.remove("active"));
+        btn.classList.add("active");
+        const panel = document.getElementById("modal-tab-" + name) || document.getElementById("modalTab-" + name);
+        if (panel) panel.classList.add("active");
+      }
+
+      // ── TAG PILL CLICK → navigate to Tags section ───────────────────────
+      function navigateToTag(tag) {
+        document.getElementById("overlay").classList.remove("open");
+        // open Tags section with this specific tag selected
+        const tagsNav = document.getElementById("navTags");
+        const tagsSub = document.getElementById("subTags");
+
+        // close all other dropdowns
+        document.getElementById("subEmotes").classList.remove("open");
+        document.getElementById("subCosmetics").classList.remove("open");
+        document.getElementById("subCollections").classList.remove("open");
+        document.querySelectorAll(".nav-item").forEach((b) => b.classList.remove("active", "open"));
+
+        tagsNav.classList.add("active", "open");
+        tagsSub.classList.add("open");
+        currentTopNav = "tags";
+        document.getElementById("tbSectionName").textContent = "Tags";
+
+        // find or wait for the matching sub-btn
+        const btn = [...tagsSub.querySelectorAll(".sub-btn")].find((b) => b.dataset.sub === tag);
+        if (btn) {
+          document.querySelectorAll(".sub-btn").forEach((b) => b.classList.remove("active"));
+          btn.classList.add("active");
+          currentSub = tag;
+          document.getElementById("tbSectionName").textContent = btn.textContent.trim();
+        } else {
+          currentSub = "ALL";
+        }
+        renderGrid();
+      }
+
+      function navigateToCollection(tag) {
+        document.getElementById("overlay").classList.remove("open");
+        const colNav = document.getElementById("navCollections");
+        const colSub = document.getElementById("subCollections");
+        document.getElementById("subEmotes").classList.remove("open");
+        document.getElementById("subCosmetics").classList.remove("open");
+        document.getElementById("subTags").classList.remove("open");
+        document.querySelectorAll(".nav-item").forEach((b) => b.classList.remove("active", "open"));
+        colNav.classList.add("active", "open");
+        colSub.classList.add("open");
+        currentTopNav = "collections";
+        const btn = [...colSub.querySelectorAll(".sub-btn")].find((b) => b.dataset.sub === tag);
+        if (btn) {
+          document.querySelectorAll(".sub-btn").forEach((b) => b.classList.remove("active"));
+          btn.classList.add("active");
+          currentSub = tag;
+          document.getElementById("tbSectionName").textContent = btn.textContent.trim();
+        } else {
+          currentSub = "ALL";
+          document.getElementById("tbSectionName").textContent = "Collections";
+        }
+        renderGrid();
+      }
+
+      // ── TAG PILL BUILDER ─────────────────────────────────────────────────
+      function buildTagPillHtml(tag) {
+        let cls, label, onclick;
+        if (tag.startsWith("COLLECTION_")) {
+          cls = "tag-collection";
+          label = collectionLabel(tag);
+          onclick = `navigateToCollection('${tag}')`;
+        } else if (tag === "LEGACY") {
+          cls = "tag-legacy";
+          label = "Legacy";
+          onclick = `selectTopNav('legacy');document.getElementById('overlay').classList.remove('open')`;
+        } else if (tag.startsWith("SET_")) {
+          cls = "tag-set";
+          label = tagLabel(tag);
+          onclick = `navigateToTag('${tag}')`;
+        } else if (tag.startsWith("THEME_")) {
+          cls = "tag-theme";
+          label = tagLabel(tag);
+          onclick = `navigateToTag('${tag}')`;
+        } else {
+          cls = "tag-other";
+          label = tag
+            .replace(/_/g, " ")
+            .toLowerCase()
+            .replace(/\b\w/g, (c) => c.toUpperCase());
+          onclick = `navigateToTag('${tag}')`;
+        }
+        return `<span class="modal-tag-pill ${cls}" onclick="${onclick}" title="Browse ${label}">${label}</span>`;
+      }
+
+      // ── PRICE FORMATTER ──────────────────────────────────────────────────
+      function buildPriceHtml(cosmetic) {
+        const price = cosmetic.priceCoins;
+        if (price === undefined || price === null) return "";
+        if (price === 0) {
+          return `<div class="price-chip free"><span class="price-chip-icon"><img src="./essential/icon/BASE_ICON.png" style="width:14px;height:14px;object-fit:contain;image-rendering:pixelated;vertical-align:middle"></span><span class="price-chip-val">Free</span></div>`;
+        }
+        return `<div class="price-chip"><span class="price-chip-icon"><img src="./essential/icon/BASE_ICON.png" style="width:14px;height:14px;object-fit:contain;image-rendering:pixelated;vertical-align:middle"></span><span class="price-chip-val">${price.toLocaleString()}</span><span class="price-chip-label">coins</span></div>`;
+      }
+
       // ── MODAL ────────────────────────────────────────────────────────────
-      function openModal(cosmetic) {
+      async function openModal(cosmetic) {
         const name = cosmetic.displayNames?.en_us || formatName(cosmetic.id);
         const tier = cosmetic.tier || "COMMON";
         const variants = cosmetic._variants || [];
         const first = variants[0];
 
-        // If variants exist, always start on the first variant — never load the bare default
         const gif = first
           ? `./essential/${cosmetic.type}/${cosmetic.id}_${first.name}.gif`
           : `./essential/${cosmetic.type}/${cosmetic.id}.gif`;
@@ -2072,8 +2808,9 @@
           ? `./essential/${cosmetic.type}/${cosmetic.id}_${first.name}.png`
           : `./essential/${cosmetic.type}/${cosmetic.id}.png`;
 
-        const hero = document.getElementById("modalHero");
-        hero.querySelectorAll("img").forEach((i) => i.remove());
+        // ── Hero image ──
+        const heroSide = document.getElementById("modalHeroImgSide");
+        heroSide.querySelectorAll("img").forEach((i) => i.remove());
         document.getElementById("heroFallback").textContent = "";
 
         const img = document.createElement("img");
@@ -2086,65 +2823,193 @@
             document.getElementById("heroFallback").textContent = "?";
           }
         };
-        hero.insertBefore(img, hero.querySelector(".modal-tier"));
+        heroSide.appendChild(img);
 
+        // ── Tier badge ──
         const badge = document.getElementById("modalTierBadge");
         badge.textContent = tier.charAt(0) + tier.slice(1).toLowerCase();
         badge.className = `modal-tier tier-${tier}`;
 
+        // ── Name / sub ──
         document.getElementById("modalName").textContent = name;
         document.getElementById("modalSub").textContent = `${cosmetic.type.replace(/_/g, " ")} · ${cosmetic.id}`;
 
-        let html = `
-    <div class="modal-section-title">Details</div>
-    <div class="info-row">
-      <div class="info-chip"><div class="info-chip-label">Tier</div><div class="info-chip-val">${tier}</div></div>
-      <div class="info-chip"><div class="info-chip-label">Type</div><div class="info-chip-val">${cosmetic.type}</div></div>
-      <div class="info-chip"><div class="info-chip-label">Package ID</div><div class="info-chip-val">${cosmetic.storePackageId ?? "—"}</div></div>
-      <div class="info-chip"><div class="info-chip-label">Sort Weight</div><div class="info-chip-val">${cosmetic.defaultSortWeight ?? "—"}</div></div>
-    </div>`;
+        // ── Price ──
+        document.getElementById("modalPriceArea").innerHTML = buildPriceHtml(cosmetic);
 
-        if (cosmetic._variants?.length) {
-          html += `<div class="modal-section-title">Variants</div>
-      <div id="modalVariantRow" style="display:flex;gap:7px;flex-wrap:wrap;margin-bottom:4px">
-        ${cosmetic._variants
-          .map(
-            (v, i) => `
-          <div data-modal-variant="${v.name}" style="display:flex;align-items:center;gap:5px;background:rgba(255,255,255,0.04);border:1px solid ${i === 0 ? "rgba(255,255,255,0.5)" : "rgba(255,255,255,0.08)"};border-radius:4px;padding:5px 9px;cursor:pointer"
-               onclick="switchModalVariant(event,'${cosmetic.type}','${cosmetic.id}','${v.name}')">
-            <div style="width:11px;height:11px;border-radius:2px;background:${numToHex(v.color)};border:1.5px solid rgba(255,255,255,0.25);flex-shrink:0"></div>
-            <span style="font-size:0.7rem;font-weight:700;color:var(--text-2)">${v.name}</span>
-          </div>`,
-          )
-          .join("")}
-      </div>`;
+        // ── Reset tabs to Overview ──
+        document.querySelectorAll(".modal-tab").forEach((t, i) => t.classList.toggle("active", i === 0));
+        document.querySelectorAll(".modal-tab-panel").forEach((p, i) => p.classList.toggle("active", i === 0));
+
+        // ── Try loading wiki JSON ──
+        let wikiData = null;
+        try {
+          const wr = await fetch(`./essential/${cosmetic.type}/${cosmetic.id}_wiki.json`);
+          if (wr.ok) wikiData = await wr.json();
+        } catch {
+          /* no wiki file, fine */
         }
 
+        // ── OVERVIEW TAB ──
+        let overview = "";
+
+        // How to unlock (wiki overrides, falls back to unlock action description)
+        const unlockDesc = (cosmetic._unlockActions || [])[0]?.data?.ACTION_DESCRIPTION || null;
+        if (unlockDesc) {
+          overview += `<div class="wiki-unlock-banner">
+            <svg width="13" height="13" viewBox="0 0 13 13" fill="none" style="flex-shrink:0;margin-top:1px"><rect x="2" y="5.5" width="9" height="6.5" rx="1.5" fill="currentColor" fill-opacity="0.9"/><path d="M4 5.5V4a2.5 2.5 0 0 1 5 0v1.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" fill="none"/></svg>
+            <span><strong>How to unlock:</strong> ${unlockDesc}</span>
+          </div>`;
+        }
+
+        if (wikiData?.description) {
+          overview += `<div class="modal-section-title">Description</div>
+            <div class="wiki-desc">${wikiData.description}</div>`;
+        }
+
+        // Thumbnail (800x450 wide preview image)
+        if (wikiData?.thumbnail) {
+          overview += `<div class="modal-section-title">Preview</div>
+            <div class="wiki-thumbnail-wrap">
+              <img src="${wikiData.thumbnail}" alt="Preview" class="wiki-thumbnail">
+            </div>`;
+        }
+
+        // Details chips
+        const chips = [
+          { label: "Tier", val: tier || "—" },
+          { label: "Type", val: cosmetic.type?.replace(/_/g, " ") || "—" },
+          { label: "Sort Weight", val: cosmetic.defaultSortWeight ?? "—" },
+          { label: "Package ID", val: cosmetic.storePackageId ?? "—" },
+        ];
+
+        overview += `<div class="modal-section-title">Details</div>
+          <div class="info-row" style="grid-template-columns:repeat(auto-fill,minmax(120px,1fr))">
+            ${chips.map((c) => `<div class="info-chip"><div class="info-chip-label">${c.label}</div><div class="info-chip-val">${c.val}</div></div>`).join("")}
+          </div>`;
+
+        // Variants
+        if (variants.length) {
+          overview += `<div class="modal-section-title">Variants</div>
+            <div id="modalVariantRow" style="display:flex;gap:7px;flex-wrap:wrap;margin-bottom:4px">
+              ${variants
+                .map(
+                  (v, i) => `
+                <div data-modal-variant="${v.name}"
+                  style="display:flex;align-items:center;gap:5px;background:rgba(255,255,255,0.04);border:1px solid ${i === 0 ? "rgba(255,255,255,0.5)" : "rgba(255,255,255,0.08)"};border-radius:4px;padding:5px 9px;cursor:pointer"
+                  onclick="switchModalVariant(event,'${cosmetic.type}','${cosmetic.id}','${v.name}')">
+                  <div style="width:11px;height:11px;border-radius:2px;background:${numToHex(v.color)};border:1.5px solid rgba(255,255,255,0.25);flex-shrink:0"></div>
+                  <span style="font-size:0.7rem;font-weight:700;color:var(--text-2)">${v.name}</span>
+                </div>`,
+                )
+                .join("")}
+            </div>`;
+        }
+
+        // Tags
         if (cosmetic.tags?.length) {
-          html += `<div class="modal-section-title">Tags</div>
-      <div style="display:flex;gap:5px;flex-wrap:wrap;margin-bottom:4px">
-        ${cosmetic.tags.map((t) => `<span style="background:rgba(91,155,213,0.12);border:1px solid rgba(91,155,213,0.25);color:var(--accent);font-size:0.67rem;font-weight:700;padding:2px 9px;border-radius:3px">${t}</span>`).join("")}
-      </div>`;
+          overview += `<div class="modal-section-title">Tags</div>
+            <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:4px">
+              ${cosmetic.tags.map((t) => buildTagPillHtml(t)).join("")}
+            </div>`;
         }
 
+        // Additional images gallery (Full Set, Extras, etc.)
+        if (wikiData?.images?.length) {
+          overview += `<div class="modal-section-title">Images</div>
+            <div class="wiki-gallery">
+              ${wikiData.images
+                .map(
+                  (img) => `
+                <div class="wiki-gallery-item">
+                  <img src="${img.url}" alt="${img.label || ""}" class="wiki-gallery-img" onclick="window.open('${img.url}','_blank')">
+                  ${img.label ? `<div class="wiki-gallery-label">${img.label}</div>` : ""}
+                </div>`,
+                )
+                .join("")}
+            </div>`;
+        }
+
+        // Wiki extra notes
+        if (wikiData?.notes) {
+          overview += `<div class="modal-section-title">Notes</div>
+            <div class="wiki-desc" style="font-style:normal">${wikiData.notes}</div>`;
+        }
+
+        document.getElementById("modalTab-overview").innerHTML = overview;
+
+        // ── ASSETS TAB ──
+        let assets = "";
         if (cosmetic.assetsMap && Object.keys(cosmetic.assetsMap).length) {
-          html += `<div class="modal-section-title">Assets</div>`;
           for (const [key, val] of Object.entries(cosmetic.assetsMap)) {
-            html += `<div class="asset-item">
-        <div class="asset-key">${key}</div>
-        <div class="asset-val"><a href="${val.url}" target="_blank" rel="noopener">${val.url}</a></div>
-      </div>`;
+            assets += `<div class="asset-item">
+              <div class="asset-key">${key}</div>
+              <div class="asset-val"><a href="${val.url}" target="_blank" rel="noopener">${val.url}</a></div>
+            </div>`;
           }
+        } else {
+          assets = `<p style="color:var(--text-3);font-size:0.78rem;font-weight:600;padding:20px 0;text-align:center">No assets listed.</p>`;
+        }
+        document.getElementById("modalTab-assets").innerHTML = assets;
+
+        // ── COMPATIBILITY TAB ──
+        let compat = "";
+
+        // Armor coverage
+        if (cosmetic._armorRegions?.length) {
+          const regionIcons = { head: "🪖", arms: "💪", body: "🧥", legs: "🦵" };
+          compat += `<div class="compat-section-title">Armor Coverage</div>
+            <div style="display:flex;flex-wrap:wrap;margin-bottom:4px">
+              ${cosmetic._armorRegions
+                .map((r) => {
+                  const icon = regionIcons[r] || "📐";
+                  const label = r.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+                  return `<span class="armor-region-badge">${icon} ${label}</span>`;
+                })
+                .join("")}
+            </div>`;
         }
 
-        document.getElementById("modalBody").innerHTML = html;
+        // Hides bones from other cosmetics
+        if (cosmetic._hidesFrom?.length) {
+          compat += `<div class="compat-section-title">Hides Parts From These Cosmetics</div>
+            <div style="font-size:0.67rem;color:var(--text-3);margin-bottom:8px;font-weight:600">
+              This cosmetic overrides/hides the listed parts of these other cosmetics when worn together.
+            </div>`;
+          cosmetic._hidesFrom.forEach((entry) => {
+            compat += `<div class="compat-row">
+              <div class="compat-id">${entry.id}</div>
+              <div class="compat-parts">${entry.parts.map((p) => `<span class="compat-part">${p}</span>`).join("")}</div>
+            </div>`;
+          });
+        }
+
+        // External bones this hides on other cosmetics
+        if (cosmetic._externalBones?.length) {
+          compat += `<div class="compat-section-title">Hides External Bones On</div>
+            <div style="font-size:0.67rem;color:var(--text-3);margin-bottom:8px;font-weight:600">
+              This cosmetic hides specific bones on these other cosmetics when worn together.
+            </div>`;
+          cosmetic._externalBones.forEach((entry) => {
+            compat += `<div class="compat-row">
+              <div class="compat-id">${entry.id}</div>
+              <div class="compat-parts">${entry.bones.map((b) => `<span class="compat-part">${b.replace(/_/g, " ")}</span>`).join("")}</div>
+            </div>`;
+          });
+        }
+
+        if (!compat) {
+          compat = `<p style="color:var(--text-3);font-size:0.78rem;font-weight:600;padding:20px 0;text-align:center">No compatibility data found for this cosmetic.</p>`;
+        }
+        document.getElementById("modalTab-compatibility").innerHTML = compat;
+
         document.getElementById("overlay").classList.add("open");
       }
 
       document.getElementById("modalClose").onclick = () => document.getElementById("overlay").classList.remove("open");
 
       function switchModalVariant(e, type, id, variantName) {
-        const imgEl = document.querySelector("#modalHero img");
+        const imgEl = document.querySelector("#modalHeroImgSide img");
         if (!imgEl) return;
         const variantGif = `./essential/${type}/${id}_${variantName}.gif`;
         const variantPng = `./essential/${type}/${id}_${variantName}.png`;
@@ -2205,21 +3070,55 @@
         const results = await Promise.all(fetches);
         const cosmetics = results.filter((r) => r && r.id && r.type);
 
-        // Fetch settings.json for each cosmetic in parallel, attach _variants
+        // Fetch settings.json for each cosmetic in parallel, attach _variants + _settings
         await Promise.all(
           cosmetics.map(async (c) => {
             try {
               const r = await fetch(`./essential/${c.type}/${c.id}_settings.json`);
               if (!r.ok) return;
               const settings = await r.json();
-              const variantEntry = Array.isArray(settings) ? settings.find((s) => s.type === "VARIANTS") : null;
+              if (!Array.isArray(settings)) return;
+
+              // Variants
+              const variantEntry = settings.find((s) => s.type === "VARIANTS");
               if (variantEntry?.data?.variants?.length) {
                 c._variants = variantEntry.data.variants;
               }
-              // Attach unlock actions
-              if (Array.isArray(settings)) {
-                const unlockEntries = settings.filter((s) => s.type === "REQUIRES_UNLOCK_ACTION" && s.enabled);
-                if (unlockEntries.length) c._unlockActions = unlockEntries;
+
+              // Unlock actions
+              const unlockEntries = settings.filter((s) => s.type === "REQUIRES_UNLOCK_ACTION" && s.enabled);
+              if (unlockEntries.length) c._unlockActions = unlockEntries;
+
+              // Armor handling — which regions this cosmetic covers
+              const armor = settings.find(
+                (s) => (s.type === "ARMOR_HANDLING" || s.type === "ARMOR_HANDLING_V2") && s.enabled,
+              );
+              if (armor) {
+                c._armorRegions = Object.keys(armor.data?.conflicts || armor.data || {}).filter(
+                  (k) => k !== "conflicts" && armor.data[k] === true,
+                );
+                if (armor.type === "ARMOR_HANDLING_V2" && armor.data?.conflicts) {
+                  c._armorRegions = Object.keys(armor.data.conflicts);
+                }
+                c._armorType = armor.type;
+              }
+
+              // Cosmetics this item hides bones from (compatibility: other cosmetics are hidden by this one)
+              const boneHiding = settings.filter((s) => s.type === "COSMETIC_BONE_HIDING" && s.enabled);
+              if (boneHiding.length) {
+                c._hidesFrom = boneHiding.map((s) => ({
+                  id: s.id,
+                  parts: Object.keys(s.data || {}).filter((k) => s.data[k]),
+                }));
+              }
+
+              // External bones this item hides on other cosmetics
+              const extBones = settings.filter((s) => s.type === "EXTERNAL_HIDDEN_BONE" && s.enabled);
+              if (extBones.length) {
+                c._externalBones = extBones.map((s) => ({
+                  id: s.id,
+                  bones: Object.keys(s.data || {}).filter((k) => s.data[k]),
+                }));
               }
             } catch {
               /* no settings, fine */
@@ -2242,6 +3141,7 @@
 
         buildEmoteSubList();
         buildCollectionSubList();
+        buildTagSubList();
         document.getElementById("loaderArea").style.display = "none";
         document.getElementById("resultsBar").style.display = "block";
         document.getElementById("grid").style.display = "grid";

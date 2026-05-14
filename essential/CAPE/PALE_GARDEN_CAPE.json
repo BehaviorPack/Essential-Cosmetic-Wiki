@@ -1,0 +1,34 @@
+{
+  "id": "PALE_GARDEN_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Creaking Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8544f99946de85d95a0e1ee73f11ffe5e8a6d440b6cee0b85fefe7122f1ac971",
+      "checksum": "8544f99946de85d95a0e1ee73f11ffe5e8a6d440b6cee0b85fefe7122f1ac971"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/4681a8a45de1ccbf46281ed4a3e80cbc23cd47535a9c15275887a83e0c154a28",
+      "checksum": "4681a8a45de1ccbf46281ed4a3e80cbc23cd47535a9c15275887a83e0c154a28"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/7ce98c7822b4c38123f86d065e53ff798c6758cd1d72f496e4fa4bb81fcf58b5",
+      "checksum": "7ce98c7822b4c38123f86d065e53ff798c6758cd1d72f496e4fa4bb81fcf58b5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e72ccf8648110c09cea3b163426f11cd19dfc5006a2bbcc124665d0466bed8c2",
+      "checksum": "e72ccf8648110c09cea3b163426f11cd19dfc5006a2bbcc124665d0466bed8c2"
+    }
+  }
+}
