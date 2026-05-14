@@ -24,7 +24,7 @@
     <meta property="og:image" content="https://behaviorpack.github.io/Essential-Cosmetic-Wiki/thumbnail.png" />
     <meta property="og:image:width" content="1920" />
     <meta property="og:image:height" content="1080" />
-    <meta property="og:image:alt" content="$####################%" />
+    <meta property="og:image:alt" content="Essential Mod Cosmetics" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:domain" content="behaviorpack.github.io" />
     <meta name="twitter:title" content="Wiki - Cosmetics | Essential Mod" />
@@ -33,7 +33,7 @@
       content="Enhance your Minecraft character with a variety of free and premium Essential Mod exclusive cosmetics. Learn how to get cosmetics, customize them, and even gift them to friends."
     />
     <meta name="twitter:image" content="https://behaviorpack.github.io/Essential-Cosmetic-Wiki/thumbnail.png" />
-    <meta name="twitter:image:alt" content="$####################%" />
+    <meta name="twitter:image:alt" content="Essential Mod Cosmetics" />
     <meta name="twitter:site" content="@BehaviorPack" />
     <meta name="twitter:creator" content="@BehaviorPack" />
     <link href="https://behaviorpack.github.io/Essential-Cosmetic-Wiki/" hreflang="x-default" rel="alternate" />
@@ -3041,25 +3041,17 @@
       });
 
       // ── LOAD ─────────────────────────────────────────────────────────────
-      async function scanCategory(cat) {
-        try {
-          const r = await fetch(`./essential/${cat}/`);
-          if (!r.ok) return [];
-          const html = await r.text();
-          const doc = new DOMParser().parseFromString(html, "text/html");
-          return [...doc.querySelectorAll('a[href$=".json"]')]
-            .map((a) => a.getAttribute("href").replace(/.*\//, "").replace(".json", ""))
-            .filter(Boolean);
-        } catch {
-          return [];
-        }
-      }
-
       async function loadAll() {
-        const listings = await Promise.all(CATEGORIES.map((cat) => scanCategory(cat)));
+        // Load manifest.json instead of directory scanning (required for GitHub Pages)
+        let manifest = {};
+        try {
+          const mr = await fetch("./manifest.json");
+          if (mr.ok) manifest = await mr.json();
+        } catch { /* no manifest */ }
+
         const fetches = [];
-        CATEGORIES.forEach((cat, i) => {
-          for (const id of listings[i]) {
+        CATEGORIES.forEach((cat) => {
+          for (const id of (manifest[cat] || [])) {
             fetches.push(
               fetch(`./essential/${cat}/${id}.json`)
                 .then((r) => (r.ok ? r.json() : null))
