@@ -1,0 +1,23 @@
+{
+  "description": "A free pet from the Essential Mod Festive Countdown — a 12-day holiday event celebrating community spirit. Saved for the grand finale on Day 12, the Shoulder Shrimp was gifted to the community by popular demand. Claim it by entering the code SHRIMPGIFT in the Essential Mod wardrobe.",
+  "notes": "Released on December 2025 as the final reward of the Essential Mod Festive Countdown.",
+  "thumbnail": "https://behaviorpack.github.io/Essential-Cosmetic-Wiki/imgs/shrimp_thumbnail.png",
+  "images": [
+    {
+      "url": "https://behaviorpack.github.io/Essential-Cosmetic-Wiki/essential/PET/SHRIMP_orange_1.gif",
+      "label": "Special 1"
+    },
+    {
+      "url": "https://behaviorpack.github.io/Essential-Cosmetic-Wiki/essential/PET/SHRIMP_orange_2.gif",
+      "label": "Special 2"
+    },
+    {
+      "url": "https://behaviorpack.github.io/Essential-Cosmetic-Wiki/essential/PET/SHRIMP_blue_1.gif",
+      "label": "Special 1"
+    },
+    {
+      "url": "https://behaviorpack.github.io/Essential-Cosmetic-Wiki/essential/PET/SHRIMP_blue_2.gif",
+      "label": "Special 2"
+    }
+  ]
+}
