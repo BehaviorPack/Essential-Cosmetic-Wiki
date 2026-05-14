@@ -1,9 +1,0 @@
-{
-  "description": "A short flavour text or lore description shown at the top of the Overview tab.",
-  "thumbnail": "https://behaviorpack.github.io/Essential-Cosmetic-Wiki/essential/FULL_BODY/ANIME_DRESS_rainbow.png",
-  "images": [
-    { "url": "https://behaviorpack.github.io/Essential-Cosmetic-Wiki/essential/FULL_BODY/ANIME_DRESS_rainbow.png", "label": "Full Set" },
-    { "url": "https://behaviorpack.github.io/Essential-Cosmetic-Wiki/essential/FULL_BODY/ANIME_DRESS_rainbow.png", "label": "Extra" }
-  ],
-  "notes": "Any extra notes shown at the bottom of the Overview tab."
-}

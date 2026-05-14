@@ -1,0 +1,19 @@
+{
+  "description": "A charity exclusive pet unlocked by donating $10 or more to the LoveTropics 48-hour Minecraft charity livestream, raising funds for the Pachamama Alliance — an organization dedicated to protecting the world's rainforests and the indigenous cultures within them. Donors received this one-of-a-kind companion to show off their generosity in-game.",
+  "notes": "Released as part of the LoveTropics charity event on November 21, 2025. Free rewards (Arm Floaties + Creeper Floaty) were also available to all viewers during the stream.",
+  "thumbnail": "https://behaviorpack.github.io/Essential-Cosmetic-Wiki/imgs/lovetropics.png",
+  "images": [
+    {
+      "url": "https://behaviorpack.github.io/Essential-Cosmetic-Wiki/essential/FULL_BODY/CREEPER_INFLATABLE.png",
+      "label": "Creeper Floaty"
+    },
+    {
+      "url": "https://behaviorpack.github.io/Essential-Cosmetic-Wiki/essential/ARMS/WATER_WINGS.png",
+      "label": "Arm Floaties"
+    },
+    {
+      "url": "https://behaviorpack.github.io/Essential-Cosmetic-Wiki/essential/imgs/lovetropics_set.png",
+      "label": "Full Set"
+    }
+  ]
+}
