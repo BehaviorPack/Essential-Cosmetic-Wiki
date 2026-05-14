@@ -1,0 +1,34 @@
+{
+  "id": "OCTOPUS_TENTACLES",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Octopus Tentacles"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 1050,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/834984fd6151d2bb81278c6ad3fcf4fc6cdc9a51abd52adf10ecafa3f5add7f0",
+      "checksum": "834984fd6151d2bb81278c6ad3fcf4fc6cdc9a51abd52adf10ecafa3f5add7f0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/bf74d6fa7a8ed5f888aba7ce551b139d4529da4ae31ad37fcdab026f45866cd6",
+      "checksum": "bf74d6fa7a8ed5f888aba7ce551b139d4529da4ae31ad37fcdab026f45866cd6"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/4ba2d50e580ca24a8a7850299c7da2f8d699a3b4e961561947325e30d2214ebc",
+      "checksum": "4ba2d50e580ca24a8a7850299c7da2f8d699a3b4e961561947325e30d2214ebc"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bf417ceab8e33526e79ee51ad29cca727cd7be40e990d20718b9e21e3ffabf95",
+      "checksum": "bf417ceab8e33526e79ee51ad29cca727cd7be40e990d20718b9e21e3ffabf95"
+    }
+  }
+}

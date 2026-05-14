@@ -1,0 +1,63 @@
+{
+  "id": "MAGMA_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Magma Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR",
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/crying_obsidian/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/eb03a6c4661e80d642e843a7e33ae8e341e461c3e8545c7301442911b05b5ab8",
+      "checksum": "eb03a6c4661e80d642e843a7e33ae8e341e461c3e8545c7301442911b05b5ab8"
+    },
+    "particles/lava_drip_wing.particle.json": {
+      "url": "https://cdn.essential.gg/assets/72134132ab1c028de369ce1d46f1beb080c7066f074f79f4895a4754518c6ab9",
+      "checksum": "72134132ab1c028de369ce1d46f1beb080c7066f074f79f4895a4754518c6ab9"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1cd3088ad2c0c1aa358d61752181ed7f350bc868a991ecf6b0f859cefae2c9e3",
+      "checksum": "1cd3088ad2c0c1aa358d61752181ed7f350bc868a991ecf6b0f859cefae2c9e3"
+    },
+    "particles/smoke_wings.particle.json": {
+      "url": "https://cdn.essential.gg/assets/f26bb69c6926d28c3be28bc4c4b07328bbdf6f03a380fc19f92b94ead03da380",
+      "checksum": "f26bb69c6926d28c3be28bc4c4b07328bbdf6f03a380fc19f92b94ead03da380"
+    },
+    "variants/magma/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1dfcd1d6f2cdb889ff16068ed269360df1b98e4eb4f24f19f980afdc0cfe093f",
+      "checksum": "1dfcd1d6f2cdb889ff16068ed269360df1b98e4eb4f24f19f980afdc0cfe093f"
+    },
+    "particles/smoke_puff.particle.json": {
+      "url": "https://cdn.essential.gg/assets/05186078b4602005b2029c1ee2227307588c9a6ef1b1d01abd856a60ba375b49",
+      "checksum": "05186078b4602005b2029c1ee2227307588c9a6ef1b1d01abd856a60ba375b49"
+    },
+    "variants/crying_obsidian/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8da8972b15e83430bd840233fb3ca421f334faee1bc55b3bf3f7a77ef391bf8f",
+      "checksum": "8da8972b15e83430bd840233fb3ca421f334faee1bc55b3bf3f7a77ef391bf8f"
+    },
+    "variants/magma/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3ea0f508e025954b09e9ede77f88a1729a9e327ee668641c32c958f9fdac85bf",
+      "checksum": "3ea0f508e025954b09e9ede77f88a1729a9e327ee668641c32c958f9fdac85bf"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/23fb4c8af234f247c0bf4729537d4d0cc81811abf5c1eabc9c8b784638f69c41",
+      "checksum": "23fb4c8af234f247c0bf4729537d4d0cc81811abf5c1eabc9c8b784638f69c41"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0346257cb7301ca4220dc96cccb12555ab311b62c0cf87b9767caf60432de2f0",
+      "checksum": "0346257cb7301ca4220dc96cccb12555ab311b62c0cf87b9767caf60432de2f0"
+    }
+  }
+}

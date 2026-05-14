@@ -1,0 +1,54 @@
+{
+  "id": "BOXING_GLOVES",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Boxing Gloves"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 11,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/22e5128171ec1f6a9bc9239e82887acf60fd1ecd4122f27894a5a0776250a258",
+      "checksum": "22e5128171ec1f6a9bc9239e82887acf60fd1ecd4122f27894a5a0776250a258"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f041d86a10f3d02bedc72a3afad5a78b6de33d64401e2f207ec279cd7b8496ba",
+      "checksum": "f041d86a10f3d02bedc72a3afad5a78b6de33d64401e2f207ec279cd7b8496ba"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/b8cbf7f0580f4f6b38340c2ed2e21d921401d286f8444d193efc9dc51f85211b",
+      "checksum": "b8cbf7f0580f4f6b38340c2ed2e21d921401d286f8444d193efc9dc51f85211b"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/9cd809d3975cb4b59d0e2b50500dd732fd8f824b1e0586f63def4fd7edeacc1d",
+      "checksum": "9cd809d3975cb4b59d0e2b50500dd732fd8f824b1e0586f63def4fd7edeacc1d"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/03f9ffd8f610e94eb70740a23f9910b67319b49db4c1368992e8cab8e6d4cf7b",
+      "checksum": "03f9ffd8f610e94eb70740a23f9910b67319b49db4c1368992e8cab8e6d4cf7b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/40f29d4fc6749dbb1d4a1c6ea88607b3f301d19d88042b7ac6ee37386c3f848b",
+      "checksum": "40f29d4fc6749dbb1d4a1c6ea88607b3f301d19d88042b7ac6ee37386c3f848b"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d484df11ed8cfd698dbd35689b041286e71e7f1064d51012fbde3b2771273c60",
+      "checksum": "d484df11ed8cfd698dbd35689b041286e71e7f1064d51012fbde3b2771273c60"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7107087887ac45eaa801735f7097e2dbc0c7788e0537d6977cbd4ea9333a0eac",
+      "checksum": "7107087887ac45eaa801735f7097e2dbc0c7788e0537d6977cbd4ea9333a0eac"
+    }
+  }
+}

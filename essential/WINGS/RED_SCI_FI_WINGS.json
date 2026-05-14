@@ -1,0 +1,36 @@
+{
+  "id": "RED_SCI_FI_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "(RED) Sci-Fi Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 1030,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/834984fd6151d2bb81278c6ad3fcf4fc6cdc9a51abd52adf10ecafa3f5add7f0",
+      "checksum": "834984fd6151d2bb81278c6ad3fcf4fc6cdc9a51abd52adf10ecafa3f5add7f0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/9459623f58046681668f83a98212ce16fd2d438465048038429e81ff93a94552",
+      "checksum": "9459623f58046681668f83a98212ce16fd2d438465048038429e81ff93a94552"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/3def9f756dec6233a438a5fc5b0d8d9a058e041528967cc50e9502f7d06b3ba9",
+      "checksum": "3def9f756dec6233a438a5fc5b0d8d9a058e041528967cc50e9502f7d06b3ba9"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/da39e81d6075906ebff3fbdc662acf7d3c09cc1dfac6a50169b817f5c85dabc8",
+      "checksum": "da39e81d6075906ebff3fbdc662acf7d3c09cc1dfac6a50169b817f5c85dabc8"
+    }
+  }
+}

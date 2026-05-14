@@ -1,0 +1,63 @@
+{
+  "id": "FIRE_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Legacy Fire Wings"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 2000,
+  "priceCoins": 1500,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2eaafad5c10be906b1640d5a3a435131051d2e69abc23f73c968ec6f14687334",
+      "checksum": "2eaafad5c10be906b1640d5a3a435131051d2e69abc23f73c968ec6f14687334"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/089e6ef8f550db5c86a90033f8761c498ded96c22c8175dbbe6349a5ce0aa527",
+      "checksum": "089e6ef8f550db5c86a90033f8761c498ded96c22c8175dbbe6349a5ce0aa527"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e72335dc2eb4a8356faff7170fcd8cbf5db8abb615c896c45280bc6df93e4dfa",
+      "checksum": "e72335dc2eb4a8356faff7170fcd8cbf5db8abb615c896c45280bc6df93e4dfa"
+    },
+    "variants/fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/559cd69525665676308ce022d19680b0ba77786bd197ba51c3bc7ea66f4fd8dc",
+      "checksum": "559cd69525665676308ce022d19680b0ba77786bd197ba51c3bc7ea66f4fd8dc"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bc86fb809dd9450fd681a2f51b45d5a326849b36abd4e9a33ce2364127fa0abe",
+      "checksum": "bc86fb809dd9450fd681a2f51b45d5a326849b36abd4e9a33ce2364127fa0abe"
+    },
+    "variants/fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/ae24fde55399f8c235ad90adba48f2bb55a39e0081472753b9270c24e8c66cea",
+      "checksum": "ae24fde55399f8c235ad90adba48f2bb55a39e0081472753b9270c24e8c66cea"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/761d3686c8c4e7608242afa2a50c0d363d63b543c19ff55571fe18f559a24c70",
+      "checksum": "761d3686c8c4e7608242afa2a50c0d363d63b543c19ff55571fe18f559a24c70"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/c70411167b870bf3dfc563d70782e454d443a4e2a02ffdd15eb86322dcdba588",
+      "checksum": "c70411167b870bf3dfc563d70782e454d443a4e2a02ffdd15eb86322dcdba588"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/35958a9f542d86980cb962ab4e9c135e6ff079444b57e154d2d494e7abc35567",
+      "checksum": "35958a9f542d86980cb962ab4e9c135e6ff079444b57e154d2d494e7abc35567"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/dc9b24dee40fa47f3f4427f70f9e521856f4e9fff8b8841740315f193c5020c7",
+      "checksum": "dc9b24dee40fa47f3f4427f70f9e521856f4e9fff8b8841740315f193c5020c7"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3e56f6925c3008ef1ca667102d32c1be067509f922c16faf68a1fdce6fde66b5",
+      "checksum": "3e56f6925c3008ef1ca667102d32c1be067509f922c16faf68a1fdce6fde66b5"
+    }
+  }
+}

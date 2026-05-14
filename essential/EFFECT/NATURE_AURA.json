@@ -1,0 +1,46 @@
+{
+  "id": "NATURE_AURA",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Falling Leaves"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/normal/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d9a7986fbccc959e5c7daf974073645a002687c1625e5de8d27b4eddf6a26cf6",
+      "checksum": "d9a7986fbccc959e5c7daf974073645a002687c1625e5de8d27b4eddf6a26cf6"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/dde1d3087baf00d2eaeb20fb632e0b6a296242e6cba45f754d105e5dc00dbac5",
+      "checksum": "dde1d3087baf00d2eaeb20fb632e0b6a296242e6cba45f754d105e5dc00dbac5"
+    },
+    "variants/autumn/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5116b40f12966cfaf9b0c8a48b2463149efded4f62de7141df30d1e74bcf07e1",
+      "checksum": "5116b40f12966cfaf9b0c8a48b2463149efded4f62de7141df30d1e74bcf07e1"
+    },
+    "particles/nature_aura.particle.json": {
+      "url": "https://cdn.essential.gg/assets/85d4c56d582a44f7a302dc5ec8eb85778d02069e9309a8b2c161fcced0cdea5d",
+      "checksum": "85d4c56d582a44f7a302dc5ec8eb85778d02069e9309a8b2c161fcced0cdea5d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/c7c1c59a9b168f47cdf589f50929df7f5d4383f9d8192dff9c5460eec6c476ed",
+      "checksum": "c7c1c59a9b168f47cdf589f50929df7f5d4383f9d8192dff9c5460eec6c476ed"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/df80c3b845d75f0e87918d6a5bc9bf9cb6a1d04c67c8b745c03fd346dfb98f87",
+      "checksum": "df80c3b845d75f0e87918d6a5bc9bf9cb6a1d04c67c8b745c03fd346dfb98f87"
+    }
+  }
+}

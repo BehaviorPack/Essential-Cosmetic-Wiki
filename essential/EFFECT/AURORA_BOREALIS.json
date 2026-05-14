@@ -1,0 +1,42 @@
+{
+  "id": "AURORA_BOREALIS",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Aurora Borealis"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "particles/aurora_2.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d5379a3b4c8f7db64c49703e86b4746e86845954631ed62877153c5faf295eea",
+      "checksum": "d5379a3b4c8f7db64c49703e86b4746e86845954631ed62877153c5faf295eea"
+    },
+    "particles/aurora_3.particle.json": {
+      "url": "https://cdn.essential.gg/assets/0594bc243627690a219dc6cffb57a67be9c54ec5abf954f821b98272b9d0ccc4",
+      "checksum": "0594bc243627690a219dc6cffb57a67be9c54ec5abf954f821b98272b9d0ccc4"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/370f99a28974b1f5e4421577f551b5f4dd745b85d7de2bd4edfa8d444125029a",
+      "checksum": "370f99a28974b1f5e4421577f551b5f4dd745b85d7de2bd4edfa8d444125029a"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/70076ba0a43c2ca74691be5aed769642b64116fa0ea58d392392509f3c0f2ff5",
+      "checksum": "70076ba0a43c2ca74691be5aed769642b64116fa0ea58d392392509f3c0f2ff5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3fddac42d04fe9953cc084a8997b2c3ba753bfce365c15c1f8f25abff951822a",
+      "checksum": "3fddac42d04fe9953cc084a8997b2c3ba753bfce365c15c1f8f25abff951822a"
+    },
+    "particles/aurora_1.particle.json": {
+      "url": "https://cdn.essential.gg/assets/72201b56e5b9e2e0f4d1edbca605439e8ca133cfcd85093d949f6d5d7c9f71bf",
+      "checksum": "72201b56e5b9e2e0f4d1edbca605439e8ca133cfcd85093d949f6d5d7c9f71bf"
+    }
+  }
+}

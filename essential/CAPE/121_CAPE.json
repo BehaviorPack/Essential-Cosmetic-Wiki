@@ -1,0 +1,54 @@
+{
+  "id": "121_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Trial Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "particles/cape_spawner_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/a56e2378319e5591f7f31bd6a698fedb47625c16237b5e0e5fb5beab0437f366",
+      "checksum": "a56e2378319e5591f7f31bd6a698fedb47625c16237b5e0e5fb5beab0437f366"
+    },
+    "particles/cape_spawner_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/43fc1643731c70a8c1ee72c2ec1e45ff06a7f06c36096e60bfcf07f3346e4fb5",
+      "checksum": "43fc1643731c70a8c1ee72c2ec1e45ff06a7f06c36096e60bfcf07f3346e4fb5"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7c8c45540510ae348eda39d0422f1523fe33cadc8b6b97827c2b606d59c7ed3d",
+      "checksum": "7c8c45540510ae348eda39d0422f1523fe33cadc8b6b97827c2b606d59c7ed3d"
+    },
+    "particles/cape_spawner_fireburst.particle.json": {
+      "url": "https://cdn.essential.gg/assets/38165b98260dc1cec1623b90dbca31384514b716ec3ea97861436de92bcc5bb0",
+      "checksum": "38165b98260dc1cec1623b90dbca31384514b716ec3ea97861436de92bcc5bb0"
+    },
+    "variants/particle/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e80073c4144414f53b54e0149abad09386daeb7bd0e1fe415005712d980b9ce9",
+      "checksum": "e80073c4144414f53b54e0149abad09386daeb7bd0e1fe415005712d980b9ce9"
+    },
+    "particles/cape_spawner_smokeburst.particle.json": {
+      "url": "https://cdn.essential.gg/assets/e476210d4cb2926079bc30337f58240dd4082aa49d2b5aee6676353e191403a4",
+      "checksum": "e476210d4cb2926079bc30337f58240dd4082aa49d2b5aee6676353e191403a4"
+    },
+    "variants/no_particle/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b7e9388960f6027d4084e69d945c7f1818bed57970adde16597fede0146be6b8",
+      "checksum": "b7e9388960f6027d4084e69d945c7f1818bed57970adde16597fede0146be6b8"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/13c71dff7f8ee02597af67cce61b0d48f533010ee2abe2c3f1617d74b77f8971",
+      "checksum": "13c71dff7f8ee02597af67cce61b0d48f533010ee2abe2c3f1617d74b77f8971"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/46c5ef72f59fd0802b3e0e447c19ebff0a99cf15d8fc0624267fc2103e8f1dca",
+      "checksum": "46c5ef72f59fd0802b3e0e447c19ebff0a99cf15d8fc0624267fc2103e8f1dca"
+    }
+  }
+}

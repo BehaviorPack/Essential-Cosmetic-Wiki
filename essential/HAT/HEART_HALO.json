@@ -1,0 +1,44 @@
+{
+  "id": "HEART_HALO",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Heart Halo"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 8,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/460822a79d490fbf3e6ea2d969470c82265f3b864e28b63ced6cf0361be22125",
+      "checksum": "460822a79d490fbf3e6ea2d969470c82265f3b864e28b63ced6cf0361be22125"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/32919cb954c3a7e829950e871f193f45315be3f81c29759d3627daab4b9d9505",
+      "checksum": "32919cb954c3a7e829950e871f193f45315be3f81c29759d3627daab4b9d9505"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e5c09ee7d72c1a5e32a08e126e4445ceffea6a9e49d05e79b1159d919591b06a",
+      "checksum": "e5c09ee7d72c1a5e32a08e126e4445ceffea6a9e49d05e79b1159d919591b06a"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/a0407b7a727d3b1f41df6a4562620a46f5d9e1ab0dbced619fae9d4658a2c952",
+      "checksum": "a0407b7a727d3b1f41df6a4562620a46f5d9e1ab0dbced619fae9d4658a2c952"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5c64e5d57366b1a94a4f431b263ff4c06ea9ae14c8a975330fb161d47efc8218",
+      "checksum": "5c64e5d57366b1a94a4f431b263ff4c06ea9ae14c8a975330fb161d47efc8218"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/12c38e31bb7f848073a22b570d486a1d4ed88f75d4d11040f81112a70c4aebcb",
+      "checksum": "12c38e31bb7f848073a22b570d486a1d4ed88f75d4d11040f81112a70c4aebcb"
+    }
+  }
+}

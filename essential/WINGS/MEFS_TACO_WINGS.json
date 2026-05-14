@@ -1,0 +1,35 @@
+{
+  "id": "MEFS_TACO_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Mef\u0027s Taco Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 1060,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d362531966eba2f215a23694fc51763abd55a28f0a328e572b9172515349873c",
+      "checksum": "d362531966eba2f215a23694fc51763abd55a28f0a328e572b9172515349873c"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/6003069ca8639f696c0987052d4e6d7ae5957040f29959005a3a4798845f8a48",
+      "checksum": "6003069ca8639f696c0987052d4e6d7ae5957040f29959005a3a4798845f8a48"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/280fb0deb9a7821a428fc59d960393b22b16ddcc79d58f607524cf6cec4b5fd7",
+      "checksum": "280fb0deb9a7821a428fc59d960393b22b16ddcc79d58f607524cf6cec4b5fd7"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c2604ac29f921b56aa7d171f5b20477fe09d1331512778806dc24c46ebeffacc",
+      "checksum": "c2604ac29f921b56aa7d171f5b20477fe09d1331512778806dc24c46ebeffacc"
+    }
+  }
+}

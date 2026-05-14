@@ -1,0 +1,36 @@
+{
+  "id": "PAPER_BAG",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Paper Bag"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 70,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f871044c777a9c88315aaed6d216143107a6d8e3c55961c5f4bdd1f9bf621189",
+      "checksum": "f871044c777a9c88315aaed6d216143107a6d8e3c55961c5f4bdd1f9bf621189"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/fcadd82c8259591bd708a4e016fb14d864bfd4468ce4ebbd9162ae577a5dc7c5",
+      "checksum": "fcadd82c8259591bd708a4e016fb14d864bfd4468ce4ebbd9162ae577a5dc7c5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6e3dbb1cc007603b8e2713815250331760f61c6f9b611f57ee4b6b61c14f6ab8",
+      "checksum": "6e3dbb1cc007603b8e2713815250331760f61c6f9b611f57ee4b6b61c14f6ab8"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

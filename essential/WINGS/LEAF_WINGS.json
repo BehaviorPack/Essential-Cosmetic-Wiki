@@ -1,0 +1,39 @@
+{
+  "id": "LEAF_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Leaf Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_COZY",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/11301988bf859f35cf19f085ee57b4272c13c9cce61f3048e7fbe0c2918f71d6",
+      "checksum": "11301988bf859f35cf19f085ee57b4272c13c9cce61f3048e7fbe0c2918f71d6"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/a533c8c613bb1d49828b243b6ad28fa8d0fc50e06bfa7fb914352cdead4b58fb",
+      "checksum": "a533c8c613bb1d49828b243b6ad28fa8d0fc50e06bfa7fb914352cdead4b58fb"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/2fadf6245aa8955faf2c16f6c0a837c3898b1f0e75d6674c93c42fc535031ec5",
+      "checksum": "2fadf6245aa8955faf2c16f6c0a837c3898b1f0e75d6674c93c42fc535031ec5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ec3df81dc687a58af4e7c9d2d4397fbbb7ef9c7ddc7c90b8e90d5b3d3efd807a",
+      "checksum": "ec3df81dc687a58af4e7c9d2d4397fbbb7ef9c7ddc7c90b8e90d5b3d3efd807a"
+    }
+  }
+}

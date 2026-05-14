@@ -1,0 +1,37 @@
+{
+  "id": "T_POSE",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "T-Pose"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MEME"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e457b0e6ebbe6f365dde85340e8af5ac4bc39f8b8f4e38b4a73b9fe1f21ebccf",
+      "checksum": "e457b0e6ebbe6f365dde85340e8af5ac4bc39f8b8f4e38b4a73b9fe1f21ebccf"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/1932436c9cd33672a0d6096c0bb40f395b9a659ee264562ee9fc5ca75ae646f4",
+      "checksum": "1932436c9cd33672a0d6096c0bb40f395b9a659ee264562ee9fc5ca75ae646f4"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/381551ed1b1d8fd7fdada35d1bcf096078bc3b7ab6837fd9027fc544f2e724e6",
+      "checksum": "381551ed1b1d8fd7fdada35d1bcf096078bc3b7ab6837fd9027fc544f2e724e6"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c5374513ebc2e035d238dcaa6a50cfe109a6bceb7a33ee2e1ffa198c80d99825",
+      "checksum": "c5374513ebc2e035d238dcaa6a50cfe109a6bceb7a33ee2e1ffa198c80d99825"
+    }
+  }
+}

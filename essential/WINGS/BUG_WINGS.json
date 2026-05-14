@@ -1,0 +1,57 @@
+{
+  "id": "BUG_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Bug Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_BUG",
+    "THEME_CUTE",
+    "THEME_SPRING",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/dc749665dfa25c39f12b9a0496e994b3acf131a8e3b1de92592b63aab88552c1",
+      "checksum": "dc749665dfa25c39f12b9a0496e994b3acf131a8e3b1de92592b63aab88552c1"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a9f2226300a624194621b210927dd2f25595a27ea93731032d3df5b6b87186fd",
+      "checksum": "a9f2226300a624194621b210927dd2f25595a27ea93731032d3df5b6b87186fd"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8e0bda5b66b28e258de03bf13102a91ce3d4ca46fe92e353e7251eaebb67eb5a",
+      "checksum": "8e0bda5b66b28e258de03bf13102a91ce3d4ca46fe92e353e7251eaebb67eb5a"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5171738fa1d17d4d0d1204d2b24a5b157bf211c73e99cd5350c6c733f7a57a53",
+      "checksum": "5171738fa1d17d4d0d1204d2b24a5b157bf211c73e99cd5350c6c733f7a57a53"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/3dc2cb5325718f8411d037c40a9723036f01c510852f9484b5b58615d17e4c74",
+      "checksum": "3dc2cb5325718f8411d037c40a9723036f01c510852f9484b5b58615d17e4c74"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/593a2856a04a3da6bf2a063d0f98d1e8f94a8185e4a85a885d689d0b6047f498",
+      "checksum": "593a2856a04a3da6bf2a063d0f98d1e8f94a8185e4a85a885d689d0b6047f498"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/09c853e1b8b2aa51fd64b0ab90a38ae66f1d6e1b8b1a39f16f01786b894ec08c",
+      "checksum": "09c853e1b8b2aa51fd64b0ab90a38ae66f1d6e1b8b1a39f16f01786b894ec08c"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0b985d103911608682de84f1a37b51e2317ec916148c6b5804bc28109acfaa0c",
+      "checksum": "0b985d103911608682de84f1a37b51e2317ec916148c6b5804bc28109acfaa0c"
+    }
+  }
+}

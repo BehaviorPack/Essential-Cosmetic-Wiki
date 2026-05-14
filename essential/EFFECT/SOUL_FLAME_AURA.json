@@ -1,0 +1,36 @@
+{
+  "id": "SOUL_FLAME_AURA",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Soul Flame Aura"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:FLAME",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 81,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7d80790356ae2636bb91b9e3f53a2d17b05e3c7caf5526f4241bc994666a36d4",
+      "checksum": "7d80790356ae2636bb91b9e3f53a2d17b05e3c7caf5526f4241bc994666a36d4"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/77fda1e59886239a707745635efd04c162b6a67c9b3185b36f0905d5123be399",
+      "checksum": "77fda1e59886239a707745635efd04c162b6a67c9b3185b36f0905d5123be399"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/dfb0863ae58f4972756ddf00b59b8ee18b4d1e527e96d4a4f1571cc95711205e",
+      "checksum": "dfb0863ae58f4972756ddf00b59b8ee18b4d1e527e96d4a4f1571cc95711205e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8c8ca4e415d4da6e1508598e3c292f40dfd9434abd928a377921a6e1b9c1366d",
+      "checksum": "8c8ca4e415d4da6e1508598e3c292f40dfd9434abd928a377921a6e1b9c1366d"
+    }
+  }
+}

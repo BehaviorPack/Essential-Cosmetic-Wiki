@@ -1,0 +1,46 @@
+{
+  "id": "SCULK_FISTS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Sculk Fists"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a05edd7e773a94b77e3453c0100134d9bebe1cdbee614f4c01e8c688d078aa72",
+      "checksum": "a05edd7e773a94b77e3453c0100134d9bebe1cdbee614f4c01e8c688d078aa72"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/f481c7cfe423b589a0ecfe7f680219815b16a8703cce611dd4d06667b5f1f105",
+      "checksum": "f481c7cfe423b589a0ecfe7f680219815b16a8703cce611dd4d06667b5f1f105"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/bd0b33eb3528713fa968a414acec36c5d85610b00225591b2001854f115de07f",
+      "checksum": "bd0b33eb3528713fa968a414acec36c5d85610b00225591b2001854f115de07f"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/3dab47ceda2dd722750ca8136045a1d603dff3c195946683b5edcce5f6d3437b",
+      "checksum": "3dab47ceda2dd722750ca8136045a1d603dff3c195946683b5edcce5f6d3437b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0be11fc54a115ce998f02ec8b2b598a3a11bcbc1223c5678c242f5d88c76fbbe",
+      "checksum": "0be11fc54a115ce998f02ec8b2b598a3a11bcbc1223c5678c242f5d88c76fbbe"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/c4867aa590083eb9544a3346cc60910f8b9cd8b68fe9c26ff2532232cffad473",
+      "checksum": "c4867aa590083eb9544a3346cc60910f8b9cd8b68fe9c26ff2532232cffad473"
+    }
+  }
+}

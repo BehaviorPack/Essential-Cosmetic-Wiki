@@ -1,0 +1,33 @@
+{
+  "id": "SPARK_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Spark Universe Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/47b940f71ed844455151370a9d11a72d81fc5b0803feebe0fd6b5b46ac32c497",
+      "checksum": "47b940f71ed844455151370a9d11a72d81fc5b0803feebe0fd6b5b46ac32c497"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/a8008d99d421ef2edd94db6a2611cef1bb0db9849981c536dec69f64c6eb7b3e",
+      "checksum": "a8008d99d421ef2edd94db6a2611cef1bb0db9849981c536dec69f64c6eb7b3e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/762c7fa8c6702d94a547c33c15f8e14040d134853baef5d5e4a84885697c65e2",
+      "checksum": "762c7fa8c6702d94a547c33c15f8e14040d134853baef5d5e4a84885697c65e2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3df6bbb345ead49fb4fdd3eaecddad20b711cc6a7f21aa1edef3974a5a62d75c",
+      "checksum": "3df6bbb345ead49fb4fdd3eaecddad20b711cc6a7f21aa1edef3974a5a62d75c"
+    }
+  }
+}

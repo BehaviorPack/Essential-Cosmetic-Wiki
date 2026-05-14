@@ -1,0 +1,38 @@
+{
+  "id": "BUILD_A_SNOWMAN",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Build A Snowman"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 30,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "particles/snowman_poof_snow.particle.json": {
+      "url": "https://cdn.essential.gg/assets/80d0a3085f848126a5983379c084ba0c23265c001477c13d779d2b435084c085",
+      "checksum": "80d0a3085f848126a5983379c084ba0c23265c001477c13d779d2b435084c085"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/07039de0e0755e9e16af2307fcfbf7f0a2930b052e86cc0523ed23785667d6ec",
+      "checksum": "07039de0e0755e9e16af2307fcfbf7f0a2930b052e86cc0523ed23785667d6ec"
+    },
+    "particles/snowman_poof_flakes.particle.json": {
+      "url": "https://cdn.essential.gg/assets/ef2dc53d4cfee14cddb862da5e128ac22e5d3d77dda75ea858975d9c80bec2af",
+      "checksum": "ef2dc53d4cfee14cddb862da5e128ac22e5d3d77dda75ea858975d9c80bec2af"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/7a90ba6f96bc4af83b59840e070d90ca919f21151dfc54a9502b8609741c9663",
+      "checksum": "7a90ba6f96bc4af83b59840e070d90ca919f21151dfc54a9502b8609741c9663"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/40669d7697db6f7b386984e52628f1ca1edbebb6c8166b0557ecdb5937fd4026",
+      "checksum": "40669d7697db6f7b386984e52628f1ca1edbebb6c8166b0557ecdb5937fd4026"
+    }
+  }
+}

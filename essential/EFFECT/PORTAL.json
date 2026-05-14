@@ -1,0 +1,57 @@
+{
+  "id": "PORTAL",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Portal Magic"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "SET_AETHER",
+    "THEME_AETHER",
+    "THEME_MINECRAFT",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/end_portal/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d23152ea7191209af3ff98470e775b6cf73300aa7a1ffb8556f2052120cf5145",
+      "checksum": "d23152ea7191209af3ff98470e775b6cf73300aa7a1ffb8556f2052120cf5145"
+    },
+    "variants/nether_portal/texture.png": {
+      "url": "https://cdn.essential.gg/assets/797c95a6f5350219c2a505693e6cf896eae07d21f7f37790764c48414c47582c",
+      "checksum": "797c95a6f5350219c2a505693e6cf896eae07d21f7f37790764c48414c47582c"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e844084e8025a94d925933e3cd691444fbe8471ce75a67e7bb722b1020edd5b7",
+      "checksum": "e844084e8025a94d925933e3cd691444fbe8471ce75a67e7bb722b1020edd5b7"
+    },
+    "variants/aether_portal/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5407f7059f773d386632cdd890af9d0bc14841a9310f49dc2a694b75bf2e7c0b",
+      "checksum": "5407f7059f773d386632cdd890af9d0bc14841a9310f49dc2a694b75bf2e7c0b"
+    },
+    "particles/portal.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d215312b732fa999662ea2a05f9c35126284dace99610ec1e2e38e1a55582bdc",
+      "checksum": "d215312b732fa999662ea2a05f9c35126284dace99610ec1e2e38e1a55582bdc"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/7f0c73ca2e773c5b36fa2b817a0ab9ac49a773ea6c45b05f8334b7adcee16c08",
+      "checksum": "7f0c73ca2e773c5b36fa2b817a0ab9ac49a773ea6c45b05f8334b7adcee16c08"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/01043eda87f3494cf33eb57679490a3f37f4b1de1585e346ef01a93823797733",
+      "checksum": "01043eda87f3494cf33eb57679490a3f37f4b1de1585e346ef01a93823797733"
+    },
+    "variants/movie_portal/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5a9d76f93a6f1e34c146f4bd210b45a73e6b41c61241741bcca4e23cf32f9923",
+      "checksum": "5a9d76f93a6f1e34c146f4bd210b45a73e6b41c61241741bcca4e23cf32f9923"
+    }
+  }
+}

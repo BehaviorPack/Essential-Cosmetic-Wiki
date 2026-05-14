@@ -1,0 +1,37 @@
+{
+  "id": "BUTTERFLIES",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Butterflies"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_BUG",
+    "THEME_SPRING",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/23cb7c4c833018e8c9649641aedec4f039d92320b6c2b5306e6ac211bcee1576",
+      "checksum": "23cb7c4c833018e8c9649641aedec4f039d92320b6c2b5306e6ac211bcee1576"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/dcd73f0903a9475ac642bb17281b35e439f32443955f1dfbc3a680755f63462c",
+      "checksum": "dcd73f0903a9475ac642bb17281b35e439f32443955f1dfbc3a680755f63462c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/791632100a9a2b69e319fec6ae4dd601d1da12755aadf8eaf0af3dcaba0deff7",
+      "checksum": "791632100a9a2b69e319fec6ae4dd601d1da12755aadf8eaf0af3dcaba0deff7"
+    }
+  }
+}

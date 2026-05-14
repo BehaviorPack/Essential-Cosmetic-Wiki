@@ -1,0 +1,49 @@
+{
+  "id": "SOUL_FLAME_HANDS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Soul Fire Hands"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:FLAME",
+    "NON_PARTNER",
+    "FEATURED"
+  ],
+  "createdAt": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 110,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7e211ee53d5297c7fc7265c9a0322853f3399ce2cf1a74d9cfa8a7c662d80e1d",
+      "checksum": "7e211ee53d5297c7fc7265c9a0322853f3399ce2cf1a74d9cfa8a7c662d80e1d"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/2e71df933d59d6233df96387f1942c1747db26ddb384f4facb714c7f1ed7f635",
+      "checksum": "2e71df933d59d6233df96387f1942c1747db26ddb384f4facb714c7f1ed7f635"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/043a200c328e1226d94da21fc1bd54abbae885fcf97b1e4bf40b435db8a9dec3",
+      "checksum": "043a200c328e1226d94da21fc1bd54abbae885fcf97b1e4bf40b435db8a9dec3"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/e7295f881b3b9e03cd17506fdfd9a0d8becb5345c86828f9a0d9c7a6c5a6341a",
+      "checksum": "e7295f881b3b9e03cd17506fdfd9a0d8becb5345c86828f9a0d9c7a6c5a6341a"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/9840dd189898ccd09219462238619a5d63b73938f0d104a0f91cb868b4948d4e",
+      "checksum": "9840dd189898ccd09219462238619a5d63b73938f0d104a0f91cb868b4948d4e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4616b7fb426f2fd4834e41ad37459b00f863b93d8a55e4445aa1239206f2aa3b",
+      "checksum": "4616b7fb426f2fd4834e41ad37459b00f863b93d8a55e4445aa1239206f2aa3b"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/cd60350bba09e3d5a2932fb23cdc39037ed398074946388f1f460e84418e7862",
+      "checksum": "cd60350bba09e3d5a2932fb23cdc39037ed398074946388f1f460e84418e7862"
+    }
+  }
+}

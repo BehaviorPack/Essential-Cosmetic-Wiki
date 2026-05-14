@@ -1,0 +1,37 @@
+{
+  "id": "ROSE_PETAL_PARTICLES",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Rose Petals"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_VALENTINES",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/rose_petal_particles.particle.json": {
+      "url": "https://cdn.essential.gg/assets/e6fa562096a500a1bf67f326ba8682feac6ebf12809bfc2d4f8f1498276e5712",
+      "checksum": "e6fa562096a500a1bf67f326ba8682feac6ebf12809bfc2d4f8f1498276e5712"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/651deea5b75c341781597970fc4875c43d6540ba85fcaf9a4b530d63f86bba4f",
+      "checksum": "651deea5b75c341781597970fc4875c43d6540ba85fcaf9a4b530d63f86bba4f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/7cceaef6989824b8f2aa0baa8976620dbd9565b0138dfe34e673c9c55d132f82",
+      "checksum": "7cceaef6989824b8f2aa0baa8976620dbd9565b0138dfe34e673c9c55d132f82"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ff4e997b4410ef3cb3e53721f7563006c08239b8f04694996de9a24bd193b020",
+      "checksum": "ff4e997b4410ef3cb3e53721f7563006c08239b8f04694996de9a24bd193b020"
+    }
+  }
+}

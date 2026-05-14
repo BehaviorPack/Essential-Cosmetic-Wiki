@@ -1,0 +1,46 @@
+{
+  "id": "CRYSTAL_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Crystal Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/amethyst/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a7294cde39eb176499916bf3caa2a8e0c59b8840f5f56392d8e4c5883b6b5f99",
+      "checksum": "a7294cde39eb176499916bf3caa2a8e0c59b8840f5f56392d8e4c5883b6b5f99"
+    },
+    "variants/diamond/texture.png": {
+      "url": "https://cdn.essential.gg/assets/edf8f6babccdc1ba3f7c42d25b69e7c199e4393fc4d7fe10347bb8b3c270455b",
+      "checksum": "edf8f6babccdc1ba3f7c42d25b69e7c199e4393fc4d7fe10347bb8b3c270455b"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/518815dcd14820a0f0cbd0f28ba01a5b639647285b5196a7fbddc13cc7316037",
+      "checksum": "518815dcd14820a0f0cbd0f28ba01a5b639647285b5196a7fbddc13cc7316037"
+    },
+    "variants/emerald/texture.png": {
+      "url": "https://cdn.essential.gg/assets/263c46239824a3d01549e572fdf5d5a07db37f1a1fd4e6d84716442df69ea625",
+      "checksum": "263c46239824a3d01549e572fdf5d5a07db37f1a1fd4e6d84716442df69ea625"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e2a40af73fb6ff8c893e9ba2d5f7d2e66ba926a9e8caea260799c974451a818f",
+      "checksum": "e2a40af73fb6ff8c893e9ba2d5f7d2e66ba926a9e8caea260799c974451a818f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ac58e47f8aa0a297b6ceca9d07c409ea0d84b29fbfbd1ca08750a51ad1940572",
+      "checksum": "ac58e47f8aa0a297b6ceca9d07c409ea0d84b29fbfbd1ca08750a51ad1940572"
+    }
+  }
+}

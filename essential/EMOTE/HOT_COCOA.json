@@ -1,0 +1,51 @@
+{
+  "id": "HOT_COCOA",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Hot Cocoa Sip"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY",
+    "THEME_AUTUMN",
+    "THEME_COZY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/warmth.particle.json": {
+      "url": "https://cdn.essential.gg/assets/7ac1f7050b51b34531de2dd71a3f86d90827fae5e54a19bd34cefba60a598197",
+      "checksum": "7ac1f7050b51b34531de2dd71a3f86d90827fae5e54a19bd34cefba60a598197"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d6ab15f4ed033abf8d349500e4b1dcb71aaf2439745089665138652fd36ef43d",
+      "checksum": "d6ab15f4ed033abf8d349500e4b1dcb71aaf2439745089665138652fd36ef43d"
+    },
+    "particles/hot_cocoa_steam.particle.json": {
+      "url": "https://cdn.essential.gg/assets/26d0b25147d709b2f6f1afddde51f0911b54a21e9acab136404f5f7d6261a20f",
+      "checksum": "26d0b25147d709b2f6f1afddde51f0911b54a21e9acab136404f5f7d6261a20f"
+    },
+    "particles/warm_hearts.particle.json": {
+      "url": "https://cdn.essential.gg/assets/21bf8688a82be9464ebef19a8cf1457f51a1cc7bc8bff5998b2c06c47d465622",
+      "checksum": "21bf8688a82be9464ebef19a8cf1457f51a1cc7bc8bff5998b2c06c47d465622"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/38033033865502bccb4652f63a8a0440fec875a3c6144f417c47e3fc75f3195d",
+      "checksum": "38033033865502bccb4652f63a8a0440fec875a3c6144f417c47e3fc75f3195d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e93031c4f4e9478aa16b112d50319822f9b2c697ee5f017d02eba7f9586e67b3",
+      "checksum": "e93031c4f4e9478aa16b112d50319822f9b2c697ee5f017d02eba7f9586e67b3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5d64a7ea10473e81f80ea6770209103534d1872668f43f495390109abc4ebd1c",
+      "checksum": "5d64a7ea10473e81f80ea6770209103534d1872668f43f495390109abc4ebd1c"
+    }
+  }
+}

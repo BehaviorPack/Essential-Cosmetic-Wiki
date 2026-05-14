@@ -1,0 +1,65 @@
+{
+  "id": "ANIME_LOVE",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Anime Hearts"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "NEW",
+    "SET_ANIME"
+  ],
+  "createdAt": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 50,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/em_anime_love_loop3.ogg": {
+      "url": "https://cdn.essential.gg/assets/e74bd485c2fbaa3c9ab083253958dbab2b5ecadae6364b552d267a1dcad18044",
+      "checksum": "e74bd485c2fbaa3c9ab083253958dbab2b5ecadae6364b552d267a1dcad18044"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/25689afeb4d426480ff2c44ad317c5493ae147469ece99294ccf6f893b134380",
+      "checksum": "25689afeb4d426480ff2c44ad317c5493ae147469ece99294ccf6f893b134380"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/af5aa4a091f0d2e29296118a4089a3d785992f4470aebd85839582642b7e341a",
+      "checksum": "af5aa4a091f0d2e29296118a4089a3d785992f4470aebd85839582642b7e341a"
+    },
+    "sounds/em_anime_love_loop1.ogg": {
+      "url": "https://cdn.essential.gg/assets/221c5e95306ef6c0bdb0617978fbd713f099bb9105eb44fe848950eb71d7b9b2",
+      "checksum": "221c5e95306ef6c0bdb0617978fbd713f099bb9105eb44fe848950eb71d7b9b2"
+    },
+    "sounds/em_anime_love_loop2.ogg": {
+      "url": "https://cdn.essential.gg/assets/f300a9923a953ddd2b60ce7f13c5e9719b160e1497f20c100ca95348d8632522",
+      "checksum": "f300a9923a953ddd2b60ce7f13c5e9719b160e1497f20c100ca95348d8632522"
+    },
+    "particles/anime_love.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d673588cec75a560f58c8cfc5b1bc49713a8b5703cc309683dc2e558c418835b",
+      "checksum": "d673588cec75a560f58c8cfc5b1bc49713a8b5703cc309683dc2e558c418835b"
+    },
+    "particles/blush.particle.json": {
+      "url": "https://cdn.essential.gg/assets/e3de27ca1a67e6193a02b51e2e2f4a3d8902093f264c3964b76d630801bc2e58",
+      "checksum": "e3de27ca1a67e6193a02b51e2e2f4a3d8902093f264c3964b76d630801bc2e58"
+    },
+    "sounds/em_anime_love_start.ogg": {
+      "url": "https://cdn.essential.gg/assets/6f24599520ac59126b9222476c56b0383bd02ed8a2611b70e636101541537bb1",
+      "checksum": "6f24599520ac59126b9222476c56b0383bd02ed8a2611b70e636101541537bb1"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/8f66f671cc327bf558aa0753afe21f831f01bcb035c7a49cd65b887917d9c5ea",
+      "checksum": "8f66f671cc327bf558aa0753afe21f831f01bcb035c7a49cd65b887917d9c5ea"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/f3a22be370aec6c8bb7b2090020922dd68adc78802f3a629c1112033dc7abb6f",
+      "checksum": "f3a22be370aec6c8bb7b2090020922dd68adc78802f3a629c1112033dc7abb6f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cf292463c163a5624739d68ac29f39f9b93b3f012317c70f93dec7c9ddc45439",
+      "checksum": "cf292463c163a5624739d68ac29f39f9b93b3f012317c70f93dec7c9ddc45439"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "MAGMA",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Burning Magma"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 7,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "particles/smoke_trail.particle.json": {
+      "url": "https://cdn.essential.gg/assets/502b677f25b63ab3fa6d730b8a3431cbe4543612be2c9437944edb668872db67",
+      "checksum": "502b677f25b63ab3fa6d730b8a3431cbe4543612be2c9437944edb668872db67"
+    },
+    "particles/magma_single.particle.json": {
+      "url": "https://cdn.essential.gg/assets/3329e1a7637cff1719319156e777be289141519a1e8f265d84c8d946bd0ca1ce",
+      "checksum": "3329e1a7637cff1719319156e777be289141519a1e8f265d84c8d946bd0ca1ce"
+    },
+    "particles/smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/b80f6cdf715c781891ba231985ac1bdff8bc63a21f4bba4b2bb7a90615f81a79",
+      "checksum": "b80f6cdf715c781891ba231985ac1bdff8bc63a21f4bba4b2bb7a90615f81a79"
+    },
+    "particles/magma_burst.particle.json": {
+      "url": "https://cdn.essential.gg/assets/2dbee7f0641ea42490aa6d25af6af17a7a66a29f1e3a458797a421c71495e9da",
+      "checksum": "2dbee7f0641ea42490aa6d25af6af17a7a66a29f1e3a458797a421c71495e9da"
+    },
+    "particles/magma.particle.json": {
+      "url": "https://cdn.essential.gg/assets/0fc5b6490104f57eaeb83a451b98fa0115c5e1118d09139c6d1eb75d66674e2b",
+      "checksum": "0fc5b6490104f57eaeb83a451b98fa0115c5e1118d09139c6d1eb75d66674e2b"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/5353052e9133d5ae73512da8d0ae957e2b836c969a5f6bee5a89d949bebfb6b4",
+      "checksum": "5353052e9133d5ae73512da8d0ae957e2b836c969a5f6bee5a89d949bebfb6b4"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/144081c1fc2c35c20dda8ff0f40891256932c500707cefb94df380e5f8e9b925",
+      "checksum": "144081c1fc2c35c20dda8ff0f40891256932c500707cefb94df380e5f8e9b925"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7b961b8b72f75e5ee0ff9dddcd33ede8d209baf15502ff1591fdf00f31f01975",
+      "checksum": "7b961b8b72f75e5ee0ff9dddcd33ede8d209baf15502ff1591fdf00f31f01975"
+    }
+  }
+}

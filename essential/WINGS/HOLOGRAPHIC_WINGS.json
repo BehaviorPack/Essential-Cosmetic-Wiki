@@ -1,0 +1,59 @@
+{
+  "id": "HOLOGRAPHIC_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Holo Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8cfebece996e130bd3984eb8a8b96e04843444950fa6dd89e70281baf8a2cc7e",
+      "checksum": "8cfebece996e130bd3984eb8a8b96e04843444950fa6dd89e70281baf8a2cc7e"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f2f408a40828dbea9abf109254f5fdcc8f9ab875f39d5df046d709097a1baeb1",
+      "checksum": "f2f408a40828dbea9abf109254f5fdcc8f9ab875f39d5df046d709097a1baeb1"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/699724fbc8828f41431ebc545057dcc42c3c62dee82a3c74b7743850e10835af",
+      "checksum": "699724fbc8828f41431ebc545057dcc42c3c62dee82a3c74b7743850e10835af"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/81e1df88acd77c5d7e77a2bf2ba4be0212139ebcfdf32ee71b3247dba33468a4",
+      "checksum": "81e1df88acd77c5d7e77a2bf2ba4be0212139ebcfdf32ee71b3247dba33468a4"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/39b14abb0d1abb5404dc82d193affc66bdabf3e086c063ff413454a5150bd883",
+      "checksum": "39b14abb0d1abb5404dc82d193affc66bdabf3e086c063ff413454a5150bd883"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/7b4ecbcfb1374b88d611ce35bc0365c8dd3e78f5ba05b27848c7db51527fc242",
+      "checksum": "7b4ecbcfb1374b88d611ce35bc0365c8dd3e78f5ba05b27848c7db51527fc242"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/94729c03729f9d6a0b46c5ab1e77041f8c4e6dcce8e6a53740b52a806e923818",
+      "checksum": "94729c03729f9d6a0b46c5ab1e77041f8c4e6dcce8e6a53740b52a806e923818"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/86cfb4440fb9fc896678782886f3ef0c7a90eefa6eb18d740da45f7bf545f469",
+      "checksum": "86cfb4440fb9fc896678782886f3ef0c7a90eefa6eb18d740da45f7bf545f469"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e5a04d226317da0467292e3402c569c0976efd788d125717c7618ddfa5394279",
+      "checksum": "e5a04d226317da0467292e3402c569c0976efd788d125717c7618ddfa5394279"
+    }
+  }
+}

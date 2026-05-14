@@ -1,0 +1,35 @@
+{
+  "id": "KRINIOS_KEY_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Krinios\u0027 Key Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PARTNER",
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 1040,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e5387901e6d5447734df964eac667592da797a60890b34f824e9715404d53383",
+      "checksum": "e5387901e6d5447734df964eac667592da797a60890b34f824e9715404d53383"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/14a3242faf17bdf26812b8a6fc889b67babed0a7a19f914fdeb655b30aff3701",
+      "checksum": "14a3242faf17bdf26812b8a6fc889b67babed0a7a19f914fdeb655b30aff3701"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/aeb01bd8dac89ae7b491a09ce90daf4e3ecfeb44ce9582b2460069a494b4ad80",
+      "checksum": "aeb01bd8dac89ae7b491a09ce90daf4e3ecfeb44ce9582b2460069a494b4ad80"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c487c086695edac58d7ca74ba26e71d3f7a49497dd31f6d076dc566af7b72d71",
+      "checksum": "c487c086695edac58d7ca74ba26e71d3f7a49497dd31f6d076dc566af7b72d71"
+    }
+  }
+}

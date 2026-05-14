@@ -1,0 +1,41 @@
+{
+  "id": "FLIPPERS",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Flippers"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 45,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/db1d59ff418e61f8d7499e2ae3838d9a79cf521ef507c99d3a3bccb25c6f92b8",
+      "checksum": "db1d59ff418e61f8d7499e2ae3838d9a79cf521ef507c99d3a3bccb25c6f92b8"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6da18782c1c89cdbf3d1177b69414be92017f457ddf9c723b18eb9c700274740",
+      "checksum": "6da18782c1c89cdbf3d1177b69414be92017f457ddf9c723b18eb9c700274740"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f1b53073ab5284378d1434d2d6279c9fc004b26c34a9a4bfa00ba42c882abb01",
+      "checksum": "f1b53073ab5284378d1434d2d6279c9fc004b26c34a9a4bfa00ba42c882abb01"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/43b982592656a9aff044d97356b5e1527cc4465af878f8de8f2ee72b276f3a99",
+      "checksum": "43b982592656a9aff044d97356b5e1527cc4465af878f8de8f2ee72b276f3a99"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ddc5b3aa4bbf90c5aab9af3f9a13f5eacd732009be7253786161db67db77202b",
+      "checksum": "ddc5b3aa4bbf90c5aab9af3f9a13f5eacd732009be7253786161db67db77202b"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/8c68247bcd5746ca75f2edaabe4c8c5b8e96b94398cb7f88f0a35bd42e8789c9",
+      "checksum": "8c68247bcd5746ca75f2edaabe4c8c5b8e96b94398cb7f88f0a35bd42e8789c9"
+    }
+  }
+}

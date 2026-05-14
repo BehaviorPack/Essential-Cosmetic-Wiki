@@ -1,0 +1,29 @@
+{
+  "id": "SHIELD_AURA",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Shield Aura"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:HACKER",
+    "FEATURED",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 103,
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/441d9c6ec9528bebfe011cb511705dacbb90cf254ed54f72b74c06b456db7630",
+      "checksum": "441d9c6ec9528bebfe011cb511705dacbb90cf254ed54f72b74c06b456db7630"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c26c3380b45c7506f9d18c328ca6d23b8524885184f8e7e4ae4d5f109c16644e",
+      "checksum": "c26c3380b45c7506f9d18c328ca6d23b8524885184f8e7e4ae4d5f109c16644e"
+    }
+  }
+}

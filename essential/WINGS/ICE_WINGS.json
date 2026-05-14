@@ -1,0 +1,38 @@
+{
+  "id": "ICE_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Ice Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:WINTER",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 1010,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/56d8c16173c00ee5c229490a9b67d538848f2a9d8810fd1a889e5bd99908462d",
+      "checksum": "56d8c16173c00ee5c229490a9b67d538848f2a9d8810fd1a889e5bd99908462d"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4d2251f467631b81c322ff83256631532d251690dfb0e6c053d0fef9f0f96af1",
+      "checksum": "4d2251f467631b81c322ff83256631532d251690dfb0e6c053d0fef9f0f96af1"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d2183743b114258d5e143482a851bbda9a5e7e94f9d6a75839c7e4ea73ea300f",
+      "checksum": "d2183743b114258d5e143482a851bbda9a5e7e94f9d6a75839c7e4ea73ea300f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bdf6cec608d26d21bccec123c3931e43a4840f49a17b9f55586f03369052e36a",
+      "checksum": "bdf6cec608d26d21bccec123c3931e43a4840f49a17b9f55586f03369052e36a"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GEM_CROWN",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Magic Stones"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "FEATURED"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 15,
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/74695872f2a8e59fbc1187efc403afe4cab0c938c48f1538d119f5aff4e7bedf",
+      "checksum": "74695872f2a8e59fbc1187efc403afe4cab0c938c48f1538d119f5aff4e7bedf"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e1579fda1732284a07c0b8ddb85009116949f872e0220fabd07a47c749c9c732",
+      "checksum": "e1579fda1732284a07c0b8ddb85009116949f872e0220fabd07a47c749c9c732"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/65400d3dee381019897d4037a7102bd2648b9c28c7d4bc98d35a7bb2682609d9",
+      "checksum": "65400d3dee381019897d4037a7102bd2648b9c28c7d4bc98d35a7bb2682609d9"
+    }
+  }
+}

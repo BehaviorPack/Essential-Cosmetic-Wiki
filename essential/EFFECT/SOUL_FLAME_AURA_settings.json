@@ -1,0 +1,10 @@
+[
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "SPACEWALK_SUIT",
+    "enabled": true,
+    "data": {
+      "backpack": true
+    }
+  }
+]

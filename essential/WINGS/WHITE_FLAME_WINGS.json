@@ -1,0 +1,38 @@
+{
+  "id": "WHITE_FLAME_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Spirit Flame Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 0
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7ae1d8dbd6897eda56e7b55ab90883a70c0e6609d07506d8837ded236c159300",
+      "checksum": "7ae1d8dbd6897eda56e7b55ab90883a70c0e6609d07506d8837ded236c159300"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/78cec156bbc507f466002c79e583baa2473c3be7c12ade3938e36574d796c20e",
+      "checksum": "78cec156bbc507f466002c79e583baa2473c3be7c12ade3938e36574d796c20e"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/9d80ff9b34b9d0655a9d3ff61ae98d236f3128b7190f4b0e5a0f23d4e83d29f2",
+      "checksum": "9d80ff9b34b9d0655a9d3ff61ae98d236f3128b7190f4b0e5a0f23d4e83d29f2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8ce4afbfffcc8fe4877794482d80c99af2f21524fb67b010dd0a8a95b7a08a84",
+      "checksum": "8ce4afbfffcc8fe4877794482d80c99af2f21524fb67b010dd0a8a95b7a08a84"
+    }
+  }
+}

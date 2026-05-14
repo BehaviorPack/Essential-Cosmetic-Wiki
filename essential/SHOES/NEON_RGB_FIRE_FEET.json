@@ -1,0 +1,40 @@
+{
+  "id": "NEON_RGB_FIRE_FEET",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "RGB Fire Feet"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/631cb563f41eb974785af4c8ff82d5fb27114d796f1f9ac3312550b72754b4e2",
+      "checksum": "631cb563f41eb974785af4c8ff82d5fb27114d796f1f9ac3312550b72754b4e2"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5cbff3c629caa93e2b1d17b1675f2fc83483f78869f273cf43ab3aee3fd537cc",
+      "checksum": "5cbff3c629caa93e2b1d17b1675f2fc83483f78869f273cf43ab3aee3fd537cc"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/3aa4ad552aa2ce69cfef9355cd108a9a5b923fe41039305485282c096fb1a223",
+      "checksum": "3aa4ad552aa2ce69cfef9355cd108a9a5b923fe41039305485282c096fb1a223"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2a1b491beb56d2f91c556651cc7ab9b231fc3c320ecfe858df081a3169dccd55",
+      "checksum": "2a1b491beb56d2f91c556651cc7ab9b231fc3c320ecfe858df081a3169dccd55"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755",
+      "checksum": "88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755"
+    }
+  }
+}

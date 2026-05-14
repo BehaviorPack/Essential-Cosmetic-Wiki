@@ -1,0 +1,48 @@
+{
+  "id": "HEART_FIRE_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Heart Fire Wings"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 75,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7b96389262ee2c67eb428b66cccb878555709a3141ced57bc1e3e8edfa8f321b",
+      "checksum": "7b96389262ee2c67eb428b66cccb878555709a3141ced57bc1e3e8edfa8f321b"
+    },
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b3964790374f3f80d3429fc1f1393bdc9c6c57a5f970fc5f04959833837fcb0e",
+      "checksum": "b3964790374f3f80d3429fc1f1393bdc9c6c57a5f970fc5f04959833837fcb0e"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8e7a6416998c0f96940f859171563b71fc0468c069cc61a74767797f9e4904a5",
+      "checksum": "8e7a6416998c0f96940f859171563b71fc0468c069cc61a74767797f9e4904a5"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8c282c29a3e2b92f572e8f604222505a0c69561b2ae0250a0f35d9f349a689c8",
+      "checksum": "8c282c29a3e2b92f572e8f604222505a0c69561b2ae0250a0f35d9f349a689c8"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/9332000d804a054cfc227175789bf9c7ee5fd3eb57cb0315298274d312a1d1e3",
+      "checksum": "9332000d804a054cfc227175789bf9c7ee5fd3eb57cb0315298274d312a1d1e3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/db8d732964a722dacf679a8a9113f753801a10a7011268e7c599b579d4563700",
+      "checksum": "db8d732964a722dacf679a8a9113f753801a10a7011268e7c599b579d4563700"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/892c6d483967e81ce2b322b13ecbc3502dce4f57fad502702f91198355f33283",
+      "checksum": "892c6d483967e81ce2b322b13ecbc3502dce4f57fad502702f91198355f33283"
+    }
+  }
+}

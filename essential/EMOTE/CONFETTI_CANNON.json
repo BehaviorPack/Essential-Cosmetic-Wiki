@@ -1,0 +1,62 @@
+{
+  "id": "CONFETTI_CANNON",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Confetti Cannon"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PRIDE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/51d0c20c077af544575d9faebff13a8cb488b3f628510497d862d4576027c18c",
+      "checksum": "51d0c20c077af544575d9faebff13a8cb488b3f628510497d862d4576027c18c"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2e85fae13cd33259894b550ddee31f22fb3893f54f45c9da700a5393d7f8e87d",
+      "checksum": "2e85fae13cd33259894b550ddee31f22fb3893f54f45c9da700a5393d7f8e87d"
+    },
+    "sounds/confetti_cannon2.ogg": {
+      "url": "https://cdn.essential.gg/assets/19263187ff92a2de454c307ba3e30c386be9789388a922a7697f5b0ab1592d19",
+      "checksum": "19263187ff92a2de454c307ba3e30c386be9789388a922a7697f5b0ab1592d19"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/8d3e47604c6bf49770e63772ff7dbe638afccf8b1ccf7df226552b1e069343c6",
+      "checksum": "8d3e47604c6bf49770e63772ff7dbe638afccf8b1ccf7df226552b1e069343c6"
+    },
+    "sounds/confetti_cannon3.ogg": {
+      "url": "https://cdn.essential.gg/assets/36ff052b7ecff11458e4d75770e588850191e9da1ab17497ec1231f3b1401e70",
+      "checksum": "36ff052b7ecff11458e4d75770e588850191e9da1ab17497ec1231f3b1401e70"
+    },
+    "sounds/confetti_cannon1.ogg": {
+      "url": "https://cdn.essential.gg/assets/0b8766b3c3d25979a4a5ac4fdc7846b08acfae1f4039246334e461c4797378c7",
+      "checksum": "0b8766b3c3d25979a4a5ac4fdc7846b08acfae1f4039246334e461c4797378c7"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4658922bcce4494f508cc4cc0f137719edc99ac86769f48e8648eef1d42c36ef",
+      "checksum": "4658922bcce4494f508cc4cc0f137719edc99ac86769f48e8648eef1d42c36ef"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/ca8f2f8229e99cd62c3900ee3f9e5739cad47895d5d15591520630f9d2ad89b7",
+      "checksum": "ca8f2f8229e99cd62c3900ee3f9e5739cad47895d5d15591520630f9d2ad89b7"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1efdc31fffaf4f5c3217aed0a34d98a3d1d4c87e94157d5f469cbb44153a7fe6",
+      "checksum": "1efdc31fffaf4f5c3217aed0a34d98a3d1d4c87e94157d5f469cbb44153a7fe6"
+    },
+    "particles/confetti.particle.json": {
+      "url": "https://cdn.essential.gg/assets/723f3db5fc2b10854bab191f1e35ef5a587323c35c5ff04a197d6687cbe39dde",
+      "checksum": "723f3db5fc2b10854bab191f1e35ef5a587323c35c5ff04a197d6687cbe39dde"
+    }
+  }
+}

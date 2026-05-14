@@ -1,0 +1,34 @@
+{
+  "id": "SKELETAL_WINGS_OLD",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Gargoyle Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 1010,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2b818cee8584ec7feb59f8196f6374e99abaa2b4232dcab3ca772e322b8ec367",
+      "checksum": "2b818cee8584ec7feb59f8196f6374e99abaa2b4232dcab3ca772e322b8ec367"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/27ece71c86ed264903f314e1b883796323fa4ca6775227d2373f8438e08d0fcb",
+      "checksum": "27ece71c86ed264903f314e1b883796323fa4ca6775227d2373f8438e08d0fcb"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/6d44f730291056142d383bcad686e39357a3a6e2bc876e422a91a739f2cadc8d",
+      "checksum": "6d44f730291056142d383bcad686e39357a3a6e2bc876e422a91a739f2cadc8d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d27b236fadf9e4dd940efb87737d19f17dbed559b0b150b73ed4552ea2beecaf",
+      "checksum": "d27b236fadf9e4dd940efb87737d19f17dbed559b0b150b73ed4552ea2beecaf"
+    }
+  }
+}

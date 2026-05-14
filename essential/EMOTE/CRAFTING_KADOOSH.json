@@ -1,0 +1,62 @@
+{
+  "id": "CRAFTING_KADOOSH",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Kadoosh!"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/chaos_stars.particle.json": {
+      "url": "https://cdn.essential.gg/assets/0eaabd72e4e5d6c8c5beb3439fd9c645f847029029dacf997b11b1da2c732d3a",
+      "checksum": "0eaabd72e4e5d6c8c5beb3439fd9c645f847029029dacf997b11b1da2c732d3a"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/9c343c645426bc048d4b02cbc3b86d02f3f14c88c0b089e7861d4aee5dffbf3a",
+      "checksum": "9c343c645426bc048d4b02cbc3b86d02f3f14c88c0b089e7861d4aee5dffbf3a"
+    },
+    "particles/chaos_dust.particle.json": {
+      "url": "https://cdn.essential.gg/assets/bd9406c1368181a48b7c748dcad50ba7f1575fb01c46d48d2e7d26ac4085dac8",
+      "checksum": "bd9406c1368181a48b7c748dcad50ba7f1575fb01c46d48d2e7d26ac4085dac8"
+    },
+    "particles/spark_wave.particle.json": {
+      "url": "https://cdn.essential.gg/assets/bb786c275b60d1247dd39013681a4d7164bef91754a6788f1cf3bf49b2d596f0",
+      "checksum": "bb786c275b60d1247dd39013681a4d7164bef91754a6788f1cf3bf49b2d596f0"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/49fe22b15fea86a3022b0ad49a76f0b2d5677d4ae1c5445f667d4b0723049217",
+      "checksum": "49fe22b15fea86a3022b0ad49a76f0b2d5677d4ae1c5445f667d4b0723049217"
+    },
+    "sounds/crafting_kadoosh.ogg": {
+      "url": "https://cdn.essential.gg/assets/261e923bf3b249bafeba35ec09ccc578a19d247151d23dd9df94cc0083052a17",
+      "checksum": "261e923bf3b249bafeba35ec09ccc578a19d247151d23dd9df94cc0083052a17"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/e7e7adc2817f06ca1fe40476e0faf61efc9da60009cf15c75afb943d4b04f904",
+      "checksum": "e7e7adc2817f06ca1fe40476e0faf61efc9da60009cf15c75afb943d4b04f904"
+    },
+    "particles/spark_hit.particle.json": {
+      "url": "https://cdn.essential.gg/assets/1de05f3f5685e16c2bc72d9dbf751f7fdcb3690d13f0da40bcc82e5e697006da",
+      "checksum": "1de05f3f5685e16c2bc72d9dbf751f7fdcb3690d13f0da40bcc82e5e697006da"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/9c5e03410ebd11dc0773044b8b53bad230160524d6895615217accce5004faa8",
+      "checksum": "9c5e03410ebd11dc0773044b8b53bad230160524d6895615217accce5004faa8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/fe4c17783adeb0aaa428a2d3d05a3a391b601abed9f616a77368a6bd76f65ecb",
+      "checksum": "fe4c17783adeb0aaa428a2d3d05a3a391b601abed9f616a77368a6bd76f65ecb"
+    }
+  }
+}

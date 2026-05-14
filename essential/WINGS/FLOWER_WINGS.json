@@ -1,0 +1,62 @@
+{
+  "id": "FLOWER_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Flower Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "",
+    "THEME_VALENTINES",
+    "THEME_PRETTY",
+    "THEME_SPRING",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ad5ea0fd61feb3224de151349dc12191154862a38e06c1a78ba0590240daadca",
+      "checksum": "ad5ea0fd61feb3224de151349dc12191154862a38e06c1a78ba0590240daadca"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c285ac4a8d1b004fb2de4d48eeb8f51a8348bde2076df7fc317489450cc43b7e",
+      "checksum": "c285ac4a8d1b004fb2de4d48eeb8f51a8348bde2076df7fc317489450cc43b7e"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c50a142bcd5bad65adb3e395409925c47bb1b85eca6953abe6360cf9eaede208",
+      "checksum": "c50a142bcd5bad65adb3e395409925c47bb1b85eca6953abe6360cf9eaede208"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8fad61caedfce5dfd5aa141562d32173ab39eac371acd175fa5ec609faa726dd",
+      "checksum": "8fad61caedfce5dfd5aa141562d32173ab39eac371acd175fa5ec609faa726dd"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e830ebcc356f38f6d020f223b98a46e68609a4692e614895c1bc7e7e73d2dfb4",
+      "checksum": "e830ebcc356f38f6d020f223b98a46e68609a4692e614895c1bc7e7e73d2dfb4"
+    },
+    "variants/oak/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c1588464215733ba4d1841eca1126e59d9960d7898e767ef898a663eb43ef528",
+      "checksum": "c1588464215733ba4d1841eca1126e59d9960d7898e767ef898a663eb43ef528"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/6c64de4261c854485aea0267df73c7a5e8099adac459738e72c0b2f924d96d7d",
+      "checksum": "6c64de4261c854485aea0267df73c7a5e8099adac459738e72c0b2f924d96d7d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7cb7bdf71aa9571da1d00cb993cb6b32ae2a99b4cfca2d008965218791687ff7",
+      "checksum": "7cb7bdf71aa9571da1d00cb993cb6b32ae2a99b4cfca2d008965218791687ff7"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f00684d367b55c390ce56f491a688169cde5773f61992ce6f1763082ef18436d",
+      "checksum": "f00684d367b55c390ce56f491a688169cde5773f61992ce6f1763082ef18436d"
+    }
+  }
+}

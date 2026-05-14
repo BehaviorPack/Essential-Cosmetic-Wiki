@@ -1,0 +1,42 @@
+{
+  "id": "ICE_MAGIC",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Winter Magic"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY",
+    "THEME_MAGIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/73324385447ada4525cc03fc85ecea3f4b80b37841322cab5086f5c1bcb26159",
+      "checksum": "73324385447ada4525cc03fc85ecea3f4b80b37841322cab5086f5c1bcb26159"
+    },
+    "particles/ice_magic_stills.particle.json": {
+      "url": "https://cdn.essential.gg/assets/5f81344945fcf1e45c4a8969d86610e726f756cda4e71dcd62d36b256691353e",
+      "checksum": "5f81344945fcf1e45c4a8969d86610e726f756cda4e71dcd62d36b256691353e"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/3866961f619f495fb7467e9edbf73ae46c083cbb9936e4725293346c1557e258",
+      "checksum": "3866961f619f495fb7467e9edbf73ae46c083cbb9936e4725293346c1557e258"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/722661e4e80ac28495207cba94fee3f5633b22aa730a4d2778e62fa4cb2ac770",
+      "checksum": "722661e4e80ac28495207cba94fee3f5633b22aa730a4d2778e62fa4cb2ac770"
+    },
+    "particles/ice_magic_swirl.particle.json": {
+      "url": "https://cdn.essential.gg/assets/9baefcc3c98ec567b09cf55e912e0aefdb2f9cca2f34dc0f9cf7d2e10642a913",
+      "checksum": "9baefcc3c98ec567b09cf55e912e0aefdb2f9cca2f34dc0f9cf7d2e10642a913"
+    }
+  }
+}

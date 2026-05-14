@@ -1,0 +1,37 @@
+{
+  "id": "ROBOT_TENTACLES",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Robot Tentacles"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:HACKER",
+    "FEATURED",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 1010,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/834984fd6151d2bb81278c6ad3fcf4fc6cdc9a51abd52adf10ecafa3f5add7f0",
+      "checksum": "834984fd6151d2bb81278c6ad3fcf4fc6cdc9a51abd52adf10ecafa3f5add7f0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b9c926b3d67a142af94b567599faab71333c17626da51af9f15596b061a3e730",
+      "checksum": "b9c926b3d67a142af94b567599faab71333c17626da51af9f15596b061a3e730"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/8e944e8b5d7bdc4c1cdd83ffae30c892f8fd620c2b3f0ae868db13680d09559d",
+      "checksum": "8e944e8b5d7bdc4c1cdd83ffae30c892f8fd620c2b3f0ae868db13680d09559d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/64e830a16ebb0ffefb4608319dc175052ec296e1afaa07b60a7f5856acd1aa34",
+      "checksum": "64e830a16ebb0ffefb4608319dc175052ec296e1afaa07b60a7f5856acd1aa34"
+    }
+  }
+}

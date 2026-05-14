@@ -1,0 +1,30 @@
+{
+  "id": "RAIN_PARTICLES",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Rain Particles"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 101,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b3efee15f848116c83e9c0fb792fc564159c328e733cbde68d99bc8d7d321aa2",
+      "checksum": "b3efee15f848116c83e9c0fb792fc564159c328e733cbde68d99bc8d7d321aa2"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/714943701c161812dd3448108a9f1152c773ce1898da96288dc30daf5c5fdafb",
+      "checksum": "714943701c161812dd3448108a9f1152c773ce1898da96288dc30daf5c5fdafb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ae6a2927a42c311c8ada256683e91f9268f2c5070ad521ed3aa293d225c00b78",
+      "checksum": "ae6a2927a42c311c8ada256683e91f9268f2c5070ad521ed3aa293d225c00b78"
+    }
+  }
+}

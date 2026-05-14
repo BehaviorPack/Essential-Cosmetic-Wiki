@@ -1,0 +1,57 @@
+{
+  "id": "COPPER_AGE_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Copper Golem Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 3,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/exposed/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8b81f1c105f87df67a6555990639743f0312c6ccc6f98f4dee49e8a2993c276e",
+      "checksum": "8b81f1c105f87df67a6555990639743f0312c6ccc6f98f4dee49e8a2993c276e"
+    },
+    "variants/unoxidized/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b671ff22ffdd4d7b3af4755836d1585d5bf9afdd684a43338dd9effbfd7f2459",
+      "checksum": "b671ff22ffdd4d7b3af4755836d1585d5bf9afdd684a43338dd9effbfd7f2459"
+    },
+    "variants/oxidized/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8b81f1c105f87df67a6555990639743f0312c6ccc6f98f4dee49e8a2993c276e",
+      "checksum": "8b81f1c105f87df67a6555990639743f0312c6ccc6f98f4dee49e8a2993c276e"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b9d3263d08ad67971843f72b572cda3a49bd703cc5d7ee78c09b66cfadf21b6a",
+      "checksum": "b9d3263d08ad67971843f72b572cda3a49bd703cc5d7ee78c09b66cfadf21b6a"
+    },
+    "variants/unoxidized/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8b81f1c105f87df67a6555990639743f0312c6ccc6f98f4dee49e8a2993c276e",
+      "checksum": "8b81f1c105f87df67a6555990639743f0312c6ccc6f98f4dee49e8a2993c276e"
+    },
+    "variants/weathered/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e5e175eced6bb78080baa43a06256657836fabd6bc147d35815a7eaea5a0c4cd",
+      "checksum": "e5e175eced6bb78080baa43a06256657836fabd6bc147d35815a7eaea5a0c4cd"
+    },
+    "variants/weathered/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8b81f1c105f87df67a6555990639743f0312c6ccc6f98f4dee49e8a2993c276e",
+      "checksum": "8b81f1c105f87df67a6555990639743f0312c6ccc6f98f4dee49e8a2993c276e"
+    },
+    "variants/oxidized/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cb4d9b1f7c7af67cfaf3afe0e0ae11e9793f7eaa68bb32cc2991430200e7c9d3",
+      "checksum": "cb4d9b1f7c7af67cfaf3afe0e0ae11e9793f7eaa68bb32cc2991430200e7c9d3"
+    },
+    "variants/exposed/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d2459d53db2e48593d6b43768f32606dc9ec7b3a77a5b22e5b167bb7f050caaa",
+      "checksum": "d2459d53db2e48593d6b43768f32606dc9ec7b3a77a5b22e5b167bb7f050caaa"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3ed67bb904301e235779b701823d7da20dd6e80b93c6eb7bae8fe3b8144979ee",
+      "checksum": "3ed67bb904301e235779b701823d7da20dd6e80b93c6eb7bae8fe3b8144979ee"
+    }
+  }
+}

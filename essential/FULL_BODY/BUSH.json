@@ -1,0 +1,55 @@
+{
+  "id": "BUSH",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Bush"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 250,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/jungle/texture.png": {
+      "url": "https://cdn.essential.gg/assets/58a996065208ff182894a8ad5b5c3b5f6a95552beb91dac7fce44b99f357dd27",
+      "checksum": "58a996065208ff182894a8ad5b5c3b5f6a95552beb91dac7fce44b99f357dd27"
+    },
+    "variants/cherry/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c0d0431c569bfc4d345a510fc07395af977e1d33464526c0bd1d2ad4c7a415cc",
+      "checksum": "c0d0431c569bfc4d345a510fc07395af977e1d33464526c0bd1d2ad4c7a415cc"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/99b08e90b99167d68bad7bc0cdd2951adf5358e91a492ea648d0fc2a48d60847",
+      "checksum": "99b08e90b99167d68bad7bc0cdd2951adf5358e91a492ea648d0fc2a48d60847"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/ee93f24fc4398c88c7f056fbae586eee54446ed1b16c1e856692403678a06bc9",
+      "checksum": "ee93f24fc4398c88c7f056fbae586eee54446ed1b16c1e856692403678a06bc9"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    },
+    "variants/spruce/texture.png": {
+      "url": "https://cdn.essential.gg/assets/eb97dd0659d581f154eb8fec0b81ae273a61683f53af4a29082a4537bfb1f053",
+      "checksum": "eb97dd0659d581f154eb8fec0b81ae273a61683f53af4a29082a4537bfb1f053"
+    },
+    "variants/oak/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2762c2e1d6a8829e4a1983e26be132281a25dd29205e4b785d21f6209dbe86a0",
+      "checksum": "2762c2e1d6a8829e4a1983e26be132281a25dd29205e4b785d21f6209dbe86a0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ee93f24fc4398c88c7f056fbae586eee54446ed1b16c1e856692403678a06bc9",
+      "checksum": "ee93f24fc4398c88c7f056fbae586eee54446ed1b16c1e856692403678a06bc9"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

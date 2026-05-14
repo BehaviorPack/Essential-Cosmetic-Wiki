@@ -1,0 +1,32 @@
+{
+  "id": "NEON_RGB_FLAME_AURA",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Neon RGB Flame Aura"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:FLAME",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 82,
+  "assetsMap": {
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/62614c75d0dc6c7e396f32086611c26f3eefafa2f2c791c4911efcda2234988b",
+      "checksum": "62614c75d0dc6c7e396f32086611c26f3eefafa2f2c791c4911efcda2234988b"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/2cb5b1bfc5dd4b73512aad921de291ab27195ad11649693ebd876366eab8e569",
+      "checksum": "2cb5b1bfc5dd4b73512aad921de291ab27195ad11649693ebd876366eab8e569"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c49536dd3057c7c3a9d3f6ee4df9c9a6c44dd004404aa06bee789dbbd2958a14",
+      "checksum": "c49536dd3057c7c3a9d3f6ee4df9c9a6c44dd004404aa06bee789dbbd2958a14"
+    }
+  }
+}

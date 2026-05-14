@@ -1,0 +1,38 @@
+{
+  "id": "ICE_SHOES",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Ice Shoes"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "event:WINTER",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 11,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0ee296b104f3319aa4d3f6924e4c8650978c84cc73d3d20ebc400fd934975df3",
+      "checksum": "0ee296b104f3319aa4d3f6924e4c8650978c84cc73d3d20ebc400fd934975df3"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/1047091832db0412687eaa9de2f2d2f7fccb900e317f7f8db3dd09b855196b46",
+      "checksum": "1047091832db0412687eaa9de2f2d2f7fccb900e317f7f8db3dd09b855196b46"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/fb6f8f1c095dbe5744b2329bee5ad60ec41e49a26db8c4edc66ae23e78fab495",
+      "checksum": "fb6f8f1c095dbe5744b2329bee5ad60ec41e49a26db8c4edc66ae23e78fab495"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/ab08f16ba9dee1dffe5d93c93e79c6bbd2ad94008eb22498d067c4507e0b377b",
+      "checksum": "ab08f16ba9dee1dffe5d93c93e79c6bbd2ad94008eb22498d067c4507e0b377b"
+    }
+  }
+}

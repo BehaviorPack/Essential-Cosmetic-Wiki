@@ -1,0 +1,44 @@
+{
+  "id": "HACKER_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Hacker Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "event:HACKER",
+    "FEATURED",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 200,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/cf51dde5e1d4988d135c6e424ed3a150a31eea6129cfb8ed503c3d2188e8868c",
+      "checksum": "cf51dde5e1d4988d135c6e424ed3a150a31eea6129cfb8ed503c3d2188e8868c"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ae51c2803256a4f10d20c58495d22ef30d52b3f294b1cea61bb481e19e6344c2",
+      "checksum": "ae51c2803256a4f10d20c58495d22ef30d52b3f294b1cea61bb481e19e6344c2"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d2ecdda66ecd065ad3a2bd67921bd522642072a54df6110b7301abf15cec52fc",
+      "checksum": "d2ecdda66ecd065ad3a2bd67921bd522642072a54df6110b7301abf15cec52fc"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4252439a3e0725f0ccf69b2c61be81de9821d87cac1bbc90ba291e79d1839b8c",
+      "checksum": "4252439a3e0725f0ccf69b2c61be81de9821d87cac1bbc90ba291e79d1839b8c"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/55dc598c86a876e59193c734b5edbbf06c3d51b1d702e35b5fec40a3a51d039a",
+      "checksum": "55dc598c86a876e59193c734b5edbbf06c3d51b1d702e35b5fec40a3a51d039a"
+    }
+  }
+}

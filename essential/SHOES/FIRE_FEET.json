@@ -1,0 +1,83 @@
+{
+  "id": "FIRE_FEET",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Legacy Fire Feet"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 2000,
+  "priceCoins": 600,
+  "assetsMap": {
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/ee33f19e218d13ef8f84ca56972ccc8f35f6dbe403e1cc918e9b141bb97e2278",
+      "checksum": "ee33f19e218d13ef8f84ca56972ccc8f35f6dbe403e1cc918e9b141bb97e2278"
+    },
+    "skin_mask.steve.right.png": {
+      "url": "https://cdn.essential.gg/assets/88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755",
+      "checksum": "88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755"
+    },
+    "variants/soulfire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9a763548c7e1d5bc2409e8dcc9c4e2109022ec8d0fd613654d6b9274464661cb",
+      "checksum": "9a763548c7e1d5bc2409e8dcc9c4e2109022ec8d0fd613654d6b9274464661cb"
+    },
+    "skin_mask.steve.left.png": {
+      "url": "https://cdn.essential.gg/assets/88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755",
+      "checksum": "88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755"
+    },
+    "variants/soulfire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/20a1a56924aafe3034bc9d14e38c527fa89a863aacf630da2669ee9cb845c248",
+      "checksum": "20a1a56924aafe3034bc9d14e38c527fa89a863aacf630da2669ee9cb845c248"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/a311c3eb89bc673656c393b37e552ad81d27d0ff7a9c8cf0fd102d5f8bce96a2",
+      "checksum": "a311c3eb89bc673656c393b37e552ad81d27d0ff7a9c8cf0fd102d5f8bce96a2"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/000a51060c2db15a417b79d02fba5fe7e3d5035cee1d87ca2dab338f9b708c92",
+      "checksum": "000a51060c2db15a417b79d02fba5fe7e3d5035cee1d87ca2dab338f9b708c92"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0c605f611b40e01adc7b4393d793345c95b42043439a7e0d0bb404266ecbd046",
+      "checksum": "0c605f611b40e01adc7b4393d793345c95b42043439a7e0d0bb404266ecbd046"
+    },
+    "variants/fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/9fd4e25990aa70e2b5f7474e7e288be8debc72ff2e967cf8b4a98f3ea40aeab4",
+      "checksum": "9fd4e25990aa70e2b5f7474e7e288be8debc72ff2e967cf8b4a98f3ea40aeab4"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/4562fb90f6f046c553d24873bd3e3d2dacee0f770eb26e22335b8f461d4a29f0",
+      "checksum": "4562fb90f6f046c553d24873bd3e3d2dacee0f770eb26e22335b8f461d4a29f0"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/88e23a95603df1f3c043462c58b2f45c19599dc1cbc48345deacf3b4665a7247",
+      "checksum": "88e23a95603df1f3c043462c58b2f45c19599dc1cbc48345deacf3b4665a7247"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a038ac1b5e4ff0850a21ddfc4ef7b1532695de372c4e458d0d4b2b532b1b9248",
+      "checksum": "a038ac1b5e4ff0850a21ddfc4ef7b1532695de372c4e458d0d4b2b532b1b9248"
+    },
+    "variants/fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3e627d1d1e89454bf7d27781d9928e02953b34f43388ef95ca57198fc4e6f303",
+      "checksum": "3e627d1d1e89454bf7d27781d9928e02953b34f43388ef95ca57198fc4e6f303"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/51517b8b3ea16eceb319ae01caaa0cea4e040a90638b42be91b97c633890369a",
+      "checksum": "51517b8b3ea16eceb319ae01caaa0cea4e040a90638b42be91b97c633890369a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cffd91afc6ba1468ceceacebed31a60ffdc368c695a00f97fd26bd58b38ed5f2",
+      "checksum": "cffd91afc6ba1468ceceacebed31a60ffdc368c695a00f97fd26bd58b38ed5f2"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c6293440a9a663e3f08c06ce341915ba63eff1688a3386af57d42b55d67fe61f",
+      "checksum": "c6293440a9a663e3f08c06ce341915ba63eff1688a3386af57d42b55d67fe61f"
+    }
+  }
+}

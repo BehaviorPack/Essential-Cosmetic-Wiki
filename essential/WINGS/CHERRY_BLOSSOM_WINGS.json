@@ -1,0 +1,38 @@
+{
+  "id": "CHERRY_BLOSSOM_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Blossom Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 130,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/11301988bf859f35cf19f085ee57b4272c13c9cce61f3048e7fbe0c2918f71d6",
+      "checksum": "11301988bf859f35cf19f085ee57b4272c13c9cce61f3048e7fbe0c2918f71d6"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/8887478b1fb50baf2a98bf4c03c0459f6e24d14f24abb1eefe8a555873b8eeef",
+      "checksum": "8887478b1fb50baf2a98bf4c03c0459f6e24d14f24abb1eefe8a555873b8eeef"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/56bd611c435fa0749d79e116ce293dcc418d13859166ec42813f9ce516d9ae92",
+      "checksum": "56bd611c435fa0749d79e116ce293dcc418d13859166ec42813f9ce516d9ae92"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/17e7b925c3bcca460a727ebca956ea9226653cc076ebeebed0489e799173b3cc",
+      "checksum": "17e7b925c3bcca460a727ebca956ea9226653cc076ebeebed0489e799173b3cc"
+    }
+  }
+}

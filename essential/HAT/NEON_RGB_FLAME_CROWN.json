@@ -1,0 +1,35 @@
+{
+  "id": "NEON_RGB_FLAME_CROWN",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Neon RGB Flame Crown"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:FLAME",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "assetsMap": {
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/91cdc2a05d2247961d5c6596bccf753c651683975a914555d1ceb7db7c27798e",
+      "checksum": "91cdc2a05d2247961d5c6596bccf753c651683975a914555d1ceb7db7c27798e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/3ab7baa20f728914877aaeb318b60ed4d7b69a7bf7500a748a8b850bfb89efe7",
+      "checksum": "3ab7baa20f728914877aaeb318b60ed4d7b69a7bf7500a748a8b850bfb89efe7"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/5c4cd4edfd732242f3631a44a770ede37c8bf7f4d6b55a519f5ef75d502591ac",
+      "checksum": "5c4cd4edfd732242f3631a44a770ede37c8bf7f4d6b55a519f5ef75d502591ac"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4dc1e52f5cc3044b5125b43651b51cbedd02949ecd0719f1a674b9b5fa286f9e",
+      "checksum": "4dc1e52f5cc3044b5125b43651b51cbedd02949ecd0719f1a674b9b5fa286f9e"
+    }
+  }
+}

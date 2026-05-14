@@ -1,0 +1,34 @@
+{
+  "id": "ICEBLOCK_HEAD",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Ice Block Head"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:WINTER",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 400,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/aff39378153582b2bb5557041898b2cd60a4c22c55364293a1aa6e7777e081a1",
+      "checksum": "aff39378153582b2bb5557041898b2cd60a4c22c55364293a1aa6e7777e081a1"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f191bf2f2a2b84f9b39a32ff7b82e65e62a502113ee6aa37f7841bfec4862fed",
+      "checksum": "f191bf2f2a2b84f9b39a32ff7b82e65e62a502113ee6aa37f7841bfec4862fed"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/659c6c0bd8c2fd0c852dc497be4ae7d250c242e5bb303e88f73d40746d3241ce",
+      "checksum": "659c6c0bd8c2fd0c852dc497be4ae7d250c242e5bb303e88f73d40746d3241ce"
+    }
+  }
+}

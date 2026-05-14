@@ -1,0 +1,38 @@
+{
+  "id": "SKELETAL_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Skeletal Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2b818cee8584ec7feb59f8196f6374e99abaa2b4232dcab3ca772e322b8ec367",
+      "checksum": "2b818cee8584ec7feb59f8196f6374e99abaa2b4232dcab3ca772e322b8ec367"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/a3b42000749675231672c36b6de5fe1d2f2a5647bdf2d4283265d9a0d22fc590",
+      "checksum": "a3b42000749675231672c36b6de5fe1d2f2a5647bdf2d4283265d9a0d22fc590"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/6d44f730291056142d383bcad686e39357a3a6e2bc876e422a91a739f2cadc8d",
+      "checksum": "6d44f730291056142d383bcad686e39357a3a6e2bc876e422a91a739f2cadc8d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4ed4d732894df8b318bc70737cd67493434a63855444d4f8d483264f12087e4c",
+      "checksum": "4ed4d732894df8b318bc70737cd67493434a63855444d4f8d483264f12087e4c"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "HOLOGRAPHIC_FISTS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Holo Fists"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ARMS": 0
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8349e0938f80845051cc900c2894c8ef0a78e2e11d40a2352d0c249a9532f986",
+      "checksum": "8349e0938f80845051cc900c2894c8ef0a78e2e11d40a2352d0c249a9532f986"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/a016a2ad1a564db89dd7dfe0429ef0369c0b41f9e5d9182fa274cb3a9caf3f4f",
+      "checksum": "a016a2ad1a564db89dd7dfe0429ef0369c0b41f9e5d9182fa274cb3a9caf3f4f"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/c1dec94087bdfa3f8bd07f1f847fbe926709e48ca6351d6bdafda735969764b0",
+      "checksum": "c1dec94087bdfa3f8bd07f1f847fbe926709e48ca6351d6bdafda735969764b0"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/9cd809d3975cb4b59d0e2b50500dd732fd8f824b1e0586f63def4fd7edeacc1d",
+      "checksum": "9cd809d3975cb4b59d0e2b50500dd732fd8f824b1e0586f63def4fd7edeacc1d"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c1dec94087bdfa3f8bd07f1f847fbe926709e48ca6351d6bdafda735969764b0",
+      "checksum": "c1dec94087bdfa3f8bd07f1f847fbe926709e48ca6351d6bdafda735969764b0"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7cf70bf0d5ed23d8ca8e73af857061e5a81ce75182da1327a596e70d2083e060",
+      "checksum": "7cf70bf0d5ed23d8ca8e73af857061e5a81ce75182da1327a596e70d2083e060"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/306bb2c7157a4bb3b6faffe222c97f24f9373008ad028dde2ab4d92302896b95",
+      "checksum": "306bb2c7157a4bb3b6faffe222c97f24f9373008ad028dde2ab4d92302896b95"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/7cf70bf0d5ed23d8ca8e73af857061e5a81ce75182da1327a596e70d2083e060",
+      "checksum": "7cf70bf0d5ed23d8ca8e73af857061e5a81ce75182da1327a596e70d2083e060"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0f8207f6e60ee18622646806d269da12f15a4779e9c2fa335b463547820b1549",
+      "checksum": "0f8207f6e60ee18622646806d269da12f15a4779e9c2fa335b463547820b1549"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d484df11ed8cfd698dbd35689b041286e71e7f1064d51012fbde3b2771273c60",
+      "checksum": "d484df11ed8cfd698dbd35689b041286e71e7f1064d51012fbde3b2771273c60"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/306bb2c7157a4bb3b6faffe222c97f24f9373008ad028dde2ab4d92302896b95",
+      "checksum": "306bb2c7157a4bb3b6faffe222c97f24f9373008ad028dde2ab4d92302896b95"
+    }
+  }
+}

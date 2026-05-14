@@ -1,0 +1,34 @@
+{
+  "id": "RED_PARTICLE_HALO",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "(RED) Particles"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 21,
+  "assetsMap": {
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/36c36648885f1af486c9e9ada39947c6fea14e2a2796af12625a4bb3be755efe",
+      "checksum": "36c36648885f1af486c9e9ada39947c6fea14e2a2796af12625a4bb3be755efe"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/08a936ccdfe794707c665e121d695c9fa517da940bfb702319740afe14dbbdf2",
+      "checksum": "08a936ccdfe794707c665e121d695c9fa517da940bfb702319740afe14dbbdf2"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/8f64fb394593751aabfa7ca667c63dd7673df9dc4a2c961d20cb13f9ca5efdb2",
+      "checksum": "8f64fb394593751aabfa7ca667c63dd7673df9dc4a2c961d20cb13f9ca5efdb2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/714fe35890c80344cdb81f68c03e7f3c9e30ff77964e8453ee40015b22febee9",
+      "checksum": "714fe35890c80344cdb81f68c03e7f3c9e30ff77964e8453ee40015b22febee9"
+    }
+  }
+}

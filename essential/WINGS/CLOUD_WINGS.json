@@ -1,0 +1,38 @@
+{
+  "id": "CLOUD_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Cloud Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a9bfc867a2c5fa03827d72f2a8b669b909f1828f47c3b1a152b47d177ad361e9",
+      "checksum": "a9bfc867a2c5fa03827d72f2a8b669b909f1828f47c3b1a152b47d177ad361e9"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/dd700c18a1ac1aeb293848f1a0ac4c02dc228a770837d31639118872ed341540",
+      "checksum": "dd700c18a1ac1aeb293848f1a0ac4c02dc228a770837d31639118872ed341540"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/7e3571be79529ba5227e83dd5ceefa7fffada4bb6a01680016b17cfc11366392",
+      "checksum": "7e3571be79529ba5227e83dd5ceefa7fffada4bb6a01680016b17cfc11366392"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/57a00ad8c27a16a0ad666210414f5249e48a61dc4f7b176a6b135a87559d121d",
+      "checksum": "57a00ad8c27a16a0ad666210414f5249e48a61dc4f7b176a6b135a87559d121d"
+    }
+  }
+}

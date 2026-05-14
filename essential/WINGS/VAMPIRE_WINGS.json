@@ -1,0 +1,38 @@
+{
+  "id": "VAMPIRE_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Vampire Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/834984fd6151d2bb81278c6ad3fcf4fc6cdc9a51abd52adf10ecafa3f5add7f0",
+      "checksum": "834984fd6151d2bb81278c6ad3fcf4fc6cdc9a51abd52adf10ecafa3f5add7f0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b54736e44d98ff5fa778cd9589c58e860978937f96033e0853178b393ce0056d",
+      "checksum": "b54736e44d98ff5fa778cd9589c58e860978937f96033e0853178b393ce0056d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/075d6ee128244a14ce807f1bd299def699d3bcdcd51061bebfbbe6c4b7112dc9",
+      "checksum": "075d6ee128244a14ce807f1bd299def699d3bcdcd51061bebfbbe6c4b7112dc9"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f1d8f7a7dedaca3a2f52499492e26ffc779aaefbcaabdecce1f4d90b759d901e",
+      "checksum": "f1d8f7a7dedaca3a2f52499492e26ffc779aaefbcaabdecce1f4d90b759d901e"
+    }
+  }
+}

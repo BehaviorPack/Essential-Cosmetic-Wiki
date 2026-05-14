@@ -1,0 +1,26 @@
+{
+  "id": "GLITCH_AURA",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Glitch Aura"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 105,
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/dfbb7e3a71d56db025222a07060f339a718865d8f1162cadc193c6fc8f1a1064",
+      "checksum": "dfbb7e3a71d56db025222a07060f339a718865d8f1162cadc193c6fc8f1a1064"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d1d9e1be3cab9580c29bfcfd477c16492ddbde348b2856e00115e40c6f69600a",
+      "checksum": "d1d9e1be3cab9580c29bfcfd477c16492ddbde348b2856e00115e40c6f69600a"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "LEGACY_SNOW_PARTICLES",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Legacy Snow Particles"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 400,
+  "priceCoins": 1200,
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f20c5f4b1ba727122c3916254d573eb26a3fa7e7cf5c3b6e45ff1dd496ceb875",
+      "checksum": "f20c5f4b1ba727122c3916254d573eb26a3fa7e7cf5c3b6e45ff1dd496ceb875"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/022617e197186059213633a995e0556320fe94d16a405fccf1548c99509062f9",
+      "checksum": "022617e197186059213633a995e0556320fe94d16a405fccf1548c99509062f9"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2b733cb952268915a19a5421897c835a517c2713cbd95b404599e0644818b9d9",
+      "checksum": "2b733cb952268915a19a5421897c835a517c2713cbd95b404599e0644818b9d9"
+    }
+  }
+}

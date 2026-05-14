@@ -1,0 +1,52 @@
+{
+  "id": "HACKER_AURA",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Hacker Aura"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "event:HACKER",
+    "FEATURED",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 9,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f7cb55043207215a84971520807b602880f4f889c0203cc3fd5a4d0c00869702",
+      "checksum": "f7cb55043207215a84971520807b602880f4f889c0203cc3fd5a4d0c00869702"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0f72881666892dd95d192691e0f16947ef371110e7e60b9e6e65c7ac7ee67b3f",
+      "checksum": "0f72881666892dd95d192691e0f16947ef371110e7e60b9e6e65c7ac7ee67b3f"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/c6660981a816200ff9a1be735540fe06ff9ce64b178fa37c88f493a2e6a82197",
+      "checksum": "c6660981a816200ff9a1be735540fe06ff9ce64b178fa37c88f493a2e6a82197"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f4eb4ec14ca09f929f921ab638830952b5da118d37ba204989202a2aad23c160",
+      "checksum": "f4eb4ec14ca09f929f921ab638830952b5da118d37ba204989202a2aad23c160"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/8c29e9bc6cca282af522c8205ee42892b3786e4b29c49240487f22f0e06db9ab",
+      "checksum": "8c29e9bc6cca282af522c8205ee42892b3786e4b29c49240487f22f0e06db9ab"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6771c670214e41f113fda5d216f128889b9ac3b4c5db5405037067d657b3f0e7",
+      "checksum": "6771c670214e41f113fda5d216f128889b9ac3b4c5db5405037067d657b3f0e7"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0aeab4883dafe9fc22badee571d5759412a9374e65ea2188589744cd233ac541",
+      "checksum": "0aeab4883dafe9fc22badee571d5759412a9374e65ea2188589744cd233ac541"
+    }
+  }
+}

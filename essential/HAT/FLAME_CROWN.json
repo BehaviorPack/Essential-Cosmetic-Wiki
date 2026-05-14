@@ -1,0 +1,35 @@
+{
+  "id": "FLAME_CROWN",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Flame Crown"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:FLAME",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "assetsMap": {
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/05fdfd60fa5ed44edeb48d2b2cf969db48fc8377c47f5da3e6796bb921b303cd",
+      "checksum": "05fdfd60fa5ed44edeb48d2b2cf969db48fc8377c47f5da3e6796bb921b303cd"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/a8e71e48c5744430e39076cfa8f13c1b5483a6384c9431b82009e0c1c46e002c",
+      "checksum": "a8e71e48c5744430e39076cfa8f13c1b5483a6384c9431b82009e0c1c46e002c"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d88a60b09c3b0f0867aa0e2c90b3edd9faec56d2d3a82daa52f4c3a727766a76",
+      "checksum": "d88a60b09c3b0f0867aa0e2c90b3edd9faec56d2d3a82daa52f4c3a727766a76"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4dbe3c46437dbee75a3c77e7f05591a60a86f4104bb54dd398bfde7abf51b68f",
+      "checksum": "4dbe3c46437dbee75a3c77e7f05591a60a86f4104bb54dd398bfde7abf51b68f"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "NEON_RGB_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Neon RGB Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 1010,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/56d8c16173c00ee5c229490a9b67d538848f2a9d8810fd1a889e5bd99908462d",
+      "checksum": "56d8c16173c00ee5c229490a9b67d538848f2a9d8810fd1a889e5bd99908462d"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/daeb19732eba660606c714d717c8028f72f84135cdb5b95e9ea41922dbcbc64f",
+      "checksum": "daeb19732eba660606c714d717c8028f72f84135cdb5b95e9ea41922dbcbc64f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/8212e24060922b62bdd3924af287f5431172ccd81de9e762b5450582d038c152",
+      "checksum": "8212e24060922b62bdd3924af287f5431172ccd81de9e762b5450582d038c152"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/87d38302b9ca681162e7782906664530d9b3e4578888256b74e6ef6c8fcc994a",
+      "checksum": "87d38302b9ca681162e7782906664530d9b3e4578888256b74e6ef6c8fcc994a"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "BUTTERFLY_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Butterfly Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_BUG",
+    "THEME_CUTE",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 7,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f98f500a57f56d10c201e7ac517b4393b1cc0488ee8948a449d02a68095f9a08",
+      "checksum": "f98f500a57f56d10c201e7ac517b4393b1cc0488ee8948a449d02a68095f9a08"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5e890161d8e27f4ae5ec616fbc777cb5f3e7728ab68a2e8c3bcc120d74eed814",
+      "checksum": "5e890161d8e27f4ae5ec616fbc777cb5f3e7728ab68a2e8c3bcc120d74eed814"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f435df760e57b04187c860cad7e7ea527d7f06b728db95196daee8d7a3eb615d",
+      "checksum": "f435df760e57b04187c860cad7e7ea527d7f06b728db95196daee8d7a3eb615d"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/181bdc503969de72f569525c14e8f27a32f3f2cf1c8ca0a7a8e92f518692f86c",
+      "checksum": "181bdc503969de72f569525c14e8f27a32f3f2cf1c8ca0a7a8e92f518692f86c"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/496cf8671a6a6ef743c2db5c104cdec7d636566ff6b35cfbcc18ef266c861309",
+      "checksum": "496cf8671a6a6ef743c2db5c104cdec7d636566ff6b35cfbcc18ef266c861309"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/016b702900784e3c28b198d7a3a4b271c3784d8b946ae2e624f23bb93eab8bc9",
+      "checksum": "016b702900784e3c28b198d7a3a4b271c3784d8b946ae2e624f23bb93eab8bc9"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f80a8c356aa2cdba31073811175ecbdd05ee5b4cc02eeabbd4dd7754671d16bb",
+      "checksum": "f80a8c356aa2cdba31073811175ecbdd05ee5b4cc02eeabbd4dd7754671d16bb"
+    }
+  }
+}

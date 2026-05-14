@@ -1,0 +1,20 @@
+[
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "Y2K_TRENDS_TOP",
+    "enabled": true,
+    "data": {
+      "body_outer": true,
+      "arm_baggy_left_outer": true,
+      "arm_baggy_right_outer": true
+    }
+  },
+  {
+    "type": "EXTERNAL_HIDDEN_BONE",
+    "id": "GRUNGE_PANTS",
+    "enabled": true,
+    "data": {
+      "body_outer": true
+    }
+  }
+]

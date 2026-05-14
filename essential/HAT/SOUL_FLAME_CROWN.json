@@ -1,0 +1,36 @@
+{
+  "id": "SOUL_FLAME_CROWN",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Soul Flame Crown"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY",
+    "event:FLAME",
+    "NON_PARTNER"
+  ],
+  "createdAt": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 22,
+  "assetsMap": {
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/6652c963e783d93e6fdbd096073aa56b31eebd9a0705d3aae90a9de85cd3c9d9",
+      "checksum": "6652c963e783d93e6fdbd096073aa56b31eebd9a0705d3aae90a9de85cd3c9d9"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/0ab4f871e079516479cfb421974dd39b972eb2722b58fb8c1515e57f6d47eeec",
+      "checksum": "0ab4f871e079516479cfb421974dd39b972eb2722b58fb8c1515e57f6d47eeec"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/10156ae1add77d195c56640ae30d300dbf9b4975c149a606d414f7b1aa4563d4",
+      "checksum": "10156ae1add77d195c56640ae30d300dbf9b4975c149a606d414f7b1aa4563d4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/222efbe1083f2c86edb49d839223e5cfad6991a351905dc96b4ef82b4e1ea037",
+      "checksum": "222efbe1083f2c86edb49d839223e5cfad6991a351905dc96b4ef82b4e1ea037"
+    }
+  }
+}

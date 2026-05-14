@@ -1,0 +1,53 @@
+{
+  "id": "FAIRY_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Fairy Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_VALENTINES",
+    "THEME_PRETTY",
+    "THEME_FAIRY",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 7,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0c6256f2d2004315b9d73e7d64e17f5301c14c34c01bf36a0a73589a6cd6d3bc",
+      "checksum": "0c6256f2d2004315b9d73e7d64e17f5301c14c34c01bf36a0a73589a6cd6d3bc"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6df6ffe9ba18acf46a526b7928708c5a4050325849d19f3e5b79454fbb7a23db",
+      "checksum": "6df6ffe9ba18acf46a526b7928708c5a4050325849d19f3e5b79454fbb7a23db"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a2347dd21820bc06ae6982e3e4805546c477d7f439e1e73496f4ff3b4f4b7896",
+      "checksum": "a2347dd21820bc06ae6982e3e4805546c477d7f439e1e73496f4ff3b4f4b7896"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/aafa020c593a3b518c4dee2c2513d4db783987cc1d44fe44a5c93ec44504d9bb",
+      "checksum": "aafa020c593a3b518c4dee2c2513d4db783987cc1d44fe44a5c93ec44504d9bb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/935226491bef39bbff64132312eefdcb5fc7a2c0a14491c2055d98adb9a46b5c",
+      "checksum": "935226491bef39bbff64132312eefdcb5fc7a2c0a14491c2055d98adb9a46b5c"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/737cb9c5a5804de958d7e564a85319434510be4eb1d69eb9d3d897b3c4e39e4c",
+      "checksum": "737cb9c5a5804de958d7e564a85319434510be4eb1d69eb9d3d897b3c4e39e4c"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2192d35479b7fc33a59299f030b4b1ce0b3b0685365ef32eb6a7e506cfcbf3c1",
+      "checksum": "2192d35479b7fc33a59299f030b4b1ce0b3b0685365ef32eb6a7e506cfcbf3c1"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "WATER_SHOES",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Water Shoes"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 43,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ebed4ec0a393374db9c7d3d3efb25d00c0dc956231c40bec297a3bd0cc48bf1c",
+      "checksum": "ebed4ec0a393374db9c7d3d3efb25d00c0dc956231c40bec297a3bd0cc48bf1c"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/d556984e7bf33e367b924df9adb258df9d51a15076e68b84047b0209284e0b28",
+      "checksum": "d556984e7bf33e367b924df9adb258df9d51a15076e68b84047b0209284e0b28"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5b19c97a0db148ca3afeca92fd94df48118fe3e18f4ebc0b4efd8b18ee1f6b45",
+      "checksum": "5b19c97a0db148ca3afeca92fd94df48118fe3e18f4ebc0b4efd8b18ee1f6b45"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/a699651f9485dcbfbf1c35b26389ec5cb4eef7a9845f29e249b03a565c39c417",
+      "checksum": "a699651f9485dcbfbf1c35b26389ec5cb4eef7a9845f29e249b03a565c39c417"
+    }
+  }
+}

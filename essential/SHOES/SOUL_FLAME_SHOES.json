@@ -1,0 +1,38 @@
+{
+  "id": "SOUL_FLAME_SHOES",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Soul Fire Feet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 110,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/db2fc06d3acfe564f31b2292252929ba18402b0db5ffb449ca0b5972f4cdf523",
+      "checksum": "db2fc06d3acfe564f31b2292252929ba18402b0db5ffb449ca0b5972f4cdf523"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/a386802439c5000bc6b48dd0ce18eb709784f7c769d204fec381a4100760db2f",
+      "checksum": "a386802439c5000bc6b48dd0ce18eb709784f7c769d204fec381a4100760db2f"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/54ba13fac7cf31c056849831c8ba117d90d198ae4da493bc3a1fcb5c7a3b89db",
+      "checksum": "54ba13fac7cf31c056849831c8ba117d90d198ae4da493bc3a1fcb5c7a3b89db"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/94a325a073e48612d592ab6b44e2e6743d51d8bfb1fca2449560e6cff1370170",
+      "checksum": "94a325a073e48612d592ab6b44e2e6743d51d8bfb1fca2449560e6cff1370170"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755",
+      "checksum": "88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755"
+    }
+  }
+}

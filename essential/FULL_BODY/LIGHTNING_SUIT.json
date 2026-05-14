@@ -1,0 +1,46 @@
+{
+  "id": "LIGHTNING_SUIT",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Lightning Suit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 1000,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c853aa77d12faf2f8d784f2ba657dac3f1403505d25c241e9439e14107f32fec",
+      "checksum": "c853aa77d12faf2f8d784f2ba657dac3f1403505d25c241e9439e14107f32fec"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/ab994fc7b84edbaa55bdc97795a19e852cab92fe93750cd178604a06a98bbb06",
+      "checksum": "ab994fc7b84edbaa55bdc97795a19e852cab92fe93750cd178604a06a98bbb06"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/6edf7e4fd50daaa908fbed38f994464dd2883a983feb28afa640b25bb92253bf",
+      "checksum": "6edf7e4fd50daaa908fbed38f994464dd2883a983feb28afa640b25bb92253bf"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/6edf7e4fd50daaa908fbed38f994464dd2883a983feb28afa640b25bb92253bf",
+      "checksum": "6edf7e4fd50daaa908fbed38f994464dd2883a983feb28afa640b25bb92253bf"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6",
+      "checksum": "e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/60966d1cdba39a5cb233227fcc15c35c352ea3e3ee3b2c36204756576e9f875c",
+      "checksum": "60966d1cdba39a5cb233227fcc15c35c352ea3e3ee3b2c36204756576e9f875c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9",
+      "checksum": "f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "SOUL_FLAME_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Soul Fire Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "LEGACY"
+  ],
+  "createdAt": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 1100,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/17eb03d75d4c00a3fe9663293141a02677fdb40c1b33ce219c7e12771213f902",
+      "checksum": "17eb03d75d4c00a3fe9663293141a02677fdb40c1b33ce219c7e12771213f902"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8028e804da09ae01bfebce71ec1cc74be2b5c808afc1e4da6c47dae96f28daaa",
+      "checksum": "8028e804da09ae01bfebce71ec1cc74be2b5c808afc1e4da6c47dae96f28daaa"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/475b91293ca02c7c50c2deeb04ce81048ab4c2d53b75526b171e2da218d183fc",
+      "checksum": "475b91293ca02c7c50c2deeb04ce81048ab4c2d53b75526b171e2da218d183fc"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/cbb410eba08941ff4aca8db0d9d81d8d9711397da5483a61dd8a5c21c9b9a755",
+      "checksum": "cbb410eba08941ff4aca8db0d9d81d8d9711397da5483a61dd8a5c21c9b9a755"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bb941e49418f607e059f3470da1694b57f5c8255f56834b6009bf9fc2af61a59",
+      "checksum": "bb941e49418f607e059f3470da1694b57f5c8255f56834b6009bf9fc2af61a59"
+    }
+  }
+}

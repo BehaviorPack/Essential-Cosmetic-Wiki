@@ -1,0 +1,48 @@
+{
+  "id": "DEMON_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Demon Wings"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 900,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2bfe0d31e8341ccb86f556338d7a4fc683eb785f1b5b88f90017ba73b365204d",
+      "checksum": "2bfe0d31e8341ccb86f556338d7a4fc683eb785f1b5b88f90017ba73b365204d"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ece2bfacd47b435c820f2ee424b4555bfc09d1955e50646e8914f724fd31acf5",
+      "checksum": "ece2bfacd47b435c820f2ee424b4555bfc09d1955e50646e8914f724fd31acf5"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/12ec8c204c1d93ad489c444e4cd28ddd321e138ce94c1c70c4626cfdd8ae1ad1",
+      "checksum": "12ec8c204c1d93ad489c444e4cd28ddd321e138ce94c1c70c4626cfdd8ae1ad1"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d232899211be8546be3cfd8d4b9f08a6131b2bded564fad142aedf4246a656a5",
+      "checksum": "d232899211be8546be3cfd8d4b9f08a6131b2bded564fad142aedf4246a656a5"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/b479055c3558a964cadf7306a32c527ca71dce33721c95478e67b80d0d6c45aa",
+      "checksum": "b479055c3558a964cadf7306a32c527ca71dce33721c95478e67b80d0d6c45aa"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a6992d53329911e81191a3b3d88b0f556edce80c8d7d043e10921ad99dc04a1d",
+      "checksum": "a6992d53329911e81191a3b3d88b0f556edce80c8d7d043e10921ad99dc04a1d"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fb85a1c65dc922d1297e32c0c4cbcd9c55aebd09022473a90f52386f8bcb7a53",
+      "checksum": "fb85a1c65dc922d1297e32c0c4cbcd9c55aebd09022473a90f52386f8bcb7a53"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "NEON_RGB_FIRE_FISTS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "RGB Fire Fists"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/dab21fc4afc541be5085ab38ce517c14c5171cd86485d0993725eb473364bbdb",
+      "checksum": "dab21fc4afc541be5085ab38ce517c14c5171cd86485d0993725eb473364bbdb"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/cec5696b3317f1a9c2c2650c33809a02d45502e167d19fe9e4c48c25cb3c0fa0",
+      "checksum": "cec5696b3317f1a9c2c2650c33809a02d45502e167d19fe9e4c48c25cb3c0fa0"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/e2449d99a35438af9dbd28082061154a7ed071227864cc531f6e59370a9aea79",
+      "checksum": "e2449d99a35438af9dbd28082061154a7ed071227864cc531f6e59370a9aea79"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/8a5196e2dcd94a7f1655b182759047d794fc88eb30f05f8026a888051a0a940a",
+      "checksum": "8a5196e2dcd94a7f1655b182759047d794fc88eb30f05f8026a888051a0a940a"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/9840dd189898ccd09219462238619a5d63b73938f0d104a0f91cb868b4948d4e",
+      "checksum": "9840dd189898ccd09219462238619a5d63b73938f0d104a0f91cb868b4948d4e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/030298d0dd0d06c1860985e137c710c1cb266c1877b272eedd37812d10f07e34",
+      "checksum": "030298d0dd0d06c1860985e137c710c1cb266c1877b272eedd37812d10f07e34"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/cd60350bba09e3d5a2932fb23cdc39037ed398074946388f1f460e84418e7862",
+      "checksum": "cd60350bba09e3d5a2932fb23cdc39037ed398074946388f1f460e84418e7862"
+    }
+  }
+}

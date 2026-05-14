@@ -1,0 +1,52 @@
+{
+  "id": "HEART_FIRE_FEET",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Heart Fire Feet"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2c30442f5a2a32d46d9307482249e263a4b621f0d6a3c96a521fbf182977ebda",
+      "checksum": "2c30442f5a2a32d46d9307482249e263a4b621f0d6a3c96a521fbf182977ebda"
+    },
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/984ab8eb07061dad4bb47d86f7ce925e4d42c3158af08df2b429886afeb8e08a",
+      "checksum": "984ab8eb07061dad4bb47d86f7ce925e4d42c3158af08df2b429886afeb8e08a"
+    },
+    "skin_mask.steve.right.png": {
+      "url": "https://cdn.essential.gg/assets/88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755",
+      "checksum": "88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c36db09c778076f0e5acf0a178d39a7f5d72636f96d4822376ed4a7f0a68eb0d",
+      "checksum": "c36db09c778076f0e5acf0a178d39a7f5d72636f96d4822376ed4a7f0a68eb0d"
+    },
+    "skin_mask.steve.left.png": {
+      "url": "https://cdn.essential.gg/assets/88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755",
+      "checksum": "88e36156b73ade9880ac509eef68d2c77b79df3d99e03e570befa94ccacc1755"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/7a0136777b3ed600f8b982eba2779dd26f16d21fbd1e9b648e18b4298fdd24a9",
+      "checksum": "7a0136777b3ed600f8b982eba2779dd26f16d21fbd1e9b648e18b4298fdd24a9"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b3fce2ff917e9645b78b7a8e18536ea1369546fe95a867998b0a490af5de9d1a",
+      "checksum": "b3fce2ff917e9645b78b7a8e18536ea1369546fe95a867998b0a490af5de9d1a"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/acdbdcca1fdc664e7611e888fa03475cc16231e464c85bfce70732a033067ba4",
+      "checksum": "acdbdcca1fdc664e7611e888fa03475cc16231e464c85bfce70732a033067ba4"
+    }
+  }
+}

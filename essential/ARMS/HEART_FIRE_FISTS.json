@@ -1,0 +1,56 @@
+{
+  "id": "HEART_FIRE_FISTS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Heart Fire Fists"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2c30442f5a2a32d46d9307482249e263a4b621f0d6a3c96a521fbf182977ebda",
+      "checksum": "2c30442f5a2a32d46d9307482249e263a4b621f0d6a3c96a521fbf182977ebda"
+    },
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/984ab8eb07061dad4bb47d86f7ce925e4d42c3158af08df2b429886afeb8e08a",
+      "checksum": "984ab8eb07061dad4bb47d86f7ce925e4d42c3158af08df2b429886afeb8e08a"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a15bfb136933a1150be9d29cb50689ee077eb4abf66e10b410b7d2fb3edaa9c4",
+      "checksum": "a15bfb136933a1150be9d29cb50689ee077eb4abf66e10b410b7d2fb3edaa9c4"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/251771f7ccc7ab3515668cc556913150a0780ca35b3fca46b44e31f574340684",
+      "checksum": "251771f7ccc7ab3515668cc556913150a0780ca35b3fca46b44e31f574340684"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/7a0136777b3ed600f8b982eba2779dd26f16d21fbd1e9b648e18b4298fdd24a9",
+      "checksum": "7a0136777b3ed600f8b982eba2779dd26f16d21fbd1e9b648e18b4298fdd24a9"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/9840dd189898ccd09219462238619a5d63b73938f0d104a0f91cb868b4948d4e",
+      "checksum": "9840dd189898ccd09219462238619a5d63b73938f0d104a0f91cb868b4948d4e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2c0fdb15389fdd73ad729e5ad34c74d42827ff18f67967f97768363bd75d16bc",
+      "checksum": "2c0fdb15389fdd73ad729e5ad34c74d42827ff18f67967f97768363bd75d16bc"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/cd60350bba09e3d5a2932fb23cdc39037ed398074946388f1f460e84418e7862",
+      "checksum": "cd60350bba09e3d5a2932fb23cdc39037ed398074946388f1f460e84418e7862"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/acdbdcca1fdc664e7611e888fa03475cc16231e464c85bfce70732a033067ba4",
+      "checksum": "acdbdcca1fdc664e7611e888fa03475cc16231e464c85bfce70732a033067ba4"
+    }
+  }
+}
