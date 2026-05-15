@@ -1,39 +1,77 @@
 [
   {
-    "id": "GOTHIC_KNIGHT_RED",
+    "id": "DEFAULT_FEB2026_COSMICDRAGON",
     "source": "infra-add-bundle",
     "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
-    "name": "Lord Crimson",
+    "name": "The Ender Abomination",
     "tier": "LEGENDARY",
     "discount": 65.0,
     "rotateOnPreview": true,
-    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@7dd32128",
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@e7f77c7",
     "cosmetics": {
-      "FULL_BODY": "GOTHIC_KNIGHT_ARMOR_SET_2",
-      "EFFECT": "SOUL_VOID",
-      "BACK": "MEGA_BLADE",
-      "HEAD": "GOTHIC_KNIGHT_HELMET_1",
-      "WINGS": "DOUBLE_DEMONIC_OVERLORD_WINGS",
-      "EMOTE": "FLIGHT"
+      "EFFECT": "ENDERMAN",
+      "HEAD": "ANIMATRONIC_HEAD",
+      "EMOTE": "ENDER_ASCENSION",
+      "FULL_BODY": "MAGMA_ARMOR",
+      "WINGS": "ENDER_ARMS",
+      "BACK": "ENDER_EXCALIBUR"
     },
     "settings": {
-      "DOUBLE_DEMONIC_OVERLORD_WINGS": [
+      "MAGMA_ARMOR": [
         {
-          "id": "DOUBLE_DEMONIC_OVERLORD_WINGS",
+          "id": "MAGMA_ARMOR",
           "type": "VARIANT",
           "enabled": true,
           "data": {
-            "variant": "black"
+            "variant": "crying_obsidian"
           }
         }
-      ],
-      "GOTHIC_KNIGHT_ARMOR_SET_2": [
+      ]
+    }
+  },
+  {
+    "id": "WARDEN_WANDERER_2026SALE",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "The Warden Wanderer",
+    "tier": "RARE",
+    "discount": 65.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@695b4662",
+    "cosmetics": {
+      "EFFECT": "DEEP_DARK_DUST",
+      "HEAD": "WARDEN_WANDERER_HEAD",
+      "EMOTE": "WARDEN_SCREECH",
+      "FULL_BODY": "WARDEN_WANDERER_BODY",
+      "WINGS": "WARDEN_WINGS"
+    },
+    "settings": {}
+  },
+  {
+    "id": "GOTHIC_KNIGHT_PURPLE",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "The Enchanted Knight",
+    "tier": "LEGENDARY",
+    "discount": 65.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@7e36d9c8",
+    "cosmetics": {
+      "EFFECT": "ENDER_GLIMMER",
+      "HEAD": "GOTHIC_KNIGHT_HELMET_1",
+      "EMOTE": "BLADE_DRAG",
+      "FACE": "WIDE_GLOWING_EYES",
+      "FULL_BODY": "GOTHIC_KNIGHT_ARMOR_SET_1",
+      "WINGS": "UNDEAD_WINGS"
+    },
+    "settings": {
+      "GOTHIC_KNIGHT_ARMOR_SET_1": [
         {
-          "id": "GOTHIC_KNIGHT_ARMOR_SET_2",
+          "id": "GOTHIC_KNIGHT_ARMOR_SET_1",
           "type": "VARIANT",
           "enabled": true,
           "data": {
-            "variant": "dark_red"
+            "variant": "dark_purple"
           }
         }
       ],
@@ -43,11 +81,88 @@
           "type": "VARIANT",
           "enabled": true,
           "data": {
-            "variant": "dark_red"
+            "variant": "dark_purple"
+          }
+        }
+      ],
+      "UNDEAD_WINGS": [
+        {
+          "id": "UNDEAD_WINGS",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "purple"
           }
         }
       ]
     }
+  },
+  {
+    "id": "GOTHIC_2026SALE",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "Countess Crow",
+    "tier": "UNCOMMON",
+    "discount": 65.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@602fa5c6",
+    "cosmetics": {
+      "EARS": "GOTHIC_HORNS",
+      "HEAD": "BRAIDED_PONYTAIL_HAIR",
+      "EMOTE": "BLADE_CHALLENGE",
+      "FULL_BODY": "GOTHIC_DRESS",
+      "WINGS": "GOTHIC_WINGS"
+    },
+    "settings": {
+      "GOTHIC_DRESS": [
+        {
+          "id": "GOTHIC_DRESS",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "black_classic"
+          }
+        }
+      ],
+      "GOTHIC_HORNS": [
+        {
+          "id": "GOTHIC_HORNS",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "black"
+          }
+        }
+      ],
+      "GOTHIC_WINGS": [
+        {
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "black"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "ENDER_ENTITY_2026SALE",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "The Ender Entity",
+    "tier": "EPIC",
+    "discount": 65.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@151b274b",
+    "cosmetics": {
+      "EFFECT": "ENDERMAN",
+      "HEAD": "ENDER_ENTITY_HEAD",
+      "EMOTE": "ENDER_ASCENSION",
+      "FULL_BODY": "ENDER_ENTITY_BODY",
+      "BACK": "ENDER_EXCALIBUR",
+      "WINGS": "ENDER_WINGS"
+    },
+    "settings": {}
   },
   {
     "id": "SPIDER_SAM",
@@ -94,6 +209,56 @@
           "enabled": true,
           "data": {
             "variant": "black"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "GOTHIC_KNIGHT_RED",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "Lord Crimson",
+    "tier": "LEGENDARY",
+    "discount": 65.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@7dd32128",
+    "cosmetics": {
+      "FULL_BODY": "GOTHIC_KNIGHT_ARMOR_SET_2",
+      "EFFECT": "SOUL_VOID",
+      "BACK": "MEGA_BLADE",
+      "HEAD": "GOTHIC_KNIGHT_HELMET_1",
+      "WINGS": "DOUBLE_DEMONIC_OVERLORD_WINGS",
+      "EMOTE": "FLIGHT"
+    },
+    "settings": {
+      "DOUBLE_DEMONIC_OVERLORD_WINGS": [
+        {
+          "id": "DOUBLE_DEMONIC_OVERLORD_WINGS",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "black"
+          }
+        }
+      ],
+      "GOTHIC_KNIGHT_ARMOR_SET_2": [
+        {
+          "id": "GOTHIC_KNIGHT_ARMOR_SET_2",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "dark_red"
+          }
+        }
+      ],
+      "GOTHIC_KNIGHT_HELMET_1": [
+        {
+          "id": "GOTHIC_KNIGHT_HELMET_1",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "dark_red"
           }
         }
       ]

@@ -1,0 +1,36 @@
+{
+  "id": "PIGLIN_VICTORY",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Piglin Boogie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_CUTE",
+    "THEME_MINECRAFT",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ae4abe1eee92c4e7145495ee44566ebc0ca371fa4f8c50d684b60c900fc58764",
+      "checksum": "ae4abe1eee92c4e7145495ee44566ebc0ca371fa4f8c50d684b60c900fc58764"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e5f167e6b3114c7a146a0c145c363b6482df947fbb4dcd0730bbeed00b5c8afd",
+      "checksum": "e5f167e6b3114c7a146a0c145c363b6482df947fbb4dcd0730bbeed00b5c8afd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4fe0c07febd9a9a2ba4d652b548df4b03e762f5d7dc535607710173ec99b4991",
+      "checksum": "4fe0c07febd9a9a2ba4d652b548df4b03e762f5d7dc535607710173ec99b4991"
+    }
+  }
+}
