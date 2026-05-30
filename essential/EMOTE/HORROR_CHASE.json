@@ -1,0 +1,75 @@
+{
+  "id": "HORROR_CHASE",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Horror Chase"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HORROR",
+    "COLLECTION_MAY2026",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "sounds/em_horror_chase_step2.ogg": {
+      "url": "https://cdn.essential.gg/assets/94f99e0913212fcc0ec4013365a8f8ee22e0aa7115326b04d14a440da8ad14a1",
+      "checksum": "94f99e0913212fcc0ec4013365a8f8ee22e0aa7115326b04d14a440da8ad14a1"
+    },
+    "sounds/em_horror_chase_step8.ogg": {
+      "url": "https://cdn.essential.gg/assets/c7a013d213bd36eccd47d747c7a478928aa026ef4fc20a39df349d2e087083be",
+      "checksum": "c7a013d213bd36eccd47d747c7a478928aa026ef4fc20a39df349d2e087083be"
+    },
+    "sounds/em_horror_chase_step6.ogg": {
+      "url": "https://cdn.essential.gg/assets/d44980e89defebbe967c48dc1d14ed73da0e7a3b0a95843febbe818a85995502",
+      "checksum": "d44980e89defebbe967c48dc1d14ed73da0e7a3b0a95843febbe818a85995502"
+    },
+    "sounds/em_horror_chase_step4.ogg": {
+      "url": "https://cdn.essential.gg/assets/b3df9d058d1789e27e2f1f74b771ba31189c8c55e98c8946354db39f2b0cbc0d",
+      "checksum": "b3df9d058d1789e27e2f1f74b771ba31189c8c55e98c8946354db39f2b0cbc0d"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/a6e8cce2d560247db308ae70a6d7e5de94dee643ea7278689ffd9a9ba8c503a5",
+      "checksum": "a6e8cce2d560247db308ae70a6d7e5de94dee643ea7278689ffd9a9ba8c503a5"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/58146d5c6312137988e36ee820cf4a328ae20c809428a646fe270327ddd79238",
+      "checksum": "58146d5c6312137988e36ee820cf4a328ae20c809428a646fe270327ddd79238"
+    },
+    "sounds/em_horror_chase_step7.ogg": {
+      "url": "https://cdn.essential.gg/assets/bff33111bbe2720ebb9d3d47f403618fbcff5d8eb332b389139982855666b3c8",
+      "checksum": "bff33111bbe2720ebb9d3d47f403618fbcff5d8eb332b389139982855666b3c8"
+    },
+    "sounds/em_horror_chase_step1.ogg": {
+      "url": "https://cdn.essential.gg/assets/a6bca7a81b810042c47550dcc09b7750e58f0002ffec03d3435eb8e04e42e87d",
+      "checksum": "a6bca7a81b810042c47550dcc09b7750e58f0002ffec03d3435eb8e04e42e87d"
+    },
+    "sounds/em_horror_chase_step3.ogg": {
+      "url": "https://cdn.essential.gg/assets/b4f6ac3e2267d89ded0c99a353940ad54395fda998493676c2c21f8c2981c4ab",
+      "checksum": "b4f6ac3e2267d89ded0c99a353940ad54395fda998493676c2c21f8c2981c4ab"
+    },
+    "sounds/em_horror_chase_step5.ogg": {
+      "url": "https://cdn.essential.gg/assets/d27265d1b5d778cb0665b3b6bf41a1c3b2b4f1a298cce655bf908193b09b3f16",
+      "checksum": "d27265d1b5d778cb0665b3b6bf41a1c3b2b4f1a298cce655bf908193b09b3f16"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/2e19386a84a4b00aec121c4fc81cb64ed0da50b5288384300049fa25cff2c845",
+      "checksum": "2e19386a84a4b00aec121c4fc81cb64ed0da50b5288384300049fa25cff2c845"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bc1dff77edf27f03c6e54f2ee062eb8b0c388a74f6102c047e62e6098d007af3",
+      "checksum": "bc1dff77edf27f03c6e54f2ee062eb8b0c388a74f6102c047e62e6098d007af3"
+    },
+    "sounds/em_horror_chase_start.ogg": {
+      "url": "https://cdn.essential.gg/assets/5d2bb68f73b1fb2151cd74305316851d42196ca2bc7ac8db9f7f662930a57742",
+      "checksum": "5d2bb68f73b1fb2151cd74305316851d42196ca2bc7ac8db9f7f662930a57742"
+    }
+  }
+}

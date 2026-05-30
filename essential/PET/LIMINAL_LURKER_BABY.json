@@ -1,0 +1,75 @@
+{
+  "id": "LIMINAL_LURKER_BABY",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Baby Lurker"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HORROR",
+    "COLLECTION_MAY2026",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5eecd2e6568effb426db18e02fb6b870906c4acd2ecbe6643d7789720fe1b7e4",
+      "checksum": "5eecd2e6568effb426db18e02fb6b870906c4acd2ecbe6643d7789720fe1b7e4"
+    },
+    "variants/brown/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/38663ced8af5ef1b15f1f6f54640568440c7c1a247c65a3fde91371dc57d4da1",
+      "checksum": "38663ced8af5ef1b15f1f6f54640568440c7c1a247c65a3fde91371dc57d4da1"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0d631d9548687cbf9040fc8003cd0f87a14972a2df030d063122bc09a5e6d539",
+      "checksum": "0d631d9548687cbf9040fc8003cd0f87a14972a2df030d063122bc09a5e6d539"
+    },
+    "variants/white/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/66afc5ab594032f17bc1a640ca5e8a5d0732fcfea8e06f3cc29cc708da8e7036",
+      "checksum": "66afc5ab594032f17bc1a640ca5e8a5d0732fcfea8e06f3cc29cc708da8e7036"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/20e763d992de32599705ecc2bdeb862f206fa1e2d1f5f75877521741817e50c8",
+      "checksum": "20e763d992de32599705ecc2bdeb862f206fa1e2d1f5f75877521741817e50c8"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/532c9d75a2718abbda4ec33b8d9a7da7c7802cc5bf19f0c3d4cae04576f4917b",
+      "checksum": "532c9d75a2718abbda4ec33b8d9a7da7c7802cc5bf19f0c3d4cae04576f4917b"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2049b89a66968a5f32c1a3847488ada1a011ea839e4f9607b8a3d7246a6619a2",
+      "checksum": "2049b89a66968a5f32c1a3847488ada1a011ea839e4f9607b8a3d7246a6619a2"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/142194975eb7f08557e78ae7325c3fe48aff933817871cde3980aff638dd2c71",
+      "checksum": "142194975eb7f08557e78ae7325c3fe48aff933817871cde3980aff638dd2c71"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ffec41daf94db681543397669aa0b074faac8d4db0ebb089cd120a38a5c95fc8",
+      "checksum": "ffec41daf94db681543397669aa0b074faac8d4db0ebb089cd120a38a5c95fc8"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/d1cc1a529296f499e778d08da4a0351ebda7e3d7b2d3812721460a19ba0e0368",
+      "checksum": "d1cc1a529296f499e778d08da4a0351ebda7e3d7b2d3812721460a19ba0e0368"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d70a5abcd3124da637518e142042f9943ef99e16ee1a2c2f8ca026f94dea6e4f",
+      "checksum": "d70a5abcd3124da637518e142042f9943ef99e16ee1a2c2f8ca026f94dea6e4f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/ad83b43497cc26a6e138d8e81913086390bd868454170ffd9c5186afd31a0375",
+      "checksum": "ad83b43497cc26a6e138d8e81913086390bd868454170ffd9c5186afd31a0375"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5df23170b2e2830f978cd6fa42bca21aec385d1dfddf02d7ccc837a717e59fcf",
+      "checksum": "5df23170b2e2830f978cd6fa42bca21aec385d1dfddf02d7ccc837a717e59fcf"
+    }
+  }
+}

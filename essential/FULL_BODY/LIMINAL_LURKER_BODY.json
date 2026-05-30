@@ -1,0 +1,79 @@
+{
+  "id": "LIMINAL_LURKER_BODY",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Liminal Lurker Body"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HORROR",
+    "COLLECTION_MAY2026",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/63ef97fc37f3bdfe18cfe48f4587012964663b6d4b9b1ca2329e19ad1171e6d8",
+      "checksum": "63ef97fc37f3bdfe18cfe48f4587012964663b6d4b9b1ca2329e19ad1171e6d8"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/57cdef0e9ebe1269e2e077b59b2dd46785a424a504769ebbb6c64fb79dba39fc",
+      "checksum": "57cdef0e9ebe1269e2e077b59b2dd46785a424a504769ebbb6c64fb79dba39fc"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/274a9bc6fcaacd71c9173fac3f474f37b8dce72e980f6b1f33d665cb5d3a504e",
+      "checksum": "274a9bc6fcaacd71c9173fac3f474f37b8dce72e980f6b1f33d665cb5d3a504e"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/a8fd1a72f9c5bcc18ac23221dc677ef84368bad6dc8cfdb730e173bf1ed392bb",
+      "checksum": "a8fd1a72f9c5bcc18ac23221dc677ef84368bad6dc8cfdb730e173bf1ed392bb"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ba65668aca2c9c7a38a2140b4811d7259236ccc315fe8341a201a043883d8743",
+      "checksum": "ba65668aca2c9c7a38a2140b4811d7259236ccc315fe8341a201a043883d8743"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/460bcec33ce20d5b099e112760005d35be8387ede19f6bf594fe56abebad798c",
+      "checksum": "460bcec33ce20d5b099e112760005d35be8387ede19f6bf594fe56abebad798c"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/201082fd0cc8bf6c20b278955d8fe95e57e3f5bcb43f711075121ecd45976f25",
+      "checksum": "201082fd0cc8bf6c20b278955d8fe95e57e3f5bcb43f711075121ecd45976f25"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/086e1176c5c54510c10f63029a85f7a3edfbaba69c6fad64d9e82878f8732802",
+      "checksum": "086e1176c5c54510c10f63029a85f7a3edfbaba69c6fad64d9e82878f8732802"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/34118ce8c48edff78f5cde1d3a9e89c0a3105aaaa001f927d0843f655c500f2e",
+      "checksum": "34118ce8c48edff78f5cde1d3a9e89c0a3105aaaa001f927d0843f655c500f2e"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/af3942a3e368304f791ad78f11e129915ee25e55326420d5c7e89ef63b822c26",
+      "checksum": "af3942a3e368304f791ad78f11e129915ee25e55326420d5c7e89ef63b822c26"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/426d7cccb35f88e36c9422640e81fb3fedc2a5b7bd6ccf00e719b44d364a726b",
+      "checksum": "426d7cccb35f88e36c9422640e81fb3fedc2a5b7bd6ccf00e719b44d364a726b"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/44d183fad1f20d61ec0ab1e91dea96618de0bc773cc62d5253007fcb3e5dbde3",
+      "checksum": "44d183fad1f20d61ec0ab1e91dea96618de0bc773cc62d5253007fcb3e5dbde3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/086e1176c5c54510c10f63029a85f7a3edfbaba69c6fad64d9e82878f8732802",
+      "checksum": "086e1176c5c54510c10f63029a85f7a3edfbaba69c6fad64d9e82878f8732802"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3d02286d0b49758b8b01583126030ced12148970f2dcb3e826fc057d9b9d519a",
+      "checksum": "3d02286d0b49758b8b01583126030ced12148970f2dcb3e826fc057d9b9d519a"
+    }
+  }
+}

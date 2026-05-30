@@ -1,0 +1,74 @@
+{
+  "id": "DINNERBONE",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Upside Down"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY",
+    "COLLECTION_MAY2026",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 500,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "sounds/em_dinnerbone_whoosh2.ogg": {
+      "url": "https://cdn.essential.gg/assets/5b366fe6925c9dbeb4323514b599e52a98e1ce08d836e9d2672c252b5cc0afb1",
+      "checksum": "5b366fe6925c9dbeb4323514b599e52a98e1ce08d836e9d2672c252b5cc0afb1"
+    },
+    "sounds/em_dinnerbone_start.ogg": {
+      "url": "https://cdn.essential.gg/assets/f7728bbcbe171d80b6b2f621de7278a62d5e6af0e453ebf75e6912295b3bef7b",
+      "checksum": "f7728bbcbe171d80b6b2f621de7278a62d5e6af0e453ebf75e6912295b3bef7b"
+    },
+    "sounds/em_dinnerbone_whoosh1.ogg": {
+      "url": "https://cdn.essential.gg/assets/65c025a25fa44ed26331d6ab83a36be480f5ba873695c37e6d2302e4a86c0fee",
+      "checksum": "65c025a25fa44ed26331d6ab83a36be480f5ba873695c37e6d2302e4a86c0fee"
+    },
+    "sounds/em_dinnerbone_whoosh7.ogg": {
+      "url": "https://cdn.essential.gg/assets/38818806e8e114dd815d4f66a4bdd88198829e649b5da4366cca7bf1598346ba",
+      "checksum": "38818806e8e114dd815d4f66a4bdd88198829e649b5da4366cca7bf1598346ba"
+    },
+    "sounds/em_dinnerbone_whoosh5.ogg": {
+      "url": "https://cdn.essential.gg/assets/b4511cce9cba5b008ba3227329a58661a3cfd95dadfdb3089004bf1491dac2bd",
+      "checksum": "b4511cce9cba5b008ba3227329a58661a3cfd95dadfdb3089004bf1491dac2bd"
+    },
+    "sounds/em_dinnerbone_whoosh3.ogg": {
+      "url": "https://cdn.essential.gg/assets/b53c9e2cc8675b41912b45502755daac2830a7905dc610f25c71af577bf7b96b",
+      "checksum": "b53c9e2cc8675b41912b45502755daac2830a7905dc610f25c71af577bf7b96b"
+    },
+    "sounds/em_dinnerbone_whoosh8.ogg": {
+      "url": "https://cdn.essential.gg/assets/68185ac9c3ac5f938fc4db02e8503f28cd8188e7bfe046c2bc8b496a81daa681",
+      "checksum": "68185ac9c3ac5f938fc4db02e8503f28cd8188e7bfe046c2bc8b496a81daa681"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/d6de38a82c36e594af3843a805d0cc22fd5d731d17e51f6cd0ccc2e322cc3282",
+      "checksum": "d6de38a82c36e594af3843a805d0cc22fd5d731d17e51f6cd0ccc2e322cc3282"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b4bc085673f6bfec120cd50d66202c28abcd9677410c78563899626d2401a251",
+      "checksum": "b4bc085673f6bfec120cd50d66202c28abcd9677410c78563899626d2401a251"
+    },
+    "sounds/em_dinnerbone_whoosh4.ogg": {
+      "url": "https://cdn.essential.gg/assets/39f594e79c6d868e65375252ceb09344ee90cc07da8e0bd83c3b69b2edfbade3",
+      "checksum": "39f594e79c6d868e65375252ceb09344ee90cc07da8e0bd83c3b69b2edfbade3"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/af55be6bff164f3acf5b0b57cf47ec23247c564fa67b4feec33f80de18cf9ee3",
+      "checksum": "af55be6bff164f3acf5b0b57cf47ec23247c564fa67b4feec33f80de18cf9ee3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4ec9d48645353a66a2f138818771c2a88d2b85743e41ad349f2cdd2c42974670",
+      "checksum": "4ec9d48645353a66a2f138818771c2a88d2b85743e41ad349f2cdd2c42974670"
+    },
+    "sounds/em_dinnerbone_whoosh6.ogg": {
+      "url": "https://cdn.essential.gg/assets/313925af68d4c185f4f7f6edf1980ed40afeea99ebf59467f284f4dd9276abd4",
+      "checksum": "313925af68d4c185f4f7f6edf1980ed40afeea99ebf59467f284f4dd9276abd4"
+    }
+  }
+}

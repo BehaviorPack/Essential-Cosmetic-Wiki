@@ -30,6 +30,22 @@
     }
   },
   {
+    "id": "LIMINAL_LURKER",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "The Liminal Lurker Bundle",
+    "tier": "LEGENDARY",
+    "discount": 70.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@362c7bb7",
+    "cosmetics": {
+      "EMOTE": "HORROR_CHASE",
+      "FULL_BODY": "LIMINAL_LURKER_BODY",
+      "HEAD": "LIMINAL_LURKER_HEAD"
+    },
+    "settings": {}
+  },
+  {
     "id": "WARDEN_WANDERER_2026SALE",
     "source": "infra-add-bundle",
     "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",

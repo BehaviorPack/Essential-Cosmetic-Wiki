@@ -1,0 +1,55 @@
+{
+  "id": "JUMP_SCARE",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Jumpscare!!"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HORROR",
+    "COLLECTION_MAY2026",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "sounds/em_jumpscare2.ogg": {
+      "url": "https://cdn.essential.gg/assets/ec33085ce18aeca30a50555385743ebb084309ec214ab9d7ae7f8e8ee019267c",
+      "checksum": "ec33085ce18aeca30a50555385743ebb084309ec214ab9d7ae7f8e8ee019267c"
+    },
+    "sounds/em_jumpscare3.ogg": {
+      "url": "https://cdn.essential.gg/assets/67572bc5f664106ca56570bbff335e597076111d6b894393c7848f91f9332714",
+      "checksum": "67572bc5f664106ca56570bbff335e597076111d6b894393c7848f91f9332714"
+    },
+    "sounds/em_jumpscare1.ogg": {
+      "url": "https://cdn.essential.gg/assets/0f0edfde18086dd20826dd66aad5284d7ccb5097d5a60ece4d7a2684b398f48a",
+      "checksum": "0f0edfde18086dd20826dd66aad5284d7ccb5097d5a60ece4d7a2684b398f48a"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/9685d3930be8abada9757b0f0313090cc42ccfa18c39c4e4db4443f758828b31",
+      "checksum": "9685d3930be8abada9757b0f0313090cc42ccfa18c39c4e4db4443f758828b31"
+    },
+    "sounds/em_jumpscare5.ogg": {
+      "url": "https://cdn.essential.gg/assets/6151dea2af8329e8222686f83190eaf95c000dfa0eb3364a9cdff4b57086e912",
+      "checksum": "6151dea2af8329e8222686f83190eaf95c000dfa0eb3364a9cdff4b57086e912"
+    },
+    "sounds/em_jumpscare4.ogg": {
+      "url": "https://cdn.essential.gg/assets/36c94e7b1130d9f802b9adb0ce946084618a67eb70fb9e240197c52022a60b79",
+      "checksum": "36c94e7b1130d9f802b9adb0ce946084618a67eb70fb9e240197c52022a60b79"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/30709c6722794666c61f8600fff8c3e45bcb90cbf34cfb2377ea1a0aaf93d90b",
+      "checksum": "30709c6722794666c61f8600fff8c3e45bcb90cbf34cfb2377ea1a0aaf93d90b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bc1dff77edf27f03c6e54f2ee062eb8b0c388a74f6102c047e62e6098d007af3",
+      "checksum": "bc1dff77edf27f03c6e54f2ee062eb8b0c388a74f6102c047e62e6098d007af3"
+    }
+  }
+}
