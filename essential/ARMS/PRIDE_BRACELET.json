@@ -1,0 +1,81 @@
+{
+  "id": "PRIDE_BRACELET",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Pride Bracelet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PRIDE",
+    "COLLECTION_MAY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "skin_mask.steve.right.png": {
+      "url": "https://cdn.essential.gg/assets/d9fb1e17f8fa942ab02092cf67686ae294f0d30474c128b35141892ebcf72f12",
+      "checksum": "d9fb1e17f8fa942ab02092cf67686ae294f0d30474c128b35141892ebcf72f12"
+    },
+    "skin_mask.steve.left.png": {
+      "url": "https://cdn.essential.gg/assets/f009cdd4e44cc44310a20a1e27060b9ecf82ceeb58e665bf601b35c0021806de",
+      "checksum": "f009cdd4e44cc44310a20a1e27060b9ecf82ceeb58e665bf601b35c0021806de"
+    },
+    "variants/pride/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e884d5ca46e079d279c774640b56c1b4f2dfaf5282b15f18f96e98c70383eb0f",
+      "checksum": "e884d5ca46e079d279c774640b56c1b4f2dfaf5282b15f18f96e98c70383eb0f"
+    },
+    "skin_mask.alex.right.png": {
+      "url": "https://cdn.essential.gg/assets/e83d49d955ac7f2a893a139ce0123e5fab6dd287d7ca4741eefa151b1de69048",
+      "checksum": "e83d49d955ac7f2a893a139ce0123e5fab6dd287d7ca4741eefa151b1de69048"
+    },
+    "variants/genderfluid/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/312344aebe1df50f63a4171a0d5150466590af198652aa6d78c8767ffea7e5ba",
+      "checksum": "312344aebe1df50f63a4171a0d5150466590af198652aa6d78c8767ffea7e5ba"
+    },
+    "variants/progress/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/9dafae1402ddc36eba10ea1b130ecfe1f6cdba520a84da1fc5b0002cf46172b8",
+      "checksum": "9dafae1402ddc36eba10ea1b130ecfe1f6cdba520a84da1fc5b0002cf46172b8"
+    },
+    "variants/transgender/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/96b6e10da41cb2d04a85a5d5e07f4ecc553c531cc6f8176901275ad8204149dc",
+      "checksum": "96b6e10da41cb2d04a85a5d5e07f4ecc553c531cc6f8176901275ad8204149dc"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e1ba0f4728ebefb1d6b87b60519fb734d64d3dfe535f6723e4425a7d066c06af",
+      "checksum": "e1ba0f4728ebefb1d6b87b60519fb734d64d3dfe535f6723e4425a7d066c06af"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/d40eb001d5ca50646e585fec5bb37c3229d4a560a55bd54948a30c144482f982",
+      "checksum": "d40eb001d5ca50646e585fec5bb37c3229d4a560a55bd54948a30c144482f982"
+    },
+    "variants/progress/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e9f3c1f5f7a30ee2c52329ac31c162f8e99e0ba1d91603718cabd70eb61d8411",
+      "checksum": "e9f3c1f5f7a30ee2c52329ac31c162f8e99e0ba1d91603718cabd70eb61d8411"
+    },
+    "skin_mask.alex.left.png": {
+      "url": "https://cdn.essential.gg/assets/ee7542669d39f0ee6c031e32b41e2ec2a228b23355a3a5a3db23599a079cb877",
+      "checksum": "ee7542669d39f0ee6c031e32b41e2ec2a228b23355a3a5a3db23599a079cb877"
+    },
+    "variants/pride/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/10982807ecd4f09e3ef0a40dfeaee60d0e451009d6b0631d80f3360337d8e579",
+      "checksum": "10982807ecd4f09e3ef0a40dfeaee60d0e451009d6b0631d80f3360337d8e579"
+    },
+    "variants/transgender/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8c6d7914b389b3c57c8e81f8ba8b7990d42e2960b320c8037481637ecc79d19a",
+      "checksum": "8c6d7914b389b3c57c8e81f8ba8b7990d42e2960b320c8037481637ecc79d19a"
+    },
+    "variants/genderfluid/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3a04c018997b15ef9f0b9138947f51a7a8d0da0517a79bf6ac0b31b5201339ae",
+      "checksum": "3a04c018997b15ef9f0b9138947f51a7a8d0da0517a79bf6ac0b31b5201339ae"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/fb80d66116c6337c166df3c2d7780564fe119abe074ea6cf96107b3c34a8e03c",
+      "checksum": "fb80d66116c6337c166df3c2d7780564fe119abe074ea6cf96107b3c34a8e03c"
+    }
+  }
+}

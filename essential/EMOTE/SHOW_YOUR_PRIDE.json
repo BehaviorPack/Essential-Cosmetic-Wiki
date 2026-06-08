@@ -1,0 +1,46 @@
+{
+  "id": "SHOW_YOUR_PRIDE",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Show Your Pride"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PRIDE",
+    "COLLECTION_MAY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/402355788eedcd66e2bad80cb1a661b10ed1a871045688d8105fbc90f0acd9c2",
+      "checksum": "402355788eedcd66e2bad80cb1a661b10ed1a871045688d8105fbc90f0acd9c2"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/58146d5c6312137988e36ee820cf4a328ae20c809428a646fe270327ddd79238",
+      "checksum": "58146d5c6312137988e36ee820cf4a328ae20c809428a646fe270327ddd79238"
+    },
+    "sounds/em_pride_flag.ogg": {
+      "url": "https://cdn.essential.gg/assets/4cce1aade01d54ce5e8ddff9536643d441cc8cb182250ced65b8416dbce6df8b",
+      "checksum": "4cce1aade01d54ce5e8ddff9536643d441cc8cb182250ced65b8416dbce6df8b"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c78449ee9751dd04cfdeab0e0d55faf587b410a3df7e37bbd65646cbf321377e",
+      "checksum": "c78449ee9751dd04cfdeab0e0d55faf587b410a3df7e37bbd65646cbf321377e"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/5f0b991246fbba25b55eeb4917d13d836c5b6de7ed697b7a16681256e2b5bd67",
+      "checksum": "5f0b991246fbba25b55eeb4917d13d836c5b6de7ed697b7a16681256e2b5bd67"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5da49bbbad03c98aec2161c44d6fac17e99be5da0495743f40acf1f279bc0200",
+      "checksum": "5da49bbbad03c98aec2161c44d6fac17e99be5da0495743f40acf1f279bc0200"
+    }
+  }
+}
