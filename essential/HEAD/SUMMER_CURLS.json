@@ -1,0 +1,54 @@
+{
+  "id": "SUMMER_CURLS",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Summer Curls"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MERMAID",
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAIR": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0202848a552dc6bb0da57d61162ce513c6adc9b41263aac4ce63eb8e2417f2c3",
+      "checksum": "0202848a552dc6bb0da57d61162ce513c6adc9b41263aac4ce63eb8e2417f2c3"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b4649ddf327a8d7545c51d4121797b1d3ee39ab26103e4ce201fdf6cec021fa1",
+      "checksum": "b4649ddf327a8d7545c51d4121797b1d3ee39ab26103e4ce201fdf6cec021fa1"
+    },
+    "variants/blonde/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4569a260c532334dc69da36c38207675ce65a9bb7b7719659066340d0679e5ef",
+      "checksum": "4569a260c532334dc69da36c38207675ce65a9bb7b7719659066340d0679e5ef"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3923bbdc1ddf1ba86906df91b0e1b70e36a8e2661bdcc63ed0fbb01a9cd8fd7b",
+      "checksum": "3923bbdc1ddf1ba86906df91b0e1b70e36a8e2661bdcc63ed0fbb01a9cd8fd7b"
+    },
+    "variants/brown_blonde/texture.png": {
+      "url": "https://cdn.essential.gg/assets/009c219e3abeb5133ad5c0c305382ac3d8bc351d288efc09e834beda1466c3bd",
+      "checksum": "009c219e3abeb5133ad5c0c305382ac3d8bc351d288efc09e834beda1466c3bd"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c10011cd6664cee75e155b80d46587758c469b380a559232973d472afbcc0c17",
+      "checksum": "c10011cd6664cee75e155b80d46587758c469b380a559232973d472afbcc0c17"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d718cdc2fe3414a688de157b981903a8d5f6c50790f41a7f1e01771c1c40089c",
+      "checksum": "d718cdc2fe3414a688de157b981903a8d5f6c50790f41a7f1e01771c1c40089c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

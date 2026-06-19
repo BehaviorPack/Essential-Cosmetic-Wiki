@@ -1,0 +1,59 @@
+{
+  "id": "JESTER_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Jester Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "COLLECTION_JUNE2026",
+    "THEME_MEDIEVAL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cb0a3ab42a6172e18ab882d69a18b653fb0540c5f09cf74112007d5e979b9ceb",
+      "checksum": "cb0a3ab42a6172e18ab882d69a18b653fb0540c5f09cf74112007d5e979b9ceb"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c0c5d0da97d8624e09174a6d3cd14007ee7ab76dcc134aea609f88f755a3ca23",
+      "checksum": "c0c5d0da97d8624e09174a6d3cd14007ee7ab76dcc134aea609f88f755a3ca23"
+    },
+    "variants/purple_black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/37025d938dcedef8f7b0589f22b9cb12a225210127ac5de8512e259c45ca3a32",
+      "checksum": "37025d938dcedef8f7b0589f22b9cb12a225210127ac5de8512e259c45ca3a32"
+    },
+    "variants/fantasy/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0e9b7442c6fc676c198ac51e6f76c5772a27de2297b5856c22c8afb09eac9bce",
+      "checksum": "0e9b7442c6fc676c198ac51e6f76c5772a27de2297b5856c22c8afb09eac9bce"
+    },
+    "variants/pomni/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1aab3a2abbe94dc0f897f707c15d39bb4d1eb4a6fe5b0d462a998b857ebf337a",
+      "checksum": "1aab3a2abbe94dc0f897f707c15d39bb4d1eb4a6fe5b0d462a998b857ebf337a"
+    },
+    "variants/classic/texture.png": {
+      "url": "https://cdn.essential.gg/assets/08d3bfb60dac354b9585a3f04a0abf8697aa01e7185490a8f9a1151661cd34cd",
+      "checksum": "08d3bfb60dac354b9585a3f04a0abf8697aa01e7185490a8f9a1151661cd34cd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4ee176f12550177b14532d4dc7765c11de2ac725c6368df6417ed15b1b615752",
+      "checksum": "4ee176f12550177b14532d4dc7765c11de2ac725c6368df6417ed15b1b615752"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/2e7d143942dbbde7237551cbd395153330bd55ac2668e9e9190e19a978c4e752",
+      "checksum": "2e7d143942dbbde7237551cbd395153330bd55ac2668e9e9190e19a978c4e752"
+    },
+    "variants/fantasy/textureold.png": {
+      "url": "https://cdn.essential.gg/assets/ca8f9ccca0644a432b0cb640eae2e5e31194c8903c0a043fda17a10a74bef798",
+      "checksum": "ca8f9ccca0644a432b0cb640eae2e5e31194c8903c0a043fda17a10a74bef798"
+    }
+  }
+}

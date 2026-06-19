@@ -1,0 +1,64 @@
+{
+  "id": "BOMBER_JACKET",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Bomber Jacket"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK",
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026",
+    "THEME_CYBERPUNK"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/478c1bd09b0c6e546abb91fb1f00204bea3081132fe2ab74dcaeb72dea006e06",
+      "checksum": "478c1bd09b0c6e546abb91fb1f00204bea3081132fe2ab74dcaeb72dea006e06"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/44fa1c5a33c60268fc3b31f872a23aca645710d37da94de62a6f7911bbcaeb8d",
+      "checksum": "44fa1c5a33c60268fc3b31f872a23aca645710d37da94de62a6f7911bbcaeb8d"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/fbf870e53f1c30cb8bf19a62f7e16607c421245a062751cf09f9d6db40d9a1c8",
+      "checksum": "fbf870e53f1c30cb8bf19a62f7e16607c421245a062751cf09f9d6db40d9a1c8"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/30009a9208db3fa49fe376be1aa283189dd6f4e6e59733dddf2279a0b1dc0016",
+      "checksum": "30009a9208db3fa49fe376be1aa283189dd6f4e6e59733dddf2279a0b1dc0016"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/f963a52fddb7b0ca7f7d295a328a0da3b09eee646c40f8bbc518114d80ac37ac",
+      "checksum": "f963a52fddb7b0ca7f7d295a328a0da3b09eee646c40f8bbc518114d80ac37ac"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/30f6f45b75b0809d542957e3705fff91669642b1017816ff3615e26b883bcbe2",
+      "checksum": "30f6f45b75b0809d542957e3705fff91669642b1017816ff3615e26b883bcbe2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/61d23788f4867a2c577ea2d9929b3e904285b7e67ae1e08caa03b25a887ff18b",
+      "checksum": "61d23788f4867a2c577ea2d9929b3e904285b7e67ae1e08caa03b25a887ff18b"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3c57277bb116d303dbb3ed4cbe9102887d3ec84e87b0b3b73f45b5db3eddfe99",
+      "checksum": "3c57277bb116d303dbb3ed4cbe9102887d3ec84e87b0b3b73f45b5db3eddfe99"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/36f75c84a38a9146b47bc9750f7e1e91df5f799525d2fd6cbae1338a117b5459",
+      "checksum": "36f75c84a38a9146b47bc9750f7e1e91df5f799525d2fd6cbae1338a117b5459"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5f1d0b59a4db2dc1281d86e5ac6de728a850e67508701806fefb813f800bc32c",
+      "checksum": "5f1d0b59a4db2dc1281d86e5ac6de728a850e67508701806fefb813f800bc32c"
+    }
+  }
+}

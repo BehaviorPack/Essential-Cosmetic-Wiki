@@ -1,0 +1,51 @@
+{
+  "id": "ICE_POP",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Ice Pop"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_BEACH",
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/em_ice_pop_lick_pre.ogg": {
+      "url": "https://cdn.essential.gg/assets/9c6f6e9f3a3288b37847e8430172d3fa13a92aed6cbf83d05afb99322f21d774",
+      "checksum": "9c6f6e9f3a3288b37847e8430172d3fa13a92aed6cbf83d05afb99322f21d774"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/11328b02720fe1b710747dcd5574c025a876b9b267c9551955d2f5d69c4f3e9d",
+      "checksum": "11328b02720fe1b710747dcd5574c025a876b9b267c9551955d2f5d69c4f3e9d"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d6ab15f4ed033abf8d349500e4b1dcb71aaf2439745089665138652fd36ef43d",
+      "checksum": "d6ab15f4ed033abf8d349500e4b1dcb71aaf2439745089665138652fd36ef43d"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f7338c05465192d948f7f711dcc690ae04953b931cd8c05e8611a46d8ce33eb9",
+      "checksum": "f7338c05465192d948f7f711dcc690ae04953b931cd8c05e8611a46d8ce33eb9"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/01f5fd5896fab13bb4da3013bd255b8354679a3258246346d7e05253248d439d",
+      "checksum": "01f5fd5896fab13bb4da3013bd255b8354679a3258246346d7e05253248d439d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f08152877463966553142bcb26c1aef71bf3ad7ed1c57d70fd525f7948c4d586",
+      "checksum": "f08152877463966553142bcb26c1aef71bf3ad7ed1c57d70fd525f7948c4d586"
+    },
+    "sounds/em_ice_pop_lick_loop.ogg": {
+      "url": "https://cdn.essential.gg/assets/aaac0910b83f3b27ef87f1bfbe5f78adb345e98e76e0f82aa0217d65e490a7cd",
+      "checksum": "aaac0910b83f3b27ef87f1bfbe5f78adb345e98e76e0f82aa0217d65e490a7cd"
+    }
+  }
+}

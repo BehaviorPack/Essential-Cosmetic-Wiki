@@ -1,0 +1,70 @@
+{
+  "id": "SLIME_PET",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Baby Slime"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JUNE2026",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4ae136cadef8dab6ccca0d1310facd03d139344e6c5266ac1a0b01ccc1898d29",
+      "checksum": "4ae136cadef8dab6ccca0d1310facd03d139344e6c5266ac1a0b01ccc1898d29"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/485bf04f613a825028be9469957715c427b8f13b6d0013bf38cbfd22487a32d8",
+      "checksum": "485bf04f613a825028be9469957715c427b8f13b6d0013bf38cbfd22487a32d8"
+    },
+    "particles/splash_mid.particle.json": {
+      "url": "https://cdn.essential.gg/assets/92b37249ef3ce593bc245fecf7517d9880626f26dd40a77ffb14ec42485daf9a",
+      "checksum": "92b37249ef3ce593bc245fecf7517d9880626f26dd40a77ffb14ec42485daf9a"
+    },
+    "particles/splash_small.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d7ac4b90014aeef4e0189921175265ac0c04b9893b8b736dd3c1834ab6317ce3",
+      "checksum": "d7ac4b90014aeef4e0189921175265ac0c04b9893b8b736dd3c1834ab6317ce3"
+    },
+    "particles/sleep_z.particle.json": {
+      "url": "https://cdn.essential.gg/assets/26547fdedfd9a9153f1e8519dac3cb52909984ad5afebb6e9f51a6b39f7e2ee1",
+      "checksum": "26547fdedfd9a9153f1e8519dac3cb52909984ad5afebb6e9f51a6b39f7e2ee1"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d6fe47a2ff1e54e4b464fd29a9a2e2a4f9be72cbe84fa7af6d1ab0c9ed3cfb97",
+      "checksum": "d6fe47a2ff1e54e4b464fd29a9a2e2a4f9be72cbe84fa7af6d1ab0c9ed3cfb97"
+    },
+    "variants/magma/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/6b9c9fbf0dfdd6b83d529c1471536c16dd32cce035f46bf57afab6d4bf5c953d",
+      "checksum": "6b9c9fbf0dfdd6b83d529c1471536c16dd32cce035f46bf57afab6d4bf5c953d"
+    },
+    "variants/magma/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a7fe43ba91d9d6e64ea92f442eb8c0b379efdff82a45d7fb0f808e6a609f9a84",
+      "checksum": "a7fe43ba91d9d6e64ea92f442eb8c0b379efdff82a45d7fb0f808e6a609f9a84"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/0e25a9159ad8ea40be05f0ed52886799908970040dcc849b928d871d6ef0fcd8",
+      "checksum": "0e25a9159ad8ea40be05f0ed52886799908970040dcc849b928d871d6ef0fcd8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/add896389ffafa355d4c7d65a813acd07c46f7f9c73cf2710c74d28176e01566",
+      "checksum": "add896389ffafa355d4c7d65a813acd07c46f7f9c73cf2710c74d28176e01566"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/36e9c7d3bb8ae9e09b9ff40829c0e8241bb3c6ac4b4e0bf523f6a77b7ce1e4b9",
+      "checksum": "36e9c7d3bb8ae9e09b9ff40829c0e8241bb3c6ac4b4e0bf523f6a77b7ce1e4b9"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fe603f4c1529b2266b4ee006f008f5c6de1168a500c55ece864f055af88c9890",
+      "checksum": "fe603f4c1529b2266b4ee006f008f5c6de1168a500c55ece864f055af88c9890"
+    }
+  }
+}

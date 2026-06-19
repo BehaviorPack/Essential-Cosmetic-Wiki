@@ -1,0 +1,60 @@
+{
+  "id": "SNORKEL_MASK",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Snorkel Mask"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_POOL",
+    "THEME_BEACH",
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026",
+    "THEME_OCEAN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/blue_green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/157b49a33327127597e3b3bc5deb1bb9462ab8199cff17d9b84ed0482f4e5517",
+      "checksum": "157b49a33327127597e3b3bc5deb1bb9462ab8199cff17d9b84ed0482f4e5517"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7af939cf0ae956ad07a86ff232bc91224a846232ca1cb0fb2c078cbd7f1d6a0e",
+      "checksum": "7af939cf0ae956ad07a86ff232bc91224a846232ca1cb0fb2c078cbd7f1d6a0e"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5b1feca5bcbedf74f3d3c432566b790634c9f147da358bdc3bf2dc0ae81a3ed8",
+      "checksum": "5b1feca5bcbedf74f3d3c432566b790634c9f147da358bdc3bf2dc0ae81a3ed8"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f4fa774b5f2d1d4e6817ee15efe965572bbc07dd217728dcc2be9d5000216683",
+      "checksum": "f4fa774b5f2d1d4e6817ee15efe965572bbc07dd217728dcc2be9d5000216683"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f0b176501e032a8b63023e8415f3555626044864135396ae9be1c794ce804fc1",
+      "checksum": "f0b176501e032a8b63023e8415f3555626044864135396ae9be1c794ce804fc1"
+    },
+    "variants/blue_white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/75f962c08eee9abf1b3929299aecdf81f28884afec81d608846f1002bea2a152",
+      "checksum": "75f962c08eee9abf1b3929299aecdf81f28884afec81d608846f1002bea2a152"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/321534a5da6cf051d9e5b51954e585c980af438eba3fb3c75a22250519f1d46e",
+      "checksum": "321534a5da6cf051d9e5b51954e585c980af438eba3fb3c75a22250519f1d46e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3cde127c766d361e21e0f3c0a94d3e60fefc4fee48b8153bfba1bc31bc4d28e2",
+      "checksum": "3cde127c766d361e21e0f3c0a94d3e60fefc4fee48b8153bfba1bc31bc4d28e2"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c4169c0fd60b3aee7896ecb367128aba2a65b2054b63098606f0f6897b7823c5",
+      "checksum": "c4169c0fd60b3aee7896ecb367128aba2a65b2054b63098606f0f6897b7823c5"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "VIBE_DANCE",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Vibe Out"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_CHILL",
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026",
+    "THEME_PARTY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 500,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "sounds/em_vibe_dance2.ogg": {
+      "url": "https://cdn.essential.gg/assets/1f3fe144cf4d7c92fcd8d01cabce9302f8a35561abf0b63e35760f528243f1e8",
+      "checksum": "1f3fe144cf4d7c92fcd8d01cabce9302f8a35561abf0b63e35760f528243f1e8"
+    },
+    "sounds/em_vibe_dance3.ogg": {
+      "url": "https://cdn.essential.gg/assets/c43c29c613934d4e1f2f55760ca280e57f0fd709beb98a2321919f5d21b3c48b",
+      "checksum": "c43c29c613934d4e1f2f55760ca280e57f0fd709beb98a2321919f5d21b3c48b"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/2ac98eaadd0986f13d191b2fc4cbf864dfba255ab98df1a1838ba233c92179a5",
+      "checksum": "2ac98eaadd0986f13d191b2fc4cbf864dfba255ab98df1a1838ba233c92179a5"
+    },
+    "sounds/em_vibe_dance4.ogg": {
+      "url": "https://cdn.essential.gg/assets/80fb5b1181b937bc640bf22c057499e6ba7f49911b39e6f971539f8e69874c6f",
+      "checksum": "80fb5b1181b937bc640bf22c057499e6ba7f49911b39e6f971539f8e69874c6f"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/58146d5c6312137988e36ee820cf4a328ae20c809428a646fe270327ddd79238",
+      "checksum": "58146d5c6312137988e36ee820cf4a328ae20c809428a646fe270327ddd79238"
+    },
+    "sounds/em_vibe_dance1.ogg": {
+      "url": "https://cdn.essential.gg/assets/3ace05922f8864a84ea9c65a6efdcea33d512d6f444398d191d1fb44f1e9b9f4",
+      "checksum": "3ace05922f8864a84ea9c65a6efdcea33d512d6f444398d191d1fb44f1e9b9f4"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/3278223fcb117e317b214bb476bf80f59f65d6ce2b0f79baa54707bc2bc19b0c",
+      "checksum": "3278223fcb117e317b214bb476bf80f59f65d6ce2b0f79baa54707bc2bc19b0c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

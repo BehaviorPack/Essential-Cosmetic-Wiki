@@ -1,0 +1,51 @@
+{
+  "id": "BUCKET_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Bucket Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK",
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026",
+    "THEME_Y2K"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8b52b899ecf352e2eddac31a09613e00f74d01c6ded61fbed70651b2cff18d7c",
+      "checksum": "8b52b899ecf352e2eddac31a09613e00f74d01c6ded61fbed70651b2cff18d7c"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9664e561c1a57fd1f773fc0bd7f6d895f1630f40382ab4b047d39c50d6d26f97",
+      "checksum": "9664e561c1a57fd1f773fc0bd7f6d895f1630f40382ab4b047d39c50d6d26f97"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/15387914a9082945645f0e3d5658d7c33f4a8617262889faced75656dbc45631",
+      "checksum": "15387914a9082945645f0e3d5658d7c33f4a8617262889faced75656dbc45631"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/afa6f9f7201e443e9bc6fa2e6a47fee8d215419caf959f2b46138cd7dffe1b52",
+      "checksum": "afa6f9f7201e443e9bc6fa2e6a47fee8d215419caf959f2b46138cd7dffe1b52"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e42b7dea691a0787182cd1ea75004fcc1d167bfcf8f68e380ca06480fad930ec",
+      "checksum": "e42b7dea691a0787182cd1ea75004fcc1d167bfcf8f68e380ca06480fad930ec"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/1e29e2ec31694bce5d6d7bf0e8395071de09eeaaf9a581ec7c4e2ce11b8eacd7",
+      "checksum": "1e29e2ec31694bce5d6d7bf0e8395071de09eeaaf9a581ec7c4e2ce11b8eacd7"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/11efa22138bd0f3bd161203984fe199e9df45dd50e930ef43b29a928b71e3882",
+      "checksum": "11efa22138bd0f3bd161203984fe199e9df45dd50e930ef43b29a928b71e3882"
+    }
+  }
+}

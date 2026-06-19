@@ -1,0 +1,46 @@
+{
+  "id": "CUBED_CHAOS_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Sulfur Cube Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/honeycomb/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c479fa1804ac111a39ebffb56d3933f56b71bacd173c67be19b1a35d56ee3e0d",
+      "checksum": "c479fa1804ac111a39ebffb56d3933f56b71bacd173c67be19b1a35d56ee3e0d"
+    },
+    "variants/default/texture.png": {
+      "url": "https://cdn.essential.gg/assets/48f38e6eb6d5de398cbe9dc9c93bfc768197e4ac9cb75d4af1dfc3a80a7c9e7b",
+      "checksum": "48f38e6eb6d5de398cbe9dc9c93bfc768197e4ac9cb75d4af1dfc3a80a7c9e7b"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c5b02fbdb2e2b4c713615a44e08ec2c8bed4a3c2b0c5a95a760ab100888b5cd2",
+      "checksum": "c5b02fbdb2e2b4c713615a44e08ec2c8bed4a3c2b0c5a95a760ab100888b5cd2"
+    },
+    "variants/ice/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fc05b9ef63887114dd31454be9c73512ac733e61c5fca81e82548c11f7132c78",
+      "checksum": "fc05b9ef63887114dd31454be9c73512ac733e61c5fca81e82548c11f7132c78"
+    },
+    "variants/tnt/texture.png": {
+      "url": "https://cdn.essential.gg/assets/92bed75af32f1556d1ff275080de0d6e1f51b26a90dc9f71f7e8436d0b9d01cf",
+      "checksum": "92bed75af32f1556d1ff275080de0d6e1f51b26a90dc9f71f7e8436d0b9d01cf"
+    },
+    "variants/magma/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3bc28d4fe215c731133bc50365b3911ffabb0697fabb0e26f2f9200c71f6ff33",
+      "checksum": "3bc28d4fe215c731133bc50365b3911ffabb0697fabb0e26f2f9200c71f6ff33"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8cc7ca87b92543e726555cdb7a1c69a767edab141d9801436eb4de4694298bdb",
+      "checksum": "8cc7ca87b92543e726555cdb7a1c69a767edab141d9801436eb4de4694298bdb"
+    }
+  }
+}

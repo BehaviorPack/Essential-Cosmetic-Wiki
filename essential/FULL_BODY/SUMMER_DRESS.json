@@ -1,0 +1,64 @@
+{
+  "id": "SUMMER_DRESS",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "Summer Dress"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026",
+    "THEME_SPRING",
+    "THEME_ISLAND"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e517058e1b30242eea6002fcdfccd850e3fe6279c4318c7e18b71c8c9813464f",
+      "checksum": "e517058e1b30242eea6002fcdfccd850e3fe6279c4318c7e18b71c8c9813464f"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/94a1ddaa55aa8f500af55a3e82b5f17fea8fe2c8e2814624a4f2ef41fe0cd667",
+      "checksum": "94a1ddaa55aa8f500af55a3e82b5f17fea8fe2c8e2814624a4f2ef41fe0cd667"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/6216980adf4823461c7c9c757f2abe0d4a1e8adea7ac473b64e9e1913f95278d",
+      "checksum": "6216980adf4823461c7c9c757f2abe0d4a1e8adea7ac473b64e9e1913f95278d"
+    },
+    "variants/floral_pattern/texture.png": {
+      "url": "https://cdn.essential.gg/assets/623836bc586464265aa3c7036c19e01ab774f1ad322a49698264346ddf19ea92",
+      "checksum": "623836bc586464265aa3c7036c19e01ab774f1ad322a49698264346ddf19ea92"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/794ee53df4718a87c4aecd714ab350b0ab489ea7c057caff2159f3e84e10972c",
+      "checksum": "794ee53df4718a87c4aecd714ab350b0ab489ea7c057caff2159f3e84e10972c"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/626c790e91e07a6cce3f64e0c3015a6e6b193c4a49983d70a0947c82130d9ce4",
+      "checksum": "626c790e91e07a6cce3f64e0c3015a6e6b193c4a49983d70a0947c82130d9ce4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/38ef05e5777e562b0ef500f98ea7bc10273b511ec379a8e65c947f586ebbb2d3",
+      "checksum": "38ef05e5777e562b0ef500f98ea7bc10273b511ec379a8e65c947f586ebbb2d3"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/959960e487bd58541984cc73699cb45be7e07e032c7b925970af4369a014ddb8",
+      "checksum": "959960e487bd58541984cc73699cb45be7e07e032c7b925970af4369a014ddb8"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7475ec651f9a1f6c376018e99a02dc6ad896bc37d3d3e96862b83d278c444157",
+      "checksum": "7475ec651f9a1f6c376018e99a02dc6ad896bc37d3d3e96862b83d278c444157"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d362a9c2fb1b3b0dcc6c6facb87408b11c0ae8a27c342434b08e1c8670e36c19",
+      "checksum": "d362a9c2fb1b3b0dcc6c6facb87408b11c0ae8a27c342434b08e1c8670e36c19"
+    }
+  }
+}

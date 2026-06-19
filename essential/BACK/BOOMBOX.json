@@ -1,0 +1,81 @@
+{
+  "id": "BOOMBOX",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Boombox"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MUSIC",
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026",
+    "THEME_Y2K",
+    "THEME_PARTY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/grey/texture.png": {
+      "url": "https://cdn.essential.gg/assets/edac455e1842a47515f97f8b18710d9f063d761c4500a70a74f0fc1c9c6433a4",
+      "checksum": "edac455e1842a47515f97f8b18710d9f063d761c4500a70a74f0fc1c9c6433a4"
+    },
+    "particles/boombox_notes.particle.json": {
+      "url": "https://cdn.essential.gg/assets/dfcda36a3fa82fb78e5798a6e0cf9430bd25015b910629b1134dd6c5a68474c8",
+      "checksum": "dfcda36a3fa82fb78e5798a6e0cf9430bd25015b910629b1134dd6c5a68474c8"
+    },
+    "particles/boombox_notes_single.particle.json": {
+      "url": "https://cdn.essential.gg/assets/187526f53ac7defa5b84158378f0274bd73a38d8cf93cbbda5193ae0976ad7ab",
+      "checksum": "187526f53ac7defa5b84158378f0274bd73a38d8cf93cbbda5193ae0976ad7ab"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/01b49650b93f71f6064b056b23b095d5a409b7dd9ba7bf88878d582e28fbc2c1",
+      "checksum": "01b49650b93f71f6064b056b23b095d5a409b7dd9ba7bf88878d582e28fbc2c1"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e60db69c9339fd0cef7229336e7e64409ab3a6b5e69fc14abc3fe323fd794c4d",
+      "checksum": "e60db69c9339fd0cef7229336e7e64409ab3a6b5e69fc14abc3fe323fd794c4d"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/892e720dea58e7c182507afc86e746223c70eed337218310e162394d920ef148",
+      "checksum": "892e720dea58e7c182507afc86e746223c70eed337218310e162394d920ef148"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b8bd1442a999d2d4d30974081544f5ff94655391777e34bec45df13074d1ff41",
+      "checksum": "b8bd1442a999d2d4d30974081544f5ff94655391777e34bec45df13074d1ff41"
+    },
+    "variants/retro/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/9dc058d3cbbe93f6e60274ee90b5912598be5108bb03a678a914787b52b743b4",
+      "checksum": "9dc058d3cbbe93f6e60274ee90b5912598be5108bb03a678a914787b52b743b4"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7ea984efc46c98c65f2d94b0d9eb3b7fa84715784d54cd0067390d796cf7f312",
+      "checksum": "7ea984efc46c98c65f2d94b0d9eb3b7fa84715784d54cd0067390d796cf7f312"
+    },
+    "variants/retro/texture.png": {
+      "url": "https://cdn.essential.gg/assets/003dba62f392e1ec3dd39f1dd4b090fc2176b648c054f44a4050ab223f711847",
+      "checksum": "003dba62f392e1ec3dd39f1dd4b090fc2176b648c054f44a4050ab223f711847"
+    },
+    "particles/boombox_notes_extra.particle.json": {
+      "url": "https://cdn.essential.gg/assets/4f341e42bc68d1b148467b56e03036c37e9d76c3d14d257b4b9c244d6c9146a9",
+      "checksum": "4f341e42bc68d1b148467b56e03036c37e9d76c3d14d257b4b9c244d6c9146a9"
+    },
+    "variants/grey/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/ebf90ab18dd7f8a21f44add0d90a37d79de1fc5ea828089bcad50d91ec88b71d",
+      "checksum": "ebf90ab18dd7f8a21f44add0d90a37d79de1fc5ea828089bcad50d91ec88b71d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/8ee3cc5d530f74a11f506f18c40936087bfcf5ae5a3682948d255787fece5811",
+      "checksum": "8ee3cc5d530f74a11f506f18c40936087bfcf5ae5a3682948d255787fece5811"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/66281e63dda59ea51cf3f760cce787706c4243c517a5fe8a646031a8613fa3a1",
+      "checksum": "66281e63dda59ea51cf3f760cce787706c4243c517a5fe8a646031a8613fa3a1"
+    }
+  }
+}

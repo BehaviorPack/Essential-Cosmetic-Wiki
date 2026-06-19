@@ -1,0 +1,53 @@
+{
+  "id": "SUMMER_SHADES",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Summer Shades"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/466d594a1abf5ee61abe81f06e4ff3f66ed6f6affdf6cef4b6420089312d2d4b",
+      "checksum": "466d594a1abf5ee61abe81f06e4ff3f66ed6f6affdf6cef4b6420089312d2d4b"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c4270000cbe579110a97d62ace2d83f15fff7c28bab5271c61c493d74f904c87",
+      "checksum": "c4270000cbe579110a97d62ace2d83f15fff7c28bab5271c61c493d74f904c87"
+    },
+    "variants/white_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/072e0e145b69c3c9d083b165f347a6d0c7e4429448dbd6765e1ea5c691edbef0",
+      "checksum": "072e0e145b69c3c9d083b165f347a6d0c7e4429448dbd6765e1ea5c691edbef0"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/379c8febe01918e97d24184235f1b4061dbc1c40699e32eacd9fb06a45afece5",
+      "checksum": "379c8febe01918e97d24184235f1b4061dbc1c40699e32eacd9fb06a45afece5"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ee875f28b500090d691fd4e461e67ff48180ad0056594abca76a1d4341cf66c4",
+      "checksum": "ee875f28b500090d691fd4e461e67ff48180ad0056594abca76a1d4341cf66c4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/592e07f3d77b4c6c4e02a675d730110ee7d35d8ff2dcfc346e3ea00499bd4069",
+      "checksum": "592e07f3d77b4c6c4e02a675d730110ee7d35d8ff2dcfc346e3ea00499bd4069"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646",
+      "checksum": "3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646"
+    },
+    "variants/white_black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e9ef41b05b308c1183dcd1bfaea235fc61fc58813e0e97ac132242c0c040b191",
+      "checksum": "e9ef41b05b308c1183dcd1bfaea235fc61fc58813e0e97ac132242c0c040b191"
+    }
+  }
+}

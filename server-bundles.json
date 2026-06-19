@@ -30,6 +30,308 @@
     }
   },
   {
+    "id": "SUMMER_GIRL",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "Sarah Summers",
+    "tier": "LEGENDARY",
+    "discount": 65.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@265af5fa",
+    "cosmetics": {
+      "HEAD": "BRAIDED_PONYTAIL_HAIR",
+      "EMOTE": "FLUSTERED",
+      "HAT": "SUMMER_SUNHAT",
+      "EFFECT": "CHERRY_BLOSSOM_PARTICLES",
+      "FULL_BODY": "SUMMER_DRESS"
+    },
+    "settings": {
+      "SUMMER_SUNHAT": [
+        {
+          "id": "SUMMER_SUNHAT",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "yellow"
+          }
+        }
+      ],
+      "SUMMER_DRESS": [
+        {
+          "id": "SUMMER_DRESS",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "yellow"
+          }
+        }
+      ],
+      "BRAIDED_PONYTAIL_HAIR": [
+        {
+          "id": "BRAIDED_PONYTAIL_HAIR",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "blonde"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "MERMAN_JUNE2026_BLUE",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "Caspian Tideborn",
+    "tier": "RARE",
+    "discount": 60.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@2ae07ad4",
+    "cosmetics": {
+      "PANTS": "MERMAID_TAIL",
+      "HEAD": "FLUFFY_ANIME_HAIR",
+      "EMOTE": "FLIGHT",
+      "EFFECT": "OCEAN_AURA"
+    },
+    "settings": {
+      "FLUFFY_ANIME_HAIR": [
+        {
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "red"
+          }
+        }
+      ],
+      "MERMAID_TAIL": [
+        {
+          "id": "MERMAID_TAIL",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "blue"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "MERMAID_JUNE2026_PINK",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "The Mermaid Bundle",
+    "tier": "RARE",
+    "discount": 60.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@3270d8d2",
+    "cosmetics": {
+      "HEAD": "SUMMER_CURLS",
+      "PANTS": "MERMAID_TAIL",
+      "EMOTE": "FLIGHT",
+      "EFFECT": "OCEAN_AURA"
+    },
+    "settings": {
+      "SUMMER_CURLS": [
+        {
+          "id": "SUMMER_CURLS",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "blonde"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "LIMINAL_LURKER",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "The Liminal Lurker Bundle",
+    "tier": "LEGENDARY",
+    "discount": 70.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@46b5fbe9",
+    "cosmetics": {
+      "EMOTE": "HORROR_CHASE",
+      "HEAD": "LIMINAL_LURKER_HEAD",
+      "FULL_BODY": "LIMINAL_LURKER_BODY"
+    },
+    "settings": {}
+  },
+  {
+    "id": "JESTER_POMNI",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "Circus Jester Bundle",
+    "tier": "LEGENDARY",
+    "discount": 70.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@37b123e0",
+    "cosmetics": {
+      "EMOTE": "TAUNT_DANCE",
+      "HAT": "JESTER_HAT",
+      "EFFECT": "SPARKLE_TRAIL",
+      "FULL_BODY": "JESTER_OUTFIT"
+    },
+    "settings": {
+      "SPARKLE_TRAIL": [
+        {
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "rainbow"
+          }
+        }
+      ],
+      "JESTER_HAT": [
+        {
+          "id": "JESTER_HAT",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "pomni"
+          }
+        }
+      ],
+      "JESTER_OUTFIT": [
+        {
+          "id": "JESTER_OUTFIT",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "pomni"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "BEACHGIRL_JUNE2026",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "Hyperpop Summer Queen",
+    "tier": "EPIC",
+    "discount": 65.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@1e2ed918",
+    "cosmetics": {
+      "HEAD": "SUMMER_CURLS",
+      "PANTS": "BEACH_SKIRT",
+      "EMOTE": "HYPERPOP_DANCE",
+      "EFFECT": "FIREFLIES"
+    },
+    "settings": {
+      "BEACH_SKIRT": [
+        {
+          "id": "BEACH_SKIRT",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "yellow"
+          }
+        }
+      ],
+      "SUMMER_CURLS": [
+        {
+          "id": "SUMMER_CURLS",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "black"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "BEACHBOY_JUNE2026",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "The Vibin\u0027 Dude",
+    "tier": "UNCOMMON",
+    "discount": 65.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@2aac2447",
+    "cosmetics": {
+      "FACE": "SUMMER_SHADES",
+      "TOP": "BOMBER_JACKET",
+      "BACK": "BOOMBOX",
+      "PANTS": "SWIM_SHORTS",
+      "EMOTE": "VIBE_DANCE",
+      "HAT": "BUCKET_HAT",
+      "EFFECT": "DEEP_DARK_DUST"
+    },
+    "settings": {
+      "BOMBER_JACKET": [
+        {
+          "id": "BOMBER_JACKET",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "red"
+          }
+        }
+      ],
+      "SUMMER_SHADES": [
+        {
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "black"
+          }
+        }
+      ],
+      "SWIM_SHORTS": [
+        {
+          "id": "SWIM_SHORTS",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "blue_flames"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "LIMINAL_LURKER_WHITE",
+    "source": "infra-add-bundle",
+    "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",
+    "name": "The Liminal Spirit",
+    "tier": "LEGENDARY",
+    "discount": 65.0,
+    "rotateOnPreview": true,
+    "skin": "gg.essential.cosmetics.model.CosmeticStoreBundleSkin@2e4a9a59",
+    "cosmetics": {
+      "EMOTE": "HORROR_CHASE",
+      "FULL_BODY": "LIMINAL_LURKER_BODY",
+      "HEAD": "LIMINAL_LURKER_HEAD"
+    },
+    "settings": {
+      "LIMINAL_LURKER_HEAD": [
+        {
+          "id": "LIMINAL_LURKER_HEAD",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "white"
+          }
+        }
+      ],
+      "LIMINAL_LURKER_BODY": [
+        {
+          "id": "LIMINAL_LURKER_BODY",
+          "type": "VARIANT",
+          "enabled": true,
+          "data": {
+            "variant": "white"
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "LIMINAL_LURKER",
     "source": "infra-add-bundle",
     "class": "gg.essential.cosmetics.model.CosmeticStoreBundle",

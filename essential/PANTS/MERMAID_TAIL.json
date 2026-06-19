@@ -1,0 +1,63 @@
+{
+  "id": "MERMAID_TAIL",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Mermaid Tail"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_MERMAID",
+    "THEME_BEACH",
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026",
+    "THEME_OCEAN",
+    "THEME_ISLAND"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/71f9716d8918c5ad2e199106663ac38e82413612ed9623fb893ddc90be53c49f",
+      "checksum": "71f9716d8918c5ad2e199106663ac38e82413612ed9623fb893ddc90be53c49f"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/829420a6befffe4ac2ca14069f79e1625a8ec35ae0724e03bf8661e3f00af38d",
+      "checksum": "829420a6befffe4ac2ca14069f79e1625a8ec35ae0724e03bf8661e3f00af38d"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/dcebc8278e9c99b7007df1d42199dd18f9da2917183b4507bf8a2bb2121bd3f8",
+      "checksum": "dcebc8278e9c99b7007df1d42199dd18f9da2917183b4507bf8a2bb2121bd3f8"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0e87a666672112e11185f968b3dab0fb2bb45a531930820566d0a0bde1c40b3f",
+      "checksum": "0e87a666672112e11185f968b3dab0fb2bb45a531930820566d0a0bde1c40b3f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d2ca09ef4d1be828574ff7ba03e867d376b4d9bd598e500d9b32d958647dca66",
+      "checksum": "d2ca09ef4d1be828574ff7ba03e867d376b4d9bd598e500d9b32d958647dca66"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/9239662f89474bd9c3d6e8751a2faab4a0c7bc28de77a2b52b55777ef331cdc7",
+      "checksum": "9239662f89474bd9c3d6e8751a2faab4a0c7bc28de77a2b52b55777ef331cdc7"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/9f494cf53a6ea03628137ffdcbc18f87fc3f54a8abcd091008a13e5305014a47",
+      "checksum": "9f494cf53a6ea03628137ffdcbc18f87fc3f54a8abcd091008a13e5305014a47"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/caf90681e88292de1b1c4a83f7966adf1f5b03e6b789b4a5ca56bd18fb39fc36",
+      "checksum": "caf90681e88292de1b1c4a83f7966adf1f5b03e6b789b4a5ca56bd18fb39fc36"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8ccaf2903b16c4f28e6b31975a55e655b92abe2e74f28495d0cf7781d9b46f15",
+      "checksum": "8ccaf2903b16c4f28e6b31975a55e655b92abe2e74f28495d0cf7781d9b46f15"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SWIM_SHORTS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Swim Shorts"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_POOL",
+    "THEME_BEACH",
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026",
+    "THEME_ISLAND"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/blue_flames/texture.png": {
+      "url": "https://cdn.essential.gg/assets/17476a2f428cd9c7e292d6d8d846efb431f2da00e930e9205012688fd8fb78a0",
+      "checksum": "17476a2f428cd9c7e292d6d8d846efb431f2da00e930e9205012688fd8fb78a0"
+    },
+    "variants/pink_soft/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2bc9d631bf9e2486be43eb8013fbf28e775e92c15ed9a7dfdea0bde890d516ad",
+      "checksum": "2bc9d631bf9e2486be43eb8013fbf28e775e92c15ed9a7dfdea0bde890d516ad"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/223c95e1505cdc4bdcc1888f8e4738c26019794036a8d499d3beee58e7eac1ee",
+      "checksum": "223c95e1505cdc4bdcc1888f8e4738c26019794036a8d499d3beee58e7eac1ee"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/67f95dbfc11f1900525b84951d273d5dd29e0bb6eb300e1eb74965545cca7493",
+      "checksum": "67f95dbfc11f1900525b84951d273d5dd29e0bb6eb300e1eb74965545cca7493"
+    },
+    "variants/blue_white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4803a749bf8a42cf7c0cb9c347ff3d3cdf65e6e8db97c74d436eb70d998ecb50",
+      "checksum": "4803a749bf8a42cf7c0cb9c347ff3d3cdf65e6e8db97c74d436eb70d998ecb50"
+    },
+    "variants/pink_neon/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1848bf220d5c42be546929fac736c873d9566a57e970159dccb4cb38acb745c0",
+      "checksum": "1848bf220d5c42be546929fac736c873d9566a57e970159dccb4cb38acb745c0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ea4bf60056b2d1729a2e3302f1af8469d107a783cac8ff3ce1dce68d729024fc",
+      "checksum": "ea4bf60056b2d1729a2e3302f1af8469d107a783cac8ff3ce1dce68d729024fc"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/499c23f67a80f9d98d7ff683375bea6379c329ad16c19f699d9fa4bbe6daa2ef",
+      "checksum": "499c23f67a80f9d98d7ff683375bea6379c329ad16c19f699d9fa4bbe6daa2ef"
+    }
+  }
+}

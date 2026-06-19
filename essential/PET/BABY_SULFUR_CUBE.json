@@ -1,0 +1,46 @@
+{
+  "id": "BABY_SULFUR_CUBE",
+  "type": "PET",
+  "displayNames": {
+    "en_us": "Baby Sulfur Cube"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JUNE2026",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c75b39e0c8a0871bc6298dae2aa1196fc79483263244845113a668779290d001",
+      "checksum": "c75b39e0c8a0871bc6298dae2aa1196fc79483263244845113a668779290d001"
+    },
+    "particles/splash_mid.particle.json": {
+      "url": "https://cdn.essential.gg/assets/92b37249ef3ce593bc245fecf7517d9880626f26dd40a77ffb14ec42485daf9a",
+      "checksum": "92b37249ef3ce593bc245fecf7517d9880626f26dd40a77ffb14ec42485daf9a"
+    },
+    "particles/splash_small.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d7ac4b90014aeef4e0189921175265ac0c04b9893b8b736dd3c1834ab6317ce3",
+      "checksum": "d7ac4b90014aeef4e0189921175265ac0c04b9893b8b736dd3c1834ab6317ce3"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/35658d0baaaa6168b0503702600654c18df054719af4cbc5e8f4e6f68062da26",
+      "checksum": "35658d0baaaa6168b0503702600654c18df054719af4cbc5e8f4e6f68062da26"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/b6d6d1745740d30c760002844ce9a1cf7ba4d5b0f91e52f42a40e95ae548f2eb",
+      "checksum": "b6d6d1745740d30c760002844ce9a1cf7ba4d5b0f91e52f42a40e95ae548f2eb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/add896389ffafa355d4c7d65a813acd07c46f7f9c73cf2710c74d28176e01566",
+      "checksum": "add896389ffafa355d4c7d65a813acd07c46f7f9c73cf2710c74d28176e01566"
+    }
+  }
+}

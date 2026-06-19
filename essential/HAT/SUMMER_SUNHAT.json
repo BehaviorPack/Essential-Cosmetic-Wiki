@@ -1,0 +1,55 @@
+{
+  "id": "SUMMER_SUNHAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Summer Sunhat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026",
+    "THEME_GARDEN",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3e4127a01e13dd9bff6a569e9c12de47f7c167cce90b21a5d8b1a0f142fa596f",
+      "checksum": "3e4127a01e13dd9bff6a569e9c12de47f7c167cce90b21a5d8b1a0f142fa596f"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c347c253df229182719da7f0a7877a680949279996b553cbe74de96005b5aeed",
+      "checksum": "c347c253df229182719da7f0a7877a680949279996b553cbe74de96005b5aeed"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5964f242e54bace32355e57a7e89167331a8b78f10653aca50e54ce48c2759b4",
+      "checksum": "5964f242e54bace32355e57a7e89167331a8b78f10653aca50e54ce48c2759b4"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f927d85900acbf950285dfbbba9cf28b20e40f19a2c948a48e3744a5b7b6af55",
+      "checksum": "f927d85900acbf950285dfbbba9cf28b20e40f19a2c948a48e3744a5b7b6af55"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0b472762a252aa4a35369fedfb4e634e7b6dc887db61d1bcb694c7916a492af8",
+      "checksum": "0b472762a252aa4a35369fedfb4e634e7b6dc887db61d1bcb694c7916a492af8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/071721c3c7440d61119672d69811f276883f6e0c63b264c7fdbd3e67df5df32a",
+      "checksum": "071721c3c7440d61119672d69811f276883f6e0c63b264c7fdbd3e67df5df32a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/0a88a7266d3d9e30009f71722789392e4486219386604dd9b88d96ea6737ea2c",
+      "checksum": "0a88a7266d3d9e30009f71722789392e4486219386604dd9b88d96ea6737ea2c"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b20d46e62b6731e1a4fd97cfc3816f6587292c525fadf67aa8d79b66801868f4",
+      "checksum": "b20d46e62b6731e1a4fd97cfc3816f6587292c525fadf67aa8d79b66801868f4"
+    }
+  }
+}

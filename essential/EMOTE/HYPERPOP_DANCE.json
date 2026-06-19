@@ -1,0 +1,44 @@
+{
+  "id": "HYPERPOP_DANCE",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Pink Motion"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_GIRLYPOP",
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026",
+    "THEME_Y2K"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/fbcb38c36e62b8d31ac8bbb97885bfcb8062b948748083231e2658a1e7f7107f",
+      "checksum": "fbcb38c36e62b8d31ac8bbb97885bfcb8062b948748083231e2658a1e7f7107f"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/58146d5c6312137988e36ee820cf4a328ae20c809428a646fe270327ddd79238",
+      "checksum": "58146d5c6312137988e36ee820cf4a328ae20c809428a646fe270327ddd79238"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/078ce436d238b30243ba410adc779fa5b0d63461f3cce238d81ad10a9ee7178f",
+      "checksum": "078ce436d238b30243ba410adc779fa5b0d63461f3cce238d81ad10a9ee7178f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4198c932f6e310d05541de66d1309cec5de63c1c303301d66f4579e7e73140c7",
+      "checksum": "4198c932f6e310d05541de66d1309cec5de63c1c303301d66f4579e7e73140c7"
+    },
+    "sounds/em_hyperpop_dance.ogg": {
+      "url": "https://cdn.essential.gg/assets/c4abd536a824ee024484e4d18d5eb0283f8b108a209b64da01312c3627e62730",
+      "checksum": "c4abd536a824ee024484e4d18d5eb0283f8b108a209b64da01312c3627e62730"
+    }
+  }
+}

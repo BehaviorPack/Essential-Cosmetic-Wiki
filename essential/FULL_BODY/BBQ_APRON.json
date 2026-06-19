@@ -1,0 +1,62 @@
+{
+  "id": "BBQ_APRON",
+  "type": "FULL_BODY",
+  "displayNames": {
+    "en_us": "BBQ Apron"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/963c63b8a50b4e28b5cf7e4d0cee444ead2a7817c12d3f1f51068c9b24430511",
+      "checksum": "963c63b8a50b4e28b5cf7e4d0cee444ead2a7817c12d3f1f51068c9b24430511"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ee675f88b7bea5b2324c253825773a5d24142a92aad949352edcb3f74d3956f9",
+      "checksum": "ee675f88b7bea5b2324c253825773a5d24142a92aad949352edcb3f74d3956f9"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/633d933f617f319fc1972741bd7b675aac89d0527a6dc4f869696b856c510251",
+      "checksum": "633d933f617f319fc1972741bd7b675aac89d0527a6dc4f869696b856c510251"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/1cc9c72722110b8685fe25938e9ba35057bc1084449d3f5bc196424eb1797020",
+      "checksum": "1cc9c72722110b8685fe25938e9ba35057bc1084449d3f5bc196424eb1797020"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/39cae13b2719bf605e7abb22adc453b7fdcc5ec578a197abd1629f5655d279b5",
+      "checksum": "39cae13b2719bf605e7abb22adc453b7fdcc5ec578a197abd1629f5655d279b5"
+    },
+    "variants/denim/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f597cf8c5af42e40fcf45565dc71ca87a4b663044829d67cf06c67db20009246",
+      "checksum": "f597cf8c5af42e40fcf45565dc71ca87a4b663044829d67cf06c67db20009246"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8b07cef795512e252f404f2b85c9bfb9c3958b365e14a7332f6710d2fa30b3e6",
+      "checksum": "8b07cef795512e252f404f2b85c9bfb9c3958b365e14a7332f6710d2fa30b3e6"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d9c0305b7688e49a1a35f0c4eb378ceb6bae674a9542dcf1b9fa04ea1752c371",
+      "checksum": "d9c0305b7688e49a1a35f0c4eb378ceb6bae674a9542dcf1b9fa04ea1752c371"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/633d933f617f319fc1972741bd7b675aac89d0527a6dc4f869696b856c510251",
+      "checksum": "633d933f617f319fc1972741bd7b675aac89d0527a6dc4f869696b856c510251"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/1cc9c72722110b8685fe25938e9ba35057bc1084449d3f5bc196424eb1797020",
+      "checksum": "1cc9c72722110b8685fe25938e9ba35057bc1084449d3f5bc196424eb1797020"
+    }
+  }
+}

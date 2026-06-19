@@ -1,0 +1,57 @@
+{
+  "id": "SUN_VISOR",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Sun Visor"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_POOL",
+    "THEME_BEACH",
+    "THEME_SUMMER",
+    "COLLECTION_JUNE2026",
+    "THEME_RESORT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bfce466cd75c4710f88722f4b6479feb2e0492ca5ecfed91d6f25c1b1ac54486",
+      "checksum": "bfce466cd75c4710f88722f4b6479feb2e0492ca5ecfed91d6f25c1b1ac54486"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2fbf39e07aa27b9ebe04d922203e0a6d4f826aed504e158a26f91f4d7b7f7868",
+      "checksum": "2fbf39e07aa27b9ebe04d922203e0a6d4f826aed504e158a26f91f4d7b7f7868"
+    },
+    "variants/dark_straw/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e057fa1932730df248334c102a773b1ff98bccd8146f1dea8f70ce8f267cbe3e",
+      "checksum": "e057fa1932730df248334c102a773b1ff98bccd8146f1dea8f70ce8f267cbe3e"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/721fc13f1e0abdcdd1a158ecf484452cf9677a49a033003bcfdc800528ab7f68",
+      "checksum": "721fc13f1e0abdcdd1a158ecf484452cf9677a49a033003bcfdc800528ab7f68"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7b855f578827101f9d4c88401c468eca0d5828ee22615877f638b1525a9e9809",
+      "checksum": "7b855f578827101f9d4c88401c468eca0d5828ee22615877f638b1525a9e9809"
+    },
+    "variants/light_straw/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1059297b910d101f1b16e44add638f2d50661db1b97bc413db08118ce922ef35",
+      "checksum": "1059297b910d101f1b16e44add638f2d50661db1b97bc413db08118ce922ef35"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/557dd972ec6b87bacd841ec40767c5fc6b52d411ad64a1afa65d87d42d150983",
+      "checksum": "557dd972ec6b87bacd841ec40767c5fc6b52d411ad64a1afa65d87d42d150983"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/473e5a83dcb4619e63edd61fd907e910914d36258d81d93c8fde775bd7f16300",
+      "checksum": "473e5a83dcb4619e63edd61fd907e910914d36258d81d93c8fde775bd7f16300"
+    }
+  }
+}

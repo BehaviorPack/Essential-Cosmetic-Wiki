@@ -1,0 +1,54 @@
+{
+  "id": "BEACH_UMBRELLA",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Beach Umbrella"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY",
+    "THEME_BEACH",
+    "THEME_SUMMER",
+    "THEME_RESORT",
+    "COLLECTION_JUNE2026",
+    "THEME_ISLAND"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red_white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4c95559b4800315a1a9f8b8b427cd2df084a8bf134dc5d5c698e3b91e6173755",
+      "checksum": "4c95559b4800315a1a9f8b8b427cd2df084a8bf134dc5d5c698e3b91e6173755"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/65c1a70d667c2369833cca073b4fcfa356f0633e31970a0c783c5b4c17c4eb03",
+      "checksum": "65c1a70d667c2369833cca073b4fcfa356f0633e31970a0c783c5b4c17c4eb03"
+    },
+    "variants/orange_white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6895895afa5113a949ae8f686fcdf152a85fc85218f2eaba00f29d4542b7fc0b",
+      "checksum": "6895895afa5113a949ae8f686fcdf152a85fc85218f2eaba00f29d4542b7fc0b"
+    },
+    "variants/rainbow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9c6be9435ee41517423285dc2b7b715142215d2cc1aaba218fd755c0f348eda1",
+      "checksum": "9c6be9435ee41517423285dc2b7b715142215d2cc1aaba218fd755c0f348eda1"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fe851ceb477b07154d0b894c25a2f656e7e577f93f7c8564e7a0b569f6a7e7e4",
+      "checksum": "fe851ceb477b07154d0b894c25a2f656e7e577f93f7c8564e7a0b569f6a7e7e4"
+    },
+    "variants/blue_white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/90b8a316d6e1357f1fc5f6ae20bf053ab7b3dfff1da14400929c81cb192dff47",
+      "checksum": "90b8a316d6e1357f1fc5f6ae20bf053ab7b3dfff1da14400929c81cb192dff47"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4d6018c0e960ec50473e2e95b79ff40c55e38237a11b738279d6c161023b1d74",
+      "checksum": "4d6018c0e960ec50473e2e95b79ff40c55e38237a11b738279d6c161023b1d74"
+    }
+  }
+}
