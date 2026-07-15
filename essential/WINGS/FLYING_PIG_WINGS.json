@@ -1,0 +1,38 @@
+{
+  "id": "FLYING_PIG_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Flying Pig Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JULY2026",
+    "THEME_AETHER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/11301988bf859f35cf19f085ee57b4272c13c9cce61f3048e7fbe0c2918f71d6",
+      "checksum": "11301988bf859f35cf19f085ee57b4272c13c9cce61f3048e7fbe0c2918f71d6"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c52682420793ae9524312c8a4bd8e960ebb13d641c18b4429bbf48d00246e7c8",
+      "checksum": "c52682420793ae9524312c8a4bd8e960ebb13d641c18b4429bbf48d00246e7c8"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/f8972eddad1b3e692435f175efb9dc3ffb23731b9b21506727bc14a5b0b4708b",
+      "checksum": "f8972eddad1b3e692435f175efb9dc3ffb23731b9b21506727bc14a5b0b4708b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/651bc0a28814c69b2949f83fc6b77c36fe21d4f7ad6c3b59cbb035920b7c427e",
+      "checksum": "651bc0a28814c69b2949f83fc6b77c36fe21d4f7ad6c3b59cbb035920b7c427e"
+    }
+  }
+}

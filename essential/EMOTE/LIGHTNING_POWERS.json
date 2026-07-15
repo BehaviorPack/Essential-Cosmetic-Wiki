@@ -1,0 +1,71 @@
+{
+  "id": "LIGHTNING_POWERS",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Lightning Powers"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JULY2025",
+    "THEME_SCIFI"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "sounds/lightning_powers_loop4.ogg": {
+      "url": "https://cdn.essential.gg/assets/3a7d73b4b5d84f8cd6711f4b0a3c41bd4bfb4bd9daf5cd02f71cee008a926d87",
+      "checksum": "3a7d73b4b5d84f8cd6711f4b0a3c41bd4bfb4bd9daf5cd02f71cee008a926d87"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/aa37e2c32ac4661c67676677d9a3e3e4291d72660e53ff54667150a48f740783",
+      "checksum": "aa37e2c32ac4661c67676677d9a3e3e4291d72660e53ff54667150a48f740783"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/edd1e51cfe2b23774fc749123f5462b83fa0e4bf7c75aae1f21f10f9c1c50e46",
+      "checksum": "edd1e51cfe2b23774fc749123f5462b83fa0e4bf7c75aae1f21f10f9c1c50e46"
+    },
+    "sounds/lightning_powers_first.ogg": {
+      "url": "https://cdn.essential.gg/assets/4903784b6c1bc77d63c0ae6a9fea6d49ccd712e1d00012e4ba2f93f4a63ef867",
+      "checksum": "4903784b6c1bc77d63c0ae6a9fea6d49ccd712e1d00012e4ba2f93f4a63ef867"
+    },
+    "particles/sparks.particle.json": {
+      "url": "https://cdn.essential.gg/assets/4fb77648cfb6e9e431224820df89a15053304d33558d5b519435d92a3fb77d2c",
+      "checksum": "4fb77648cfb6e9e431224820df89a15053304d33558d5b519435d92a3fb77d2c"
+    },
+    "sounds/lightning_powers_loop1.ogg": {
+      "url": "https://cdn.essential.gg/assets/a5e7c38daa62c78783d48a7755b6e1429fc10095f279249bb8fe7fd250f6fa2e",
+      "checksum": "a5e7c38daa62c78783d48a7755b6e1429fc10095f279249bb8fe7fd250f6fa2e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c05691dbe81f32c2cb17994cbdfcf1f74ca4f68cfa5a5011a7fb0bfa09e50e9e",
+      "checksum": "c05691dbe81f32c2cb17994cbdfcf1f74ca4f68cfa5a5011a7fb0bfa09e50e9e"
+    },
+    "particles/lightning_powers.particle.json": {
+      "url": "https://cdn.essential.gg/assets/da205f20fa02b6d5fc01853c0717c781a9d5515afab3cec092c19848bf2bd69c",
+      "checksum": "da205f20fa02b6d5fc01853c0717c781a9d5515afab3cec092c19848bf2bd69c"
+    },
+    "sounds/lightning_powers_loop2.ogg": {
+      "url": "https://cdn.essential.gg/assets/576212b91efc2114f583bc8da390c0ae3f1db5d6fefac7c099925bf3c96c17bc",
+      "checksum": "576212b91efc2114f583bc8da390c0ae3f1db5d6fefac7c099925bf3c96c17bc"
+    },
+    "sounds/lightning_powers_loop3.ogg": {
+      "url": "https://cdn.essential.gg/assets/643d2a216cb14b021a7af02d30354f879bfa3a308c57eb5c30fa71efd9e561c4",
+      "checksum": "643d2a216cb14b021a7af02d30354f879bfa3a308c57eb5c30fa71efd9e561c4"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/b40aab7bd1c8f973d39a9cc6ef97d11aef1e7683c43344a3bbd659b4d567fdcf",
+      "checksum": "b40aab7bd1c8f973d39a9cc6ef97d11aef1e7683c43344a3bbd659b4d567fdcf"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/9cca511b48ad07ddfe9f6027f1492ce918bba66dda9e63f3943fe26e3b610327",
+      "checksum": "9cca511b48ad07ddfe9f6027f1492ce918bba66dda9e63f3943fe26e3b610327"
+    }
+  }
+}

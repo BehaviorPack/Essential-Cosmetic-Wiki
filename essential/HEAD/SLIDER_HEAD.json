@@ -1,0 +1,42 @@
+{
+  "id": "SLIDER_HEAD",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Slider Head"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JULY2026",
+    "THEME_AETHER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f871044c777a9c88315aaed6d216143107a6d8e3c55961c5f4bdd1f9bf621189",
+      "checksum": "f871044c777a9c88315aaed6d216143107a6d8e3c55961c5f4bdd1f9bf621189"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1fdacf2d1763ee58cdb16bf0b0212ada0401e87c6b079554a410dc2d7dcc1822",
+      "checksum": "1fdacf2d1763ee58cdb16bf0b0212ada0401e87c6b079554a410dc2d7dcc1822"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/8ff75dc43b29f772f5cd23106b417c0089bae956484400b7754e7f14cd55d66c",
+      "checksum": "8ff75dc43b29f772f5cd23106b417c0089bae956484400b7754e7f14cd55d66c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2ce149d7214b2c54095859f5d7db94a74561ae7897ca09506709be6a787abd54",
+      "checksum": "2ce149d7214b2c54095859f5d7db94a74561ae7897ca09506709be6a787abd54"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

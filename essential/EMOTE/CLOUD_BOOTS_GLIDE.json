@@ -1,0 +1,74 @@
+{
+  "id": "CLOUD_BOOTS_GLIDE",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Cloud Boots Run"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JULY2026",
+    "THEME_AETHER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/e83f139396a13bde8b0cff5704538f4bffab7fa0fb5a3cc376638d78ccd99828",
+      "checksum": "e83f139396a13bde8b0cff5704538f4bffab7fa0fb5a3cc376638d78ccd99828"
+    },
+    "sounds/em_cloud_boots_glide_start.ogg": {
+      "url": "https://cdn.essential.gg/assets/1fda72ba0392dcc3f7557a7a677a21de7c7be2a737cc9c010bd79d3ea563cb80",
+      "checksum": "1fda72ba0392dcc3f7557a7a677a21de7c7be2a737cc9c010bd79d3ea563cb80"
+    },
+    "sounds/em_cloud_boots_glide_loop3.ogg": {
+      "url": "https://cdn.essential.gg/assets/634983b4d78787b3e50236969fb652e54bdb214efe36abbcd64076c38f6bd585",
+      "checksum": "634983b4d78787b3e50236969fb652e54bdb214efe36abbcd64076c38f6bd585"
+    },
+    "sounds/em_cloud_boots_glide_loop1.ogg": {
+      "url": "https://cdn.essential.gg/assets/e97090ec7b95b8ac14cb119b31d17c80cef2b62cf6360fddae1eb1971dd98253",
+      "checksum": "e97090ec7b95b8ac14cb119b31d17c80cef2b62cf6360fddae1eb1971dd98253"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/a8e4f89f38ab249537a16baa5dd35a5d2b63ddd946693ce9bffdd3b6fb957416",
+      "checksum": "a8e4f89f38ab249537a16baa5dd35a5d2b63ddd946693ce9bffdd3b6fb957416"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ffede9fc7b83d80173f575c596d9c7f0346fad44be32af04228c1d652aaa0a2d",
+      "checksum": "ffede9fc7b83d80173f575c596d9c7f0346fad44be32af04228c1d652aaa0a2d"
+    },
+    "particles/wind.particle.json": {
+      "url": "https://cdn.essential.gg/assets/f8e0784c933c10dd4acd7226c4a3bef0b804fdabc597631a567e1fd732de0afe",
+      "checksum": "f8e0784c933c10dd4acd7226c4a3bef0b804fdabc597631a567e1fd732de0afe"
+    },
+    "particles/trail_cloud.particle.json": {
+      "url": "https://cdn.essential.gg/assets/9914280614b328ac716e41deaacb4d6f1a3dd2051c69792d5df250b0384de2b2",
+      "checksum": "9914280614b328ac716e41deaacb4d6f1a3dd2051c69792d5df250b0384de2b2"
+    },
+    "sounds/em_cloud_boots_glide_loop4.ogg": {
+      "url": "https://cdn.essential.gg/assets/66c0d3585ec8c528fa970b77a199fe81c5a7ed60e694a5ab5a21ff808701f228",
+      "checksum": "66c0d3585ec8c528fa970b77a199fe81c5a7ed60e694a5ab5a21ff808701f228"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/087829179325e43d961e5a2c169486fd4d504ac740e6ab7b4aa2bbf2db4c8050",
+      "checksum": "087829179325e43d961e5a2c169486fd4d504ac740e6ab7b4aa2bbf2db4c8050"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6a96ec82b046104d6f6246cf8e3de02b825c007a83beb77c4552a41464643b4c",
+      "checksum": "6a96ec82b046104d6f6246cf8e3de02b825c007a83beb77c4552a41464643b4c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/304406ac1d71efff72d347d267c940710bfb90113abac2ff396ed7be705790a3",
+      "checksum": "304406ac1d71efff72d347d267c940710bfb90113abac2ff396ed7be705790a3"
+    },
+    "sounds/em_cloud_boots_glide_loop2.ogg": {
+      "url": "https://cdn.essential.gg/assets/a5eda173ac4b4f7779194df7ac0394eca4ff0de1c459afdd99f1796619158a87",
+      "checksum": "a5eda173ac4b4f7779194df7ac0394eca4ff0de1c459afdd99f1796619158a87"
+    }
+  }
+}

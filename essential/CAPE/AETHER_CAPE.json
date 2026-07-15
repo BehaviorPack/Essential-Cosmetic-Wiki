@@ -1,0 +1,46 @@
+{
+  "id": "AETHER_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Aether Legends Cape"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JULY2026",
+    "THEME_AETHER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/borderless/texture.png": {
+      "url": "https://cdn.essential.gg/assets/db7e5c69c829fedaa5035fe345f3828961cf64bfbd5949af3c123087c202a6f4",
+      "checksum": "db7e5c69c829fedaa5035fe345f3828961cf64bfbd5949af3c123087c202a6f4"
+    },
+    "variants/border/texture.png": {
+      "url": "https://cdn.essential.gg/assets/39e894b015e487e137d4de97728843d5af386bed526a68f45a6667106313205e",
+      "checksum": "39e894b015e487e137d4de97728843d5af386bed526a68f45a6667106313205e"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c89f78bb45bb72610c907cacffdd661e33ed8f735eefac7a87966dbc041a1652",
+      "checksum": "c89f78bb45bb72610c907cacffdd661e33ed8f735eefac7a87966dbc041a1652"
+    },
+    "variants/borderless/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1998157312d3409ec17bbefa641495617ba739345ca6ab84c74c5d3e2fe06f91",
+      "checksum": "1998157312d3409ec17bbefa641495617ba739345ca6ab84c74c5d3e2fe06f91"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/692ee86478f3c4f4c5535d5c9549145fd3c8cdc5f1312687161aac473f0da0f8",
+      "checksum": "692ee86478f3c4f4c5535d5c9549145fd3c8cdc5f1312687161aac473f0da0f8"
+    },
+    "variants/border/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/e7e6c93298d949e312fa927069ec0dce71c9601266e02dd70dc43dfda5741c0b",
+      "checksum": "e7e6c93298d949e312fa927069ec0dce71c9601266e02dd70dc43dfda5741c0b"
+    }
+  }
+}

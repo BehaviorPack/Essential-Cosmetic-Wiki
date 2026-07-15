@@ -1,0 +1,42 @@
+{
+  "id": "CLOUD_BOOTS",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Cloud Boots"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JULY2026",
+    "THEME_AETHER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 40,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/428481f34c31199a9831ef662528f62f8679027fae3c96f24c702d77a7275702",
+      "checksum": "428481f34c31199a9831ef662528f62f8679027fae3c96f24c702d77a7275702"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4c0a497d1f835e49be779283af05ad47a0300f070082569e2349603c1d62acee",
+      "checksum": "4c0a497d1f835e49be779283af05ad47a0300f070082569e2349603c1d62acee"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/0c9560ab4ea7cab525f3f99c1879ba29ed99625dedef4c1f23b3a0ae036b58a0",
+      "checksum": "0c9560ab4ea7cab525f3f99c1879ba29ed99625dedef4c1f23b3a0ae036b58a0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e09e1fa02bf53cd474deb45e507c9c0847deae709eab4b67afcf5eb1e8ac194e",
+      "checksum": "e09e1fa02bf53cd474deb45e507c9c0847deae709eab4b67afcf5eb1e8ac194e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/a24b53acc154a5ce92a4549d47ddf1066c97fb15f4a69333908594b19363f983",
+      "checksum": "a24b53acc154a5ce92a4549d47ddf1066c97fb15f4a69333908594b19363f983"
+    }
+  }
+}

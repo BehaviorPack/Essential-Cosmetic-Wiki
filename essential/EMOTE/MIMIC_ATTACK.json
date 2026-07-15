@@ -1,0 +1,46 @@
+{
+  "id": "MIMIC_ATTACK",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Mimic Attack!"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JULY2026",
+    "THEME_AETHER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/a9bc96624b2487c689f6a3b254e95bb57b26749575622333d43d658ef469c2ca",
+      "checksum": "a9bc96624b2487c689f6a3b254e95bb57b26749575622333d43d658ef469c2ca"
+    },
+    "sounds/em_mimic_attack.ogg": {
+      "url": "https://cdn.essential.gg/assets/df6bd0827d553bad7ed6c07c0400c09756ea499f1b8cea286f4a3fa42ee00f1b",
+      "checksum": "df6bd0827d553bad7ed6c07c0400c09756ea499f1b8cea286f4a3fa42ee00f1b"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f835852e5d65fec9b53542eac92a0d2e788914229d6ed27183594885583c13bf",
+      "checksum": "f835852e5d65fec9b53542eac92a0d2e788914229d6ed27183594885583c13bf"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f313848308edab7426acbfdef5dc8e2df8814f2eac6361cd043aadcc736aa614",
+      "checksum": "f313848308edab7426acbfdef5dc8e2df8814f2eac6361cd043aadcc736aa614"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/bfa5c7937d39cb5f457069ca6511ef359b53ffecc3d78fe1bbaab4fff3b3f70b",
+      "checksum": "bfa5c7937d39cb5f457069ca6511ef359b53ffecc3d78fe1bbaab4fff3b3f70b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/126388ee021046f1f9c83fba5649d6a98a754e4e0ce48dd5103ff7b14ac3c505",
+      "checksum": "126388ee021046f1f9c83fba5649d6a98a754e4e0ce48dd5103ff7b14ac3c505"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "KICK_UPS",
+  "type": "EMOTE",
+  "displayNames": {
+    "en_us": "Kick Ups"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JUNE2026",
+    "THEME_SPORTS"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/9e8a1edb401586dcaea7c1215dc892e27f1f0be5df698def29e453123a3f5d21",
+      "checksum": "9e8a1edb401586dcaea7c1215dc892e27f1f0be5df698def29e453123a3f5d21"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/199d123d54df9af1b84053fb9feec8505209b4b493ebda45135d745ec1f35f5b",
+      "checksum": "199d123d54df9af1b84053fb9feec8505209b4b493ebda45135d745ec1f35f5b"
+    },
+    "sounds/em_kick_ups_pre.ogg": {
+      "url": "https://cdn.essential.gg/assets/970c8ebde21baa465e97765642ddc4656743a7d41b27dae9d6d6b8d47d53e2e7",
+      "checksum": "970c8ebde21baa465e97765642ddc4656743a7d41b27dae9d6d6b8d47d53e2e7"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b642a74703bf947e7b08d6e161b7907f6e129eefafa99a7df94712656d209e34",
+      "checksum": "b642a74703bf947e7b08d6e161b7907f6e129eefafa99a7df94712656d209e34"
+    },
+    "sounds/em_kick_ups_loop.ogg": {
+      "url": "https://cdn.essential.gg/assets/83d9002e1918ecd6042ab8b4297747f1d1a0599f7b376e188862637aabdba5f1",
+      "checksum": "83d9002e1918ecd6042ab8b4297747f1d1a0599f7b376e188862637aabdba5f1"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d66a763f339f566499639f6535eef15f048389f32cfe0149f4e2cb788bc733aa",
+      "checksum": "d66a763f339f566499639f6535eef15f048389f32cfe0149f4e2cb788bc733aa"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/20de03cf4789ef65282d970a69731c2cc93e886761f83dc24fa06553bd01694f",
+      "checksum": "20de03cf4789ef65282d970a69731c2cc93e886761f83dc24fa06553bd01694f"
+    }
+  }
+}

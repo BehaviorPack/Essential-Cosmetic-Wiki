@@ -1,0 +1,68 @@
+{
+  "id": "VALKYRIE_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Valkyrie Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_AETHER",
+    "COLLECTION_JULY2026",
+    "THEME_ANGEL",
+    "THEME_GOLDEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/soul_aether_blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/93f38e3ace6f6e48d086ec7a7b9f5cc128a6cf1e3a180c315bb7bb5373972b1a",
+      "checksum": "93f38e3ace6f6e48d086ec7a7b9f5cc128a6cf1e3a180c315bb7bb5373972b1a"
+    },
+    "variants/gold/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/6aedac91a88a90e2252c01a5b40ecbd385c8d397afb04965f4adc5d4325bf901",
+      "checksum": "6aedac91a88a90e2252c01a5b40ecbd385c8d397afb04965f4adc5d4325bf901"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/13bd6889e9c3266a73c5a5ec10f3d94d5880ae39738274b2e911470e01872e15",
+      "checksum": "13bd6889e9c3266a73c5a5ec10f3d94d5880ae39738274b2e911470e01872e15"
+    },
+    "variants/silver/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/fb159d704679b3a0d64720b24424b92f9a371b78057e600069b4fb68a6c4c05a",
+      "checksum": "fb159d704679b3a0d64720b24424b92f9a371b78057e600069b4fb68a6c4c05a"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/c1399d095dd00683f4ffbb287891125a77cfeaa45a218b07a31ca946b1d43b94",
+      "checksum": "c1399d095dd00683f4ffbb287891125a77cfeaa45a218b07a31ca946b1d43b94"
+    },
+    "variants/soul_aether_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a1978048c4ce0b4a3366443f35cc14814994fba82956ed24237b207230f897c0",
+      "checksum": "a1978048c4ce0b4a3366443f35cc14814994fba82956ed24237b207230f897c0"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1055734363993dc282894885f83a13f9ad0df48fbbc747e7a33bab2e07ac854b",
+      "checksum": "1055734363993dc282894885f83a13f9ad0df48fbbc747e7a33bab2e07ac854b"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c55bb4693c356dfdaf2c15a04509fd71bb8564d24b144f5f639c63dbd298725a",
+      "checksum": "c55bb4693c356dfdaf2c15a04509fd71bb8564d24b144f5f639c63dbd298725a"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2550be64dafedc5f249e1439076d8d390fbe667ddb42572cc863146d6d869d0b",
+      "checksum": "2550be64dafedc5f249e1439076d8d390fbe667ddb42572cc863146d6d869d0b"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/844be4a9462628f7a816483bd5c152c882db9fbc4d9a73308123f89ac1d3280f",
+      "checksum": "844be4a9462628f7a816483bd5c152c882db9fbc4d9a73308123f89ac1d3280f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/34e868171d13216d3393dc305b64162592168b7d6635cdc347d0d3faae9e1a65",
+      "checksum": "34e868171d13216d3393dc305b64162592168b7d6635cdc347d0d3faae9e1a65"
+    }
+  }
+}

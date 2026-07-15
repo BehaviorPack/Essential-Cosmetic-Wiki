@@ -1,0 +1,38 @@
+{
+  "id": "WIND",
+  "type": "EFFECT",
+  "displayNames": {
+    "en_us": "Gentle Winds"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JULY2026",
+    "THEME_AETHER"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/wind.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d1f05e90398edd4b2561d6a9d55cec021cccb914e24f63f602c46f6ebe14dae5",
+      "checksum": "d1f05e90398edd4b2561d6a9d55cec021cccb914e24f63f602c46f6ebe14dae5"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4aaec603f7c199a346b017912ef66c785ac541820afe0e80309df9da62bcb1e2",
+      "checksum": "4aaec603f7c199a346b017912ef66c785ac541820afe0e80309df9da62bcb1e2"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e13d3427bdf3a411b54c59d85ce7ecc00d73cd17c5d0ff2b194e32459641b446",
+      "checksum": "e13d3427bdf3a411b54c59d85ce7ecc00d73cd17c5d0ff2b194e32459641b446"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7b961b8b72f75e5ee0ff9dddcd33ede8d209baf15502ff1591fdf00f31f01975",
+      "checksum": "7b961b8b72f75e5ee0ff9dddcd33ede8d209baf15502ff1591fdf00f31f01975"
+    }
+  }
+}
